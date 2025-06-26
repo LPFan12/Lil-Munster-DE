@@ -38,7 +38,7 @@
 * = $1F7F3D
 .logical mapped($1F7F3D)
 
-	.crossbank.start *, "intro_crawl/IntroTilemap1.bin.fe4"
+	.crossbank.start "intro_crawl/IntroTilemap1.bin.fe4"
 
 .here
 
@@ -80,7 +80,7 @@
 * = $3CE117
 .logical mapped($3CE117)
 
-	.crossbank.start *, "WorldMap.4bpp.fe4"
+	.crossbank.start "WorldMap.4bpp.fe4"
 
 .here
 
@@ -124,21 +124,6 @@
 .word	$739C
 
 .here
-
-* = $456BA0
-.logical lorom($456BA0,1)
-
-statlabels .binary "InventoryBrownBars.4bpp.fe4"
-
-InventoryBrownBars  .binary "InventoryBrownBarsTilemap1.bin.fe4"
-InventoryBrownBars2 .binary "InventoryBrownBarsTilemap2.bin.fe4"
-
-BattleStats 		.binary "BattleStats.4bpp.fe4"
-BattleStatsLevel 	.binary "BattleStatsLevel.4bpp"
-BattleStatsLevelIncluded 	.binary "BattleStatsLevelIncluded.4bpp.fe4"
-
-.here
-
 
 ; Trade brown bars
 * = $0F70AC
@@ -468,7 +453,7 @@ nintendo_logo
 * = $1E79BF
 .logical mapped($1E79BF)
 
-	.crossbank.start *, "intro_crawl/IntroPicture6.4bpp.fe4"
+	.crossbank.start "intro_crawl/IntroPicture6.4bpp.fe4"
 
 .here
 
