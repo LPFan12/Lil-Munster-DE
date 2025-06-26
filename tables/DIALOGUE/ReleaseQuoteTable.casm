@@ -1,13 +1,13 @@
 	GalzusChapter5ReleaseQuote							= 0
 		GalzusChapter5ReleaseQuoteCharacter				= Galzus
 		GalzusChapter5ReleaseQuoteChapter				= Chapter05
-		GalzusChapter5ReleaseQuoteFlag					= FlagGalzusDead
+		GalzusChapter5ReleaseQuoteFlag					= None
 		GalzusChapter5ReleaseQuoteDialoguePointer		= dialogueGalzusReleaseQuote
 
 	GalzusChapter6ReleaseQuote							= 1
 		GalzusChapter6ReleaseQuoteCharacter				= Galzus
 		GalzusChapter6ReleaseQuoteChapter				= Chapter06
-		GalzusChapter6ReleaseQuoteFlag					= FlagGalzusDead
+		GalzusChapter6ReleaseQuoteFlag					= None
 		GalzusChapter6ReleaseQuoteDialoguePointer		= dialogueGalzusReleaseQuote
 
 	BaldachChapter13ReleaseQuote						= 2
