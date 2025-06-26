@@ -115,11 +115,11 @@ dialogueChapter13GladeFinn
 .byte NewLine
 .text "you've been no slouch, yourself—"
 .byte WaitForA
-.text "you have"
+.text "you have both saved Duke Dorius"
 .byte NewLine
-.text "helped Duke Dorius raise the next generation"
+.text "and raised the next generation of the"
 .byte NewLine
-.text "of the Lanzenritter, and kept their name alive."
+.text "Lanzenritter, keeping their name alive."
 .byte WaitForA
 .byte ScrollText
 .text "Were it not for their aid, I fear Lord Leif"

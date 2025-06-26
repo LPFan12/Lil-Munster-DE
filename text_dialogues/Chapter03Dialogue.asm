@@ -1,25 +1,25 @@
 dialogueChapter03WorldMap1
 
-.text "Ridding Iz of the pirates besetting it,"
+.text "Iz von den Piraten befreiend, die es heimsuchten,"
 .word LoadPortraitalt_1
 .long LoadPortraitalt_2 
 .word $0101 ;leify-left
 .word $0A17 ;y then x
 .byte NewLine
-.text "Leif hurriedly resumed his course to Munster."
+.text "kehrte Leif mit Eile auf deinen Kurs nach Munster zurück."
 .byte WaitForA
 .byte ScrollText
 .byte EndText
 
 dialogueChapter03WorldMap2
 
-.text "It was not long until he arrived"
+.text "Es war nicht lange, bis er bei"
 .byte NewLine
-.text "at Kerberos' Gate, "
+.text "Cerberus Tor,"
 .byte WaitForA
-.text "a small fortress that guarded"
+.text "einer kleinen Festung, welche den Eingang"
 .byte NewLine
-.text "the entrance to the province of Munster..."
+.text "zur Provinz von Munster bewachte, ankam..."
 .byte WaitForA
 .byte EndText
 
@@ -34,83 +34,83 @@ dialogueChapter03Opening1
 .word raydrik_portrait
 .byte $09 ; font 9(always use font 9)
 
-.text "Are the cattle being collected on schedule,"
+.text "Wird das Viehzeug planmäßig eingesammelt,"
 .byte NewLine
 .text "Lobos?"
 .byte WaitForA
 
 .byte Right_slot
-.text "Ah, Baron Raydrik. We've rounded up all the"
+.text "Ah, Baron Raydrik. Wir haben all die Gören im"
 .byte NewLine
-.text "brats in the area, rest assured. For the time"
+.text "Areal zusammengetrieben, seid Euch dessen sicher."
 .byte NewLine
-.text "being, I've locked them inside the fort's prison."
+.text "Fürs Erste, habe ich sie im Gefängnis der Festung eingesperrt."
 .byte WaitForA
 .byte ScrollText
-.text "What do you want done with them, milord?"
+.text "Was wollt Ihr, was mit ihnen gemacht wird, Milord?"
 .byte WaitForA
 
 .byte Left_slot
 .byte ScrollText
-.text "Hmm. Best keep them there"
+.text "Hmm. Behaltet sie am Besten dort, bis die"
 .byte NewLine
-.text "until the Loptr Church arrives to claim them."
+.text "Loptous-Kirche ankommt, um sie sich zu holen."
 .byte WaitForA
 .byte ScrollText
-.text "The Magi may well try to free the little worms—"
+.text "Die Magi mögen sehr wahrscheinlich versuchen, die kleinen Würmer zu befreien—"
 .byte NewLine 
-.text "see that your men are prepared"
+.text "stellt sicher, dass Eure Männer für einen"
 .byte NewLine
-.text "for an incursion."
+.text "Einfall vorbereitet sind."
 .byte WaitForA
 
 .byte Right_slot
 .byte ScrollText
-.text "Magi? As in those rebels from Munster?"
+.text "Magi? Diese Rebellen von Munster?"
 .byte NewLine
-.text "They're still alive?"
+.text "Sie sind immernoch am Leben?"
 .byte WaitForA
 
 .byte Left_slot
 .byte ScrollText
-.text "To my great chagrin, yes."
+.text "Zu meinem Kummer, ja."
 .byte NewLine
-.text "I thought they'd been wiped out,"
+.text "Ich dachte, dass sie ausgelöscht wurden,"
 .byte NewLine
-.text "but they've resurfaced recently."
+.text "aber sie sind neulich wieder aufgetaucht."
 .byte WaitForA
 .byte ScrollText
-.text "The little swarm of flies seems to have"
+.text "Der kleine Fliegenschwarm scheint einen"
 .byte NewLine
-.text "a new man in charge..."
+.text "neuen Anführer zu haben..."
 .byte WaitForA
 
 .byte Right_slot
 .byte ScrollText
-.text "Never a moment's peace these days..."
+.text "Niemals auch nur ein kurzer Frieden diese Tage..."
 .byte NewLine
-.text "And what of you, sire?"
+.text "Und was ist mit Euch, Sire?"
 .byte NewLine
-.text "Will you be returning to Munster?"
+.text "Werdet Ihr nach Munster zurückkehren?"
 .byte WaitForA
 
 .byte Left_slot
 .byte ScrollText
-.text "Not immediately. My journey has been"
+.text "Nicht augenblicklich. Meine Reise ist höchst"
 .byte NewLine
-.text "most tiring, and I would rest here while I can."
+.text "ermüdent gewesen und ich würde mich gerne hier aussruhen, solange ich es kann."
 .byte WaitForA
 .byte ScrollText
-.text "What better place for a man to catch his"
+.text "Welch besseren Ort könnte es dafür geben, dass ein Mann tief"
 .byte NewLine
-.text "breath than the impregnable Kerberos' Gate,"
+.text "durchatmet, als as uneinnehmbare Cerberus Tor,"
 .byte NewLine
-.text "eh, Lobos?"
+.text "nicht, Lobos?"
 .byte WaitForA
 
 .byte Right_slot
 .byte ScrollText
-.text "Hah! Indeed, sire."
+.text "Hah. Führwahr, Sire."
 .byte WaitForA
 
 .byte EndText
@@ -124,143 +124,143 @@ dialogueChapter03Opening2
 .byte Left_slot
 .word LoadPortrait
 .word augustus_potrait
-.text "That fortress, Kerberos' Gate, guards the road"
+.text "Diese Festung, Cerberus Tor, bewacht den Weg"
 .byte NewLine
-.text "into Munster."
+.text "nach Munster."
 .byte WaitForA
 .byte ScrollText
-.text "As strongholds go, it's rather small, but don't let"
+.text "Soweit es um militärische Stützpunkte geht, ist es eher klein, aber"
 .byte NewLine
-.text "its size fool you: the people of this area say"
+.text "lasst seine Größe euch nicht austricksen: Die Leute dieses Areals sagen,"
 .byte NewLine
-.text "it's more terrible than Hell itself."
+.text "dass es schrecklicher ist, als die Hölle selbst."
 .byte WaitForA
 
 .byte Right_slot
-.text "Why?"
+.text "Warum?"
 .byte WaitForA
 
 .byte Left_slot
 .byte ScrollText
-.text "The soldiers here no longer watch over"
+.text "Die Soldaten hier wachen nicht länger über"
 .byte NewLine
-.text "the road—they search for children."
+.text "den Pfad—die suchen nach Kinder."
 .byte WaitForA
 .byte ScrollText
-.text "Lord Leif, the fortress now serves as a base"
+.text "Lord Leif, die Festung dient jetzt als Basis"
 .byte NewLine
-.text "for the province's child hunts."
-.byte WaitForA
-
-.byte Right_slot
-.byte ScrollText
-.text "Child hunts?"
-.byte NewLine
-.text "What are you talking about, August?"
-.byte WaitForA
-
-.byte Left_slot
-.byte ScrollText
-.text "...All across the Empire, children aged seven to"
-.byte NewLine
-.text "thirteen are seized by Imperial soldiers."
-.byte WaitForA
-.byte ScrollText
-.text "They're sent to Belhalla, the capital, and after"
-.byte NewLine
-.text "the atrocities wrought upon them there..."
-.byte NewLine
-.text "the ones who survive are never the same."
-.byte WaitForA
-.byte ScrollText
-.text "They are children no more—they begin life anew"
-.byte NewLine
-.text "as servants to the dark god, Loptous."
+.text "für die Kingerjagten der Provinz."
 .byte WaitForA
 
 .byte Right_slot
 .byte ScrollText
-.text "That's inconceivable."
+.text "Kinderjagten?"
 .byte NewLine
-.text "What manner of tall tale..."
+.text "Wovon sprecht Ihr, August?"
 .byte WaitForA
 
 .byte Left_slot
 .byte ScrollText
-.text "I realize it sounds too horrible to be true,"
+.text "...Über das gesamte Imperium hinweg, werden Kinger in der"
 .byte NewLine
-.text "but this is no fable—this is the state of Jugdral."
+.text "Altersgruppe von sieben bis dreizehn von Imperialen Truppen eingefangen."
 .byte WaitForA
 .byte ScrollText
-.text "Even now, children languish in captivity"
+.text "Sie werden zu Belhalla, der Hauptstadt, geschickt und nach den"
 .byte NewLine
-.text "within that very fortress you see."
+.text "Grausamkeiten, die ihnen dort angetan werden..."
+.byte NewLine
+.text "sind jene die überleben nie wieder so wie sie waren."
+.byte WaitForA
+.byte ScrollText
+.text "Sie sind keine Kinger mehr—sie fangen das Leben erneut an,"
+.byte NewLine
+.text "als Diener des Dunklen Gottes, Loptous."
 .byte WaitForA
 
 .byte Right_slot
 .byte ScrollText
-.text "...What soldier could willingly take part in such"
+.text "Das ist unvorstellbar."
 .byte NewLine
-.text "a thing? No one with a spark of humanity left,"
-.byte NewLine
-.text "to be sure."
-.byte WaitForA
-.byte ScrollText
-.text "I'm sorry, August,"
-.byte NewLine
-.text "but we must part ways here."
-.byte WaitForA
-.byte ScrollText
-.text "I cannot allow this evil to go unchallenged—"
-.byte NewLine
-.text "I must free those children from this barbarism."
+.text "Welche Art von Märchen..."
 .byte WaitForA
 
 .byte Left_slot
 .byte ScrollText
-.text "Indeed..."
+.text "Ich begreife, dass es zu schrecklich klingt um wahr zu sein,"
 .byte NewLine
-.text "Allow me to give you one last piece of advice,"
-.byte NewLine
-.text "sire."
+.text "aber dies ist keine Fabel—dies ist der Zustand von Jugdral."
 .byte WaitForA
 .byte ScrollText
-.text "Kerberos' Gate is too small to fit horses,"
+.text "Selbst jetzt schmachten Kinder in Gefangenschat, in"
 .byte NewLine
-.text "so have any of your soldiers that fight"
-.byte NewLine
-.text "on horseback [Dismount] before entering."
-.byte WaitForA
-.byte ScrollText
-.text "Further, after everything they've seen, I'd wager"
-.byte NewLine
-.text "the children are too traumatized to even move."
-.byte WaitForA
-.byte ScrollText
-.text "Have your men carry them back to the villages,"
-.byte NewLine
-.text "and their families will owe you a debt"
-.byte NewLine
-.text "they can never repay."
-.byte WaitForA
-.byte ScrollText
-.text "Fortune be with you, Prince of Leonster."
+.text "derselbigen Festung, die ihr dort seht."
 .byte WaitForA
 
 .byte Right_slot
 .byte ScrollText
-.text "Hold! This whole time, you've known I was"
+.text "...Welcher Soldat würde bei solch einer Sache willentlich"
 .byte NewLine
-.text "the heir to House Leonster?"
+.text "teilnehmen? Mit Sicherheit niemand der auch nur einen Funken"
+.byte NewLine
+.text "Menschlichkeit in sich übrig hat."
+.byte WaitForA
+.byte ScrollText
+.text "Es tut mir leid, August,"
+.byte NewLine
+.text "aber wir müssen hier getrennte Wege gehen."
+.byte WaitForA
+.byte ScrollText
+.text "Ich kann nicht erlauben, dass dieses Böse unangefochten bestehen bleibt—"
+.byte NewLine
+.text "Ich muss jene Kinder von dieser Grausamkeit befreien."
 .byte WaitForA
 
 .byte Left_slot
 .byte ScrollText
-.text "But of course. What's more, I want to see you"
+.text "Fürwahr..."
 .byte NewLine
-.text "returned to power. Let's arrange to meet"
+.text "Erlaubt es mir, Euch einen letzten Ratschlag zu geben,"
 .byte NewLine
-.text "in Munster after your business is concluded."
+.text "Sire."
+.byte WaitForA
+.byte ScrollText
+.text "Cerberus Tor ist zu klein, als dass Pferde einpassen würden,"
+.byte NewLine
+.text "also lasst jeglichen eurer Soldaten die beritten"
+.byte NewLine
+.text "kämpfen [Absteigen], bevor ihr es betretet."
+.byte WaitForA
+.byte ScrollText
+.text "Weiterhin wette ich, dass die Kinder, nach all dem,"
+.byte NewLine
+.text "was sie gesehen haben, zu traumatisiert sind, um sich überhaupt zu bewegen."
+.byte WaitForA
+.byte ScrollText
+.text "Lasst Eure Männer sie zurück zu den Dörfern tragen"
+.byte NewLine
+.text "und ihre Familien werden Euch eine Verbindlichkeit"
+.byte NewLine
+.text "schluldig sein, die sie nie zurückzahlen können."
+.byte WaitForA
+.byte ScrollText
+.text "Sei das Glück bei Euch, Prinz von Leonster."
+.byte WaitForA
+
+.byte Right_slot
+.byte ScrollText
+.text "Halt! Diese gesamte Zeit wusstet Ihr,"
+.byte NewLine
+.text "dass ich der Erbe von Haus Leonster bin?"
+.byte WaitForA
+
+.byte Left_slot
+.byte ScrollText
+.text "Aber natürlich. Und außerdem will ich sehen, wie Ihr"
+.byte NewLine
+.text "in die Macht zurückkehrt. Lasst uns einfädeln,"
+.byte NewLine
+.text "dass wir uns in Munster treffen, nachdem Eure Angelegenheiten geklärt sind."
 .byte WaitForA
 
 .byte EndText
@@ -270,9 +270,9 @@ dialogueChapter03Ending1
 .byte Left_slot
 .word LoadPortrait
 .word leif_portrait2
-.text "...It was a hard-fought victory,"
+.text "...Es war ein harterkämpfter Sieg, aber wir"
 .byte NewLine
-.text "but we've taken control of Kerberos' Gate."
+.text "haben die Kontrolle über Cerberus Tor erlangt."
 .byte WaitForA
 
 .word PlayMusic
@@ -282,16 +282,16 @@ dialogueChapter03Ending1
 .byte Right_slot
 .word LoadPortrait
 .word raydrik_portrait
-.text "Nicely done. I'm impressed, truly." 
+.text "Das habt Ihr gut gemacht. Ich bin wahrhaftig beeindruckt." 
 .byte NewLine
-.text "Such a shame to spoil your moment,"
+.text "Welch eine Schande, Euren Moment zu verderben,"
 .byte NewLine
-.text "but I must ask you to drop your weapons."
+.text "aber ich muss Euch darum bitten, Eure Waffen fallenzulassen."
 .byte WaitForA
 .byte ScrollText
-.text "Otherwise, I'll have to do something very ugly"
+.text "Anderweitig, werde ich dieser schönen, jungen Frau"
 .byte NewLine
-.text "to this very pretty young woman."
+.text "etwas sehr schreckliches antun müssen."
 .byte WaitForA
 .byte ScrollText
 
@@ -309,20 +309,20 @@ dialogueChapter03Ending1
 .word raydrik_portrait
 
 .byte Left_slot
-.text "...Raydrik, you soulless parasite..."
+.text "...Raydrik, Ihr seelenloser Parasit..."
 .byte WaitForA
 .byte ScrollText
 
 .byte Right_slot
 .word LoadPortrait
 .word nanna_portrait
-.text "Run, Lord Leif!"
+.text "Rennt, Lord Leif!"
 .byte NewLine
-.text "Don't worry about me!"
+.text "Kümmert Euch nicht zum mich!"
 .byte WaitForA
 
 .byte Left_slot
-.text "Damn...!"
+.text "Verdammt...!"
 .byte WaitForA
 .byte ScrollText
 
@@ -332,19 +332,19 @@ dialogueChapter03Ending1
 .word raydrik_portrait
 
 .byte Left_slot
-.text "Fine... Fine, I said!"
+.text "In Ordnung... In Ordnung, sage ich!"
 .byte NewLine
-.text "I'm putting my weapons down,"
+.text "Ich lege meine Waffen nieder,"
 .byte NewLine
-.text "so keep your hands off Nanna!"
+.text "also lasst Eure Hände von Nanna!"
 .byte WaitForA
 
 .byte Right_slot
-.text "Hah! See, the young pup knows how to heel!"
+.text "Hah! Seht, der junge Welpe weiß, wie man sich Bei Fuß setzt!"
 .byte NewLine  
-.text "Men, move in and chain the good Prince Leif!"
+.text "Männer, rückt an und legt den guten Prinz Leif in Ketten!"
 .byte NewLine
-.text "Then fan out and seize the rest of his forces!"
+.text "Fächert euch dann aus und nehmt den Rest seiner Streitkräfte gefangen!"
 .byte WaitForA
 
 .byte EndText
@@ -355,21 +355,21 @@ dialogueChapter03Ending2
 .word LoadPortrait
 .word eyvel_portrait
 
-.text "Damn...! Little Leif got himself captured?"
+.text "Verdammt...! Klein Leif hat sich einfangen lassen?"
 .byte NewLine
-.text "Well, two can play at that game."
+.text "Nun, zwei können dieses Spiel spielen."
 .byte WaitForA
 .byte ScrollText
-.text "I'm goin' in and waving the white flag—"
+.text "Ich gehe vor und hebe die weiße Flagge—"
 .byte NewLine
-.text "no doubt they'll arrest me too. I'll do what I can"
+.text "ohne Zweifel werden sie mich auf festnehmen. Ich werde sehen, wass ich"
 .byte NewLine
-.text "to protect the Little Lord from the inside."
+.text "tun kann, um den kleinen Lord vom Inneren zu beschützen."
 .byte WaitForA
 .byte ScrollText
-.text "The rest of you, hightail it outta here"
+.text "An den Rest von Euch, verschwindet von hier und"
 .byte NewLine
-.text "and make ready to rescue him!"
+.text "macht Euch bereit, ihn zu retten!"
 .byte WaitForA
 
 .byte EndText
@@ -380,14 +380,14 @@ dialogueChapter03Ending3
 .word LoadPortrait
 .word finn_portrait
 
-.text "I suppose this was inevitable..."
+.text "Ich schätze, das war unvermeidbar..."
 .byte NewLine
-.text "We...have no choice but to retreat..."
+.text "Wir...haben keine andere Wahl, als uns zurückzuziehen..."
 .byte WaitForA
 .byte ScrollText
-.text "Hold out for as long as you can, Lord Leif!"
+.text "Haltet so lange durch, wie Ihr könnt, Lord Leif!"
 .byte NewLine
-.text "On my honor, I will come for you!"
+.text "Bei meiner Ehre, ich werde Euch zu Hilfe kommen!"
 .byte WaitForA
 
 .byte EndText
@@ -398,9 +398,9 @@ dialogueChapter03Ending4
 .word LoadPortrait
 .word halvan_portrait
 
-.text "Well... We lasted until now."
+.text "Nun... Wir haben bis jetzt durchgehalten."
 .byte NewLine
-.text "No one can say we didn't give it our all..."
+.text "Niemand kann sagen, dass wir nicht unser Bestes gegeben haben..."
 .byte WaitForA
 
 .byte EndText
@@ -411,14 +411,14 @@ dialogueChapter03Ending5
 .word LoadPortrait
 .word osian_portrait
 
-.text "Dammit, Leif..."
+.text "Verdammt, Leif..."
 .byte NewLine
-.text "Nothing to be done about it now, I guess."
+.text "Ich schätze, nichts kann jetzt dagegen getan werden."
 .byte WaitForA
 .byte ScrollText
-.text "We're comin' after you,"
+.text "Wir kommen dir nach, also wage es nicht,"
 .byte NewLine
-.text "so don't you dare go dying first, you hear?!"
+.text "zuerst zu sterben, hörst du?!"
 .byte WaitForA
 
 .byte EndText
@@ -429,7 +429,7 @@ dialogueChapter03Ending6
 .word LoadPortrait
 .word safie_portrait
 
-.text "Gods above, watch over the prince..."
+.text "Götter über uns, wacht über den Prinzen..."
 .byte WaitForA
 
 .byte EndText
@@ -440,16 +440,16 @@ dialogueChapter03Ending7
 .word LoadPortrait
 .word dagdar_portrait
 
-.text "Damn it all, the prince let 'imself be captured?"
+.text "Verdammt sei es, der Prinz hat sich einfangen lassen?"
 .byte NewLine
-.text "Can't much stand it meself, but fer now, I've no"
+.text "Ich kann es selbst nicht wirklich ertragen, aber fürs Erste"
 .byte NewLine
-.text "choice but to head back to Mount Violdrake."
+.text "habe ich keine Wahl, als zu Berg Violdrake zurückzukehren."
 .byte WaitForA
 .byte ScrollText
-.text "This ain't the end, though: I'll round up"
+.text "Das ist aber nicht das Ende: Ich werde meine gesamte"
 .byte NewLine
-.text "me whole crew and we'll storm Munster!"
+.text "Besatzung versammeln und wir werden Munster stürmen!"
 .byte WaitForA
 
 .byte EndText
@@ -460,26 +460,26 @@ dialogueChapter03CairpreHouseCairpre
 .word LoadPortrait
 .word bishop_portrait
 
-.text "Master Cairpre! Thank the gods you're all right!"
+.text "Meister Cairpre! Dank sei den Göttern, dass es Euch gut geht!"
 .byte NewLine
-.text "I was sick with worry..."
+.text "Ich war krank vor Sorge..."
 .byte WaitForA
 .byte ScrollText
-.text "The young master is a nobleman's ward,"
+.text "Der junge Meister ist der Pflegling eines Adelmanns"
 .byte NewLine
-.text "and was coming to our village as a messenger,"
+.text "und kam als ein Bote zu unserem Dorf, aber"
 .byte NewLine
-.text "but got mistaken for one of our own children!"
+.text "wurde mit einem meiner eigenen Kinder verwechselt!"
 .byte WaitForA
 .byte ScrollText
-.text "You have my deepest thanks,"
+.text "Ihr habt meinen tiefsten Dank, aber ich"
 .byte NewLine
-.text "but I've little else to give..."
+.text "habe wenig sonst, das ich euch geben könnte..."
 .byte WaitForA
 .byte ScrollText
-.text "Still, I imagine rescuing a child of Thracian"
+.text "Trotzdem kann ich mir vorstellen, dass ein Kind von"
 .byte NewLine
-.text "nobility ought to pay off sooner or later."
+.text "Thracianischem Adel zu retten, sich früher oder später lohnen wird."
 .byte WaitForA
 
 .byte EndText
@@ -490,9 +490,9 @@ dialogueChapter03CairpreHouseOther
 .word LoadPortrait
 .word bishop_portrait
 
-.text "Master Cairpre, taken by those savages..."
+.text "Meister Cairpre, von diesen Wilden fortgenommen..."
 .byte NewLine
-.text "Argh, a pox on them all! What am I to do...?"
+.text "Argh, soll ihnen allen eine Fäule ereilen! Was soll ich tun...?"
 .byte WaitForA
 
 .byte EndText
@@ -503,32 +503,32 @@ dialogueChapter03LucciaHouseLuccia
 .word LoadPortrait
 .word oldlady3_portrait
 
-.text "Luccia! Oh, me own girl, hale and hardy!"
+.text "Luccia! Oh, mein eigenes Kind, gesund und munter!"
 .byte NewLine
-.text "Thought me heart would give out from worry,"
+.text "Ich dachte, mein Herz würde vorlauter Sorge"
 .byte NewLine
-.text "it would!"
+.text "stehen bleiben, das dachte ich wirklich!"
 .byte WaitForA
 .byte ScrollText
-.text "I can't begin to say how grateful I am"
+.text "Ich kann nicht einmal anfangen zu sagen, wie"
 .byte NewLine
-.text "to ye, stranger."
+.text "dankbar ich Euch bin, Fremder."
 .byte NewLine
-.text "Don't have much in the way of thanks, but..."
+.text "Ich habe nicht viel, was ich Euch zum Dank anbieten kann, aber..."
 .byte WaitForA
 .byte ScrollText
-.text "Mayhap this old parchment could be of some"
+.text "Vielleicht könnte Euch dieses alte Pergament"
 .byte NewLine
-.text "good to you? We been puzzlin' over it fer years,"
+.text "nützlich sein? Wir haben darüber über Jahre hinweg rumgerätzelt,"
 .byte NewLine
-.text "but what it does is beyond our ken."
+.text "aber was es tut liegt jenseits unseres Verständnisses."
 .byte WaitForA
 .byte ScrollText
-.text "All we know is that merely holdin' it fills ye"
+.text "Alles was wir wissen ist, dass es nur zu halten, einen"
 .byte NewLine
-.text "with tremendous vim and vigor, amongst"
+.text "unter Anderem bereits mit gewaltigem Elan und Kraft füllt."
 .byte NewLine
-.text "other things. Hope it helps ye, I surely do."
+.text "Ich hoffe es hilft Euch, das tue ich mit Sicherheit."
 .byte WaitForA
 
 .byte EndText
@@ -539,11 +539,11 @@ dialogueChapter03LucciaHouseOther
 .word LoadPortrait
 .word oldlady3_portrait
 
-.text "Me... Me daughter..."
+.text "Meine... Meine Tochter..."
 .byte NewLine
-.text "Please, good folk! Yer armed and fit fer battle!"
+.text "Bitte, ihr guten Leute! Ihr seid bewaffnet und zum Kampf bereit!"
 .byte NewLine
-.text "Bring me girl, Luccia, back! I beg of ye!"
+.text "Bringt mir mein Mädchen, Luccia, zurück! Ich flehe euch an!"
 .byte WaitForA
 
 .byte EndText
@@ -554,28 +554,28 @@ dialogueChapter03JubelHouseJubel
 .word LoadPortrait
 .word younglady_portrait
 
-.text "Holy Heim! Jubel, yer safe!"
+.text "Beim Heiligen Heim! Jubel, du bist sicher!"
 .byte NewLine
-.text "You...gave me a real scare there..."
+.text "Du...hast mir da einen richtigen Schrecken eingejagt..."
 .byte NewLine
-.text "I'm so glad to see you again."
+.text "Ich bin so froh, dich wiederzusehen."
 .byte WaitForA
 .byte ScrollText
-.text "Whatever yer reasons, stranger,"
+.text "Was Eure Beweggründe auch sein mögen, Fremder,"
 .byte NewLine
-.text "thank you fer helpin'. Truly."
+.text "vielen Dank dafür, geholfen zu haben. Wahrhaftig."
 .byte WaitForA
 .byte ScrollText
-.text "Now listen, me older brother is an Imperial"
+.text "Hört jetzt zu, mein älterer Bruder ist ein Imperialischer"
 .byte NewLine
-.text "soldier, but if'n you ever meet him, tell him"
+.text "Soldat, aber falls Ihr ihn jemals trefft, dann sagt ihm,"
 .byte NewLine
-.text "what the Empire done to our youngest kin."
+.text "was das Imperium unserem jüngsten Familienmitglied angetan hat."
 .byte WaitForA
 .byte ScrollText
-.text "His name's Dalsin. Ain't a doubt in me mind"
+.text "sein Name ist Dalsin. Es liegt mir überhaupt kein Zweifel,"
 .byte NewLine
-.text "he'd help you, so don't go forgettin' it!"
+.text "dass er euch helfen würde, also vergesst es nicht!"
 .byte WaitForA
 
 .byte EndText
@@ -586,16 +586,16 @@ dialogueChapter03JubelHouseOther
 .word LoadPortrait
 .word younglady_portrait
 
-.text "Me kid brother, Jubel,"
+.text "Mein kleiner Bruder, Jubel,"
 .byte NewLine
-.text "was taken to Kerberos' Gate..."
+.text "wurde zu Cerberus Tor mitgenommen..."
 .byte WaitForA
 .byte ScrollText
-.text "Please, stranger! He's just a wee lad,"
+.text "Fremder, bitte! Er ist nur ein kleiner Bursche"
 .byte NewLine
-.text "and you've the arms an' army to give"
+.text "und Euch sind Waffen und Armee gegeben, mit denen"
 .byte NewLine
-.text "them Imperial dastards what-for!"
+.text "Ihr diesen Imperialischen Feiglingen geben könnt, was ihnen zusteht!"
 .byte WaitForA
 
 .byte EndText
@@ -606,21 +606,21 @@ dialogueChapter03RomeoHouseRomeo
 .word LoadPortrait
 .word oldlady_portrait
 
-.text "Hm? Oh, it can't be! Romeo, safe and sound..."
+.text "Hm? Oh, es kann nicht sein! Romeo, heil uns unversteht..."
 .byte NewLine
-.text "From the depths of me heart, I thank ye."
+.text "Von den Tiefen meines Herzens danke ich Euch."
 .byte WaitForA
 .byte ScrollText
-.text "Fer bringing me boy back single-handed,"
+.text "Dafür, dass Ihr meinen Jungen eigenhändig zurückgebracht habt,"
 .byte NewLine
-.text "I'd like ye to have this."
+.text "will ich, dass Ihr dies habt."
 .byte WaitForA
 .byte ScrollText
-.text "This here ring's been handed down"
+.text "Dieser Ring hier wurde so lange wie wir uns"
 .byte NewLine
-.text "in me family fer as long as I can remember."
+.text "erinnern können in unserer Familie weitergegeben."
 .byte NewLine
-.text "It's enchanted, it is. Take it, I insist."
+.text "Er ist verzaubert, das sage ich Euch. Nehmt ihn, ich bestehe darauf."
 .byte WaitForA
 
 .byte EndText
@@ -631,9 +631,9 @@ dialogueChapter03RomeoHouseOther
 .word LoadPortrait
 .word oldlady_portrait
 
-.text "Please, I beseech ye! Save me boy, Romeo,"
+.text "Bitte, ich flehe Euch an! Rettet meinen Jungen,"
 .byte NewLine
-.text "from that gods-forsaken fort!"
+.text "Romeo, aus dieser gottverlassenen Festung!"
 .byte WaitForA
 
 .byte EndText

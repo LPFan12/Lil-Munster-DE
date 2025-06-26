@@ -1,72 +1,72 @@
 dialogueEndingPage1Line1
 .byte $09
-.text "Thus, Leif's battle, which started"
+.text "Und so neigte sich Leifs Kampf, welcher"
 .byte NewLine
 .byte EndText
 
 dialogueEndingPage1Line2
 .byte $09
-.text "in the remote village of Fiana and ended"
+.text "im abgelegenen Dorf von Fiana anfing und"
 .byte NewLine
 .byte EndText
 
 dialogueEndingPage1Line3
 .byte $09
-.text "with the liberation of North Thracia,"
+.text "mit der Befreiung von Nord-Thracia endete"
 .byte NewLine
 .byte EndText
 
 dialogueEndingPage1Line4
 .byte $09
-.text "came to a close."
+.text "dem Ende zu."
 .byte EndText
 
 dialogueEndingPage2Line1
 .byte $09
-.text "Yet although Leif's battle has ended,"
+.text "Aber obwohl Leifs Kampf zuende ging,"
 .byte NewLine
 .byte EndText
 
 dialogueEndingPage2Line2
 .byte $09
-.text "the war for Jugdral has just begun."
+.text "hatte der Krieg um Jugdral erst begonnen."
 .byte EndText
 
 dialogueEndingPage3Line1
 .byte $09
-.text "In South Thracia, Travant's kingdom"
+.text "In Süd-Thracia hat Travants Königreich"
 .byte NewLine
 .byte EndText
 
 dialogueEndingPage3Line2
 .byte $09
-.text " has already amassed great power."
+.text "bereits große Macht angesammelt."
 .byte EndText
 
 dialogueEndingPage4Line1
 .byte $09
-.text "In the Grannvale Empire, Crown Prince Julius,"
+.text "Im Grannvalianischen Imperium ist Kronprinz Julius"
 .byte NewLine
 .byte EndText
 
 dialogueEndingPage4Line2
 .byte $09
-.text "the Scion of Darkness and incarnate of Loptous,"
+.text "der Erbe der Dunkelheit und Inkarnation von Loptous,"
 .byte NewLine
 .byte EndText
 
 dialogueEndingPage4Line3
 .byte $09
-.text "is still alive and well."
+.text "immernoch gesund und munter."
 .byte EndText
 
 dialogueEndingPage5Line1
 .byte $09
-.text "Now, in year 777 of the Grannvale calendar,"
+.text "Jetzt, im Jahre 777 des Grannvalianischen Kalendars,"
 .byte NewLine
 .byte EndText
 
 dialogueEndingPage5Line2
 .byte $09
-.text "the world stands on the brink of a new era..."
+.text "steht die Welt an der Schwelle einer neuen Era..."
 .byte EndText

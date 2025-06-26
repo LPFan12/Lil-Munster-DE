@@ -2,16 +2,18 @@ dialogueChapter05LeifRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word leif_portrait2
-.text "I'll come back for you, Commander!"
+.text "Ich werde für Euch zurückkommen, Kommandantin!"
 .byte WaitForA
 .byte ScrollText
-.text "I'll... I'll grow strong enough to storm"
+.text "Ich werde... Ich werde stark genug werden, um diese"
 .byte NewLine
-.text "this whole city if I have to! No force"
+.text "gesamte Stadt zu stürmen, wenn ich es muss. Keine"
 .byte NewLine
-.text "in all the heavens can stop me! So just... Just..."
+.text "Macht in all den Himmeln kann mich aufhalten!"
 .byte WaitForA
 .byte ScrollText
+.text "Also... Also..."
+.byte NewLine
 .text "......"
 .byte WaitForA
 .byte EndText
@@ -20,9 +22,9 @@ dialogueChapter05NannaRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word nanna_portrait
-.text "Eyvel... I'm sorry."
+.text "Eyvel... Es tut mir leid."
 .byte NewLine
-.text "I'll always honor your sacrifice..."
+.text "Ich werde Euer Opfer immer ehren..."
 .byte WaitForA
 .byte EndText
 
@@ -30,7 +32,7 @@ dialogueFinnRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word finn_portrait
-.text "As you wish, milord. I'll secure the way ahead!"
+.text "Wie Ihr wünscht, Milord. Ich werde mich vorne umsehen!"
 .byte WaitForA
 .byte EndText
 
@@ -38,7 +40,7 @@ dialogueOsianRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word osian_portrait
-.text "Haha! Nothing to it!"
+.text "Haha! Da ist nichts dabei!"
 .byte WaitForA
 .byte EndText
 
@@ -46,7 +48,7 @@ dialogueHalvanRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word halvan_portrait
-.text "Now comes the real battle..."
+.text "Jetzt kommt der wahre Kampf..."
 .byte WaitForA
 .byte EndText
 
@@ -54,9 +56,9 @@ dialogueEyvelRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word eyvel_portrait
-.text "Mind your limits, Little Leif."
+.text "Beachtet Eure Grenzen, Klein Leif."
 .byte NewLine
-.text "Don't do anything stupid!"
+.text "Macht nichts dummes!"
 .byte WaitForA
 .byte EndText
 
@@ -64,9 +66,9 @@ dialogueDagdarRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word dagdar_portrait
-.text "Prince Leif, there's nuthin' more you can do!"
+.text "Prinz Leif, es gibt nichts mehr, was Ihr tun könnt!"
 .byte NewLine
-.text "Hightail it outta there!"
+.text "Haut von hier ab!"
 .byte WaitForA
 .byte EndText
 
@@ -74,9 +76,9 @@ dialogueRalphRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word ralph_portrait
-.text "Tch..."
+.text "Tss..."
 .byte NewLine
-.text "We've still got a ways to go, huh?"
+.text "Wir haben immernoch eine Menge vor uns, was?"
 .byte WaitForA
 .byte EndText
 
@@ -84,9 +86,9 @@ dialogueMartyRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word marty_portrait
-.text "*Pant, pant, wheeze*"
+.text "*Keuch, keuch, schnauf*"
 .byte NewLine
-.text "G-Good grief..."
+.text "A-ach du meine Güte..."
 .byte WaitForA
 .byte EndText
 
@@ -94,7 +96,7 @@ dialogueRonanRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word ronan_portrait
-.text "Wh-What a rush... Everybody all right?"
+.text "Wa-Was für eine Hektik... Geht es allen gut?"
 .byte WaitForA
 .byte EndText
 
@@ -102,7 +104,7 @@ dialogueSafyRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word safie_portrait
-.text "Gods above, keep and protect Prince Leif."
+.text "Götter über uns, bitte beschützt Prinz Leif weiterhin."
 .byte NewLine
 .text "Please..."
 .byte WaitForA
@@ -112,9 +114,9 @@ dialogueLaraRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word lara_portrait
-.text "Sorry to duck out like this..."
+.text "Tut mir leid, dass ich mich so verdrücke..."
 .byte NewLine
-.text "Watch your back, OK?"
+.text "Passt auf euch auf, in Ordnung?"
 .byte WaitForA
 .byte EndText
 
@@ -122,9 +124,9 @@ dialogueBrightonRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word brighton_portrait
-.text "Damned shameful of me,"
+.text "Verdammt blamabel von mir,"
 .byte NewLine
-.text "goin' ahead of everybody like this..."
+.text "dass ich allen so vorausgehe..."
 .byte WaitForA
 .byte EndText
 
@@ -132,9 +134,9 @@ dialogueFergusRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word fergus_portrait
-.text "Ah, how times have changed..."
+.text "Ah, wie sich die Zeiten geändert haben..."
 .byte NewLine
-.text "I should be the last man out, not any of y'all."
+.text "Ich sollte der Letzt Mann sein, der rausgeht, nicht jemand von euch."
 .byte WaitForA
 .byte EndText
 
@@ -142,9 +144,9 @@ dialogueAsbelRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word asbel_portrait
-.text "Don't you dare leave me behind again,"
+.text "Wagt es nicht, mich erneut zurückzulassen,"
 .byte NewLine
-.text "Lord Leif! I'll be waitin' for you just up ahead!"
+.text "Lord Leif! Ich werde dort vorne auf Euch warten!"
 .byte WaitForA
 .byte EndText
 
@@ -152,7 +154,7 @@ dialogueMachaRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word macha_portrait
-.text "I owe you one. I'll be just up ahead!"
+.text "Ich schulde euch was. Ich werde dort vorne sein!"
 .byte WaitForA
 .byte EndText
 
@@ -160,7 +162,7 @@ dialogueHicksRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word hicks_portrait
-.text "Murphy, yer papa is doin' the best he can..."
+.text "Murphy, dein Papa tut das Beste, was er kann..."
 .byte WaitForA
 .byte EndText
 
@@ -168,7 +170,7 @@ dialogueNannaRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word nanna_portrait
-.text "Lord Leif... Stay safe...!"
+.text "Lord Leif... Bleibt sicher...!"
 .byte WaitForA
 .byte EndText
 
@@ -176,9 +178,9 @@ dialogueDalsinRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word dalsin_portrait
-.text "Diana, Jubel... I'll make it back home someday."
+.text "Diana, Jubel... Ich werde es eines Tages sicher nach Hause schaffen."
 .byte NewLine
-.text "Wait fer me!"
+.text "Wartet auf mich!"
 .byte WaitForA
 .byte EndText
 
@@ -186,7 +188,7 @@ dialogueCallionRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word callion_portrait
-.text "I'll go ahead, then. I'm...sorry to run like this."
+.text "Ich werde dann vorgehen. Es...tut mir leid, dass ich so wegrenne."
 .byte WaitForA
 .byte EndText
 
@@ -194,7 +196,7 @@ dialogChapter04xCedRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word ced_portrait
-.text "I'll be taking my leave, then."
+.text "Ich werde dann gehen."
 .byte WaitForA
 .byte EndText
 
@@ -202,9 +204,9 @@ dialogueLifisRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word lifis_portrait
-.text "Heh, heh, heh... Another clean get-away!"
+.text "Heh, heh, heh... Ein weitere saubere Flucht!"
 .byte NewLine
-.text "My regards, gentlemen!"
+.text "Meine Grüße, Gentlemen!"
 .byte WaitForA
 .byte EndText
 
@@ -212,11 +214,11 @@ dialogueKarinRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word karin_portrait
-.text "*Pant... Pant*"
+.text "*Keuch... keuch*"
 .byte NewLine
-.text "Looks like I made it outta there, somehow..."
+.text "Sieht so aus, als hätte ich es irgendwie dort rausgeschafft..."
 .byte NewLine
-.text "All right, I'll go ahead. Ladies first!"
+.text "Alles klar, ich werde vorgehen. Damen zuerst!"
 .byte WaitForA
 .byte EndText
 
@@ -224,9 +226,9 @@ dialogueTanyaRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word tanya_portrait
-.text "We can't stick around here much longer,"
+.text "Wir können hier nicht viel länger bleiben,"
 .byte NewLine
-.text "Prince Leif! C'mon, let's go!"
+.text "Prinz Leif! Kommt schon, lass uns gehen!"
 .byte WaitForA
 .byte EndText
 
@@ -234,9 +236,9 @@ dialogueMareetaRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word mareeta_portrait
-.text "Mother, I know you must be watching"
+.text "Mutter, ich weiß, dass du über mich"
 .byte NewLine
-.text "over me..."
+.text "wachen musst..."
 .byte WaitForA
 .byte EndText
 
@@ -244,7 +246,7 @@ dialogueShivaRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word shiva_portrait
-.text "...Sorry..."
+.text "...Es tut mir leid..."
 .byte WaitForA
 .byte EndText
 
@@ -252,9 +254,9 @@ dialogueSelphinaRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word selphina_portrait
-.text "There's no need to remain here any longer,"
+.text "Es gibt keinen Grund, hier noch länger zu verweilen,"
 .byte NewLine
-.text "Prince Leif! Please, hurry!"
+.text "Prinz Leif! Bitte, beeilt Euch!"
 .byte WaitForA
 .byte EndText
 
@@ -262,7 +264,7 @@ dialogueKaneRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word kane_portrait
-.text "I'll ride ahead, Prince! Be careful!"
+.text "Ich werde vorreiten, Prinz! Seid vorsichtig!"
 .byte WaitForA
 .byte EndText
 
@@ -270,9 +272,9 @@ dialogueAlbaRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word alba_portrait
-.text "OK, onto the next battle!"
+.text "In Ordnung, auf zum nächsten Kampf!"
 .byte NewLine
-.text "Ever onward and upward!"
+.text "Wir gehen immer weiter und höher!"
 .byte WaitForA
 .byte EndText
 
@@ -280,7 +282,7 @@ dialogueRobertRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word robert_portrait
-.text "Next time, THEY'LL be the ones retreating...!"
+.text "Nächstes Mal werden SIE diejenigen sein, die sich zurückziehen...!"
 .byte WaitForA
 .byte EndText
 
@@ -288,9 +290,9 @@ dialogueFredRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word fred_portrait
-.text "I'll ride ahead!"
+.text "Ich werde vorreiten!"
 .byte NewLine
-.text "Be safe, milord!"
+.text "Bleibt sicher, Milord!"
 .byte WaitForA
 .byte EndText
 
@@ -298,7 +300,7 @@ dialogueOlwenRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word olwen_portrait
-.text "The battle begins anew..."
+.text "Der Kampf beginnt erneut..."
 .byte WaitForA
 .byte EndText
 
@@ -306,7 +308,7 @@ dialogueSalemRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word salem_portrait
-.text "I cannot allow myself to fall here..."
+.text "Ich kann es mir nicht erlauben, hier zu fallen..."
 .byte WaitForA
 .byte EndText
 
@@ -314,9 +316,9 @@ dialoguePerneRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word pan_portrait
-.text "This isn't over yet!"
+.text "Das ist noch nicht vorbei!"
 .byte NewLine
-.text "I'm goin' on ahead, Prince!"
+.text "Ich gehe voraus, Prinz!"
 .byte WaitForA
 .byte EndText
 
@@ -324,7 +326,7 @@ dialogueTrudeRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word trude_portrait
-.text "...Sorry. I'm gettin' outta here."
+.text "...Es tut mir leid, ich verschwinde von hier."
 .byte WaitForA
 .byte EndText
 
@@ -332,9 +334,9 @@ dialogueTinaRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word tina_portrait
-.text "Nothin' but fightin', fightin', an' more fightin'!"
+.text "Nichts als Kämpfen, Kämpfen und noch mehr Kämpfen!"
 .byte NewLine
-.text "Is this all we ever do?"
+.text "Ist das alles, was wir jemals tun?"
 .byte WaitForA
 .byte EndText
 
@@ -342,9 +344,9 @@ dialogueGladeRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word glade_portrait
-.text "We've done all we can, sire!"
+.text "Wir haben alles getan, was wir können, Sire!"
 .byte NewLine
-.text "We must be off!"
+.text "Wir müssen losgehen!"
 .byte WaitForA
 .byte EndText
 
@@ -352,9 +354,9 @@ dialogueHomerRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word homer_portrait
-.text "Good grief, life is too short"
+.text "Gute Güte, das Leben ist zu kurz,"
 .byte NewLine
-.text "to be spending it like this..."
+.text "dass man es so verbringt..."
 .byte WaitForA
 .byte EndText
 
@@ -362,7 +364,7 @@ dialogueDeanRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word dean_portrait
-.text "I'll be going on ahead..."
+.text "Ich werde vorausgehen..."
 .byte WaitForA
 .byte EndText
 
@@ -370,7 +372,7 @@ dialogueEdaRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word eda_portrait
-.text "I'll be an even greater asset in the next battle!"
+.text "Ich werde im nächsten Kampf von noch größerem Nutzen sein!"
 .byte WaitForA
 .byte EndText
 
@@ -378,9 +380,9 @@ dialogueLinoanRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word linoan_portrait
-.text "I wonder how the people of Tahra are faring"
+.text "Ich frage mich, wie sich die Leute von Tahra"
 .byte NewLine
-.text "right now..."
+.text "momentan schlagen..."
 .byte WaitForA
 .byte EndText
 
@@ -388,11 +390,11 @@ dialogueIliosRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word ilios_portrait
-.text "Tch... They think they can push me around"
+.text "Tss... Sie denken, dass sie mich herumschubsen"
 .byte NewLine
-.text "just 'cause I'm a commoner..."
+.text "können, nur weil ich ein Gewöhnlicher bin..."
 .byte NewLine
-.text "I can't take much more of this..."
+.text "Ich kann nicht viel mehr hiervon aushalten..."
 .byte WaitForA
 .byte EndText
 
@@ -400,9 +402,9 @@ dialogueSchroffRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word schroff_portrait
-.text "The Holy Spirit of Bragi is watching over you,"
+.text "Der Heilige Geist von Bragi wacht über Euch,"
 .byte NewLine
-.text "Prince Leif! Stay strong!"
+.text "Prinz Leif! Bleibt stark!"
 .byte WaitForA
 .byte EndText
 
@@ -410,9 +412,9 @@ dialogueMishaRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word misha_portrait
-.text "I'll go first."
+.text "Ich werde zuerst gehen."
 .byte NewLine
-.text "Sorry..."
+.text "Es tut mir leid..."
 .byte WaitForA
 .byte EndText
 
@@ -420,7 +422,7 @@ dialogueShannamRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word shannam_portrait
-.text "Hah! Child's play."
+.text "Hah! Kinderspiel."
 .byte WaitForA
 .byte EndText
 
@@ -428,7 +430,7 @@ dialogueMirandaRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word miranda_portrait
-.text "I barely escaped with my life..."
+.text "Ich bin kaum mit dem Leben entkommen..."
 .byte WaitForA
 .byte EndText
 
@@ -444,7 +446,7 @@ dialogueXavierRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word xavier_portrait
-.text "I shall go on ahead..."
+.text "Ich werde vorausgehen..."
 .byte WaitForA
 .byte EndText
 
@@ -452,7 +454,7 @@ dialogueAmaldaRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word amalda_portrait
-.text "I apologize for retreating before you could..."
+.text "Ich bitte um Entschuldigung dafür, mich zurückzuziehen, bevor ihr es konntet..."
 .byte WaitForA
 .byte EndText
 
@@ -460,9 +462,9 @@ dialogueConomorRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word conomor_portrait
-.text "Forgive me for leaving your side, Prince Leif!"
+.text "Vergebt mir, dass Ich Eurer Seite abweiche, Prinz Leif!"
 .byte NewLine
-.text "I'll ride ahead!"
+.text "Ich werde vorreiten!"
 .byte WaitForA
 .byte EndText
 
@@ -470,7 +472,7 @@ dialogueDiarmuidRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word dermott_portrait
-.text "Luck be with you, Prince Leif!"
+.text "Mag das Glück bei Euch sein, Prinz Leif!"
 .byte WaitForA
 .byte EndText
 
@@ -478,9 +480,9 @@ dialogueSaiasRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word saias_portrait
-.text "My apologies for leaving the battlefield"
+.text "Meine Entschuldigungen dafür, das Schlachtfeld"
 .byte NewLine
-.text "before you..."
+.text "vor euch zu verlassen..."
 .byte WaitForA
 .byte EndText
 
@@ -488,7 +490,7 @@ dialogueCedRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word ced_portrait
-.text "Very well. I'll scout ahead!"
+.text "Nun gut. Ich werde mich vorne umsehen!"
 .byte WaitForA
 .byte EndText
 
@@ -506,10 +508,10 @@ dialogueGunterRetreatQuote
 .byte Right_slot
 .word LoadPortrait
 .word cohen_portrait
-.text "An old man like me is only"
+.text "Ein alter Mann wie ich"
 .byte NewLine
-.text "slowing you down..."
+.text "verlangsamt Euch nur..."
 .byte NewLine
-.text "Please come quickly, Lord Leif."
+.text "Kommt bitte schnell, Lord Leif."
 .byte WaitForA
 .byte EndText

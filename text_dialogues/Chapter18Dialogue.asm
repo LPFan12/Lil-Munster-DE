@@ -483,21 +483,19 @@ dialogueChapter18Opening1
 .byte ScrollText
 .text "I know that, dammit!"
 .byte NewLine
-.text "I've prepared myself for this..."
+.text "I realized long ago..."
 .byte WaitForA
 .byte ScrollText
-.text "After so long, perhaps I can finally"
+.text "After all this, I just cannot"
 .byte NewLine
-.text "show my face to them,"
-.byte NewLine
-.text "even if it's from across the field of battle..."
+.text "show my face to them..."
 .byte WaitForA
 .byte ScrollText
-.text "Bah, enough!"
+.text "Have no fear, Count Gustav!"
 .byte NewLine
 .text "I'm just another soldier!"
 .byte NewLine
-.text "I'm not afraid to face death!"
+.text "A warrior not afraid to face death!"
 .byte WaitForA
 
 .byte EndText

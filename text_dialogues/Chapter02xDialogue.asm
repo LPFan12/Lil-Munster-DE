@@ -11,13 +11,13 @@ dialogueChapter02xOpening1
 	.byte Left_slot ; opentext left
 	.byte $09 ; font 9(always use font 9)
 	
-	.text "I shouldn't have to say this, Lifis,"
+	.text "Ich sollte das nicht sagen müssen, Lifis,"
 	.byte NewLine
-	.text "but don't you dare lay a hand on the cleric."
+	.text "aber wagt es nicht, an der Geistlichen Hand anzulegen."
 	.byte WaitForA
 	
 	.byte Right_Slot
-	.text "Oh, uh... R-Right. Got it."
+	.text "Oh, ehm... R-Richtig. Verstanden."
 	.byte WaitForA
 	.byte ScrollText
 	
@@ -37,104 +37,104 @@ dialogueChapter02xOpening1
     .word safie_portrait
 	
 	.byte Left_slot ; Right slot
-	.text "You could stand to give me the time of day,"
+	.text "Ihr könntet mir wirklich mal entgegenkommen,"
 	.byte NewLine
-	.text "Safy. We both know I could get"
+	.text "Safy. Wir wissen beide, dass ich Euch alles"
 	.byte NewLine
-	.text "anything you want."
+	.text "holen könnte, was Ihr wollt."
 	.byte WaitForA
 	.byte ScrollText
-	.text "Just go along with me, yeah?"
+	.text "Stimmt mir einfach zu, in Ordnung?"
 	.byte WaitForA
 	
 	.byte Right_Slot
-	.text "I have given my word to see Lady Linoan's"
+	.text "Ich habe mein Wort gegeben, dass Ich Lady Linoans"
 	.byte NewLine
-	.text "hopes realized. Unless you wish to join us"
+	.text "Hoffnungen in die Realität umsetzen werde. Außer Ihr"
 	.byte NewLine
-	.text "in fighting for Tahra, I will not falter."
+	.text "tretet uns im Kampf um Tahra bei, werde ich nicht wanken."
 	.byte WaitForA
 	
 	.byte Left_slot
 	.byte ScrollText
-	.text "T-Take up arms against the Empire?!"
+	.text "W-waffen gegen das Imperium erheben?!"
 	.byte NewLine
-	.text "May as well stand on the shore"
+	.text "Da kann ich genauso gut an der Küste stehen"
 	.byte NewLine
-	.text "an' try to push the tide back!"
+	.text "und versuchen, die Gezeiten zurückzuschieben!"
 	.byte WaitForA
 	
 	.byte Right_Slot
 	.byte ScrollText
-	.text "Perhaps it sounds impossible,"
+	.text "Vielleicht klingt es unmöglich, aber"
 	.byte NewLine
-	.text "but the alternative is to do nothing"
+	.text "die Alternative ist es, nichts zu tun, während"
 	.byte NewLine
-	.text "as innocent children are ritually slaughtered."
+	.text "unschuldige Kinder in Ritualen geschlachtet werden."
 	.byte WaitForA
 	.byte ScrollText
-	.text "No matter the cost, no one with"
+	.text "Egal wie hoch die Kosten sein mögen, niemand"
 	.byte NewLine
-	.text "a drop of humanity could stand by"
+	.text "mit auch nur einem Tropfen menschlichkeit"
 	.byte NewLine
-	.text "and allow this to continue."
+	.text "könnte nebenbeistehen und zulassen, wie das fortfährt."
 	.byte WaitForA
 	.byte ScrollText
-	.text "We're not naive. Everyone knows the risks—"
+	.text "Wir sind nicht naiv. Jeder kennt die Risiken—"
 	.byte NewLine
-	.text "we know we'll likely die."
+	.text "wir wissen, dass wir wahrscheinlich sterben werden."
 	.byte NewLine
-	.text "But this isn't just about us!"
+	.text "Aber hierbei geht es nicht nur um uns!"
 	.byte WaitForA
 	.byte ScrollText
-	.text "This is bigger than one city or one society—"
+	.text "Dies ist viel größer, als eine Stadt oder eine Gesellschaft—"
 	.byte NewLine
-	.text "this is about resisting the grip of damnation"
+	.text "hier geht es darum, sich gegen den Griff der Verdammung"
 	.byte NewLine
-	.text "itself."
+	.text "selbst zu wehren."
 	.byte WaitForA
 	.byte ScrollText
-	.text "Loptous beckons, Lifis."
+	.text "Loptous lässt grüßen, Lifis."
 	.byte NewLine
-	.text "The world hurtles ever closer toward his jaws."
+	.text "Die Welt rast immer schneller auf seinen Kriefer zu."
 	.byte WaitForA
 	.byte ScrollText
-	.text "Tahra is the only place in Jugdral"
+	.text "Tahra ist der einzige Ort in Jugdral der sich noch"
 	.byte NewLine
-	.text "still in dispute—where will you be"
+	.text "immer im Konflikt befindet—wo werdet Ihr sein,"
 	.byte NewLine
-	.text "when history is written?"
+	.text "wenn Geschichte geschrieben wird?"
 	.byte WaitForA
 	
 	.byte Left_slot
 	.byte ScrollText
-	.text "Well... I..."
+	.text "Nun... Ich..."
 	.byte WaitForA
 	.byte ScrollText
-	.text "Look, you're out to fulfill your Lady's hopes,"
+	.text "Schaut, Ihr seid darauf aus, die Hoffnungen Eurer Dame zu erfüllen,"
 	.byte NewLine
-	.text "right? If I say yes, will you fulfill"
+	.text "richtig? Wenn ich ja sage, werdet Ihr dann eine"
 	.byte NewLine
-	.text "one of my own hopes?"
+	.text "meiner Hoffnungen erfüllen?"
 	.byte WaitForA
 	
 	.byte Right_Slot
 	.byte ScrollText
-	.text "If it is within my power, I will."
+	.text "Wenn es in meiner Macht liegt, dann werde ich das."
 	.byte WaitForA
 	
 	.byte Left_slot
 	.byte ScrollText
-	.text "It's a deal. I'll talk to my boys,"
+	.text "Dann ist es abgemacht. Ich werde mit meinen Jungs"
 	.byte NewLine
-	.text "make sure everybody is on board."
+	.text "reden, um sicherzugehen, dass alle an Bord sind."
 	.byte NewLine
-	.text "But don't forget our little arrangement."
+	.text "Aber vergesst unsere kleine Abmachung nicht."
 	.byte WaitForA
 	
 	.byte Right_Slot
 	.byte ScrollText
-	.text "Very well."
+	.text "Nun gut."
 	.byte WaitForA
 	
 	.byte EndText
@@ -144,45 +144,45 @@ dialogueChapter02xOpening2
   .word LoadPortrait
   .word leif_portrait
 	.byte $09 ; font 9(always use font 9)
-	.text "Of all the rotten luck...!"
+	.text "Bei all dem verdorbenen Glück...!"
 	.byte NewLine
-	.text "We just had to land right as it was getting dark."
+	.text "Wir mussten einfach genau dann andocken, als es dunkel wurde."
 	.byte WaitForA
 	
 	.byte Left_slot
     .word LoadPortrait    ; load portrait
     .word augustus_portrait
-	.text "The timing isn't ideal, granted,"
+	.text "Das Timing ist zugegebenerweise nicht ideal,"
 	.byte NewLine
-	.text "but with a torch in hand,"
+	.text "aber mit einer Fackel in der Hand,"
 	.byte NewLine
-	.text "your men will be able to see a ways ahead."
+	.text "werden Eure Männer dazu in der Lage sein, einen Weg nach vorne zu sehen."
 	.byte WaitForA
 	
 	.byte Right_Slot
 	.byte ScrollText
-	.text "I...don't believe we have any flint or tinder"
+	.text "Ich...glaube nicht, dass wir einen Zündstein oder Zunder zur Hand"
 	.byte NewLine
-	.text "handy. What are our chances without torches?"
+	.text "haben. Wie stehen unsere Chancen ohne Fackeln?"
 	.byte WaitForA
 	
 	.byte Left_slot
 	.byte ScrollText
-	.text "Your men won't be totally blind, but they'll"
+	.text "Eure Männer werden nicht komplett blind sein, aber sie"
 	.byte NewLine
-	.text "barely be able to see in front of them."
+	.text "werden kaum vor sich hinaus sehen können."
 	.byte WaitForA
 	.byte ScrollText
-	.text "Still, I imagine you can find a spare torch"
+	.text "Trotzdem, ich stelle mir vor, dass Ihr eine unbenutzte Fackel"
 	.byte NewLine
-	.text "or two lying around somewhere."
+	.text "oder zwei irgendwo rumliegen finden werdet."
 	.byte WaitForA
 	
 	.byte Right_Slot
 	.byte ScrollText
-	.text "Then let's get moving."
+	.text "Lass uns dann in Bewegung kommen."
 	.byte NewLine
-	.text "There's no time to waste!"
+	.text "Es gibt keine Zeit zu verschwenden!"
 	.byte WaitForA
 	
 	.byte EndText
@@ -200,29 +200,29 @@ dialogueChapter02xReinforcementsDialogue
 	.byte Left_slot ; opentext left
 	.byte $09 ; font 9(always use font 9)
 	
-	.text "Boss, you really mean to make for Tahra?"
+	.text "Anführer, du willst tatsächlich nach Tahra gehen?"
 	.byte NewLine
-	.text "I'm goin' pale jus' thinkin' about fightin'"
+	.text "Ich werde bleich, wenn ich nur darüber nachdenke,"
 	.byte NewLine
-	.text "the Empire..."
+	.text "das Imperium zu bekämpfen..."
 	.byte WaitForA
 	.byte ScrollText
-	.text "I mean, we might as well jus' jab a knife in our"
+	.text "Ich meine, wir können uns genauso gut einfach jetzt ein"
 	.byte NewLine
-	.text "necks now an' save everybody some time!"
+	.text "Messer in unsere Nacken rammen uns allen etwas Zeit ersparen!"
 	.byte WaitForA
 	
 	.byte Right_Slot
-	.text "I know, I know, I'm just leading her on!"
+	.text "Ich weiß, ich weiß, ich mache ihr nur etwas vor!"
 	.byte NewLine
-	.text "Gotta get my foot in the door with that lass."
+	.text "Bei dem Mädchen muss ich einen Fuß in die Tür reinkriegen."
 	.byte WaitForA
 	.byte ScrollText
-	.text "An' just who does Shiva think he is, talking to"
+	.text "Und wer denkt Shiva nur, der er ist, dass er so mit"
 	.byte NewLine
-	.text "me like that? Did that cutthroat sellsword"
+	.text "mir spricht? Hat diese halsabschneiderische Mietklinge"
 	.byte NewLine
-	.text "grow a conscience when nobody was looking?"
+	.text "ein Gewissen entwickelt, als niemand hinschaute?"
 	.byte WaitForA
 	
 	.byte Left_slot
@@ -230,19 +230,19 @@ dialogueChapter02xReinforcementsDialogue
 	.word LoadPortrait    ; load portrait
     .word bandit1_portrait
 	
-	.text "Hey Boss, we got a couple do-gooders"
+	.text "Hey Anführer, wir haben ein paar Gutmenschen,"
 	.byte NewLine
-	.text "scurryin' in from the west!"
+	.text "die vom Westen in diese Richtung wuseln!"
 	.byte WaitForA
 	
 	.byte Right_slot
 	.byte ScrollText
-	.text "What? Here? You gotta be joking!"
+	.text "Was? Hier? Du musst Witze machen!"
 	.byte WaitForA
 	.byte ScrollText
-	.text "...All right boys, let's go say hello!"
+	.text "...Alles klar, Jungs, lass uns Hallo sagen!"
 	.byte NewLine
-	.text "The sharks are gonna be well-fed tonight!"
+	.text "Die Haie werden heute Nacht gut gefüttert!"
 	.byte WaitForA
 	
 	.byte EndText
@@ -257,43 +257,43 @@ dialogueChapter02xLeifEyvelTalk
 	.word eyvel_portrait
 	
 	.byte Left_slot
-	.text "The pirates seem to have greater numbers..."
+	.text "Die Piraten scheinen größere Zahlen haben..."
 	.byte NewLine
-	.text "Can we make it through this, Commander?"
+	.text "Können wir es hier durchschaffen, Kommandantin?"
 	.byte WaitForA
 
 	.byte Right_slot
-	.text "Numbers aren't everything."
+	.text "Zahlen sind nicht alles."
 	.byte NewLine
-	.text "We keep our heads about us,"
+	.text "Wenn wir nur unsere Köpfe bei uns behalten,"
 	.byte NewLine
-	.text "we'll make it through just fine."
+	.text "werden wir es ziemlich einfach durchschaffen."
 	.byte WaitForA
 
 	.byte Left_slot
 	.byte ScrollText
-	.text "O-Of course, Commander."
+	.text "N-natürlich, Kommandantin."
 	.byte NewLine
-	.text "Still, would you happen to know anything"
+	.text "Trotzdem, würdet Ihr irgendwas über nützliches"
 	.byte NewLine
-	.text "useful about this Lifis thug?"
+	.text "über diesen Lifis-Verbrecher wissen?"
 	.byte WaitForA
 
 	.byte Right_slot
 	.byte ScrollText
-	.text "Hah! “Thug” is too generous for Lifis."
+	.text "Hah! “Verbrecher” ist zu gütig für Lifis."
 	.byte NewLine
-	.text "He's small-time—ain't even worth killing."
+	.text "Er ist ein kleiner Fisch—nichteinmal des Tötens wert."
 	.byte WaitForA
 	.byte ScrollText
-	.text "When we get our hands on him, take him alive,"
+	.text "Wenn wir ihn in unsere Finger kriegen, dann werden wir ihn"
 	.byte NewLine
-	.text "and don't let him go after the fighting's done."
+	.text "lebendig nehmen und ihn nicht gehen lassen, nachdem das Kämpfen vorbei ist."
 	.byte WaitForA
 	.byte ScrollText
-	.text "We'll bring him back to Iz and see that he gets"
+	.text "Wir werden ihn nach Iz zurücknehmen uns dafür sorgen,"
 	.byte NewLine
-	.text "justice for his crimes."
+	.text "dass er Gerechtigkeit für seine Verbrechen erfährt."
 	.byte WaitForA
 	
 	.byte EndText
@@ -303,15 +303,15 @@ dialogueChapter02xEnding1
 	.word LoadPortrait
 	.word leif_portrait
 	
-	.text "The pirates seem to have escaped,"
+	.text "Die Piraten scheinen entkommen zu sein,"
 	.byte NewLine
-	.text "but never mind that—is the cleric safe?"
+	.text "aber das ist nicht wichtig—ist die Geistliche sicher?"
 	.byte WaitForA
 
 	.byte Right_slot
 	.word LoadPortrait
 	.word augustus_potrait
-	.text "Ahem. I've found her, sire."
+	.text "Ahem. Ich habe sie gefunden, Sire."
 	.byte WaitForA
 	.byte ScrollText
 	
@@ -323,163 +323,163 @@ dialogueChapter02xEnding1
 	.word LoadPortrait
 	.word safie_portrait
 	
-	.text "Thank you, kind folk. I owe you my—"
+	.text "Vielen Dank, gütige Leute. Ich schulde Euch meinen—"
 	.byte WaitForA
 	.byte ScrollText
-	.text "Hm? Is that...?"
-	.byte WaitForA
-
-	.byte Left_slot
-	.byte ScrollText
-	.text "I beg your pardon, milady."
-	.byte NewLine
-	.text "Battle is dirty business, and if I have"
-	.byte NewLine
-	.text "some grime or blood on my face—"
-	.byte WaitForA
-
-	.byte Right_slot
-	.byte ScrollText
-	.text "Have you forgotten me already, Lord Leif?"
-	.byte NewLine
-	.text "It's me, Safy—we met in Tahra."
+	.text "Hm? Ist das...?"
 	.byte WaitForA
 
 	.byte Left_slot
 	.byte ScrollText
-	.text "Safy, you say? I knew a young woman"
+	.text "Ich bitte um Verzeihung, Milady."
 	.byte NewLine
-	.text "at the monastery in Tahra by that name."
+	.text "Das Kämpfen ist eine schmutzige Angelegenheit und"
+	.byte NewLine
+	.text "falls ich irgendeinen Schmutz oder Blut auf meinem Gesicht habe—"
 	.byte WaitForA
 
 	.byte Right_slot
 	.byte ScrollText
-	.text "I only had the honor of seeing you"
+	.text "Habt Ihr mich bereits vergessen, Lord Leif?"
 	.byte NewLine
-	.text "two or three times, milord."
-	.byte NewLine
-	.text "I suppose I wasn't as memorable as I thought!"
-	.byte WaitForA
-	.byte ScrollText
-	.text "Still, you left an impression on me all the same."
-	.byte NewLine
-	.text "When you departed the city, it was I"
-	.byte NewLine
-	.text "who wiped Lady Linoan's face of tears."
+	.text "Ich bin es, Safy—wir trafen uns in Tahra."
 	.byte WaitForA
 
 	.byte Left_slot
 	.byte ScrollText
-	.text "Ah, now I can place you."
+	.text "Safy, sagt Ihr? Ich kannte eine junge Frau mit"
 	.byte NewLine
-	.text "Your father was a priest, and you were rather"
-	.byte NewLine
-	.text "close with Linoan, were you not?"
+	.text "diesem Namen, die beim Kloster in Tahra war."
 	.byte WaitForA
 
 	.byte Right_slot
 	.byte ScrollText
-	.text "As close as a woman of common birth can be, I"
+	.text "Ich hatte nur zwei oder drei Male die Ehre,"
 	.byte NewLine
-	.text "suppose. The Duke of Tahra was Lady Linoan's"
+	.text "Euch zu treffen, Milord."
 	.byte NewLine
-	.text "father, and I am more her servant than peer."
+	.text "Ich schätze, ich war nicht so erinnerungswürdig, wie ich dachte!"
+	.byte WaitForA
+	.byte ScrollText
+	.text "Trotzdem habt ihr trotzdem einen Eindruck bei mir hinterlassen."
+	.byte NewLine
+	.text "Als Ihr aus der Stadt abgereist seid, war ich es,"
+	.byte NewLine
+	.text "welche die Trönen von Lady Linoans Gesicht wischte."
 	.byte WaitForA
 
 	.byte Left_slot
 	.byte ScrollText
-	.text "That aside, how did you come to be here?"
+	.text "Ah, jetzt kann ich Euch einordnen."
 	.byte NewLine
-	.text "Has something happened to Linoan?"
+	.text "Euer Vater war ein Priester und Ihr wart"
+	.byte NewLine
+	.text "Linoan ziemlich nahe, nicht wahr?"
 	.byte WaitForA
 
 	.byte Right_slot
 	.byte ScrollText
-	.text "You mean to say you don't know"
+	.text "So nahe wie eine Frau von gewöhnlicher Geburt sein kann,"
 	.byte NewLine
-	.text "what's happened to Tahra since you left?"
+	.text "schätze ich. Der Herzog von Tahre war Lady Linoans Vater"
 	.byte NewLine
-	.text "Ah... Let me start from the beginning."
-	.byte WaitForA
-	.byte ScrollText
-	.text "After the Duke passed away,"
-	.byte NewLine
-	.text "the Empire installed their own governor."
-	.byte WaitForA
-	.byte ScrollText
-	.text "The man proved to be a walking pox, inflicting"
-	.byte NewLine
-	.text "tragedy after tragedy upon us. Just this year,"
-	.byte NewLine
-	.text "they even began child hunts in Tahra."
+	.text "und ich war eher ihre Dienerin, als eine Gleichgestellte."
 	.byte WaitForA
 
 	.byte Left_slot
 	.byte ScrollText
-	.text "Child hunts...?"
+	.text "Davon abgesehen, wie seid ihr hierher gekommen?"
+	.byte NewLine
+	.text "Ist Linoan etwas geschehen?"
 	.byte WaitForA
 
 	.byte Right_slot
 	.byte ScrollText
-	.text "That proved to be the breaking point."
+	.text "Ihr meint, dass Ihr nicht wisst, was mit Tahra"
 	.byte NewLine
-	.text "The people of Tahra revolted,"
+	.text "geschehen ist, seitdem ihr gegangen seid?"
 	.byte NewLine
-	.text "installing Lady Linoan as rightful Duchess."
+	.text "Ah... Lasst mich beim Anfang anfangen"
 	.byte WaitForA
 	.byte ScrollText
-	.text "They hired any sellsword who could stand"
+	.text "Nachdem der Herzog verstorben ist, setzte"
 	.byte NewLine
-	.text "upright, and then sent offerings of gold and"
-	.byte NewLine
-	.text "gemstones to the Empire's leading noblemen."
+	.text "das Imperium seinen eigenen Gouverneur ein."
 	.byte WaitForA
 	.byte ScrollText
-	.text "It was...an admirable effort, but King Bloom"
+	.text "Der Mann bewies sich als eine wandelne Fäule und"
 	.byte NewLine
-	.text "of Thracia did not forgive such a slight, and"
+	.text "fügte und Tragödie nach Tragödie zu. Erst dieses"
 	.byte NewLine
-	.text "summoned the Imperial Army to besiege Tahra."
-	.byte WaitForA
-	.byte ScrollText
-	.text "The sellswords proved craven and fled,"
-	.byte NewLine
-	.text "and now only a handful of militiamen"
-	.byte NewLine
-	.text "stand between the Empire and our city."
-	.byte WaitForA
-	.byte ScrollText
-	.text "Lady Linoan bade me leave and seek out any"
-	.byte NewLine
-	.text "who would fight in Tahra's defense."
+	.text "Jahr fingen sie sogar Kinderjagten in Tahra an."
 	.byte WaitForA
 
 	.byte Left_slot
 	.byte ScrollText
-	.text "Are things truly that dire...?"
-	.byte NewLine
-	.text "The Duke sheltered me for half a decade before"
-	.byte NewLine
-	.text "the Empire learned of it and had him executed."
-	.byte WaitForA
-	.byte ScrollText
-	.text "Not a day goes by that I don't think"
-	.byte NewLine
-	.text "of his generosity..."
-	.byte WaitForA
-	.byte ScrollText
-	.text "You're seeking folk to aid Tahra? Look no more."
-	.byte NewLine
-	.text "I pledge to deliver Tahra from this evil."
-	.byte NewLine
-	.text "Let's be off, Safy."
+	.text "Kinderjagten...?"
 	.byte WaitForA
 
 	.byte Right_slot
 	.byte ScrollText
-	.text "You will be most welcome in Tahra, Lord Leif."
+	.text "Dies bewies sich als der Störgrenzpegel."
 	.byte NewLine
-	.text "Thank you."
+	.text "Die Leute von Tahra rebellierten und setzten"
+	.byte NewLine
+	.text "Lady Linoan als rechtmäßige Herzogin ein."
+	.byte WaitForA
+	.byte ScrollText
+	.text "Sie heuerten jegliche Mietklinge an, die aufrecht"
+	.byte NewLine
+	.text "stehen konnte und sendeten Opfergaben von Gold und"
+	.byte NewLine
+	.text "Edelsteinen an den anführenden Edelmann des Imperiums."
+	.byte WaitForA
+	.byte ScrollText
+	.text "Es war...eine bewundernswerte Leistung, aber König Bloom"
+	.byte NewLine
+	.text "von Thracia vergab solch eine Herabsetzung nicht und"
+	.byte NewLine
+	.text "rief die Imperiale Armee herbei, um Tahra zu belagern."
+	.byte WaitForA
+	.byte ScrollText
+	.text "Die Mietklingen stellten sich als feige heraus und flohen,"
+	.byte NewLine
+	.text "und jetzt stehen nur eine Handvoll von Militärmännern"
+	.byte NewLine
+	.text "zwischen dem Imperium und unserer Stadt."
+	.byte WaitForA
+	.byte ScrollText
+	.text "Lady Linoan bat mich, zu gehen und jegliche Leute zu ersuchen,"
+	.byte NewLine
+	.text "welche Tahra zur Hilfe kämpfen würden."
+	.byte WaitForA
+
+	.byte Left_slot
+	.byte ScrollText
+	.text "Stehen die Dinge wirklich so schrecklich...?"
+	.byte NewLine
+	.text "Der Herzog hatte mich für einen halben Jahrzehnt"
+	.byte NewLine
+	.text "behütet, bevor das Imperium davon erfuhr und ihn dafür exekutieren lies."
+	.byte WaitForA
+	.byte ScrollText
+	.text "Nicht ein Tag vergeht, an dem ich nicht über seine"
+	.byte NewLine
+	.text "Großzügigkeit nachdenke..."
+	.byte WaitForA
+	.byte ScrollText
+	.text "Ihr sucht Leute, die Tahra helfen sollen? Dann sucht nicht weiter."
+	.byte NewLine
+	.text "Ich schwöre, Tahra von diesem Bösen zu erlösen."
+	.byte NewLine
+	.text "Lasst uns gehen, Safy."
+	.byte WaitForA
+
+	.byte Right_slot
+	.byte ScrollText
+	.text "Ihr werdet in Tahra herzlich willkommen sein, Lord Leif."
+	.byte NewLine
+	.text "Vielen Dank."
 	.byte WaitForA
 	
 	.byte EndText
@@ -496,22 +496,22 @@ dialogueChapter02xEnding2
 .byte ScrollText
 .word LoadPortrait
 .word lifis_portrait
-.text "Well, don't keep me in suspense."
+.text "Nun, spannt mich nicht auf die Folter."
 .byte NewLine
-.text "What are you gonna do with me?"
+.text "Was werdet ihr mit mir machen?"
 .byte WaitForA
 
 .byte Left_slot
-.text "That's up to the villagers of Iz. We're taking"
+.text "Das liegt bei den Dörflern von Iz. Wir nehmen Euch"
 .byte NewLine
-.text "you back there to answer for your crimes."
+.text "dorthin zurück, damit Ihr für Eure Verbrechen gradesteht."
 .byte WaitForA
 
 .byte Right_slot
 .byte ScrollText
-.text "We both know what'll happen! You handin' me"
+.text "Wir wissen beide, was geschehen wird! Mich ihnen zu übergehen"
 .byte NewLine
-.text "over to them is as good as killin' me yourself!"
+.text "ist genauso, wie wenn Ihr mich selbst töten würdet!"
 .byte WaitForA
 
 .byte Left_slot ; Left slot
@@ -521,9 +521,9 @@ dialogueChapter02xEnding2
 
 .byte Right_slot
 .byte ScrollText
-.text "Safy, c'mon, we had a deal—"
+.text "Safy, kommt schon, wir hatten eine Abmachung—"
 .byte NewLine
-.text "I said I'd go to Tahra with you!"
+.text "Ich sagte, dass ich mit Euch nach Tahra gehen würde!"
 .byte WaitForA
 .byte ScrollText
 
@@ -534,19 +534,19 @@ dialogueChapter02xEnding2
 .byte Right_slot
 .word LoadPortrait
 .word safie_portrait
-.text "...Lord Leif, Lifis is not an evil man."
+.text "...Lord Leif, Lifis ist kein böser Mann."
 .byte WaitForA
 .byte ScrollText
-.text "He's committed many foul acts as a pirate, yes,"
+.text "Er hat als ein Pirat viele verdorbene Taten begangen, ja,"
 .byte NewLine
-.text "but he seemed genuinely repentant"
+.text "aber er schien ernsthaft reumütig zu sein,"
 .byte NewLine
-.text "when we spoke earlier."
+.text "als wir zuvor sprachen."
 .byte WaitForA
 .byte ScrollText
-.text "Give him a chance to redeem himself"
+.text "Gebt ihm eine Chance, sich vor den Augen"
 .byte NewLine
-.text "in the eyes of the gods."
+.text "der Götter reinzuwaschen."
 .byte WaitForA
 
 .byte ScrollText
@@ -554,9 +554,9 @@ dialogueChapter02xEnding2
 .word lifis_portrait
 
 .byte Left_slot
-.text "...All right. If Safy believes in you,"
+.text "...Alles klar. Wenn Safy an Euch glaubt, dann,"
 .byte NewLine
-.text "I can give you a chance for the time being."
+.text "kann ich Euch fürs Erste eine Chance geben."
 .byte WaitForA
 
 .byte ScrollText
@@ -565,25 +565,25 @@ dialogueChapter02xEnding2
 
 .byte Right_slot
 .byte ScrollText
-.text "Hah, I've cheated death once again!"
+.text "Hah, ich habe erneut den Tod überlistet!"
 .byte NewLine
-.text "Just gotta wait for the right opening,"
+.text "Jetzt muss ich nur für die richtige Gelegenheit warten"
 .byte NewLine
-.text "then I'll book it."
+.text "und dann hau ich ab."
 .byte WaitForA
 .byte ScrollText
-.text "But come to think of it..."
+.text "Aber wenn ich darüber nachdenke..."
 .byte NewLine
-.text "If that boy's really the missing Leonster heir,"
+.text "Wenn dieser Junge wirklich der abgängige Erbe von Leonster"
 .byte NewLine
-.text "the Empire'd pay mighty well to hear of it..."
+.text "ist, dann könnte das Imperium ziemlich gut dafür betahlen, davon zu hören..."
 .byte WaitForA
 .byte ScrollText
-.text "It's worth mulling over, at least."
+.text "Es ist zumindest der Überlegung wert."
 .byte NewLine
-.text "Either way, it'll have to wait until after Safy"
+.text "Egal wie, werde ich warten müssen, bis nachdem Safy"
 .byte NewLine
-.text "has given in to my many charms!"
+.text "sich meinen vielen Charmes ergeben hat!"
 .byte WaitForA
 
 .byte EndText

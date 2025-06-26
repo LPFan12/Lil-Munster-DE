@@ -1,72 +1,72 @@
 dialogueArenaIntro
 
-	.text "This 'ere's an arena."
+	.text "Das hier ist 'ne Arena."
 	.byte NewLine
-	.text "You up for some bloodsport, mate?"
+	.text "Biste für etwas Blutsport bereit, Kumpel?"
 .byte EndTextNoPortraitFade
 
 dialogueArenaGoodLuck
 
-	.text "Good luck."
+	.text "Alles gute."
 	.byte NewLine
-	.text "Don't get yourself killed, eh?"
+	.text "Lass dich nicht umbringen, gell?"
 .byte EndTextNoPortraitFade
 
 dialogueArenaSurrender
 
-	.text "The fight's to the death, but you"
+	.text "Der Kampf ist bis zum Tod, aber du"
 	.byte NewLine
-	.text "can [press B] to yield."
+	.text "kannst [B drücken], um aufzugeben."
 .byte EndTextNoPortraitFade
 
 dialogueArenaLeave
 
-	.text "If you ain't payin', you ain't stayin'."
+	.text "Wenn du nicht zahlst, dann bleibste nich'."
 	.byte NewLine
-	.text "Get lost."
+	.text "Verschwinde."
 .byte EndTextNoPortraitFade
 
 dialogueArenaSurrendered
 
-	.text "Givin' up already?"
+	.text "Gibste bereits auf?"
 	.byte NewLine
-	.text "Guess I'll be pocketin' yer wager."
+	.text "Schätze, ich werde deinen Wettsatz behalten."
 .byte EndTextNoPortraitFade
 
 dialogueArenaLost
 
-	.text "Tch..."
+	.text "Tss..."
 	.byte NewLine
-	.text "Dyin' ain't no way to make a livin'."
+	.text "Mit dem Sterben kann man sein Leben nicht bestreiten."
 .byte EndTextNoPortraitFade
 
 dialogueArenaNoMoney
 
-	.text "Short on coin? Beat it, then."
+	.text "Der Münze knapp? Verzieh dich dann."
 .byte EndTextNoPortraitFade
 
 dialogueArenaDraw
 
-	.text "Nothing's more boring than a tie..."
+	.text "Nichts ist langweiliger, als ein Unentschieden..."
 	.byte NewLine
-	.text "Well, here's yer coin back."
+	.text "Nun, hier ist dein Zaster wieder."
 .byte EndTextNoPortraitFade
 
 dialogueArenaWager
-	.text "You up fer wagerin'"
+	.text "Bereit für eine Wette?"
 	.byte NewLine
 	.byte $00, $24 ; display number?
-	.text " gold?"
+	.text " Gold?"
 .byte EndTextNoPortraitFade
 
 
 dialogueArenaYesNo
-	.text "Yes        No"
+	.text "Ja         Nein"
 .byte EndTextNoPortraitFade
 
 dialogueArenaWin
-	.text "Quite the sight. Here's yer reward:"
+	.text "Ein ziemlicher Anblick. Hier ist deine Belohnung:"
 	.byte NewLine
 	.byte $00, $24 ; display number?
-	.text " gold."
+	.text " Gold."
 .byte EndTextNoPortraitFade

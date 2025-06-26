@@ -215,125 +215,7 @@ dialogueChapter19BalladPureWater
 .text "Leonster."
 .byte WaitForA
 .byte ScrollText
-.text "I was just about to sing of the Aed Massacre,"
-.byte NewLine
-.text "the start of this kingdom's decline..."
-.byte WaitForA
-.word PlayMusic
-.byte $4F
-.byte ScrollText
-.text "In seasons past, Leonster thrived with Quan"
-.byte NewLine
-.text "upon its throne"
-.byte WaitForA
-.byte NewLine
-.text "Though less esteemed,"
-.byte NewLine
-.text "Travant had dreamed"
-.byte NewLine
-.text "Of making it his own"
-.byte WaitForA
-.byte ScrollText
-.text "Quan's kin by marriage, Sigurd, was the victim"
-.byte NewLine
-.text "of a coup"
-.byte WaitForA
-.byte NewLine
-.text "Quan had no stake"
-.byte NewLine
-.text "But told him: “Take"
-.byte NewLine
-.text "the aid I bring to you.”"
-.byte WaitForA
-.byte ScrollText
-.text "The limber bond of friendship was a noose"
-.byte NewLine
-.text "around his neck"
-.byte WaitForA
-.byte NewLine
-.text "Quan planned a course"
-.byte NewLine
-.text "With half his force"
-.byte NewLine
-.text "Embarking on the trek"
-.byte WaitForA
-.byte ScrollText
-.text "And so with gallant mounted knights and"
-.byte NewLine
-.text "Queen upon her steed"
-.byte WaitForA
-.byte NewLine
-.text "He slowly marched"
-.byte NewLine
-.text "Determined, parched"
-.byte NewLine
-.text "Across the desert Aed"
-.byte WaitForA
-.byte ScrollText
-.text "But oh how Travant had waited"
-.byte NewLine
-.text "And followed, hushed as death"
-.byte WaitForA
-.byte NewLine
-.text "His flyers would not be sated"
-.byte NewLine
-.text "Till Quan drew his final breath"
-.byte WaitForA
-.byte ScrollText
-.text "So from the sky a swarm of foes came soaring"
-.byte NewLine
-.text "into view"
-.byte WaitForA
-.byte NewLine
-.text "Their numbers vast,"
-.byte NewLine
-.text "Their dragons fast,"
-.byte NewLine
-.text "Their lances aiming true"
-.byte WaitForA
-.byte ScrollText
-.text "The startled knights could not escape,"
-.byte NewLine
-.text "the desert held them fast"
-.byte WaitForA
-.byte NewLine
-.text "They had to stand"
-.byte NewLine
-.text "Upon the sand"
-.byte NewLine
-.text "As bloody wounds amassed"
-.byte WaitForA
-.byte ScrollText
-.text "The heart that bled for Sigurd led his forces"
-.byte NewLine
-.text "to their end"
-.byte WaitForA
-.byte NewLine
-.text "His kingdom snatched"
-.byte NewLine
-.text "His queen dispatched"
-.byte NewLine
-.text "No respite for his friend"
-.byte WaitForA
-.byte ScrollText
-.text "This world is not an ally, it is sinister and cruel"
-.byte WaitForA
-.byte NewLine
-.text "What Quan forgot"
-.byte NewLine
-.text "Travant did not:"
-.byte NewLine
-.text "The caring man's the fool"
-.byte WaitForA
-.byte ScrollText
-.text "And Sigurd, he took to weeping"
-.byte NewLine
-.text "As Thracia took their rule"
-.byte WaitForA
-.byte NewLine
-.text "There's no other code worth keeping"
-.byte NewLine
-.text "Aye, the caring man's the fool"
+.text "I hope it will be useful to you."
 .byte WaitForA
 
 .byte EndText
@@ -397,25 +279,18 @@ dialogueChapter19SpeedRingHouse
 .byte Right_slot
 .word LoadPortrait
 .word braidedgirl_portrait
-.text "I've been saving the nearby Thracians"
+.text "What's wrong with you?"
 .byte NewLine
-.text "from starving by giving them"
+.text "You're fighting to save Thracia,"
 .byte NewLine
-.text "a tenth of our crops."
+.text "but you seem too slow."
 .byte WaitForA
 .byte ScrollText
-.text "This Speed Ring is what lets me"
+.text "Here, I'll give you this speed ring,"
 .byte NewLine
-.text "smuggle the supplies so quickly!"
+.text "and you can take your opponents"
 .byte NewLine
-.text "The others are shocked by how fast I am!"
-.byte WaitForA
-.byte ScrollText
-.text "But with the Empire here now, it looks like"
-.byte NewLine
-.text "I won't be able to sneak food over for a while."
-.byte NewLine
-.text "Why don't you hang on to it for the time being?"
+.text "by surprise!"
 .byte WaitForA
 
 .byte EndText
@@ -502,7 +377,7 @@ dialogueChapter19HealHouse2
 .byte Right_slot
 .word LoadPortrait
 .word oldman_portrait
-.text "Flyin' Forseti! The other knights"
+.text "Cycling Ced! The other knights"
 .byte NewLine
 .text "have been hurt pretty bad, right?!"
 .byte WaitForA
@@ -527,11 +402,11 @@ dialogueChapter19WindHouse
 .text "I'm fairly certain it's enchanted..."
 .byte WaitForA
 .byte ScrollText
-.text "I've tried reading from it, and it summons"
+.text "I've tried reading from it, and while"
 .byte NewLine
-.text "the most terrible storm—strong gusts"
+.text "I didn't understand much, it seems to"
 .byte NewLine
-.text "that sweep up anything that isn't nailed down."
+.text "be about summoning strong winds."
 .byte WaitForA
 .byte ScrollText
 .text "So, uh..."

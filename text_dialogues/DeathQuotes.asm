@@ -1,475 +1,534 @@
 dialogueChapter11KempfDeathQuote
-.text "Ugh... What a joke...!"
+.text "Agh... Welch ein Witz...!"
 .byte NewLine
-.text "I must flee this place,"
+.text "Ich muss aus diesem Ort entkommen,"
 .byte NewLine
-.text "at least for the time being..."
+.text "zumindest fürs Erste..."
 .byte WaitForA
 .byte EndText
 
 dialogueChapter11FredDeathQuote
-.text "Olwen... I tried to save you..."
+.text "Olwen... Ich versuchte, Euch zu retten..."
 .byte NewLine
-.text "F-Forgive me..."
+.text "V-Vergebt mir..."
 .byte WaitForA
 .byte EndText
 
 dialogueChapter12SalemDeathQuote
 .text "Perne..."
 .byte NewLine
-.text "I don't have any regrets..."
+.text "Ich habe kein Bedauern..."
 .byte WaitForA
 .byte EndText
 
 dialogueChapter12xPerneDeathQuote
-.text "Ugh..."
+.text "Agh..."
 .byte NewLine
-.text "It's been...quite the ride..."
+.text "Es ist ein...ziemlicher Ritt gewesen..."
 .byte WaitForA
 .byte EndText
 
 dialogueChapter12xTrudeDeathQuote
-.text "Tch..."
+.text "Tss..."
 .byte NewLine
-.text "Was I...not good enough?"
+.text "War ich...nicht gut genug?"
 .byte WaitForA
 .byte EndText
 
 dialogueChapter12xTinaDeath
-.text "B-Big Sis... I'm...sorry..."
+.text "G-große Schwester..."
+.byte NewLine
+.text "Es...tut mir leid..."
 .byte WaitForA
 .byte EndText
 
 dialogueChapter13BaldachDeathQuote		; Unused, but it's the same as his ch14 one
-.text "Wh-What tomfoolery..."
+.text "We-Welch Narretei..."
 .byte NewLine
-.text "How...could...this..."
+.text "Wie...konnte...das..."
 .byte WaitForA
 .byte EndText
 
 dialogueChapter16AConomorDeathQuote
-.text "Ulster shall yet...rise again..."
+.text "Ulster wird erneut...aufsteigen..."
 .byte WaitForA
 .byte EndText
 
 dialogueChapter17BSaraDeathQuote
-.text "I feel so...alone..."
+.text "Ich fühle mich...so einsam..."
 .byte WaitForA
 .byte EndText
 
 dialogueChapter19WolfeDeathQuote
-.text "Ugh..."
+.text "Agh..."
 .byte NewLine
-.text "This...isn't possible..."
+.text "Das...ist nicht möglich..."
 .byte WaitForA
 .byte EndText
 
 dialogueChapter24GalzusDeathQuote
-.text "Ugh..."
+.text "Agh..."
 .byte NewLine
-.text "Mareeta... I'm..."
+.text "Mareeta... Es tut..."
 .byte WaitForA
 .byte EndText
 
 dialogueChapter24RaydrikDeathQuote
-.text "Ugggh...!"
+.text "Agggh...!"
 .byte NewLine
-.text "This is...absurd..."
+.text "Das ist...lächerlich..."
 .byte NewLine
-.text "How could...these...children..."
+.text "Wie konnten...diese...Kinder..."
 .byte WaitForA
 .byte ScrollText
-.text "Bishop Veld... I beg of you..."
+.text "Bischof Veld... Ich flehe Euch an..."
 .byte NewLine
-.text "I don't want...to die..."
+.text "Ich will nicht...sterben..."
 .byte NewLine
-.text "Help...me..."
+.text "Gah..."
 .byte WaitForA
 .byte EndText
 
 dialogueLeifDeathQuote
-.text "Everyone..."
+.text "Ihr alle..."
 .byte NewLine
-.text "I-I'm...sorry..."
+.text "E-es tut mir...leid..."
 .byte WaitForA
 .byte EndText
 
 dialogueFinnDeathQuote
 .text "Lord Leif..."
 .byte NewLine
-.text "Y-You must...fulfill"
+.text "I-ihr müsst...den Wunsch"
 .byte NewLine
-.text "your lord father's dying wish..."
+.text "Eures Herr Vaters erfüllen..."
 .byte WaitForA
 .byte EndText
 
 dialogueOsianDeathQuote
-.text "D-Dammit...! There's no"
+.text "V-verdammt...! Man kann"
 .byte NewLine
-.text "patching over...this mistake..."
+.text "diesen Fehler...nicht ausbessern..."
 .byte WaitForA
 .byte EndText
 
 dialogueHalvanDeathQuote
-.text "Ma... Pa... I'm sorry..."
+.text "Ma... Pa... Es tut mir leid..."
 .byte NewLine
-.text "I...lasted as long as I could..."
+.text "Ich...hielt solange ich"
+.byte NewLine
+.text "konnte durch..."
 .byte WaitForA
 .byte EndText
 
 dialogueEyvelDeathQuote
-.text "Everyone... S-Someday this will all"
+.text "Ihr alle... E-eines Tages wird"
 .byte NewLine
-.text "just be a bad memory... So don't"
+.text "dies alles nur eine schlechte"
 .byte NewLine
-.text "you give up. Never...give...up..."
+.text "Erinnerung sein..."
+.byte WaitForA
+.byte ScrollText
+.text "Also gebt bloß nicht auf."
+.byte NewLine
+.text "Gebt...niemals...auf..."
 .byte WaitForA
 .byte EndText
 
 dialogueDagdarDeathQuote
-.text "I...led an awful strange life,"
+.text "Ich...führte ein schreckliches,"
 .byte NewLine
-.text "didn't I...? But it was MY life,"
+.text "seltsames Leben, nicht wahr...?"
+.byte WaitForA
+.byte ScrollText
+.text "Aber es war MEIN Leben und"
 .byte NewLine
-.text "an' I've got no regrets..."
+.text "ich habe keine Bedauern..."
 .byte WaitForA
 .byte EndText
 
 dialogueMartyDeathQuote
-.text "Th-That's an awful lotta blood..."
+.text "D-Das ist eine schreckliche Menge"
 .byte NewLine
-.text "Wh-Why me...? What'd I do...?"
+.text "Blut... W-Warum ich...? Was habe"
+.byte NewLine
+.text "ich getan...?"
 .byte WaitForA
 .byte EndText
 
 dialogueRonanDeathQuote
-.text "Ugh...! Ma... I'm scared..."
+.text "Agh...! Ma... Ich habe Angst..."
 .byte WaitForA
 .byte EndText
 
 dialogueMirandaDeathQuote
-.text "Aah, Prince Leif..."
+.text "Aah, Prinz Leif..."
 .byte NewLine
-.text "If I could just go back..."
+.text "Wenn ich nur zurück könnte..."
 .byte NewLine
-.text "Back to that...time..."
+.text "Zurück zu jener...Zeit..."
 .byte WaitForA
 .byte EndText
 
 dialogueSafyDeathQuote
-.text "...Gods above, return your light..."
+.text "...Götter über uns, lasst euer Licht..."
 .byte NewLine
-.text "to this world..."
+.text "in diese Welt zurückkehren..."
 .byte WaitForA
 .byte EndText
 
 dialogueLaraDeathQuote
-.text "Heh... Maybe in the next life,"
+.text "Heh... Vielleicht im nächsten Leben,"
 .byte NewLine
-.text "I can be...something more..."
+.text "kann ich...mehr sein..."
 .byte WaitForA
 .byte EndText
 
 dialogueBrightonDeathQuote
-.text "Ugh! I... I just wanted things"
+.text "Agh! Ich... Ich wollte nur, dass die"
 .byte NewLine
-.text "to go back...the way they were..."
+.text "Dinge dazu zurückkehren...wie sie"
+.byte NewLine
+.text "waren..."
 .byte WaitForA
 .byte EndText
 
 dialogueFergusDeathQuote
-.text "Ugh... L-Like hell am I dyin' here..."
+.text "Agh... V-Verdammt soll ich sein,"
 .byte NewLine
-.text "I still got so much...to..."
+.text "wenn ich hier sterbe..."
+.byte NewLine
+.text "Ich habe immernoch so viel...zu..."
 .byte WaitForA
 .byte EndText
 
 dialogueEdaDeathQuote
-.text "Kate, my faithful dragon..."
+.text "Kate, mein loyaler Drache..."
 .byte NewLine
 .text "Thank you."
 .byte WaitForA
 .byte ScrollText
-.text "You've done enough..."
+.text "Du hast genug getan..."
 .byte NewLine
-.text "Go home...to...Thracia..."
+.text "Gehe zurück...nach...Thracia..."
 .byte WaitForA
 .byte EndText
 
 dialogueAsbelDeathQuote
-.text "Lord Leif... P-please..."
+.text "Lord Leif... B-Bitte..."
 .byte NewLine
-.text "For Thracia..."
+.text "Für Thracia..."
 .byte WaitForA
 .byte EndText
 
 dialogueMachaDeathQuote
-.text "I...wanted to see Munster become..."
+.text "Ich...wollte sehen, wie Munster..."
 .byte NewLine
-.text "the beautiful land it once was..."
+.text "das wunderschöne Land wird,"
+.byte NewLine
+.text "das es einst war..."
 .byte WaitForA
 .byte EndText
 
 dialogueHicksDeathQuote
-.text "Murphy... Keep yerself safe..."
+.text "Murphy... Halte dich sicher..."
 .byte NewLine
-.text "An' grow up far away from all this..."
+.text "Und wachse weit weg von all"
+.byte NewLine
+.text "dem auf..."
 .byte WaitForA
 .byte EndText
 
 dialogueNannaDeathQuote
-.text "Lord Leif... Don't you dare lose..."
+.text "Lord Leif... Wagt es nicht,"
+.byte NewLine
+.text "zu verlieren..."
 .byte WaitForA
 .byte EndText
 
 dialogueSelphinaDeathQuote
-.text "*Huff... Huff...*"
+.text "*Schnaub... Schnaub...*"
 .byte NewLine
-.text "I...made it this far..."
+.text "Ich...schaffte es so weit..."
 .byte NewLine
-.text "Please forgive me, Glade..."
+.text "Vergebe mir bitte, Glade..."
 .byte WaitForA
 .byte EndText
 
 dialogueDalsinDeathQuote
-.text "D-Damn! Jubel..."
+.text "V-Verdammt! Jubel..."
 .byte NewLine
-.text "Live a long and happy life"
+.text "Lebe ein langes und glückliches"
 .byte NewLine
-.text "with yer sister..."
+.text "Leben mit deiner Schwester..."
 .byte WaitForA
 .byte EndText
 
 dialogueCallionDeathQuote
-.text "L-Leonster will...rise again..."
+.text "L-Leonster wird..."
+.byte NewLine
+.text "sich erneut erheben..."
 .byte WaitForA
 .byte EndText
 
 dialogueLifisDeathQuote
-.text "Ugh...! S-Safy, I...need..."
+.text "Agh...! S-Safy, ich...muss..."
 .byte WaitForA
 .byte EndText
 
 dialogueKarinDeathQuote
-.text "Queen Erinys... Prince Ced..."
+.text "Königin Erinys... Prinz Ced..."
 .byte NewLine
-.text "I'm sorry..."
+.text "Es tut mir leid..."
 .byte WaitForA
 .byte EndText
 
 dialogueTanyaDeathQuote
-.text "Ugh...! O-Osian... Help...me..."
+.text "Agh...! O-Osian... Helf...mir..."
 .byte WaitForA
 .byte EndText
 
 dialogueMareetaDeathQuote
-.text "M-Mother... I..."
+.text "M-Mutter... Ich..."
 .byte WaitForA
 .byte EndText
 
 dialogueGalzusDeathQuote
-.text "Hah! So this is it..."
+.text "Hah! Das ist es also..."
 .byte NewLine
-.text "You're a...real fascinating sort..."
+.text "Ihr seid eine...sehr faszinierende"
 .byte NewLine
-.text "I was even...able...to...see..."
+.text "Art..."
+.byte WaitForA
+.byte ScrollText
+.text "Ich konnte...sogar...das...sehen..."
 .byte WaitForA
 .byte EndText
 
 dialogueShivaDeathQuote
-.text "How...careless."
+.text "Wie...unvorsichtig."
 .byte NewLine
-.text "All this way, just to die...here..."
+.text "All diesen Weg, nur um"
+.byte NewLine
+.text "hier zu...sterben..."
 .byte WaitForA
 .byte EndText
 
 dialogueKaneDeathQuote
-.text "N-Not yet..."
+.text "N-Noch nicht..."
 .byte NewLine
-.text "My dream... I still...need to..."
+.text "Mein Traum..."
+.byte NewLine
+.text "Ich muss...immernoch..."
 .byte WaitForA
 .byte EndText
 
 dialogueAlbaDeathQuote
-.text "May the banner of Njörun..."
+.text "Soll das Banner von Njörun..."
 .byte NewLine
-.text "fly forever..."
+.text "für immer im Wind wehen..."
 .byte WaitForA
 .byte EndText
 
 dialogueRobertDeathQuote
 .text "Lady Selphina..."
 .byte NewLine
-.text "I wanted to be more useful to you."
+.text "Ich wollte nützlicher für Euch sein."
 .byte NewLine
-.text "I wanted to...stand...beside..."
+.text "Ich wollte...neben...Euch...stehen..."
 .byte WaitForA
 .byte EndText
 
 dialogueWeismannDeathQuote
-.text "D-Damn... You'll...live to regret"
+.text "V-Verdammt... Ihr...werdet das noch"
 .byte NewLine
-.text "this, all of you..."
+.text "bereuen, alle von Euch..."
 .byte WaitForA
 .byte EndText
 
 dialogueBucksDeathQuote
-.text "Ugh... You'll regret this someday..."
+.text "Agh... Ihr werdet das eines Tages"
 .byte NewLine
-.text "I...deserved to die at sea..."
+.text "bereuen... Ich...verdiente, auf"
+.byte NewLine
+.text "der See zu sterben..."
 .byte WaitForA
 .byte EndText
 
 dialogueLobosDeathQuote
-.text "Ugh... You fools..."
+.text "Agh... Ihr Narren..."
 .byte NewLine
-.text "This doesn't end with me..."
+.text "Das hier hört nicht"
+.byte NewLine
+.text "mit mir auf..."
 .byte WaitForA
 .byte EndText
 
 dialogueEisenhauDeathQuote
-.text "What madness..."
+.text "Welch Wahnsinn..."
 .byte NewLine
-.text "I can't...believe...they..."
+.text "Ich kann nicht...glauben..."
+.byte NewLine
+.text "dass sie..."
 .byte WaitForA
 .byte EndText
 
 dialogueLemayDeathQuote
-.text "Elaine... Mahal... Min... I'm sorry..."
+.text "Elaine... Mahal... Min..."
 .byte NewLine
-.text "P-Papa isn't comin' home..."
+.text "Es tut mir leid..."
+.byte NewLine
+.text "P-Papa kommt nicht nach Hause..."
 .byte WaitForA
 .byte EndText
 
 dialogueGomezDeathQuote
-.text "D-Dagdar, boss... I'm sorry... But"
+.text "D-Dagdar, Anführer..."
 .byte NewLine
-.text "everybody was starvin' to death,"
+.text "Es tut mir leid..."
+.byte WaitForA
+.byte ScrollText
+.text "Aber alle waren am verhungern,"
 .byte NewLine
-.text "an' you were too stupid to see it..."
+.text "und du warst zu dumm,"
+.byte NewLine
+.text "um es zu sehen..."
 .byte WaitForA
 .byte EndText
 
 dialogueMerlochDeathQuote
-.text "F-Forgive me, King Travant,"
+.text "V-vergebt mir, König Travant,"
 .byte NewLine
-.text "Your Majesty..."
+.text "Eure Majestät..."
 .byte WaitForA
 .byte EndText
 
 dialogueLargoDeathQuote
-.text "Argh...! So... This is how it ends..."
+.text "Argh...! Also... Ist das,"
+.byte NewLine
+.text "wie es endet..."
 .byte WaitForA
 .byte EndText
 
 dialogueOltophDeathQuote
-.text "G-Glory to House Friege..."
+.text "R-Ruhm für Haus Friege..."
 .byte WaitForA
 .byte EndText
 
 dialogueColhoDeathQuote
 .text "Argggh!"
 .byte NewLine
-.text "You...rotten..."
+.text "Ihr...verdorbenen..."
 .byte WaitForA
 .byte EndText
 
 dialogueFredDeathQuote
 .text "L-Lady Olwen..."
 .byte NewLine
-.text "P-Please...forgive me..."
+.text "B-bitte...vergebt mir..."
 .byte WaitForA
 .byte EndText
 
 dialogueOlwenDeathQuote
-.text "N-Not here...like this..."
+.text "N-Nicht hier..."
 .byte NewLine
-.text "B-Brother..."
+.text "auf diese Weise..."
+.byte NewLine
+.text "B-Bruder..."
 .byte WaitForA
 .byte EndText
 
 dialoguePerneDeathQuote
-.text "Ugh..."
+.text "Agh..."
 .byte NewLine
-.text "So this is...all I could do..."
+.text "Das ist also..."
+.byte NewLine
+.text "alles was ich tun konnte..."
 .byte WaitForA
 .byte EndText
 
 dialogueTrudeDeathQuote
-.text "Hah... So this is it...?"
+.text "Hah... Das war es also...?"
 .byte NewLine
-.text "Perne... I'm sorry..."
+.text "Perne... Es tut mir leid..."
 .byte WaitForA
 .byte EndText
 
 dialogueSalemDeathQuote
-.text "Th-This is the hour of my defeat..."
+.text "D-dies ist die Stunde meiner"
 .byte NewLine
-.text "Still... I've no regrets..."
+.text "Niederlage..."
+.byte WaitForA
+.byte ScrollText
+.text "Trotzdem... habe ich keine"
+.byte NewLine
+.text "Bedauern..."
 .byte WaitForA
 .byte EndText
 
 dialogueTinaDeathQuote
-.text "Why...me...?"
+.text "Warum...ich...?"
 .byte NewLine
-.text "I can't...believe..."
+.text "Ich kann es nicht...glauben..."
 .byte WaitForA
 .byte EndText
 
 dialogueGladeDeathQuote
-.text "Even without me..."
+.text "Selbst ohne mich..."
 .byte NewLine
-.text "Leonster...shall...rise again..."
+.text "wird Leonster..."
+.byte NewLine
+.text "sich erneut...erheben..."
 .byte WaitForA
 .byte EndText
 
 dialogueLisztDeathQuote
-.text "Ugh..."
+.text "Agh..."
 .byte NewLine
-.text "All the glory...the honor..."
+.text "All der Ruhm...die Ehre..."
 .byte NewLine
-.text "that I worked for..."
+.text "die ich mir erarbeitete..."
 .byte WaitForA
 .byte EndText
 
 dialogueHomerDeath
-.text "Ugh!"
+.text "Agh!"
 .byte NewLine
-.text "I-I'm done for..."
+.text "I-Ich bin erledigt..."
 .byte WaitForA
 .byte EndText
 
 dialogueDeanDeathQuote
-.text "D-Damn!"
+.text "V-Verdammt!"
 .byte NewLine
 .text "Linoan..."
 .byte NewLine
-.text "I'm...sorry..."
+.text "Es...tut mir leid..."
 .byte WaitForA
 .byte EndText
 
 dialoguePaulusDeathQuote
-.text "King Bloom, I beg of you..."
+.text "König Bloom, ich flehe Euch an..."
 .byte NewLine
-.text "I've...seen what will happen..."
+.text "Ich habe...gesehen, was passieren"
 .byte NewLine
-.text "It's not...too late..."
+.text "wird... Es ist nicht...zu spät..."
 .byte WaitForA
 .byte EndText
 
 dialogueBaldachDeathQuote
-.text "Wh-What tomfoolery..."
+.text "We-Welch Narretei..."
 .byte NewLine
-.text "How...could...this..."
+.text "Wie...konnte...das..."
 .byte WaitForA
 .byte EndText
 
 dialogueCodhaDeathQuote
-.text "Loptous, lord of all..."
+.text "Loptous, Herr über alles..."
 .byte NewLine
-.text "Take this humble servant's soul..."
+.text "Nehmt die Seele dieses demütigen"
 .byte NewLine
-.text "into your embrace..."
+.text "Dieners... in Eure Umarmung..."
 .byte WaitForA
 .byte EndText
 
@@ -483,256 +542,292 @@ dialogueLinoanDeathQuote
 dialogueRalphDeathQuote
 .text "Hrk..."
 .byte NewLine
-.text "Looks like this is it...for me..."
+.text "Sieht so aus, als wäre es das..."
 .byte NewLine
-.text "I'll leave the rest...to you folks..."
+.text "für mich..."
 .byte WaitForA
+.byte ScrollText
+.text "Ich werde den Rest..."
+.byte NewLine
+.text "euch Leuten überlassen..."
 .byte EndText
 
 dialogueShannamDeathQuote
 .text "Hrk..."
 .byte NewLine
-.text "F-Forgive me, Leif..."
+.text "V-vergebt mir, Leif..."
 .byte WaitForA
 .byte EndText
 
 dialogueAmaldaDeathQuote
-.text "Fitting..."
+.text "Passend..."
+.byte WaitForA
+.byte ScrollText
+.text "Ein Leben das in Blut versunken"
 .byte NewLine
-.text "A life lived steeped in blood"
+.text "gelebt wurde, kann nur mit mehr"
 .byte NewLine
-.text "can only end with more blood..."
+.text "Blut enden..."
 .byte WaitForA
 .byte EndText
 
 dialogueSeilDeathQuote
-.text "Ugh!"
+.text "Agh!"
 .byte NewLine
-.text "D-Damned...fools..."
+.text "V-verdammte...Narren..."
 .byte WaitForA
 .byte EndText
 
 dialogueKempfDeathQuote
-.text "I-Is this...a joke?"
+.text "I-Ist das...ein Witz?"
 .byte NewLine
-.text "How could I...be bested...by them?"
+.text "Wie könnte ich...von ihnen..."
+.byte NewLine
+.text "geschlagen werden?"
 .byte WaitForA
 .byte EndText
 
 dialogueBrookDeathQuote
-.text "Ugh..."
+.text "Agh..."
 .byte NewLine
-.text "This isn't...the end..."
+.text "Das ist nicht...das Ende..."
 .byte WaitForA
 .byte EndText
 
 dialogueIliosDeathQuote
-.text "After all this..."
+.text "Nach all dem..."
 .byte NewLine
-.text "I still die...a commoner..."
+.text "Sterbe ich trotzdem..."
+.byte NewLine
+.text "als ein Gewöhnlicher..."
 .byte WaitForA
 .byte EndText
 
 dialogueSchroffDeathQuote
 .text "Agh...!"
+.byte WaitForA
+.byte ScrollText
+.text "Vater Claud..."
 .byte NewLine
-.text "Father Claud..."
+.text "Ich kann Euren Willen nicht"
 .byte NewLine
-.text "I cannot do your will... I'm...sorry..."
+.text "erfüllen... Es tut mir...leid..."
 .byte WaitForA
 .byte EndText
 
 dialogueMooreDeathQuote
-.text "Loptous, O Lord God..."
+.text "Loptous, Oh Herr Gott..."
 .byte NewLine
-.text "I give myself...to your new era..."
+.text "Ich gebe mich..."
+.byte NewLine
+.text "Eurer neuen Era her..."
 .byte WaitForA
 .byte EndText
 
 dialogueMullerDeathQuote
-.text "Ergh..."
+.text "Argh..."
 .byte NewLine
-.text "It's unthinkable..."
+.text "Es ist undenkbar..."
 .byte NewLine
-.text "We stand...defeated..."
+.text "Wir sind...besiegt..."
 .byte WaitForA
 .byte EndText
 
 dialogueNicolovDeathQuote
-.text "Ugh..."
+.text "Agh..."
+.byte WaitForA
+.byte ScrollText
+.text "Nicht schlecht..."
 .byte NewLine
-.text "Not bad..."
+.text "Schätze, ich konnte es"
 .byte NewLine
-.text "Guess I couldn't do it...after all..."
+.text "am Ende...doch nicht tun..."
 .byte WaitForA
 .byte EndText
 
 dialogueMishaDeath
-.text "Ugh..."
+.text "Agh..."
 .byte NewLine
-.text "Díthorba, my beloved mother..."
+.text "Díthorba, meine geliebte Mutter..."
 .byte NewLine
-.text "I'll see you soon..."
+.text "Ich werde dich bald sehen..."
 .byte WaitForA
 .byte EndText
 
 dialogueReinkochDeathQuote
-.text "O Lord..."
+.text "Oh Herr..."
 .byte NewLine
-.text "I beg for your...divine..."
+.text "Ich flehe nach Eurem...Göttlichen..."
 .byte NewLine
-.text "intervention..."
+.text "Eingriff..."
 .byte WaitForA
 .byte EndText
 
 dialogueSaraDeath
-.text "I feel so...alone..."
+.text "Ich fühle mich so...allein..."
 .byte WaitForA
 .byte EndText
 
 dialogueShannamDeathQuote2
 .text "Ngh..."
 .byte NewLine
-.text "What a stupid way...to..."
+.text "Was für ein Dummer Weg...zu..."
 .byte WaitForA
 .byte EndText
 
 dialoguePalmanDeathQuote
-.text "Castle Friege...is so very far..."
+.text "Schloss Friege..."
+.byte NewLine
+.text "ist so weit weg..."
 .byte WaitForA
 .byte EndText
 
 dialogueXavierDeathQuote
-.text "F-Forgive me, Lord Leif..."
+.text "V-vergebt mir, Lord Leif..."
 .byte NewLine
-.text "Glory...to Leonster...!"
+.text "Ruhm...für Leonster...!"
 .byte WaitForA
 .byte EndText
 
 dialogueGustavDeathQuote
-.text "Ugh..."
+.text "Agh..."
 .byte NewLine
-.text "This rabble...?"
+.text "Dieses Gesindel...?"
 .byte NewLine
-.text "How..."
+.text "Wie..."
 .byte WaitForA
 .byte EndText
 
 dialogueBharatDeathQuote
-.text "Ugh..."
+.text "Agh..."
 .byte NewLine
-.text "So this is...where..."
+.text "Das ist also...wo..."
 .byte WaitForA
 .byte EndText
 
 dialogueDiarmuidDeathQuote
 .text "L-Lord Leif..."
 .byte NewLine
-.text "Take care of Nanna..."
+.text "Kümmert Euch um Nanna..."
 .byte NewLine
-.text "My...dear sister..."
+.text "Meine...geliebte Schwester..."
 .byte WaitForA
 .byte EndText
 
 dialogueSeimetzDeathQuote
-.text "Your Majesty..."
+.text "Eure Majestät..."
 .byte NewLine
-.text "I'm sorry... I...couldn't..."
+.text "Es tut mir leid..."
+.byte NewLine
+.text "Ich...konnte nicht..."
 .byte WaitForA
 .byte EndText
 
 dialogueFrausDeathQuote
-.text "Ugh..."
+.text "Agh..."
 .byte NewLine
-.text "I regret...I...couldn't..."
+.text "Ich bedauere..."
+.byte NewLine
+.text "ich konnte...nicht..."
 .byte WaitForA
 .byte EndText
 
 dialogueZaunDeathQuote
 .text "Gah!"
 .byte NewLine
-.text "No..."
+.text "Nein..."
 .byte NewLine
-.text "Not...like...this..."
+.text "Nicht...auf diese...Weise..."
 .byte WaitForA
 .byte EndText
 
 dialogueCohenDeathQuote
-.text "The Empire...is undefeatable..."
+.text "Das Imperium...ist unbesiegbar..."
 .byte NewLine
 .text "Guhh!"
 .byte WaitForA
 .byte EndText
 
 dialogueReinhardtDeathQuote
-.text "I am...undone..."
+.text "Ich wurde...zu Fall gebracht..."
 .byte WaitForA
 .byte EndText
 
 dialogueCoulterDeathQuote
-.text "Glory...to...Thracia!"
+.text "Ruhm...für...Thracia!"
 .byte NewLine
-.text "Ugh..."
+.text "Agh..."
 .byte WaitForA
 .byte EndText
 
 dialogueAlphandDeathQuote
-.text "Ugh..."
+.text "Agh..."
+.byte WaitForA
+.byte ScrollText
+.text "Noch nicht..."
 .byte NewLine
-.text "Not yet..."
+.text "Ich werde hier..."
 .byte NewLine
-.text "I won't...die...yet..."
+.text "noch nicht...sterben..."
 .byte WaitForA
 .byte EndText
 
 dialogueFadenDeathQuote
-.text "Ugh..."
+.text "Agh..."
 .byte NewLine
-.text "But I was...supposed to..."
+.text "Aber ich...sollte..."
 .byte WaitForA
 .byte EndText
 
 dialogueSaiasDeathQuote
-.text "I can't fight with these wounds..."
+.text "Ich kann mit diesen Wunden"
 .byte NewLine
-.text "I'm of no use like this..."
+.text "nicht kämpfen..."
 .byte NewLine
-.text "I must retreat somewhere safer..."
+.text "Ich bin so nicht von Nutzen..."
+.byte WaitForA
+.byte ScrollText
+.text "Ich muss mich zu irgendeinem"
+.byte NewLine
+.text "sichereren Ort zurückziehen..."
 .byte WaitForA
 .byte EndText
 
 dialogueCedDeathQuote
-.text "So this is it..."
+.text "Das ist es also..."
 .byte NewLine
-.text "Mother..."
+.text "Mutter..."
 .byte WaitForA
 .byte ScrollText
 .text "Fee..."
 .byte NewLine
-.text "Silesse...is in...your..."
+.text "Silesse...liegt in...deinen..."
 .byte WaitForA
 .byte EndText
 
 dialogueVeldDeathQuote
 .text "Gah..."
 .byte NewLine
-.text "This is my...own folly..."
+.text "Dies ist meine...eigene Torheit..."
 .byte NewLine
-.text "But...this isn't the end...!"
+.text "Aber...dies ist nicht das Ende...!"
 .byte WaitForA
 .byte ScrollText
-.text "Even if you kill me,"
+.text "Selbst wenn Ihr mich tötet,"
 .byte NewLine
-.text "Loptous is eternal...and"
-.byte NewLine
-.text "the rebirth of his empire is nigh!"
+.text "Loptous ist immerwährend..."
 .byte WaitForA
 .byte ScrollText
-.text "I may die here..."
+.text "und die Wiedergeburt des Imperiums"
 .byte NewLine
-.text "but you'll struggle and flounder"
+.text "steht bevor!"
+.byte WaitForA
+.byte ScrollText
+.text "Ich mag hier sterben..."
 .byte NewLine
-.text "for the rest of your days...!"
+.text "aber ihr werdet für den Rest eurer"
+.byte NewLine
+.text "Tage zappeln und taumeln...!"
 .byte WaitForA
 .byte ScrollText
 .text "Heh, heh, heh..."
@@ -744,19 +839,22 @@ dialogueVeldDeathQuote
 ; Unused
 
 dialogueGunterDeathQuote
-.text "Oof..."
+.text "Uff..."
 .byte NewLine
-.text "I suppose I've lived long enough..."
+.text "Ich schätze, ich lebte lang genug..."
 .byte NewLine
 .text "Asbel..."
 .byte WaitForA
 .byte EndText
 
 dialogueMannheimDeathQuote
-.text "Ugh...!"
+.text "Agh...!"
 .byte NewLine
-.text "King Bloom, I've failed you..."
+.text "König Bloom, ich habe Euch"
 .byte NewLine
-.text "Please forgive me..."
+.text "im Stich gelassen..."
+.byte WaitForA
+.byte NewLine
+.text "Bitte vergebt mir..."
 .byte WaitForA
 .byte EndText

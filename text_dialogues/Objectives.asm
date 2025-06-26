@@ -1,193 +1,193 @@
 dialogueChapterObjectiveChapter01
-	.text "Seize the manor's gate."
+	.text "Besetze das Tor des Herrenhauses."
 .byte EndTextNoPortraitFade
 
 
 dialogueChapterObjektiveChapter02
-	.text "Seize the manor's gate."
+	.text "Besetze das Tor des Herrenhauses."
 .byte EndTextNoPortraitFade
 
 
 dialogueChapterObjektiveChapter02x
-	.text "Seize the pirate hideout's gate."
+	.text "Besetze das Tor des Piratenverstecks."
 .byte EndTextNoPortraitFade
 
 
 dialogueChapterObjektiveChapter03
-	.text "Seize Kerberos' throne."
+	.text "Besetze Cerberus Thron."
 .byte EndTextNoPortraitFade
 
 
 dialogueChapterObjektivecChapter04
-	.text "Escape the dungeon."
+	.text "Entkomme dem Verlies."
 .byte EndTextNoPortraitFade
 
 
 dialogueChapterObjektiveChapter04x
-	.text "Escape the dungeon."
+	.text "Entkomme dem Verlies."
 .byte EndTextNoPortraitFade
 
 
 dialogueChapterObjektiveChapter05
-	.text "Escape the castle."
+	.text "Entkomme dem Schloss."
 .byte EndTextNoPortraitFade
 
 
 dialogueChapterObjektiveChapter06
-	.text "Escape the city."
+	.text "Entkomme der Stadt."
 .byte EndTextNoPortraitFade
 
 
 dialogueChapterObjektiveChapter07
-	.text "Escape into Castle Meath."
+	.text "Entkomme zu Schloss Meath."
 .byte EndTextNoPortraitFade
 
 
 dialogueChapterObjektiveChapter08
-	.text "Seize the manor's gate."
+	.text "Besetze Seize the manor's gate."
 .byte EndTextNoPortraitFade
 
 
 dialogueChapterObjektiveChapter08x
-	.text "Seize the manor's throne."
+	.text "Besetze das Tor des Herrenhauses."
 .byte EndTextNoPortraitFade
 
 
 dialogueChapterObjektiveChapter09
-	.text "Escape into the villa AND"
+	.text "Entkomme in die Villa und"
 .byte EndTextNoPortraitFade
 
 dialogueChapterObjektiveChapter09Line2
-	.text "prevent foes from reaching it."
+	.text "verhindere, dass Feinde die erreichen."
 .byte EndTextNoPortraitFade
 
 
 dialogueChapterObjektiveChapter10
-	.text "Seize Fort Nowell's gate."
+	.text "Besetzte Festung Nowells Tor."
 .byte EndTextNoPortraitFade
 
 
 dialogueChapterObjektiveChapter11
-	.text "Seize Fort Dundrum's throne."
+	.text "Besetze Festung Dundrums Thron."
 .byte EndTextNoPortraitFade
 
 
 dialogueChapterObjektiveChapter11x
-	.text "Seize Fort Dundrum's throne."
+	.text "Besetze Festung Dundrums Thron."
 .byte EndTextNoPortraitFade
 
 
 dialogueChapterObjektiveChapter12
-	.text "Seize the manor's gate."
+	.text "Besetze das Tor des Herrenhauses."
 .byte EndTextNoPortraitFade
 
 
 dialogueChapterObjektiveChapter12x
-	.text "Seize the manor's throne."
+	.text "Besetze den Thron des Herrenhauses."
 .byte EndTextNoPortraitFade
 
 
 dialogueChapterObjektiveChapter13
-	.text "Escape into Tahra AND"
+	.text "Entkomme zu Tahra und"
 .byte EndTextNoPortraitFade
 
 dialogueChapterObjektiveChapter13Line2
-	.text "prevent foes from reaching the city."
+	.text "verhindere, dass Feinde die Stadt erreichen."
 .byte EndTextNoPortraitFade
 
 
 dialogueChapterObjektiveChapter14
-	.text "Defend Castle Tahra's gate for 10 turns."
+	.text "Verteidige Schloss Tahras Tor für 10 Züge."
 .byte EndTextNoPortraitFade
 
 
 dialogueChapterObjektiveChapter14x
-	.text "Escape the valley."
+	.text "Entkomme dem Tal."
 .byte EndTextNoPortraitFade
 
 
 dialogueChapterObjektiveChapter15
-	.text "Leif arrives at either exit point OR"
+	.text "Leif erreicht entweder den Ausgangspunkt oder"
 .byte EndTextNoPortraitFade
 
 dialogueChapterObjektiveChapter15Line2
-	.text "Leif arrives at the church."
+	.text "Leif erreicht die Kirche."
 .byte EndTextNoPortraitFade
 
 
 dialogueChapterObjektiveChapter16A
-	.text "Seize Fort Nordrhein's gate."
+	.text "Besetze Festung Nordens Tor."
 .byte EndTextNoPortraitFade
 
 
 dialogueChapterObjektiveChapter17A
-	.text "Seize Castle Leonster's gate."
+	.text "Besetze Schloss Leonsters Tor."
 .byte EndTextNoPortraitFade
 
 
 dialogueChapterObjektiveChapter16B
-	.text "Escape the forest."
+	.text "Entkomme dem Wald."
 .byte EndTextNoPortraitFade
 
 
 dialogueChapterObjektiveChapter17B
-	.text "Seize Castle Leonster's gate."
+	.text "Besetze Schloss Leonsters Tor."
 .byte EndTextNoPortraitFade
 
 
 dialogueChapterObjektiveChapter18
-	.text "Seize Castle Leonster's throne."
+	.text "Besetze Schloss Leonsters Thron."
 .byte EndTextNoPortraitFade
 
 
 dialogueChapterObjektiveChapter19
-	.text "Escape into Castle Leonster."
+	.text "Entkomme zu Schloss Leonster."
 .byte EndTextNoPortraitFade
 
 
 dialogueChapterObjektiveChapter20
-	.text "Defend Leonster's throne for 15 turns"
+	.text "Verteidige Leonsters Thron für 15 Züge"
 .byte EndTextNoPortraitFade
 
 dialogueChapterObjektiveChapter20Line2
-	.text "AND defeat Bharat."
+	.text "und besiege Baráth."
 .byte EndTextNoPortraitFade
 
 
 dialogueChapterObjektiveChapter21
-	.text "Seize Fort Danzig's gate."
+	.text "Besetze Festung Danzigs Tor."
 .byte EndTextNoPortraitFade
 
 
 dialogueChapterObjektiveChapter21x
-	.text "Escape the prison camp."
+	.text "Entkomme dem Gefängnislager."
 .byte EndTextNoPortraitFade
 
 
 dialogueChapterObjektiveChapter22
-	.text "Seize the fortress' gate."
+	.text "Besetze das Tor der Festung."
 .byte EndTextNoPortraitFade
 
 
 dialogueChapterObjektiveChapter23
-	.text "Seize Castle Munster's gate AND"
+	.text "Besetze Schloss Munsters Tor und"
 .byte EndTextNoPortraitFade
 
 dialogueChapterObjektiveChapter23Line2
-	.text "prevent the Magi from being wiped out."
+	.text "verhindere, dass die Magi ausgelöscht werden."
 .byte EndTextNoPortraitFade
 
 
 dialogueChapterObjektiveChapter24
-	.text "Seize Castle Munster's throne."
+	.text "Besetze Schloss Munsters Thron."
 .byte EndTextNoPortraitFade
 
 
 dialogueChapterObjektiveChapter24x
-	.text "Escape through the magic seal."
+	.text "Entkomme durch das Magische Siegel."
 .byte EndTextNoPortraitFade
 
 
 dialogueChapterObjektiveChapterFinal
-	.text "Seize the temple's throne."
+	.text "Besetze den Thron des Tempels."
 .byte EndTextNoPortraitFade

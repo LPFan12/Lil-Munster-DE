@@ -1,141 +1,141 @@
 dialogueChapter01Title
-.text "Chapter 1: The Warrior of Fiana"
+.text "Kapitel 1: Der Krieger von Fiana"
 .byte $01
 
 dialogueChapter02Title
-.text "Chapter 2: The Coastal Village"
+.text "Kapitel 2: Das Küstendorf"
 .byte $01
 
 dialogueChapter02xTitle
-.text "Chapter 2x: The Corsair Isles"
+.text "Kapitel 2x: Die Korsareninseln"
 .byte $01
 
 dialogueChapter03Title
-.text "Chapter 3: Kerberos' Gate"
+.text "Kapitel 3: Cerberus Tor"
 .byte $01
 
 dialogueChapter04Title
-.text "Chapter 4: Imprisoned"
+.text "Kapitel 4: Das Verließ"
 .byte $01
 
 dialogueChapter04xTitle
-.text "Chapter 4x: Hero on the Wind"
+.text "Kapitel 4x: Held des Windes"
 .byte $01
 
 dialogueChapter05Title
-.text "Chapter 5: Mother and Daughter"
+.text "Kapitel 5: Mutter und Tochter"
 .byte $01
 
 dialogueChapter06Title
-.text "Chapter 6: The Escape"
+.text "Kapitel 6: Die Flucht"
 .byte $01
 
 dialogueChapter07Title
-.text "Chapter 7: The Shield of Thracia"
+.text "Kapitel 7: Der Schild von Thracia"
 .byte $01
 
 dialogueChapter08Title
-.text "Chapter 8: Mount Violdrake"
+.text "Kapitel 8: Berg Violdrake"
 .byte $01
 
 dialogueChapter08xTitle
-.text "Chapter 8x: Dagdar's Manor"
+.text "Kapitel 8x: Dagdars Herrenhaus"
 .byte $01
 
 dialogueChapter09Title
-.text "Chapter 9: The Banner of Njörun"
+.text "Kapitel 9: Das Banner von Njörun"
 .byte $01
 
 dialogueChapter10Title
-.text "Chapter 10: Nowell Valley"
+.text "Kapitel 10: Nowell-Tal"
 .byte $01
 
 dialogueChapter11Title
-.text "Chapter 11: Fort Dundrum"
+.text "Kapitel 11: Festung Dundrum"
 .byte $01
 
 dialogueChapter11xTitle
-.text "Chapter 11x: Desperate Ground"
+.text "Kapitel 11x: Mörderlöcher"
 .byte $01
 
 dialogueChapter12Title
-.text "Chapter 12: The Bandits of Dacia"
+.text "Kapitel 12: Die Banditen von Dacia"
 .byte $01
 
 dialogueChapter12xTitle
-.text "Chapter 12x: The Dandelion"
+.text "Kapitel 12x: Die Gerechten"
 .byte $01
 
 dialogueChapter13Title
-.text "Chapter 13: The Walled City"
+.text "Kapitel 13: Die Vermauerte Stadt"
 .byte $01
 
 dialogueChapter14Title
-.text "Chapter 14: The Onslaught"
+.text "Kapitel 14: Der Ansturm"
 .byte $01
 
 dialogueChapter14xTitle
-.text "Chapter 14x: Yearning to Breathe Free"
+.text "Kapitel 14x: Sehnsuchtsvoll, Frei zu Atmen"
 .byte $01
 
 dialogueChapter15Title
-.text "Chapter 15: Two Paths"
+.text "Kapitel 15: Zwei Pfade"
 .byte $01
 
 dialogueChapter16ATitle
-.text "Chapter 16: Nordrhein"
+.text "Kapitel 16: Linie Nordens"
 .byte $01
 
 dialogueChapter17ATitle
-.text "Chapter 17: The Gates of Leonster"
+.text "Kapitel 17: Die Tore von Leonster"
 .byte $01
 
 dialogueChapter16BTitle
-.text "Chapter 16: Dark Forest"
+.text "Kapitel 16: Dunkler Wald"
 .byte $01
 
 dialogueChapter17BTitle
-.text "Chapter 17: The Gathering Storm"
+.text "Kapitel 17: Der Aufziehende Sturm"
 .byte $01
 
 dialogueChapter18Title
-.text "Chapter 18: The Liberation of Leonster"
+.text "Kapitel 18: Die Befreiung von Leonster"
 .byte $01
 
 dialogueChapter19Title
-.text "Chapter 19: The Empire's Wrath"
+.text "Kapitel 19: Der Zorn des Imperiums"
 .byte $01
 
 dialogueChapter20Title
-.text "Chapter 20: The Scion of Light"
+.text "Kapitel 20: Der Erbe des Lichts"
 .byte $01
 
 dialogueChapter21Title
-.text "Chapter 21: The War of Liberation"
+.text "Kapitel 21: Der Krieg der Befreiung"
 .byte $01
 
 dialogueChapter21xTitle
-.text "Chapter 21x: The Prison Camp"
+.text "Kapitel 21x: Das Gefängniglager"
 .byte $01
 
 dialogueChapter22Title
-.text "Chapter 22: Beyond the River"
+.text "Kapitel 22: Jenseits des Flusses"
 .byte $01
 
 ; dialogueChapter22xTitle
 
 dialogueChapter23Title
-.text "Chapter 23: The Fiend's Lair"
+.text "Kapitel 23: Das Versteck des Monsters"
 .byte $01
 
 dialogueChapter24Title
-.text "Chapter 24: The Baron in Black"
+.text "Kapitel 24: Der Baron in Schwarz"
 .byte $01
 
 dialogueChapter24xTitle
-.text "Chapter 24x: The Loptrian Altar"
+.text "Kapitel 24x: Der Loptische Altar"
 .byte $01
 
 dialogueChapterFinalTitle
-.text "Endgame: Sworn Upon a Sword"
+.text "Finale: Auf ein Schwert geschworen"
 .byte $01

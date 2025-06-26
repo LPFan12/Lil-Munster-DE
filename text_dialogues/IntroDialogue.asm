@@ -7,22 +7,22 @@ dialogueDemo1
 .byte Left_slot
 .word LoadPortrait
 .word tanya_portrait
-.text "Papa, the fighting's started already!"
+.text "Papa, das Kämpfen hat bereits angefangen!"
 .word PauseDialogue
 .byte $5A
 
 .byte Right_slot
-.text "Ain't no good way to go about this"
+.text "So kann es mit diesem verdammten Kampf"
 .byte NewLine
-.text "damned battle..."
+.text "nicht weitergehen..."
 .word PauseDialogue
 .byte $5A
 .byte ScrollText
-.text "Don't matter how good Eyvel is, there's only"
+.text "Es ist egal wie gut Eyvel ist, es gibt nur eine"
 .byte NewLine
-.text "one of her an' over a dozen of them."
+.text "von ihr und ein Duzend von ihnen."
 .byte NewLine
-.text "We need to hurry."
+.text "Wir müssen uns beeilen."
 .word PauseDialogue
 .byte $5A
 
@@ -41,9 +41,9 @@ dialogueDemo1
 .byte Right_slot
 .word LoadPortrait
 .word marty_portrait
-.text "Oh, fer cryin' out loud!"
+.text "Oh, verdammt noch mal!"
 .byte NewLine
-.text "Not again..."
+.text "Nicht schon wieder..."
 .word PauseDialogue
 .byte $5A
 
@@ -59,28 +59,30 @@ dialogueDemo2
 .byte Left_slot
 .word LoadPortrait
 .word leif_portrait
-.text "Commander, over here!"
+.text "Kommandantin, hier drüben!"
 .byte NewLine
-.text "That village is being raided!"
+.text "Das Dorf wird überfallen!"
 .word PauseDialogue
 .byte $5A
 
 .byte Right_slot
-.text "Hmm... That's Lifis' crew, by the look of it."
-.byte NewLine
+.text "Hmm... Das ist Lifis Besatzung, so wie es aussieht."
 .word PlayMusic
 .byte $23
-.text "They've been quiet as a mouse for a while,"
 .byte NewLine
-.text "but I guess they move fast."
+.text "Sie sind für eine Weile mäuschenstill gewesen,"
+.byte NewLine
+.text "aber ich schätze, dass sie sich schnell bewegen."
 .word PauseDialogue
 .byte $5A
 
 .byte Left_slot
 .byte ScrollText
-.text "And we have to move faster!"
+.text "Und wir müssen uns schneller bewegen!"
 .byte NewLine
-.text "We cannot stand by and allow this to happen!"
+.text "Wir können nicht einfach dastehen und erlauben,"
+.byte NewLine
+.text "dass das passiert!"
 .word PauseDialogue
 .byte $5A
 
@@ -96,24 +98,26 @@ dialogueDemoRaydrik
 .byte Left_slot
 .word LoadPortrait
 .word raydrik_portrait
-.text "You're certain this is the village, Weismann?"
+.text "Ihr seid Euch sicher, dass dies das Dorf ist,"
+.byte NewLine
+.text "Weismann?"
 .word PauseDialogue
 .byte $5A
 
 .byte Right_slot
-.text "Quite certain, milord."
+.text "Ziemlich sicher, Milord."
 .byte NewLine
-.text "There can be no mistake."
+.text "Es kann keinen Irrtum geben."
 .word PauseDialogue
 .byte $5A
 
 .byte Left_slot
 .byte ScrollText
-.text "Then what are you waiting for?"
+.text "Worauf wartet Ihr dann?"
 .byte NewLine
-.text "Find the prince!"
+.text "Findet den Prinzen!"
 .byte NewLine
-.text "I want him in chains within the hour!"
+.text "Ich will ihn noch zu dieser Stunde in Ketten!"
 .word PauseDialogue
 .byte $5A
 
@@ -123,7 +127,7 @@ dialogueDemoRaydrik
 dialogueDemoOsian
 .word $1400
 .byte $00
-.text "You're on, Halvan!"
+.text "Die Wette steht, Halvan!"
 .word PauseDialogue
 .byte $5A
 
@@ -132,11 +136,11 @@ dialogueDemoOsian
 
 dialogueDemoHalvan
 
-.text "Not bad!"
+.text "Nicht schlecht!"
 .byte NewLine
-.text "But you've got a long way to go"
+.text "Aber du hast noch so viel vor dir,"
 .byte NewLine
-.text "before you can beat me!"
+.text "bevor du mich besiegen kannst!"
 .word PauseDialogue
 .byte $5A
 

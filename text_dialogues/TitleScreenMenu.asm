@@ -58,44 +58,44 @@
 ; A §_ is a 1-pixel space.
 
 NewGame
-.text "§_§_New Game"
+.text "§_Neues Spiel"
 .byte EndText
 
 
 ReloadChapter
-.text "Load Game"
+.text "Spiel Laden"
 .byte EndText
 
 CopySave
-.text "Copy Save File"
+.text "Spielstand Kopieren"
 .byte EndText
 
 
 DeleteSave
-.text " Delete Save File"
+.text " §_§_§_§_Spielstand Löschen"
 .byte EndText
 
 SaveChapter
-.text "§_Save Chapter"
+.text "§_Kapitel Speichern"
 .byte EndText
 
 ConfirmCancel
-.text "Confirm      Cancel"
+.text "Bestätig.    Abbruch"
 .byte EndText
 
 ParagonMode
-.text "§_Paragon Mode"
+.text "§_Elite-Modus"
 .byte EndText
 
 ResumeChapter
-.text " §_Resume Chapter"
+.text "§_Kapitel Fortsetzen"
 .byte EndText
 
 .here
 
 * = $8008A
 .logical mapped($8008A)
-.text " --NO DATA--"
+.text " --KEINE DATEN--"
 .byte EndText
 .here
 
@@ -114,7 +114,7 @@ ResumeChapter
 .logical lorom($475550,1)
 
 SRButton
-.text "Sound Room"
+.text "Musikzimmer"
 .byte EndText
 
 .here

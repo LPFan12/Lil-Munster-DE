@@ -231,9 +231,9 @@ dialogueChapter17BElder1
 .text "we've endured over these past ten years?"
 .byte WaitForA
 .byte ScrollText
-.text "Marquess Gustav took our women."
+.text "Marquess Gustav took our young daughters."
 .byte NewLine
-.text "The Loptr Church took our children."
+.text "The Loptr Church took the rest of our children."
 .byte WaitForA
 .byte ScrollText
 .text "The few who tried to resist were killed in the"
@@ -823,14 +823,14 @@ dialogueChapter17BClosing2
 .text "you'll truly be a prince once again."
 .byte WaitForA
 .byte ScrollText
-.text "If you succeed...it will be such a"
+.text "Although now is no time for"
 .byte NewLine
-.text "grand moment that no ceremony, no holiday"
-.byte NewLine
-.text "could be its equal."
+.text "grand ceremonies nor holidays,"
 .byte WaitForA
 .byte ScrollText
-.text "We await the hour of your victory!"
+.text "we all look forward to"
+.byte NewLine
+.text "the hour of your victory!"
 .byte WaitForA
 
 .byte EndText

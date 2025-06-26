@@ -3,25 +3,25 @@ dialogueChapterFinalThroneOpened
 .byte Right_slot
 .word LoadPortrait
 .word veld_portrait
-.text "Ah! What?!"
+.text "Ah! Was?!"
 .byte NewLine
-.text "It can't be..."
+.text "Das kann nicht sein..."
 .byte NewLine
-.text "Have those children broken through the seal?!"
+.text "Sind jene Kinder durch das Siegel durchgebochen?!"
 .byte WaitForA
 .byte ScrollText
-.text "Ngh... Leif, you heathen..."
+.text "Ngh... Leif, du Heide..."
 .byte NewLine
-.text "You're an impudent brat"
+.text "Du bist eine unverschämte Göre,"
 .byte NewLine
-.text "standing in the way of the divine!"
+.text "die sich in den Weg der Göttlichen stellt!"
 .byte WaitForA
 .byte ScrollText
-.text "I'll send you to oblivion to meet your parents—"
+.text "Ich werde dich in die Vergessenheit schicken, damit du deine Eltern treffen kannst—"
 .byte NewLine
-.text "but not before you spend a century or two"
+.text "aber du wirst nicht frei sein, bevor du nicht für ein"
 .byte NewLine
-.text "decorating my altar as a petrified statue!"
+.text "oder zwei Jahrhunderte meinen Altar ausgeschmückt hast!"
 .byte WaitForA
 
 .byte EndText
@@ -32,11 +32,11 @@ dialogueChapterFinalOpening1
 .byte Right_slot
 .word LoadPortrait
 .word veld_portrait
-.text "Raydrik proved to be even more useless"
+.text "Raydrik erwies sich als sogar noch nutzloser,"
 .byte NewLine
-.text "than I thought... Well, if you want something"
+.text "als ich dachte... Nun, wenn man etwas richtig"
 .byte NewLine
-.text "done right, best do it yourself."
+.text "erledigt haben will, soll man es am Besten selbst tun."
 .byte WaitForA
 
 .byte Left_slot
@@ -44,196 +44,196 @@ dialogueChapterFinalOpening1
 .word manfroy_portrait
 .text "Veld..."
 .byte NewLine
-.text "Explain yourself!"
+.text "Erklärt Euch!"
 .byte WaitForA
 
 .byte Right_slot
 .byte ScrollText
 .text "Archbishop Manfroy!"
 .byte NewLine
-.text "Wh-When did you get here, Your Eminence?"
+.text "W-Wann seid Ihr hier eingetroffen, Eure Eminenz?"
 .byte WaitForA
 
 .byte Left_slot
 .byte ScrollText
-.text "Spare me your sniveling formalities."
+.text "Erspart mir Eure wehleidigen Formalitäten."
 .byte NewLine
-.text "Why is killing one person—a child,"
+.text "Warum ist eine Person zu töten—welche, falls ich Euch erinnern"
 .byte NewLine
-.text "need I remind you—so difficult for you?"
+.text "muss, nur ein Kind ist—so schwierig für Euch?"
 .byte WaitForA
 .byte ScrollText
-.text "The Leonster heir has humiliated you"
+.text "Der Erbe von Leonster hat Euch bei jeder"
 .byte NewLine
-.text "at every turn!"
+.text "Gelegenheit gedemütigt!"
 .byte WaitForA
 
 .byte Right_slot
 .byte ScrollText
-.text "I'm deeply sorry, Your Eminence."
+.text "Es tut mir zu tiefsten leid, Eure Eminenz."
 .byte NewLine
-.text "I'll claim Prince Leif's head"
+.text "Ich werde Prinz Leifs Kopf beanspruchen"
 .byte NewLine
-.text "before the day is over, I assure you."
+.text "bevor dieser Tag vorüber ist, das versichere ich Euch."
 .byte WaitForA
 
 .byte Left_slot
 .byte ScrollText
-.text "See that you do—otherwise, it will be your head"
+.text "Stellt sicher, dass Ihr dies tut—ansonsten wird es Euer"
 .byte NewLine
-.text "that hangs from the castle gates."
+.text "Kopf sein, der über den Schlosstoren hängt."
 .byte WaitForA
 .byte ScrollText
-.text "More than just this battle is riding on"
+.text "Mehr als nur dieser Kampf hängt vom Tod des"
 .byte NewLine
-.text "the boy's death..."
+.text "Jungen ab..."
 .byte WaitForA
 .byte ScrollText
-.text "If he lives, all our efforts"
+.text "Wenn er lebt, dann werden all unsere Mühen,"
 .byte NewLine
-.text "to incite war in Thracia and assassinate"
+.text "Krieg in Thracia zu stiften und Prinz Quan"
 .byte NewLine
-.text "Prince Quan will be for nothing."
+.text "zu meucheln, umsonst gewesen sein."
 .byte WaitForA
 
 .byte Right_slot
 .byte ScrollText
-.text "I'm amazed the ruse has held for this long,"
+.text "Ich bin um ehrlich zu sein erstaunt, dass diese List"
 .byte NewLine
-.text "frankly. The fools still think Travant"
+.text "so lange angehalten hat. Die Narren denken immernoch,"
 .byte NewLine
-.text "was behind it all."
+.text "dass Travant hinter all dem steckt."
 .byte WaitForA
 
 .byte Left_slot
 .byte ScrollText
-.text "Eheheheh! I almost pity the Thracians,"
+.text "Eheheheh! Ich bemitleide die Thracianer"
 .byte NewLine
-.text "in the depths of their ignorance..."
+.text "in den Tiefen ihrer Unwissenheit..."
 .byte WaitForA
 .byte ScrollText
-.text "Did it never occur to them that Travant"
+.text "Ist es ihnen nie in den Sinn gekommen, dass"
 .byte NewLine
-.text "had no way of knowing when Quan's forces"
+.text "Travant keine Möglichkeit hatte zu wissen, wann"
 .byte NewLine
-.text "would march, or what route they would take?"
+.text "Quans Streitkräfte marschieren würden und welche Route sie nehmen würden?"
 .byte WaitForA
 .byte ScrollText
-.text "Capitalizing on Travant's ambitions"
+.text "Auf Travants Ehrgeiz, Nord- und Süd-Thracia"
 .byte NewLine
-.text "to make North and South Thracia"
+.text "einander auseinandereißen zu lassen,"
 .byte NewLine
-.text "tear each other apart..."
+.text "zu kapitalisieren..."
 .byte WaitForA
 .byte ScrollText
-.text "Everything happened exactly"
+.text "Alles geschah genau so, wie Ihr vorausgesehen"
 .byte NewLine
-.text "as you predicted it would."
+.text "hattet, dass es passieren würde."
 .byte WaitForA
 
 .byte Right_slot
 .byte ScrollText
-.text "I'm honored by your words, Your Eminence..."
+.text "Ich bin von Euren Worten geehrt, Eure Eminenz..."
 .byte WaitForA
 
 .byte Left_slot
 .byte ScrollText
-.text "But it's simply given way to a new problem:"
+.text "Aber es hat einfach einem neuen Problem den Weg freigemacht:"
 .byte NewLine
-.text "you underestimated the Leonster heir,"
+.text "Ihr habt den Erben von Leonster unterschätzt,"
 .byte NewLine
-.text "did you not?"
+.text "oder etwa nicht?"
 .byte WaitForA
 .byte ScrollText
-.text "It would have been best to nip him in the bud"
+.text "Es wäre am Besten gewesen, ihn im Keim zu ersticken"
 .byte NewLine
-.text "and kill him when Castle Leonster first fell,"
+.text "und ihn töten, als Schloss Leonster fiel, als"
 .byte NewLine
-.text "when he was little more than an infant..."
+.text "er nicht viel mehr als ein Kleinkind war..."
 .byte WaitForA
 
 .byte Right_slot
 .byte ScrollText
-.text "It is true that Prince Leif has brought"
+.text "Es ist wahr, dass Prinz Leif all die Rebellischen"
 .byte NewLine
-.text "all the rebellious children of North Thracia"
+.text "Kinder von Nord-Thracia in einer organisierten"
 .byte NewLine
-.text "together in one, organized revolt..."
+.text "Revolte zusammenbrachte..."
 .byte WaitForA
 .byte ScrollText
-.text "But if we strike them down now, when they"
+.text "Wenn wir sie allerdings jetzt niederstrecken, wenn sie"
 .byte NewLine
-.text "all act as one and their morale is at its highest,"
+.text "alle als Eins agieren und ihre Moral am höchsten ist,"
 .byte NewLine
-.text "their spirits will be broken."
+.text "dann wird Ihr Kampfgeist gebrochen sein."
 .byte WaitForA
 .byte ScrollText
-.text "And in my defense, the boy has done us"
+.text "Und zu meiner Verteidigung, hat uns der Junge einen"
 .byte NewLine
-.text "a great service by defeating so many"
+.text "großartigen Dienst damit erwiesen, so viele von"
 .byte NewLine
-.text "of House Friege's divisions."
+.text "Haus Frieges Divisionen zu besiegen."
 .byte WaitForA
 .byte ScrollText
-.text "Without realizing it, he's eliminated"
+.text "Ohne es zu merken, hat er eine der wenigen militärischen"
 .byte NewLine
-.text "one of the few military powers"
+.text "Mächte elimitiert, welche unsere Herrschaft"
 .byte NewLine
-.text "that could've threatened our rule."
+.text "hätte bedrochen können."
 .byte WaitForA
 .byte ScrollText
-.text "Besides, while he may be Leonster's heir,"
+.text "Außerdem, obwohl er Leonsters Erbe sein mag,"
 .byte NewLine
-.text "he's a mere child without enough holy blood"
+.text "ist er ein bloßes Kind, dessen Erbe der Ahnenfolge"
 .byte NewLine
-.text "to so much as lift the Gáe Bolg himself."
+.text "der Götter nicht stark genug ist, um Gáe Bolg selbst auch nur heben zu können."
 .byte WaitForA
 .byte ScrollText
-.text "He's a posturing rebel who's deluded himself"
+.text "Er ist ein posierender Rebelle, der sich selbst dazu verblendet"
 .byte NewLine
-.text "into thinking he's a real prince."
+.text "hat zu glauben, dass er ein echter Prinz wäre."
 .byte NewLine
-.text "He cannot hope to triumph against me."
+.text "Er kann sich nicht erhoffen, gegen mich zu triumphieren."
 .byte WaitForA
 
 .byte Left_slot
 .byte ScrollText
 .text "Hmm..."
 .byte NewLine
-.text "You make a good case for yourself, Veld."
+.text "Ihr plediert gut für Euch selbst, Veld."
 .byte WaitForA
 .byte ScrollText
-.text "Very well. I shall grant you a second chance—"
+.text "Dann sei es so. Ich werde Euch eine zweite Chance gewären—"
 .byte NewLine
-.text "and as a token of my favor, I bestow upon you"
+.text "und als Zeichen meiner Gunst, gewähre ich Euch fünf"
 .byte NewLine
-.text "five of my finest creations, the Deadlords."
+.text "meiner besten Kreationen, den Todesfürsten."
 .byte WaitForA
 
 .byte Right_slot
 .byte ScrollText
-.text "I'm most grateful, Your Eminence."
+.text "Ich bin außerordentlich dankbar, Eure Eminenz."
 .byte WaitForA
 .byte ScrollText
-.text "Combined with the one I just finished crafting,"
+.text "Zusammen mit dem, dessen Fertigung ich soeben vollendete,"
 .byte NewLine
-.text "that makes for a total of six..."
+.text "macht das insgesamt sechs..."
 .byte NewLine
-.text "Now the barrier will be impenetrable!"
+.text "Jetzt wird die Barriere undurchdingbar sein!"
 .byte WaitForA
 
 .byte Left_slot
 .byte ScrollText
-.text "Then I'll leave you to it, Veld."
+.text "Dann werde ich es Euch überlassen, Veld."
 .byte NewLine
-.text "I trust you'll be along shortly"
+.text "Ich vertraue darauf, dass Ihr in Kürze mommen"
 .byte NewLine
-.text "to bring me the good news..."
+.text "werdet, um mir die gute Nachricht zu überbringen..."
 .byte WaitForA
 
 .byte Right_slot
 .byte ScrollText
-.text "I won't fail you, Your Eminence."
+.text "Ich werde Euch nicht enttäuschen, Eure Eminenz."
 .byte WaitForA
 
 .byte EndText
@@ -248,38 +248,38 @@ dialogueChapterFinalOpening2
 .byte Left_slot
 .word LoadPortrait
 .word leif_portrait
-.text "Is everyone ready, August?"
+.text "Sind alle bereit, August?"
 .byte WaitForA
 
 .byte Right_slot
-.text "All of our troops understand the plan:"
+.text "Alle unserer Truppen kennen den Plan:"
 .byte NewLine
-.text "small squads have each been stationed"
+.text "Kleine Trupps wurden vor jedem"
 .byte NewLine
-.text "in front of every altar."
+.text "Altar stationiert."
 .byte WaitForA
 .byte ScrollText
-.text "Let us hope they're all capable of defeating"
+.text "Lasst und hoffen, dass sie alle dazu in der Lage sind,"
 .byte NewLine
-.text "the horrors that lurk within..."
+.text "die Schrecken die sich im Inneren befinden zu besiegen..."
 .byte WaitForA
 
 .byte Left_slot
 .byte ScrollText
-.text "I know they are. Everyone is aware of what's"
+.text "Ich weiß, dass sie es sind. Alle sind sich bewusst,"
 .byte NewLine
-.text "at stake: the seals inside each of the six altars"
+.text "was auf dem Spiel steht: Die Siegel auf den sechs Altaren"
 .byte NewLine
-.text "have to be broken to open the way to Veld."
+.text "müssen aufgebrochen werden, um den Weg zu Veld zu öffnen."
 .byte WaitForA
 
 .byte Right_slot
 .byte ScrollText
-.text "It's more complicated than that, my prince."
+.text "Es ist komplizierter als das, mein Prinz."
 .byte NewLine
-.text "One of our men must stand upon the center"
+.text "Einer unserer Männer müssen im Zentrum eines"
 .byte NewLine
-.text "of an altar to break its seal."
+.text "Altars stehen, um sein Siegel zu brechen."
 .byte WaitForA
 .byte ScrollText
 .text "Each of the six altars must have one of our"
@@ -1157,103 +1157,103 @@ dialogueChapterFinalEnd
 .byte Right_slot
 .word LoadPortrait
 .word augustus_portrait
-.text "Prince Leif, Lord Seliph is here to see you."
+.text "Prinz Leif, Lord Seliph ist hier, um Euch zu sehen."
 .byte WaitForA
 .byte ScrollText
 .word LoadPortrait
 .word seliph_portrait
-.text "It seems my reinforcements were unnecessary."
+.text "Es scheint, dass meine Verstärkungen nicht von Nöten waren."
 .byte NewLine
-.text "I'm relieved to see you safe, Prince Leif."
+.text "Ich bin erleichtert, Euch sicher zu sehen, Prinz Leif."
 .byte WaitForA
 
 .byte Left_slot
 .text "Lord Seliph!"
 .byte NewLine
-.text "We're only here because you intervened"
+.text "Wie sind nur hier weil Ihr bei Leonster eingegriffen habt."
 .byte NewLine
-.text "at Leonster. The credit for this victory is yours."
+.text "Der Verdienst für diesen Sieg liegt bei Euch."
 .byte WaitForA
 
 .byte Right_slot
 .byte ScrollText
-.text "No, North Thracia was liberated by you,"
+.text "Nein, Nord-Thracia wurde von Euch befreit,"
 .byte NewLine
-.text "Prince, with your own strength—I merely"
+.text "Prinz, mit Eurer eigenen Stärke—Ich habe schlichtweg"
 .byte NewLine
-.text "played a momentary role, nothing more."
+.text "eine flüchtige Rolle gespielt, nichts weiter."
 .byte WaitForA
 .byte ScrollText
-.text "All of North Thracia is agreed on uniting"
+.text "Alle Teile von Nord-Thracia stimmen zu, sich"
 .byte NewLine
-.text "under your rule, it seems."
+.text "unter Eurer Herrschaft zu vereinigen, wie es scheint."
 .byte WaitForA
 .byte ScrollText
-.text "If a country that vast and wealthy were to join"
+.text "Wenn ein Land das so weit und so wohlständig ist dem Kampf"
 .byte NewLine
-.text "the fight against the Empire, my Liberation"
+.text "gegen das Imperium beitreten würde, dann würde meine"
 .byte NewLine
-.text "Army would have cause for celebration."
+.text "Befreiungsarmee Grund zur Feier haben."
 .byte WaitForA
 .byte ScrollText
-.text "Prince Leif, will you continue"
+.text "Prinz Leif, werdet Ihr damit fortfahren,"
 .byte NewLine
-.text "to fight alongside me?"
+.text "an meiner Seite zu kämpfen?"
 .byte WaitForA
 .byte ScrollText
-.text "There's still much left to be done,"
+.text "Es gibt immernoch so viel zu tun, aber"
 .byte NewLine
-.text "but if we were to join forces, I know we could"
+.text "wenn wir unsere Streitkräfte vereinen würden, dann weiß ich,"
 .byte NewLine
-.text "overcome any challenge in our way."
+.text "dass wir jegliche Herausforderung die sich uns in den Weg stellt bewältigen könnten."
 .byte WaitForA
 .byte ScrollText
-.text "If you would accept it, I offer you a vow"
+.text "Falls Ihr ihn annehmt, biete ich Euch einen Schwur"
 .byte NewLine
-.text "of eternal friendship—to live and die as one,"
+.text "der ewigen Freundschaft an—als Eins zu leben und zu sterben,"
 .byte NewLine
-.text "just as our fathers vowed before us."
+.text "genau wie es sich unsere Väter vor uns geschworen haben."
 .byte WaitForA
 
 .byte Left_slot
 .byte ScrollText
-.text "I'm honored to accept your oath!"
+.text "Ich bin geehrt, Euren Schwur anzunehmen!"
 .byte NewLine
-.text "After all we've been through, I think of you"
+.text "Nach allem, das wir durchgestanden haben, denke"
 .byte NewLine
-.text "less as a cousin and more as an older brother."
+.text "ich über Euch weniger, als wärt Ihr mein Cousin and eher, als wärt Ihr ein älterer Bruder."
 .byte WaitForA
 .byte ScrollText
-.text "Nothing could make me happier"
+.text "Nichts könnte mich glücklicher machen, als die Idee,"
 .byte NewLine
-.text "than the idea of pooling our strength"
+.text "unsere Stärke zu vereinen um eine"
 .byte NewLine
-.text "to create a brighter future for everyone!"
+.text "hellere Zukunft für alle zu erschaffen!"
 .byte WaitForA
 
 .byte Right_slot
 .byte ScrollText
-.text "Then let us swear it upon this sword!"
+.text "Dann lasst uns es auf dieses Schwert schwören!"
 .byte NewLine
-.text "We may have been born apart,"
+.text "Wir mögen voneinander entfernt geboren worden sein,"
 .byte NewLine
-.text "but we shall die as one!"
+.text "aber wir werden als Eins sterben!"
 .byte WaitForA
 .byte ScrollText
-.text "As your friend, as your sworn brother,"
+.text "Als Eurer Freund, als Eurer geschworener Bruder,"
 .byte NewLine
-.text "we shall join hands and deliver Jugdral"
+.text "werden wir einander unsere Hand reichen und Jugdral von"
 .byte NewLine
-.text "from this evil! This I vow to you!"
+.text "diesem Bösen erlösen! Dies schwöre ich Euch!"
 .byte WaitForA
 
 .byte Left_slot
 .byte ScrollText
-.text "And I vow just the same to you—"
+.text "Und ich schwöre Euch dasselbe—"
 .byte NewLine
-.text "an undying oath, and may the stars themselves"
+.text "ein unsterblicher Schwur und mögen die Sterne selbst vergehen,"
 .byte NewLine
-.text "perish before it is broken!"
+.text "bevor er gebrochen wird!"
 .byte WaitForA
 
 .byte EndText

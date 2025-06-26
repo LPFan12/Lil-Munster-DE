@@ -3,16 +3,16 @@ dialogueChapter08LemayMount
 .byte Right_slot
 .word LoadPortrait
 .word Lemay_portrait
-.text "Ugh, I didn't know Gomez an' his boys"
+.text "Agh, ich wusste nicht, dass Gomez und seine Jungs"
 .byte NewLine
-.text "were gonna take forever and a day!"
+.text "eine komplette Ewigkeit brauchen würden!"
 .byte WaitForA
 .byte ScrollText
-.text "Hmm... This ain't worth it."
+.text "Hmm... Das hier ist es nicht wert."
 .byte NewLine
-.text "Can't get caught up in this whole scene"
+.text "Kann mich nicht in diese gesamte Szene verwickeln"
 .byte NewLine
-.text "an' have someone recognize me..."
+.text "lassen uns dafür sorgen, dass mich jemand erkennt..."
 .byte WaitForA
 
 .byte EndText
@@ -23,91 +23,91 @@ dialogueChapter08OsianMartyTalk
 .byte Right_slot
 .word LoadPortrait
 .word marty_portrait
-.text "Calm down, Marty, he ain't recognized you..."
+.text "Beruhige dich, Marty, er hat dich nicht erkannt..."
 .byte NewLine
-.text "Now wait fer an openin' and run for the hills—"
+.text "Warte jetzt auf eine Öffnung und renne zu den Hügeln—"
 .byte WaitForA
 
 .byte Left_slot
 .word LoadPortrait
 .word osian_portrait
-.text "Hm? Wait, you're... Hey, Marty, ol' buddy!"
+.text "Hm? Warte, du bist... Hey, Marty, alter Kumpel!"
 .byte WaitForA
 
 .byte Right_slot
 .byte ScrollText
-.text "What? Marty? Don't know no Marty."
+.text "Was? Marty? Kenne keinen Marty."
 .byte NewLine
-.text "Haven't even heard the name before—"
+.text "Habe den Namen nie auch nur gehört—"
 .byte WaitForA
 
 .byte Left_slot
 .byte ScrollText
-.text "Marty, pal, I could spot that chin of yours"
+.text "Marty, Kumpel, ich könnte dieses Kinn das du hast"
 .byte NewLine
-.text "from a mile away. What are you doing here?"
+.text "von einer Meile weg erkennen. Was machst du hier?"
 .byte WaitForA
 
 .byte Right_slot
 .byte ScrollText
-.text "Er, well... It weren't my idea, I swear!"
+.text "Ehm, nun... Es war nicht meine Idee, ich schwöre!"
 .byte NewLine
-.text "It was all Gomez's idea! He made me do it...!"
+.text "Es war alles Gomezs idee! Er hat es mich dazu gebracht, es zu tun...!"
 .byte WaitForA
 
 .byte Left_slot
 .byte ScrollText
-.text "That isn't the problem here! C'mon, Marty!"
+.text "Das ist nicht das Problem hier! Komm schon, Marty!"
 .byte NewLine
-.text "Raiding villages?! You think that's what"
+.text "Dörfer überfallen?! Denkst du, das ist, was Dagdar"
 .byte NewLine
-.text "Dagdar would want? Or the Commander?"
+.text "wollen würde? Oder die Kommandantin?"
 .byte WaitForA
 .byte ScrollText
-.text "If you've seen fit to go against everything they"
+.text "Wenn du es für angebracht hälst, gegen alles zu gehen,"
 .byte NewLine
-.text "taught you, then you're just another bandit,"
+.text "was sie dir beigebracht haben, dann bist du nur ein weiterer Bandit"
 .byte NewLine
-.text "and I got no choice but to cut you down!"
+.text "und ich habe keine andere Wahl, als dich niederzuschneiden!"
 .byte WaitForA
 
 .byte Right_slot
 .byte ScrollText
-.text "Wait, wait! I..."
+.text "Warte, warte! Ich..."
 .byte NewLine
-.text "It was wrong of me to go along with this..."
+.text "Es war falsch von mir, dass ich da mitgezogen bin..."
 .byte WaitForA
 
 .byte Left_slot
 .byte ScrollText
-.text "...So you're with us, then?"
+.text "...Dann stehst du uns also bei?"
 .byte NewLine
-.text "You'll help us fight off these bandits?"
+.text "Du wirst uns helfen, diese Banditen zurückzuschlagen?"
 .byte WaitForA
 
 .byte Right_slot
 .byte ScrollText
-.text "F-F-Fight off the bandits? Even Gomez?!"
+.text "D-D-Die Banditen zurückschlagen? Selbst Gomez?!"
 .byte NewLine
-.text "Er... Well, y'see... I, uh..."
+.text "Ehm... Nun, siehst du... Ich, ehm..."
 .byte WaitForA
 
 .byte Left_slot
 .byte ScrollText
-.text "Argh! You should be ashamed, Marty!"
+.text "Argh! Du solltest dich schämen, Marty!"
 .byte NewLine
-.text "Just man up and say it:"
+.text "Reiße dich einfach zusammen und sag es:"
 .byte NewLine
-.text "are you with us, or against us?!"
+.text "Stehst du uns bei oder stehst du gegen uns?!"
 .byte WaitForA
 
 .byte Right_slot
 .byte ScrollText
-.text "All right, all right! I'll say it loud an' clear:"
+.text "Alles klar, alles klar! Ich werde es laut und klar sagen:"
 .byte NewLine
-.text "I'm with you! I'll help you fight the bandits!"
+.text "Ich stehe euch bei! Ich werde euch helfen, die Banditen zu bekämpfen!"
 .byte NewLine
-.text "Just...please don't yell at me no more..."
+.text "Nur...schreie mich bitte nichtmehr an..."
 .byte WaitForA
 
 .byte EndText
@@ -118,82 +118,82 @@ dialogueChapter08HalvanMartyTalk
 .byte Right_slot
 .word LoadPortrait
 .word marty_portrait
-.text "Calm down, Marty, he ain't recognized you..."
+.text "Beruhige dich, Marty, er hat dich nicht erkannt..."
 .byte NewLine
-.text "Now wait fer an openin' and run for the hills—"
+.text "Warte jetzt auf eine Öffnung und renne zu den Hügeln—"
 .byte WaitForA
 
 .byte Left_slot
 .word LoadPortrait
 .word halvan_portrait
-.text "Hm? Is that... Marty, is that you?"
+.text "Hm? Ist das... Marty, bist du das?"
 .byte WaitForA
 
 .byte Right_slot
 .byte ScrollText
-.text "What? Marty? Don't know no Marty."
+.text "Was? Marty? Kenne keinen Marty."
 .byte NewLine
-.text "Haven't even heard the name before—"
+.text "Habe den Namen nie auch nur gehört—"
 .byte WaitForA
 
 .byte Left_slot
 .byte ScrollText
-.text "Marty, you're tall enough to be a lightning rod."
+.text "Marty, du bist groß, um ein Blitzableiter zu sein."
 .byte NewLine
-.text "I could spot you all the way from Belhalla."
+.text "Ich könnte dich vom langen Weg von Belhalla aus erkennen."
 .byte NewLine
-.text "What I can't figure out is why you're here..."
+.text "Was ich nicht begreifen kann ist, warum du hier bist..."
 .byte WaitForA
 
 .byte Right_slot
 .byte ScrollText
-.text "Er, well... It weren't my idea, I swear!"
+.text "Ehm, nun... Es war nicht meine Idee, ich schwöre!"
 .byte NewLine
-.text "It was all Gomez's idea! He made me do it...!"
+.text "Es war alles Gomezs idee! Er hat es mich dazu gebracht, es zu tun...!"
 .byte WaitForA
 
 .byte Left_slot
 .byte ScrollText
-.text "“He made me do it!” Listen to yourself,"
+.text "“Er hat mich dazu gebracht!” Hör dir selber zu,"
 .byte NewLine
-.text "Marty! It's not enough that you're raiding"
+.text "Marty! Es ist nicht genug, dass du Dörfer überfällst?"
 .byte NewLine
-.text "villages? You've gotta make up excuses too?"
+.text "Du musst dir auch nicht Ausreden einfallen lassen?"
 .byte WaitForA
 
 .byte Right_slot
 .byte ScrollText
-.text "I couldn't do nuthin' about it! It ain't my fault..."
+.text "Ich konnte nichts dagegen tun! Es ist nicht meine Schuld..."
 .byte WaitForA
 
 .byte Left_slot
 .byte ScrollText
-.text "...All right, we're going in circles here. Just tell"
+.text "...Alles klar, wir bewegen uns hier im Kreis. Sage mir"
 .byte NewLine
-.text "me one thing: have you gone against what"
+.text "nur eine Sache: Bist du dagegen gegangen, was"
 .byte NewLine
-.text "Dagdar and the Commander taught you?"
+.text "Dagdar und die Kommandantin dir beibrachten?"
 .byte WaitForA
 .byte ScrollText
-.text "Are you just a common bandit now?"
+.text "Bist du jetzt nur ein gewöhnlicher Bandit?"
 .byte WaitForA
 
 .byte Right_slot
 .byte ScrollText
-.text "W-Well, when you put it like that..."
+.text "N-Nun, wenn du es so sagst..."
 .byte NewLine
-.text "I...g-guess it was wrong of me"
+.text "Ich...s-schätze, es war falsch von mir,"
 .byte NewLine
-.text "to go along with this..."
+.text "bei dieser Sache mitzuziehen..."
 .byte WaitForA
 
 .byte Left_slot
 .byte ScrollText
-.text "Then you're still a friend of the Freeblades,"
+.text "Dann bist du immernoch ein Freund der Freiklingen,"
 .byte NewLine
-.text "right? So you'll fight alongside us"
+.text "richtig? Also wird du an unserer Seite kämpfen,"
 .byte NewLine
-.text "like a friend would?"
+.text "wie es ein Freund tun würde?"
 .byte WaitForA
 
 .byte Right_slot
@@ -208,7 +208,7 @@ dialogueChapter08HalvanMartyTalk
 
 .byte Right_slot
 .byte ScrollText
-.text "Y-Yessir! 'Course I will, sir!"
+.text "J-ja, Sir! Natürlich werde ich das, Sir!"
 .byte WaitForA
 
 .byte EndText
@@ -219,11 +219,11 @@ dialogueChapter08MartyCaptured
 .byte Right_slot
 .word LoadPortrait
 .word marty_portrait
-.text "Er... Look, I didn't wanna fight you! Honest!"
+.text "Ehm... Schau, ich wollte dich nicht bekämpfen! Ich bin ehrlich!"
 .byte NewLine
-.text "But I had no choice... They made me!"
+.text "Aber ich hatte keine Wahl... Sie haben mich gezwungen!"
 .byte NewLine
-.text "I'll apologize, OK...?"
+.text "Ich werde mich entschuldigen, in Ordnung...?"
 .byte WaitForA
 
 .byte EndText
