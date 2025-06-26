@@ -1,0 +1,1 @@
+Introzeitlinie fängt an bei 80486 (Die Daten beginnen bei 80482?) und hört bei 80762 (Daten sind bei 80765 vorbei?) auf.
