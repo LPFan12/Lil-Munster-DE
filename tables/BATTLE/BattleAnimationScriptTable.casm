@@ -1,0 +1,380 @@
+	BA_BaseCavalry_Sword_Axe_Script																			= 0
+		BA_BaseCavalry_Sword_Axe_ScriptBA_AnimationScript_Index												= BA_AnimScript_BaseCavalry_Sword_Axe
+
+	BA_BaseCavalry_Lance_Script																				= 1
+		BA_BaseCavalry_Lance_ScriptBA_AnimationScript_Index													= BA_AnimScript_BaseCavalry_Lance
+
+	BA_BaseCavalry_ThrownLance_Script																		= 2
+		BA_BaseCavalry_ThrownLance_ScriptBA_AnimationScript_Index											= BA_AnimScript_BaseCavalry_ThrownLance
+
+	BA_BaseCavalry_ThrownAxe_Script																			= 3
+		BA_BaseCavalry_ThrownAxe_ScriptBA_AnimationScript_Index												= BA_AnimScript_BaseCavalry_ThrownAxe
+
+	BA_Cavalry_Bow_Script																					= 4
+		BA_Cavalry_Bow_ScriptBA_AnimationScript_Index														= BA_AnimScript_Cavalry_Bow
+
+	BA_BaseCavalry_Staff_Script																				= 5
+		BA_BaseCavalry_Staff_ScriptBA_AnimationScript_Index													= BA_AnimScript_BaseCavalry_Staff
+
+	BA_UnknownScript06																						= 6
+		BA_UnknownScript06BA_AnimationScript_Index															= BA_AnimScript_Swordmaster_HeroF_HeroFE4F_DismountedRanger_DismountedDracoknight
+
+	BA_UnknownScript07																						= 7
+		BA_UnknownScript07BA_AnimationScript_Index															= BA_AnimScript_Infantry_DismountedCav_Bow
+
+	BA_UnknownScript08																						= 8
+		BA_UnknownScript08BA_AnimationScript_Index															= BA_AnimScript_Swordmaster_HeroF_HeroFE4F_DismountedRanger_DismountedDracoknight
+
+	BA_UnknownScript09																						= 9
+		BA_UnknownScript09BA_AnimationScript_Index															= BA_AnimScript_Swordmaster_HeroF_HeroFE4F_DismountedRanger_DismountedDracoknight
+
+	BA_UnknownScript0A																						= 10
+		BA_UnknownScript0ABA_AnimationScript_Index															= BA_AnimScript_Swordmaster_HeroF_HeroFE4F_DismountedRanger_DismountedDracoknight
+
+	BA_UnknownScript0B																						= 11
+		BA_UnknownScript0BBA_AnimationScript_Index															= BA_AnimScript_Swordmaster_HeroF_HeroFE4F_DismountedRanger_DismountedDracoknight
+
+	BA_UnknownScript0C																						= 12
+		BA_UnknownScript0CBA_AnimationScript_Index															= BA_AnimScript_Swordmaster_HeroF_HeroFE4F_DismountedRanger_DismountedDracoknight
+
+	BA_UnknownScript0D																						= 13
+		BA_UnknownScript0DBA_AnimationScript_Index															= BA_AnimScript_Swordmaster_HeroF_HeroFE4F_DismountedRanger_DismountedDracoknight
+
+	BA_PromotedCavalry_Sword_Axe_Script																		= 14
+		BA_PromotedCavalry_Sword_Axe_ScriptBA_AnimationScript_Index											= BA_AnimScript_PromotedCavalry_Sword_Axe
+
+	BA_PromotedCavalry_Lance_Script																			= 15
+		BA_PromotedCavalry_Lance_ScriptBA_AnimationScript_Index												= BA_AnimScript_PromotedCavalry_Lance
+
+	BA_PromotedCavalry_ThrownLance_Script																	= 16
+		BA_PromotedCavalry_ThrownLance_ScriptBA_AnimationScript_Index										= BA_AnimScript_PromotedCavalry_ThrownLance
+
+	BA_PromotedCavalry_ThrownAxe_Script																		= 17
+		BA_PromotedCavalry_ThrownAxe_ScriptBA_AnimationScript_Index											= BA_AnimScript_PromotedCavalry_ThrownAxe
+
+	BA_PromotedCavalry_Staff_Script																			= 18
+		BA_PromotedCavalry_Staff_ScriptBA_AnimationScript_Index												= BA_AnimScript_PromotedCavalry_Staff
+
+	BA_PromotedCavalry_Magic_Script																			= 19
+		BA_PromotedCavalry_Magic_ScriptBA_AnimationScript_Index												= BA_AnimScript_PromotedCavalry_Magic
+
+	BA_UnknownScript14																						= 20
+		BA_UnknownScript14BA_AnimationScript_Index															= BA_AnimScript_Infantry_DismountedCav_Bow
+
+	BA_UnknownScript15																						= 21
+		BA_UnknownScript15BA_AnimationScript_Index															= BA_AnimScript_Swordmaster_HeroF_HeroFE4F_DismountedRanger_DismountedDracoknight
+
+	BA_UnknownScript16																						= 22
+		BA_UnknownScript16BA_AnimationScript_Index															= BA_AnimScript_Swordmaster_HeroF_HeroFE4F_DismountedRanger_DismountedDracoknight
+
+	BA_UnknownScript17																						= 23
+		BA_UnknownScript17BA_AnimationScript_Index															= BA_AnimScript_Swordmaster_HeroF_HeroFE4F_DismountedRanger_DismountedDracoknight
+
+	BA_Pegasi_Sword_Script																					= 24
+		BA_Pegasi_Sword_ScriptBA_AnimationScript_Index														= BA_AnimScript_Pegasi_Sword
+
+	BA_Pegasi_Lance_Script																					= 25
+		BA_Pegasi_Lance_ScriptBA_AnimationScript_Index														= BA_AnimScript_Pegasi_Lance
+
+	BA_Pegasi_ThrownLance_Script																			= 26
+		BA_Pegasi_ThrownLance_ScriptBA_AnimationScript_Index												= BA_AnimScript_Pegasi_ThrownLance
+
+	BA_Pegasi_Staff_Script																					= 27
+		BA_Pegasi_Staff_ScriptBA_AnimationScript_Index														= BA_AnimScript_Pegasi_Staff
+
+	BA_Draco_Sword_Script																					= 28
+		BA_Draco_Sword_ScriptBA_AnimationScript_Index														= BA_AnimScript_Draco_Sword
+
+	BA_Draco_Lance_Script																					= 29
+		BA_Draco_Lance_ScriptBA_AnimationScript_Index														= BA_AnimScript_Draco_Lance
+
+	BA_Draco_ThrownLance_Script																				= 30
+		BA_Draco_ThrownLance_ScriptBA_AnimationScript_Index													= BA_AnimScript_Draco_ThrownLance
+
+	BA_UnknownScript1F																						= 31
+		BA_UnknownScript1FBA_AnimationScript_Index															= BA_AnimScript_Infantry_DismountedCav_Bow
+
+	BA_Myrmidon_HeroM_DismountedSwordKnight_Script															= 32
+		BA_Myrmidon_HeroM_DismountedSwordKnight_ScriptBA_AnimationScript_Index								= BA_AnimScript_Myrmidon_HeroM_DismountedSwordKnight
+
+	BA_Swordmaster_HeroF_HeroFE4F_DismountedRanger_DismountedDracoknight_Script								= 33
+		BA_Swordmaster_HeroF_HeroFE4F_DismountedRanger_DismountedDracoknight_ScriptBA_AnimationScript_Index	= BA_AnimScript_Swordmaster_HeroF_HeroFE4F_DismountedRanger_DismountedDracoknight
+
+	BA_Infantry_DismountedCav_Bow_Script																	= 34
+		BA_Infantry_DismountedCav_Bow_ScriptBA_AnimationScript_Index										= BA_AnimScript_Infantry_DismountedCav_Bow
+
+	BA_UnknownScript23																						= 35
+		BA_UnknownScript23BA_AnimationScript_Index															= BA_AnimScript_Swordmaster_HeroF_HeroFE4F_DismountedRanger_DismountedDracoknight
+
+	BA_Armors_Sword_Axe_Script																				= 36
+		BA_Armors_Sword_Axe_ScriptBA_AnimationScript_Index													= BA_AnimScript_Armors_Sword_Axe
+
+	BA_Armors_Lance_Script																					= 37
+		BA_Armors_Lance_ScriptBA_AnimationScript_Index														= BA_AnimScript_Armors_Lance
+
+	BA_Armors_ThrownLance_Script																			= 38
+		BA_Armors_ThrownLance_ScriptBA_AnimationScript_Index												= BA_AnimScript_Armors_ThrownLance
+
+	BA_Armors_ThrownAxe_Script																				= 39
+		BA_Armors_ThrownAxe_ScriptBA_AnimationScript_Index													= BA_AnimScript_Armors_ThrownAxe
+
+	BA_General_Emperor_Baron_Bow_Script																		= 40
+		BA_General_Emperor_Baron_Bow_ScriptBA_AnimationScript_Index											= BA_AnimScript_General_Emperor_Baron_Bow
+
+	BA_Armors_Staff_Script																					= 41
+		BA_Armors_Staff_ScriptBA_AnimationScript_Index														= BA_AnimScript_Armors_Staff
+
+	BA_Armors_Magic_Script																					= 42
+		BA_Armors_Magic_ScriptBA_AnimationScript_Index														= BA_AnimScript_Armors_Magic
+
+	BA_UnknownScript2B																						= 43
+		BA_UnknownScript2BBA_AnimationScript_Index															= BA_AnimScript_Swordmaster_HeroF_HeroFE4F_DismountedRanger_DismountedDracoknight
+
+	BA_UnknownScript2C																						= 44
+		BA_UnknownScript2CBA_AnimationScript_Index															= BA_AnimScript_Swordmaster_HeroF_HeroFE4F_DismountedRanger_DismountedDracoknight
+
+	BA_UnknownScript2D																						= 45
+		BA_UnknownScript2DBA_AnimationScript_Index															= BA_AnimScript_Swordmaster_HeroF_HeroFE4F_DismountedRanger_DismountedDracoknight
+
+	BA_UnknownScript2E																						= 46
+		BA_UnknownScript2EBA_AnimationScript_Index															= BA_AnimScript_Swordmaster_HeroF_HeroFE4F_DismountedRanger_DismountedDracoknight
+
+	BA_ArmoredBow_Script																					= 47
+		BA_ArmoredBow_ScriptBA_AnimationScript_Index														= BA_AnimScript_ArmoredBow
+
+	BA_UnknownScript30																						= 48
+		BA_UnknownScript30BA_AnimationScript_Index															= BA_AnimScript_Swordmaster_HeroF_HeroFE4F_DismountedRanger_DismountedDracoknight
+
+	BA_BrigandTypes_Axe_Script																				= 49
+		BA_BrigandTypes_Axe_ScriptBA_AnimationScript_Index													= BA_AnimScript_BrigandTypes_Axe
+
+	BA_BrigandTypes_ThrownAxe_Script																		= 50
+		BA_BrigandTypes_ThrownAxe_ScriptBA_AnimationScript_Index											= BA_AnimScript_BrigandTypes_ThrownAxe
+
+	BA_BrigandTypes_Bow_Script																				= 51
+		BA_BrigandTypes_Bow_ScriptBA_AnimationScript_Index													= BA_AnimScript_BrigandTypes_Bow
+
+	BA_DismountedCavalry_JuniorLord_Sword_Script															= 52
+		BA_DismountedCavalry_JuniorLord_Sword_ScriptBA_AnimationScript_Index								= BA_AnimScript_DismountedCavalry_LordClasses_Sword
+
+	BA_DismountedMageKnightM_Sword_Script																	= 53
+		BA_DismountedMageKnightM_Sword_ScriptBA_AnimationScript_Index										= BA_AnimScript_DismountedMageKnight_Sword
+
+	BA_UnknownScript36																						= 54
+		BA_UnknownScript36BA_AnimationScript_Index															= BA_AnimScript_Caster_Staff
+
+	BA_DismountedMageKnightM_Magic_Script																	= 55
+		BA_DismountedMageKnightM_Magic_ScriptBA_AnimationScript_Index										= BA_AnimScript_Caster_Magic
+
+	BA_Lord_Prince_DismountedKnightLord_Sword_Script														= 56
+		BA_Lord_Prince_DismountedKnightLord_Sword_ScriptBA_AnimationScript_Index							= BA_AnimScript_DismountedCavalry_LordClasses_Sword
+
+	BA_Dismounted_PaladinF_MasterKnightF_Sword_Script														= 57
+		BA_Dismounted_PaladinF_MasterKnightF_Sword_ScriptBA_AnimationScript_Index							= BA_AnimScript_DismountedCavalry_LordClasses_Sword
+
+	BA_DismountedCavalry_Staff_Script																		= 58
+		BA_DismountedCavalry_Staff_ScriptBA_AnimationScript_Index											= BA_AnimScript_Caster_Staff
+
+	BA_DismountedMageKnightF_Sword_Script																	= 59
+		BA_DismountedMageKnightF_Sword_ScriptBA_AnimationScript_Index										= BA_AnimScript_DismountedMageKnight_Sword
+
+	BA_Sage_DismountedMageKnightF_Staff_Script																= 60
+		BA_Sage_DismountedMageKnightF_Staff_ScriptBA_AnimationScript_Index									= BA_AnimScript_Caster_Staff
+
+	BA_Sage_DismountedMageKnightF_Magic_Script																= 61
+		BA_Sage_DismountedMageKnightF_Magic_ScriptBA_AnimationScript_Index									= BA_AnimScript_Caster_Magic
+
+	BA_BaronGlitched_Staff_Script																			= 62
+		BA_BaronGlitched_Staff_ScriptBA_AnimationScript_Index												= BA_AnimScript_Caster_Staff
+
+	BA_BaronGlitched_Magic_Script																			= 63
+		BA_BaronGlitched_Magic_ScriptBA_AnimationScript_Index												= BA_AnimScript_Caster_Magic
+
+	BA_UnknownScript40																						= 64
+		BA_UnknownScript40BA_AnimationScript_Index															= BA_AnimScript_Myrmidon_HeroM_DismountedSwordKnight
+
+	BA_Priest_Staff_Script																					= 65
+		BA_Priest_Staff_ScriptBA_AnimationScript_Index														= BA_AnimScript_Caster_Staff
+
+	BA_Mage_Magic_Script																					= 66
+		BA_Mage_Magic_ScriptBA_AnimationScript_Index														= BA_AnimScript_Caster_Magic
+
+	BA_LoptrianMage_Magic_Script																			= 67
+		BA_LoptrianMage_Magic_ScriptBA_AnimationScript_Index												= BA_AnimScript_Caster_Magic
+
+	BA_ThunderMage_Magic_Script																				= 68
+		BA_ThunderMage_Magic_ScriptBA_AnimationScript_Index													= BA_AnimScript_Caster_Magic
+
+	BA_Wind_Magic_Script																					= 69
+		BA_Wind_Magic_ScriptBA_AnimationScript_Index														= BA_AnimScript_Caster_Magic
+
+	BA_HighPriest_LoptrianMageM_Staff_Script																= 70
+		BA_HighPriest_LoptrianMageM_Staff_ScriptBA_AnimationScript_Index									= BA_AnimScript_Caster_Staff
+
+	BA_HighPriest_Magic_Script																				= 71
+		BA_HighPriest_Magic_ScriptBA_AnimationScript_Index													= BA_AnimScript_Caster_Magic
+
+	BA_Bishop_Staff_Script																					= 72
+		BA_Bishop_Staff_ScriptBA_AnimationScript_Index														= BA_AnimScript_Caster_Staff
+
+	BA_Bishop_Magic_Script																					= 73
+		BA_Bishop_Magic_ScriptBA_AnimationScript_Index														= BA_AnimScript_Caster_Magic
+
+	BA_UnknownScript4A																						= 74
+		BA_UnknownScript4ABA_AnimationScript_Index															= BA_AnimScript_Caster_Staff
+
+	BA_UnknownScript4B																						= 75
+		BA_UnknownScript4BBA_AnimationScript_Index															= BA_AnimScript_Caster_Magic
+
+	BA_UnknownScript4C																						= 76
+		BA_UnknownScript4CBA_AnimationScript_Index															= BA_AnimScript_DismountedMageKnight_Sword
+
+	BA_Bard_Magic_Script																					= 77
+		BA_Bard_Magic_ScriptBA_AnimationScript_Index														= BA_AnimScript_Caster_Magic
+
+	BA_Cleric_Staff_Script																					= 78
+		BA_Cleric_Staff_ScriptBA_AnimationScript_Index														= BA_AnimScript_Caster_Staff
+
+	BA_Cleric_Magic_Script																					= 79
+		BA_Cleric_Magic_ScriptBA_AnimationScript_Index														= BA_AnimScript_Caster_Magic
+
+	BA_Sorcerer_Staff_Script																				= 80
+		BA_Sorcerer_Staff_ScriptBA_AnimationScript_Index													= BA_AnimScript_Caster_Staff
+
+	BA_Sorcerer_Magic_Script																				= 81
+		BA_Sorcerer_Magic_ScriptBA_AnimationScript_Index													= BA_AnimScript_Caster_Magic
+
+	BA_DarkBishop_Staff_Script																				= 82
+		BA_DarkBishop_Staff_ScriptBA_AnimationScript_Index													= BA_AnimScript_Caster_Staff
+
+	BA_DarkBishop_Magic_Script																				= 83
+		BA_DarkBishop_Magic_ScriptBA_AnimationScript_Index													= BA_AnimScript_Caster_Magic
+
+	BA_Thief_Rogue_Dancer_Sword_Script																		= 84
+		BA_Thief_Rogue_Dancer_Sword_ScriptBA_AnimationScript_Index											= BA_AnimScript_Thief_Rogue_Dancer_Sword
+
+	BA_UnknownScript55																						= 85
+		BA_UnknownScript55BA_AnimationScript_Index															= BA_AnimScript_Swordmaster_HeroF_HeroFE4F_DismountedRanger_DismountedDracoknight
+
+	BA_UnknownScript56																						= 86
+		BA_UnknownScript56BA_AnimationScript_Index															= BA_AnimScript_Swordmaster_HeroF_HeroFE4F_DismountedRanger_DismountedDracoknight
+
+	BA_Ballisticians_Script																					= 87
+		BA_Ballisticians_ScriptBA_AnimationScript_Index														= BA_AnimScript_Ballisticians
+
+	BA_DarkPrince_Script																					= 88
+		BA_DarkPrince_ScriptBA_AnimationScript_Index														= BA_AnimScript_DarkPrince
+
+	BA_UnknownScript59																						= 89
+		BA_UnknownScript59BA_AnimationScript_Index															= BA_AnimScript_Unknown2E
+
+	BA_Fighter_Hero_HeroFe4M_Axe_Script																		= 90
+		BA_Fighter_Hero_HeroFe4M_Axe_ScriptBA_AnimationScript_Index											= BA_AnimScript_Fighter_Hero_HeroFe4M_Axe
+
+	BA_Fighter_Hero_HeroFe4M_ThrownAxe_Script																= 91
+		BA_Fighter_Hero_HeroFe4M_ThrownAxe_ScriptBA_AnimationScript_Index									= BA_AnimScript_Fighter_Hero_HeroFe4M_ThrownAxe
+
+	BA_Soldier_Lance_Script																					= 92
+		BA_Soldier_Lance_ScriptBA_AnimationScript_Index														= BA_AnimScript_Soldier_Lance
+
+	BA_Soldier_ThrownLance_Script																			= 93
+		BA_Soldier_ThrownLance_ScriptBA_AnimationScript_Index												= BA_AnimScript_Soldier_ThrownLance
+
+	BA_UnknownScript5E																						= 94
+		BA_UnknownScript5EBA_AnimationScript_Index															= BA_AnimScript_Unknown02
+
+BA_BaseCavalry_Sword_Axe_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_BaseCavalry_Sword_Axe_ScriptBA_AnimationScript_Index
+BA_BaseCavalry_Lance_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_BaseCavalry_Lance_ScriptBA_AnimationScript_Index
+BA_BaseCavalry_ThrownLance_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_BaseCavalry_ThrownLance_ScriptBA_AnimationScript_Index
+BA_BaseCavalry_ThrownAxe_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_BaseCavalry_ThrownAxe_ScriptBA_AnimationScript_Index
+BA_Cavalry_Bow_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Cavalry_Bow_ScriptBA_AnimationScript_Index
+BA_BaseCavalry_Staff_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_BaseCavalry_Staff_ScriptBA_AnimationScript_Index
+BA_UnknownScript06BattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_UnknownScript06BA_AnimationScript_Index
+BA_UnknownScript07BattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_UnknownScript07BA_AnimationScript_Index
+BA_UnknownScript08BattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_UnknownScript08BA_AnimationScript_Index
+BA_UnknownScript09BattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_UnknownScript09BA_AnimationScript_Index
+BA_UnknownScript0ABattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_UnknownScript0ABA_AnimationScript_Index
+BA_UnknownScript0BBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_UnknownScript0BBA_AnimationScript_Index
+BA_UnknownScript0CBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_UnknownScript0CBA_AnimationScript_Index
+BA_UnknownScript0DBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_UnknownScript0DBA_AnimationScript_Index
+BA_PromotedCavalry_Sword_Axe_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_PromotedCavalry_Sword_Axe_ScriptBA_AnimationScript_Index
+BA_PromotedCavalry_Lance_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_PromotedCavalry_Lance_ScriptBA_AnimationScript_Index
+BA_PromotedCavalry_ThrownLance_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_PromotedCavalry_ThrownLance_ScriptBA_AnimationScript_Index
+BA_PromotedCavalry_ThrownAxe_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_PromotedCavalry_ThrownAxe_ScriptBA_AnimationScript_Index
+BA_PromotedCavalry_Staff_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_PromotedCavalry_Staff_ScriptBA_AnimationScript_Index
+BA_PromotedCavalry_Magic_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_PromotedCavalry_Magic_ScriptBA_AnimationScript_Index
+BA_UnknownScript14BattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_UnknownScript14BA_AnimationScript_Index
+BA_UnknownScript15BattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_UnknownScript15BA_AnimationScript_Index
+BA_UnknownScript16BattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_UnknownScript16BA_AnimationScript_Index
+BA_UnknownScript17BattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_UnknownScript17BA_AnimationScript_Index
+BA_Pegasi_Sword_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Pegasi_Sword_ScriptBA_AnimationScript_Index
+BA_Pegasi_Lance_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Pegasi_Lance_ScriptBA_AnimationScript_Index
+BA_Pegasi_ThrownLance_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Pegasi_ThrownLance_ScriptBA_AnimationScript_Index
+BA_Pegasi_Staff_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Pegasi_Staff_ScriptBA_AnimationScript_Index
+BA_Draco_Sword_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Draco_Sword_ScriptBA_AnimationScript_Index
+BA_Draco_Lance_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Draco_Lance_ScriptBA_AnimationScript_Index
+BA_Draco_ThrownLance_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Draco_ThrownLance_ScriptBA_AnimationScript_Index
+BA_UnknownScript1FBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_UnknownScript1FBA_AnimationScript_Index
+BA_Myrmidon_HeroM_DismountedSwordKnight_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Myrmidon_HeroM_DismountedSwordKnight_ScriptBA_AnimationScript_Index
+BA_Swordmaster_HeroF_HeroFE4F_DismountedRanger_DismountedDracoknight_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Swordmaster_HeroF_HeroFE4F_DismountedRanger_DismountedDracoknight_ScriptBA_AnimationScript_Index
+BA_Infantry_DismountedCav_Bow_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Infantry_DismountedCav_Bow_ScriptBA_AnimationScript_Index
+BA_UnknownScript23BattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_UnknownScript23BA_AnimationScript_Index
+BA_Armors_Sword_Axe_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Armors_Sword_Axe_ScriptBA_AnimationScript_Index
+BA_Armors_Lance_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Armors_Lance_ScriptBA_AnimationScript_Index
+BA_Armors_ThrownLance_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Armors_ThrownLance_ScriptBA_AnimationScript_Index
+BA_Armors_ThrownAxe_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Armors_ThrownAxe_ScriptBA_AnimationScript_Index
+BA_General_Emperor_Baron_Bow_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_General_Emperor_Baron_Bow_ScriptBA_AnimationScript_Index
+BA_Armors_Staff_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Armors_Staff_ScriptBA_AnimationScript_Index
+BA_Armors_Magic_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Armors_Magic_ScriptBA_AnimationScript_Index
+BA_UnknownScript2BBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_UnknownScript2BBA_AnimationScript_Index
+BA_UnknownScript2CBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_UnknownScript2CBA_AnimationScript_Index
+BA_UnknownScript2DBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_UnknownScript2DBA_AnimationScript_Index
+BA_UnknownScript2EBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_UnknownScript2EBA_AnimationScript_Index
+BA_ArmoredBow_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_ArmoredBow_ScriptBA_AnimationScript_Index
+BA_UnknownScript30BattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_UnknownScript30BA_AnimationScript_Index
+BA_BrigandTypes_Axe_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_BrigandTypes_Axe_ScriptBA_AnimationScript_Index
+BA_BrigandTypes_ThrownAxe_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_BrigandTypes_ThrownAxe_ScriptBA_AnimationScript_Index
+BA_BrigandTypes_Bow_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_BrigandTypes_Bow_ScriptBA_AnimationScript_Index
+BA_DismountedCavalry_JuniorLord_Sword_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_DismountedCavalry_JuniorLord_Sword_ScriptBA_AnimationScript_Index
+BA_DismountedMageKnightM_Sword_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_DismountedMageKnightM_Sword_ScriptBA_AnimationScript_Index
+BA_UnknownScript36BattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_UnknownScript36BA_AnimationScript_Index
+BA_DismountedMageKnightM_Magic_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_DismountedMageKnightM_Magic_ScriptBA_AnimationScript_Index
+BA_Lord_Prince_DismountedKnightLord_Sword_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Lord_Prince_DismountedKnightLord_Sword_ScriptBA_AnimationScript_Index
+BA_Dismounted_PaladinF_MasterKnightF_Sword_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Dismounted_PaladinF_MasterKnightF_Sword_ScriptBA_AnimationScript_Index
+BA_DismountedCavalry_Staff_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_DismountedCavalry_Staff_ScriptBA_AnimationScript_Index
+BA_DismountedMageKnightF_Sword_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_DismountedMageKnightF_Sword_ScriptBA_AnimationScript_Index
+BA_Sage_DismountedMageKnightF_Staff_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Sage_DismountedMageKnightF_Staff_ScriptBA_AnimationScript_Index
+BA_Sage_DismountedMageKnightF_Magic_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Sage_DismountedMageKnightF_Magic_ScriptBA_AnimationScript_Index
+BA_BaronGlitched_Staff_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_BaronGlitched_Staff_ScriptBA_AnimationScript_Index
+BA_BaronGlitched_Magic_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_BaronGlitched_Magic_ScriptBA_AnimationScript_Index
+BA_UnknownScript40BattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_UnknownScript40BA_AnimationScript_Index
+BA_Priest_Staff_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Priest_Staff_ScriptBA_AnimationScript_Index
+BA_Mage_Magic_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Mage_Magic_ScriptBA_AnimationScript_Index
+BA_LoptrianMage_Magic_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_LoptrianMage_Magic_ScriptBA_AnimationScript_Index
+BA_ThunderMage_Magic_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_ThunderMage_Magic_ScriptBA_AnimationScript_Index
+BA_Wind_Magic_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Wind_Magic_ScriptBA_AnimationScript_Index
+BA_HighPriest_LoptrianMageM_Staff_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_HighPriest_LoptrianMageM_Staff_ScriptBA_AnimationScript_Index
+BA_HighPriest_Magic_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_HighPriest_Magic_ScriptBA_AnimationScript_Index
+BA_Bishop_Staff_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Bishop_Staff_ScriptBA_AnimationScript_Index
+BA_Bishop_Magic_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Bishop_Magic_ScriptBA_AnimationScript_Index
+BA_UnknownScript4ABattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_UnknownScript4ABA_AnimationScript_Index
+BA_UnknownScript4BBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_UnknownScript4BBA_AnimationScript_Index
+BA_UnknownScript4CBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_UnknownScript4CBA_AnimationScript_Index
+BA_Bard_Magic_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Bard_Magic_ScriptBA_AnimationScript_Index
+BA_Cleric_Staff_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Cleric_Staff_ScriptBA_AnimationScript_Index
+BA_Cleric_Magic_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Cleric_Magic_ScriptBA_AnimationScript_Index
+BA_Sorcerer_Staff_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Sorcerer_Staff_ScriptBA_AnimationScript_Index
+BA_Sorcerer_Magic_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Sorcerer_Magic_ScriptBA_AnimationScript_Index
+BA_DarkBishop_Staff_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_DarkBishop_Staff_ScriptBA_AnimationScript_Index
+BA_DarkBishop_Magic_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_DarkBishop_Magic_ScriptBA_AnimationScript_Index
+BA_Thief_Rogue_Dancer_Sword_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Thief_Rogue_Dancer_Sword_ScriptBA_AnimationScript_Index
+BA_UnknownScript55BattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_UnknownScript55BA_AnimationScript_Index
+BA_UnknownScript56BattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_UnknownScript56BA_AnimationScript_Index
+BA_Ballisticians_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Ballisticians_ScriptBA_AnimationScript_Index
+BA_DarkPrince_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_DarkPrince_ScriptBA_AnimationScript_Index
+BA_UnknownScript59BattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_UnknownScript59BA_AnimationScript_Index
+BA_Fighter_Hero_HeroFe4M_Axe_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Fighter_Hero_HeroFe4M_Axe_ScriptBA_AnimationScript_Index
+BA_Fighter_Hero_HeroFe4M_ThrownAxe_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Fighter_Hero_HeroFe4M_ThrownAxe_ScriptBA_AnimationScript_Index
+BA_Soldier_Lance_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Soldier_Lance_ScriptBA_AnimationScript_Index
+BA_Soldier_ThrownLance_ScriptBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_Soldier_ThrownLance_ScriptBA_AnimationScript_Index
+BA_UnknownScript5EBattleAnimationScriptTableEntry .dstruct structBattleAnimationScriptTable, BA_UnknownScript5EBA_AnimationScript_Index

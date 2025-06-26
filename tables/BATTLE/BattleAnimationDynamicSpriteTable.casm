@@ -1,0 +1,488 @@
+	BA_Cavalier_AxeKnt_Mount																						= 0
+		BA_Cavalier_AxeKnt_MountBA_DynamicSprite_Index																= BA_DynSprite_Cavalier_LncKnt_AxeKnt
+
+	BA_LanceKnight_Mount																							= 1
+		BA_LanceKnight_MountBA_DynamicSprite_Index																	= BA_DynSprite_Cavalier_LncKnt_AxeKnt
+
+	BA_BowKnight_Mount																								= 2
+		BA_BowKnight_MountBA_DynamicSprite_Index																	= BA_DynSprite_BowKnight
+
+	BA_UnknownDynamic03																								= 3
+		BA_UnknownDynamic03BA_DynamicSprite_Index																	= BA_DynSprite_SwordmasterM
+
+	BA_SwordKnight_Mount																							= 4
+		BA_SwordKnight_MountBA_DynamicSprite_Index																	= BA_DynSprite_SwordKnight
+
+	BA_UnknownDynamic05																								= 5
+		BA_UnknownDynamic05BA_DynamicSprite_Index																	= BA_DynSprite_SwordKnight
+
+	BA_Troubadour_Mount																								= 6
+		BA_Troubadour_MountBA_DynamicSprite_Index																	= BA_DynSprite_Troubadour
+
+	BA_LordKnight_Mount																								= 7
+		BA_LordKnight_MountBA_DynamicSprite_Index																	= BA_DynSprite_LordKnight_DukeKnight
+
+	BA_UnknownDynamic08																								= 8
+		BA_UnknownDynamic08BA_DynamicSprite_Index																	= BA_DynSprite_LordKnight_DukeKnight
+
+	BA_DukeKnight_Mount																								= 9
+		BA_DukeKnight_MountBA_DynamicSprite_Index																	= BA_DynSprite_LordKnight_DukeKnight
+
+	BA_UnknownDynamic0A																								= 10
+		BA_UnknownDynamic0ABA_DynamicSprite_Index																	= BA_DynSprite_Unknown12
+
+	BA_MasterKnight_NonBow_Mount																					= 11
+		BA_MasterKnight_NonBow_MountBA_DynamicSprite_Index															= BA_DynSprite_Ranger_MasterKnight
+
+	BA_UnknownDynamic0C																								= 12
+		BA_UnknownDynamic0CBA_DynamicSprite_Index																	= BA_DynSprite_Ranger_MasterKnight
+
+	BA_MasterKnight_Bow_Mount																						= 13
+		BA_MasterKnight_Bow_MountBA_DynamicSprite_Index																= BA_DynSprite_Ranger_MasterKnight
+
+	BA_UnknownDynamic0E																								= 14
+		BA_UnknownDynamic0EBA_DynamicSprite_Index																	= BA_DynSprite_Ranger_MasterKnight
+
+	BA_UnknownDynamic0F																								= 15
+		BA_UnknownDynamic0FBA_DynamicSprite_Index																	= BA_DynSprite_Ranger_MasterKnight
+
+	BA_Paladin_Mount																								= 16
+		BA_Paladin_MountBA_DynamicSprite_Index																		= BA_DynSprite_Paladin
+
+	BA_ArchKnight_Mount																								= 17
+		BA_ArchKnight_MountBA_DynamicSprite_Index																	= BA_DynSprite_ArchKnight
+
+	BA_Ranger_Mount																									= 18
+		BA_Ranger_MountBA_DynamicSprite_Index																		= BA_DynSprite_Ranger_MasterKnight
+
+	BA_UnknownDynamic13																								= 19
+		BA_UnknownDynamic13BA_DynamicSprite_Index																	= BA_DynSprite_Unknown14
+
+	BA_MageKnight_Mount																								= 20
+		BA_MageKnight_MountBA_DynamicSprite_Index																	= BA_DynSprite_MageKnight
+
+	BA_GreatKnight_Mount																							= 21
+		BA_GreatKnight_MountBA_DynamicSprite_Index																	= BA_DynSprite_GreatKnight
+
+	BA_Pegasus_Mount																								= 22
+		BA_Pegasus_MountBA_DynamicSprite_Index																		= BA_DynSprite_Pegasus_Falcon
+
+	BA_Falcon_Mount																									= 23
+		BA_Falcon_MountBA_DynamicSprite_Index																		= BA_DynSprite_Pegasus_Falcon
+
+	BA_Dracorider_Mount																								= 24
+		BA_Dracorider_MountBA_DynamicSprite_Index																	= BA_DynSprite_Dracorider
+
+	BA_Dracoknight_Mount																							= 25
+		BA_Dracoknight_MountBA_DynamicSprite_Index																	= BA_DynSprite_Dracoknight_Dragonmaster
+
+	BA_Dragonmaster_Mount																							= 26
+		BA_Dragonmaster_MountBA_DynamicSprite_Index																	= BA_DynSprite_Dracoknight_Dragonmaster
+
+	BA_ArcherM_Body																									= 27
+		BA_ArcherM_BodyBA_DynamicSprite_Index																		= BA_DynSprite_ArcherM
+
+	BA_ArcherF_DismountedBowKnightF_Body																			= 28
+		BA_ArcherF_DismountedBowKnightF_BodyBA_DynamicSprite_Index													= BA_DynSprite_ArcherF_DismountedBowKnightF
+
+	BA_MyrmidonM_DismountedSwordKnight_Body																			= 29
+		BA_MyrmidonM_DismountedSwordKnight_BodyBA_DynamicSprite_Index												= BA_DynSprite_MyrmidonM_DismountedSwordKnight
+
+	BA_MyrmidonF_Body																								= 30
+		BA_MyrmidonF_BodyBA_DynamicSprite_Index																		= BA_DynSprite_MyrmidonF
+
+	BA_SwordmasterM_Body																							= 31
+		BA_SwordmasterM_BodyBA_DynamicSprite_Index																	= BA_DynSprite_SwordmasterM
+
+	BA_SwordmasterF_Body																							= 32
+		BA_SwordmasterF_BodyBA_DynamicSprite_Index																	= BA_DynSprite_SwordmasterF
+
+	BA_SniperM_Body																									= 33
+		BA_SniperM_BodyBA_DynamicSprite_Index																		= BA_DynSprite_SniperM
+
+	BA_SniperF_DismountedArchKnightF_Body																			= 34
+		BA_SniperF_DismountedArchKnightF_BodyBA_DynamicSprite_Index													= BA_DynSprite_SniperF_DismountedArchKnightF
+
+	BA_DismountedRanger_DismountedDracoknightM_HeroFE4M_Body														= 35
+		BA_DismountedRanger_DismountedDracoknightM_HeroFE4M_BodyBA_DynamicSprite_Index								= BA_DynSprite_DismountedRanger_DismountedDracoknightM_HeroFE4M
+
+	BA_HeroF_HeroFE4F_Body																							= 36
+		BA_HeroF_HeroFE4F_BodyBA_DynamicSprite_Index																= BA_DynSprite_HeroF_HeroFE4F
+
+	BA_GeneralSwordAxes_Body																						= 37
+		BA_GeneralSwordAxes_BodyBA_DynamicSprite_Index																= BA_DynSprite_GeneralSwordAxes
+
+	BA_GeneralLances_Body																							= 38
+		BA_GeneralLances_BodyBA_DynamicSprite_Index																	= BA_DynSprite_GeneralLances
+
+	BA_GeneralBow_Body																								= 39
+		BA_GeneralBow_BodyBA_DynamicSprite_Index																	= BA_DynSprite_GeneralBow
+
+	BA_EmperorSwordAxesStaffMagic_Body																				= 40
+		BA_EmperorSwordAxesStaffMagic_BodyBA_DynamicSprite_Index													= BA_DynSprite_Emperor_BaronSwordAxesStaffMagic
+
+	BA_EmperorLances_Body																							= 41
+		BA_EmperorLances_BodyBA_DynamicSprite_Index																	= BA_DynSprite_Emperor_BaronSwordAxesStaffMagic
+
+	BA_EmperorBow_Body																								= 42
+		BA_EmperorBow_BodyBA_DynamicSprite_Index																	= BA_DynSprite_Emperor_BaronSwordAxesStaffMagic
+
+	BA_BaronSwordAxesStaffMagic_Body																				= 43
+		BA_BaronSwordAxesStaffMagic_BodyBA_DynamicSprite_Index														= BA_DynSprite_Emperor_BaronSwordAxesStaffMagic
+
+	BA_BaronLances_Body																								= 44
+		BA_BaronLances_BodyBA_DynamicSprite_Index																	= BA_DynSprite_BaronLances
+
+	BA_BaronBow_Body																								= 45
+		BA_BaronBow_BodyBA_DynamicSprite_Index																		= BA_DynSprite_BaronBow
+
+	BA_ArmorSwordAxes_Body																							= 46
+		BA_ArmorSwordAxes_BodyBA_DynamicSprite_Index																= BA_DynSprite_ArmorSwordAxes
+
+	BA_ArmorLances_Body																								= 47
+		BA_ArmorLances_BodyBA_DynamicSprite_Index																	= BA_DynSprite_ArmorLances
+
+	BA_ArmorBow_Body																								= 48
+		BA_ArmorBow_BodyBA_DynamicSprite_Index																		= BA_DynSprite_ArmorBow
+
+	BA_Berserker_Body																								= 49
+		BA_Berserker_BodyBA_DynamicSprite_Index																		= BA_DynSprite_Berserker
+
+	BA_Brigand_Body																									= 50
+		BA_Brigand_BodyBA_DynamicSprite_Index																		= BA_DynSprite_Brigand
+
+	BA_BrigandAlt_Body																								= 51
+		BA_BrigandAlt_BodyBA_DynamicSprite_Index																	= BA_DynSprite_BrigandAlt_WarrorAxes
+
+	BA_WarriorAxes_Body																								= 52
+		BA_WarriorAxes_BodyBA_DynamicSprite_Index																	= BA_DynSprite_BrigandAlt_WarrorAxes
+
+	BA_WarriorBow_Body																								= 53
+		BA_WarriorBow_BodyBA_DynamicSprite_Index																	= BA_DynSprite_WarriorBow
+
+	BA_Hunter_Body																									= 54
+		BA_Hunter_BodyBA_DynamicSprite_Index																		= BA_DynSprite_Hunter
+
+	BA_PirateAxes_Body																								= 55
+		BA_PirateAxes_BodyBA_DynamicSprite_Index																	= BA_DynSprite_PirateAxes
+
+	BA_UnknownDynamic38																								= 56
+		BA_UnknownDynamic38BA_DynamicSprite_Index																	= BA_DynSprite_DismountedMageKnightM_Sword
+
+	BA_DismountedMageKnightM_Sword_Body																				= 57
+		BA_DismountedMageKnightM_Sword_BodyBA_DynamicSprite_Index													= BA_DynSprite_DismountedMageKnightM_Sword
+
+	BA_DismountedMageKnightM_Magic_Body																				= 58
+		BA_DismountedMageKnightM_Magic_BodyBA_DynamicSprite_Index													= BA_DynSprite_DismountedMageKnightM_Magic
+
+	BA_Lord_Prince_DismountedLordKnight_Body																		= 59
+		BA_Lord_Prince_DismountedLordKnight_BodyBA_DynamicSprite_Index												= BA_DynSprite_Lord_Prince_DismountedLordKnight
+
+	BA_DismountedPaladinF_DismountedMasterKnightF_Sword_Body														= 60
+		BA_DismountedPaladinF_DismountedMasterKnightF_Sword_BodyBA_DynamicSprite_Index								= BA_DynSprite_DismountedPaladinF_DismountedMasterKnightF_Sword
+
+	BA_DismountedPaladinF_DismountedMasterKnightF_Staff_Body														= 61
+		BA_DismountedPaladinF_DismountedMasterKnightF_Staff_BodyBA_DynamicSprite_Index								= BA_DynSprite_DismountedPaladinF_DismountedMasterKnightF_Staff
+
+	BA_DismountedMageKnightF_Sword_Body																				= 62
+		BA_DismountedMageKnightF_Sword_BodyBA_DynamicSprite_Index													= BA_DynSprite_DismountedMageKnightF_Sword
+
+	BA_DismountedMageKnightF_MagicStaff_Body																		= 63
+		BA_DismountedMageKnightF_MagicStaff_BodyBA_DynamicSprite_Index												= BA_DynSprite_DismountedMageKnightF_MagicStaff
+
+	BA_BaronGlitched_Body																							= 64
+		BA_BaronGlitched_BodyBA_DynamicSprite_Index																	= BA_DynSprite_DismountedPaladinF_DismountedMasterKnightF_Sword
+
+	BA_Dancer_Body																									= 65
+		BA_Dancer_BodyBA_DynamicSprite_Index																		= BA_DynSprite_Dancer
+
+	BA_Priest_Body																									= 66
+		BA_Priest_BodyBA_DynamicSprite_Index																		= BA_DynSprite_Priest
+
+	BA_Priestess_Body																								= 67
+		BA_Priestess_BodyBA_DynamicSprite_Index																		= BA_DynSprite_Priestess
+
+	BA_MageM_Body																									= 68
+		BA_MageM_BodyBA_DynamicSprite_Index																			= BA_DynSprite_Mage_LoptrianMageMagic
+
+	BA_MageF_Body																									= 69
+		BA_MageF_BodyBA_DynamicSprite_Index																			= BA_DynSprite_Mage_LoptrianMageMagic
+
+	BA_LoptrianMageM_Magic_Body																						= 70
+		BA_LoptrianMageM_Magic_BodyBA_DynamicSprite_Index															= BA_DynSprite_Mage_LoptrianMageMagic
+
+	BA_LoptrianMageM_Staff_Body																						= 71
+		BA_LoptrianMageM_Staff_BodyBA_DynamicSprite_Index															= BA_DynSprite_Mage_LoptrianMageStaff
+
+	BA_LoptrianMageF_Body																							= 72
+		BA_LoptrianMageF_BodyBA_DynamicSprite_Index																	= BA_DynSprite_Mage_LoptrianMageMagic
+
+	BA_ThunderMageM_Body																							= 73
+		BA_ThunderMageM_BodyBA_DynamicSprite_Index																	= BA_DynSprite_ThunderMageM
+
+	BA_ThunderMageF_Body																							= 74
+		BA_ThunderMageF_BodyBA_DynamicSprite_Index																	= BA_DynSprite_ThunderMageF
+
+	BA_WindMageM_Body																								= 75
+		BA_WindMageM_BodyBA_DynamicSprite_Index																		= BA_DynSprite_WindMageM
+
+	BA_WindMageF_Body																								= 76
+		BA_WindMageF_BodyBA_DynamicSprite_Index																		= BA_DynSprite_WindMageF
+
+	BA_High_Priest_Body																								= 77
+		BA_High_Priest_BodyBA_DynamicSprite_Index																	= BA_DynSprite_High_Priest
+
+	BA_High_Priestess_Body																							= 78
+		BA_High_Priestess_BodyBA_DynamicSprite_Index																= BA_DynSprite_High_Priestess
+
+	BA_Bishop_Body																									= 79
+		BA_Bishop_BodyBA_DynamicSprite_Index																		= BA_DynSprite_Bishop
+
+	BA_SageM_Body																									= 80
+		BA_SageM_BodyBA_DynamicSprite_Index																			= BA_DynSprite_SageM
+
+	BA_SageF_Body																									= 81
+		BA_SageF_BodyBA_DynamicSprite_Index																			= BA_DynSprite_SageF
+
+	BA_UnknownDynamic52																								= 82
+		BA_UnknownDynamic52BA_DynamicSprite_Index																	= BA_DynSprite_SageM
+
+	BA_UnknownDynamic53																								= 83
+		BA_UnknownDynamic53BA_DynamicSprite_Index																	= BA_DynSprite_Bard
+
+	BA_Bard_Body																									= 84
+		BA_Bard_BodyBA_DynamicSprite_Index																			= BA_DynSprite_Bard
+
+	BA_Cleric_Body																									= 85
+		BA_Cleric_BodyBA_DynamicSprite_Index																		= BA_DynSprite_Cleric
+
+	BA_Sorcerer_Body																								= 86
+		BA_Sorcerer_BodyBA_DynamicSprite_Index																		= BA_DynSprite_Sorcerer
+
+	BA_DarkBishop_Body																								= 87
+		BA_DarkBishop_BodyBA_DynamicSprite_Index																	= BA_DynSprite_DarkBishop
+
+	BA_DarkBishop_Body_Repeat																						= 88
+		BA_DarkBishop_Body_RepeatBA_DynamicSprite_Index																= BA_DynSprite_DarkBishop_Repeat
+
+	BA_ThiefM_Body																									= 89
+		BA_ThiefM_BodyBA_DynamicSprite_Index																		= BA_DynSprite_ThiefM
+
+	BA_ThiefF_Body																									= 90
+		BA_ThiefF_BodyBA_DynamicSprite_Index																		= BA_DynSprite_ThiefF
+
+	BA_RogueM_Body																									= 91
+		BA_RogueM_BodyBA_DynamicSprite_Index																		= BA_DynSprite_RogueM
+
+	BA_RogueF_Body																									= 92
+		BA_RogueF_BodyBA_DynamicSprite_Index																		= BA_DynSprite_RogueF
+
+	BA_UnknownDynamic5D																								= 93
+		BA_UnknownDynamic5DBA_DynamicSprite_Index																	= BA_DynSprite_SwordmasterM
+
+	BA_UnknownDynamic5E																								= 94
+		BA_UnknownDynamic5EBA_DynamicSprite_Index																	= BA_DynSprite_SwordmasterM
+
+	BA_Ballistician_VeninBallistician_Bow																			= 95
+		BA_Ballistician_VeninBallistician_BowBA_DynamicSprite_Index													= BA_DynSprite_Ballistician_KillerBallistician_VeninBallistician
+
+	BA_IronBallistician_Bow																							= 96
+		BA_IronBallistician_BowBA_DynamicSprite_Index																= BA_DynSprite_IronBallistician
+
+	BA_KillerBallistician_Bow																						= 97
+		BA_KillerBallistician_BowBA_DynamicSprite_Index																= BA_DynSprite_Ballistician_KillerBallistician_VeninBallistician
+
+	BA_DarkPrince_Body																								= 98
+		BA_DarkPrince_BodyBA_DynamicSprite_Index																	= BA_DynSprite_Sorcerer
+
+	BA_Dancer_Dance																									= 99
+		BA_Dancer_DanceBA_DynamicSprite_Index																		= BA_DynSprite_Dancer_Dance
+
+	BA_FighterAxe_Body																								= 100
+		BA_FighterAxe_BodyBA_DynamicSprite_Index																	= BA_DynSprite_FighterAxe
+
+	BA_DismountedBowKnightM_Body																					= 101
+		BA_DismountedBowKnightM_BodyBA_DynamicSprite_Index															= BA_DynSprite_DismountedBowKnightM
+
+	BA_DismountedArchKnightM_Body																					= 102
+		BA_DismountedArchKnightM_BodyBA_DynamicSprite_Index															= BA_DynSprite_DismountedArchKnightM
+
+	BA_Dismounted_MeleeCavs_Body																					= 103
+		BA_Dismounted_MeleeCavs_BodyBA_DynamicSprite_Index															= BA_DynSprite_Dismounted_MeleeCavs
+
+	BA_JuniorLord_Dismounted_PromotedMeleeCavs_MasterKnightM_Dracorider_Dragonmaster_Body							= 104
+		BA_JuniorLord_Dismounted_PromotedMeleeCavs_MasterKnightM_Dracorider_Dragonmaster_BodyBA_DynamicSprite_Index	= BA_DynSprite_JuniorLord_Dismounted_PromotedMeleeCavs_MasterKnightM_Dracorider_Dragonmaster
+
+	BA_HeroM_Axe_Body																								= 105
+		BA_HeroM_Axe_BodyBA_DynamicSprite_Index																		= BA_DynSprite_HeroM_Axe
+
+	BA_DismountedTroubadour_Sword_Body																				= 106
+		BA_DismountedTroubadour_Sword_BodyBA_DynamicSprite_Index													= BA_DynSprite_DismountedTroubadour_Sword
+
+	BA_DismountedTroubadour_Staff_Body																				= 107
+		BA_DismountedTroubadour_Staff_BodyBA_DynamicSprite_Index													= BA_DynSprite_DismountedTroubadour_Staff
+
+	BA_ThiefRogue_Body																								= 108
+		BA_ThiefRogue_BodyBA_DynamicSprite_Index																	= BA_DynSprite_RogueM
+
+	BA_Dismounted_PegRider_DracoriderF_Body																			= 109
+		BA_Dismounted_PegRider_DracoriderF_BodyBA_DynamicSprite_Index												= BA_DynSprite_Dismounted_PegRider_DracoriderF
+
+	BA_Dismounted_DracoKntF_DracoMstF_PegKnt_FalconKntSword_Body													= 110
+		BA_Dismounted_DracoKntF_DracoMstF_PegKnt_FalconKntSword_BodyBA_DynamicSprite_Index							= BA_DynSprite_Dismounted_DracoKntF_DracoMstF_PegKnt_FalconKntSword
+
+	BA_Dismounted_FalconKntStaff_Body																				= 111
+		BA_Dismounted_FalconKntStaff_BodyBA_DynamicSprite_Index														= BA_DynSprite_Dismounted_FalconKntStaff
+
+	BA_FighterThrownAxe_Body																						= 112
+		BA_FighterThrownAxe_BodyBA_DynamicSprite_Index																= BA_DynSprite_FighterThrownAxe
+
+	BA_HeroM_ThrownAxe_Body																							= 113
+		BA_HeroM_ThrownAxe_BodyBA_DynamicSprite_Index																= BA_DynSprite_HeroM_ThrownAxe
+
+	BA_Soldier_Body																									= 114
+		BA_Soldier_BodyBA_DynamicSprite_Index																		= BA_DynSprite_Soldier
+
+	BA_ArcherEnemy_Body																								= 115
+		BA_ArcherEnemy_BodyBA_DynamicSprite_Index																	= BA_DynSprite_ArcherEnemy
+
+	BA_HeroM_Sword_Body																								= 116
+		BA_HeroM_Sword_BodyBA_DynamicSprite_Index																	= BA_DynSprite_HeroM_Sword
+
+	BA_HeroFE4M_Axe_Body																							= 117
+		BA_HeroFE4M_Axe_BodyBA_DynamicSprite_Index																	= BA_DynSprite_HeroFE4M_Axe
+
+	BA_HeroFE4M_ThrownAxe_Body																						= 118
+		BA_HeroFE4M_ThrownAxe_BodyBA_DynamicSprite_Index															= BA_DynSprite_HeroFE4M_ThrownAxe
+
+	BA_HeroF_Axe_Body																								= 119
+		BA_HeroF_Axe_BodyBA_DynamicSprite_Index																		= BA_DynSprite_HeroF_Axe
+
+	BA_HeroF_ThrownAxe_Body																							= 120
+		BA_HeroF_ThrownAxe_BodyBA_DynamicSprite_Index																= BA_DynSprite_HeroF_ThrownAxe
+
+	BA_UnknownDynamic79																								= 121
+		BA_UnknownDynamic79BA_DynamicSprite_Index																	= BA_DynSprite_Unknown28
+
+BA_Cavalier_AxeKnt_MountBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_Cavalier_AxeKnt_MountBA_DynamicSprite_Index
+BA_LanceKnight_MountBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_LanceKnight_MountBA_DynamicSprite_Index
+BA_BowKnight_MountBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_BowKnight_MountBA_DynamicSprite_Index
+BA_UnknownDynamic03BattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_UnknownDynamic03BA_DynamicSprite_Index
+BA_SwordKnight_MountBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_SwordKnight_MountBA_DynamicSprite_Index
+BA_UnknownDynamic05BattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_UnknownDynamic05BA_DynamicSprite_Index
+BA_Troubadour_MountBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_Troubadour_MountBA_DynamicSprite_Index
+BA_LordKnight_MountBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_LordKnight_MountBA_DynamicSprite_Index
+BA_UnknownDynamic08BattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_UnknownDynamic08BA_DynamicSprite_Index
+BA_DukeKnight_MountBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_DukeKnight_MountBA_DynamicSprite_Index
+BA_UnknownDynamic0ABattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_UnknownDynamic0ABA_DynamicSprite_Index
+BA_MasterKnight_NonBow_MountBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_MasterKnight_NonBow_MountBA_DynamicSprite_Index
+BA_UnknownDynamic0CBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_UnknownDynamic0CBA_DynamicSprite_Index
+BA_MasterKnight_Bow_MountBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_MasterKnight_Bow_MountBA_DynamicSprite_Index
+BA_UnknownDynamic0EBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_UnknownDynamic0EBA_DynamicSprite_Index
+BA_UnknownDynamic0FBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_UnknownDynamic0FBA_DynamicSprite_Index
+BA_Paladin_MountBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_Paladin_MountBA_DynamicSprite_Index
+BA_ArchKnight_MountBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_ArchKnight_MountBA_DynamicSprite_Index
+BA_Ranger_MountBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_Ranger_MountBA_DynamicSprite_Index
+BA_UnknownDynamic13BattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_UnknownDynamic13BA_DynamicSprite_Index
+BA_MageKnight_MountBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_MageKnight_MountBA_DynamicSprite_Index
+BA_GreatKnight_MountBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_GreatKnight_MountBA_DynamicSprite_Index
+BA_Pegasus_MountBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_Pegasus_MountBA_DynamicSprite_Index
+BA_Falcon_MountBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_Falcon_MountBA_DynamicSprite_Index
+BA_Dracorider_MountBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_Dracorider_MountBA_DynamicSprite_Index
+BA_Dracoknight_MountBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_Dracoknight_MountBA_DynamicSprite_Index
+BA_Dragonmaster_MountBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_Dragonmaster_MountBA_DynamicSprite_Index
+BA_ArcherM_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_ArcherM_BodyBA_DynamicSprite_Index
+BA_ArcherF_DismountedBowKnightF_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_ArcherF_DismountedBowKnightF_BodyBA_DynamicSprite_Index
+BA_MyrmidonM_DismountedSwordKnight_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_MyrmidonM_DismountedSwordKnight_BodyBA_DynamicSprite_Index
+BA_MyrmidonF_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_MyrmidonF_BodyBA_DynamicSprite_Index
+BA_SwordmasterM_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_SwordmasterM_BodyBA_DynamicSprite_Index
+BA_SwordmasterF_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_SwordmasterF_BodyBA_DynamicSprite_Index
+BA_SniperM_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_SniperM_BodyBA_DynamicSprite_Index
+BA_SniperF_DismountedArchKnightF_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_SniperF_DismountedArchKnightF_BodyBA_DynamicSprite_Index
+BA_DismountedRanger_DismountedDracoknightM_HeroFE4M_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_DismountedRanger_DismountedDracoknightM_HeroFE4M_BodyBA_DynamicSprite_Index
+BA_HeroF_HeroFE4F_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_HeroF_HeroFE4F_BodyBA_DynamicSprite_Index
+BA_GeneralSwordAxes_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_GeneralSwordAxes_BodyBA_DynamicSprite_Index
+BA_GeneralLances_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_GeneralLances_BodyBA_DynamicSprite_Index
+BA_GeneralBow_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_GeneralBow_BodyBA_DynamicSprite_Index
+BA_EmperorSwordAxesStaffMagic_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_EmperorSwordAxesStaffMagic_BodyBA_DynamicSprite_Index
+BA_EmperorLances_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_EmperorLances_BodyBA_DynamicSprite_Index
+BA_EmperorBow_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_EmperorBow_BodyBA_DynamicSprite_Index
+BA_BaronSwordAxesStaffMagic_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_BaronSwordAxesStaffMagic_BodyBA_DynamicSprite_Index
+BA_BaronLances_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_BaronLances_BodyBA_DynamicSprite_Index
+BA_BaronBow_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_BaronBow_BodyBA_DynamicSprite_Index
+BA_ArmorSwordAxes_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_ArmorSwordAxes_BodyBA_DynamicSprite_Index
+BA_ArmorLances_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_ArmorLances_BodyBA_DynamicSprite_Index
+BA_ArmorBow_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_ArmorBow_BodyBA_DynamicSprite_Index
+BA_Berserker_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_Berserker_BodyBA_DynamicSprite_Index
+BA_Brigand_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_Brigand_BodyBA_DynamicSprite_Index
+BA_BrigandAlt_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_BrigandAlt_BodyBA_DynamicSprite_Index
+BA_WarriorAxes_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_WarriorAxes_BodyBA_DynamicSprite_Index
+BA_WarriorBow_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_WarriorBow_BodyBA_DynamicSprite_Index
+BA_Hunter_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_Hunter_BodyBA_DynamicSprite_Index
+BA_PirateAxes_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_PirateAxes_BodyBA_DynamicSprite_Index
+BA_UnknownDynamic38BattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_UnknownDynamic38BA_DynamicSprite_Index
+BA_DismountedMageKnightM_Sword_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_DismountedMageKnightM_Sword_BodyBA_DynamicSprite_Index
+BA_DismountedMageKnightM_Magic_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_DismountedMageKnightM_Magic_BodyBA_DynamicSprite_Index
+BA_Lord_Prince_DismountedLordKnight_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_Lord_Prince_DismountedLordKnight_BodyBA_DynamicSprite_Index
+BA_DismountedPaladinF_DismountedMasterKnightF_Sword_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_DismountedPaladinF_DismountedMasterKnightF_Sword_BodyBA_DynamicSprite_Index
+BA_DismountedPaladinF_DismountedMasterKnightF_Staff_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_DismountedPaladinF_DismountedMasterKnightF_Staff_BodyBA_DynamicSprite_Index
+BA_DismountedMageKnightF_Sword_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_DismountedMageKnightF_Sword_BodyBA_DynamicSprite_Index
+BA_DismountedMageKnightF_MagicStaff_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_DismountedMageKnightF_MagicStaff_BodyBA_DynamicSprite_Index
+BA_BaronGlitched_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_BaronGlitched_BodyBA_DynamicSprite_Index
+BA_Dancer_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_Dancer_BodyBA_DynamicSprite_Index
+BA_Priest_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_Priest_BodyBA_DynamicSprite_Index
+BA_Priestess_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_Priestess_BodyBA_DynamicSprite_Index
+BA_MageM_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_MageM_BodyBA_DynamicSprite_Index
+BA_MageF_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_MageF_BodyBA_DynamicSprite_Index
+BA_LoptrianMageM_Magic_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_LoptrianMageM_Magic_BodyBA_DynamicSprite_Index
+BA_LoptrianMageM_Staff_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_LoptrianMageM_Staff_BodyBA_DynamicSprite_Index
+BA_LoptrianMageF_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_LoptrianMageF_BodyBA_DynamicSprite_Index
+BA_ThunderMageM_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_ThunderMageM_BodyBA_DynamicSprite_Index
+BA_ThunderMageF_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_ThunderMageF_BodyBA_DynamicSprite_Index
+BA_WindMageM_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_WindMageM_BodyBA_DynamicSprite_Index
+BA_WindMageF_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_WindMageF_BodyBA_DynamicSprite_Index
+BA_High_Priest_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_High_Priest_BodyBA_DynamicSprite_Index
+BA_High_Priestess_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_High_Priestess_BodyBA_DynamicSprite_Index
+BA_Bishop_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_Bishop_BodyBA_DynamicSprite_Index
+BA_SageM_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_SageM_BodyBA_DynamicSprite_Index
+BA_SageF_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_SageF_BodyBA_DynamicSprite_Index
+BA_UnknownDynamic52BattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_UnknownDynamic52BA_DynamicSprite_Index
+BA_UnknownDynamic53BattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_UnknownDynamic53BA_DynamicSprite_Index
+BA_Bard_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_Bard_BodyBA_DynamicSprite_Index
+BA_Cleric_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_Cleric_BodyBA_DynamicSprite_Index
+BA_Sorcerer_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_Sorcerer_BodyBA_DynamicSprite_Index
+BA_DarkBishop_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_DarkBishop_BodyBA_DynamicSprite_Index
+BA_DarkBishop_Body_RepeatBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_DarkBishop_Body_RepeatBA_DynamicSprite_Index
+BA_ThiefM_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_ThiefM_BodyBA_DynamicSprite_Index
+BA_ThiefF_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_ThiefF_BodyBA_DynamicSprite_Index
+BA_RogueM_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_RogueM_BodyBA_DynamicSprite_Index
+BA_RogueF_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_RogueF_BodyBA_DynamicSprite_Index
+BA_UnknownDynamic5DBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_UnknownDynamic5DBA_DynamicSprite_Index
+BA_UnknownDynamic5EBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_UnknownDynamic5EBA_DynamicSprite_Index
+BA_Ballistician_VeninBallistician_BowBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_Ballistician_VeninBallistician_BowBA_DynamicSprite_Index
+BA_IronBallistician_BowBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_IronBallistician_BowBA_DynamicSprite_Index
+BA_KillerBallistician_BowBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_KillerBallistician_BowBA_DynamicSprite_Index
+BA_DarkPrince_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_DarkPrince_BodyBA_DynamicSprite_Index
+BA_Dancer_DanceBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_Dancer_DanceBA_DynamicSprite_Index
+BA_FighterAxe_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_FighterAxe_BodyBA_DynamicSprite_Index
+BA_DismountedBowKnightM_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_DismountedBowKnightM_BodyBA_DynamicSprite_Index
+BA_DismountedArchKnightM_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_DismountedArchKnightM_BodyBA_DynamicSprite_Index
+BA_Dismounted_MeleeCavs_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_Dismounted_MeleeCavs_BodyBA_DynamicSprite_Index
+BA_JuniorLord_Dismounted_PromotedMeleeCavs_MasterKnightM_Dracorider_Dragonmaster_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_JuniorLord_Dismounted_PromotedMeleeCavs_MasterKnightM_Dracorider_Dragonmaster_BodyBA_DynamicSprite_Index
+BA_HeroM_Axe_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_HeroM_Axe_BodyBA_DynamicSprite_Index
+BA_DismountedTroubadour_Sword_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_DismountedTroubadour_Sword_BodyBA_DynamicSprite_Index
+BA_DismountedTroubadour_Staff_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_DismountedTroubadour_Staff_BodyBA_DynamicSprite_Index
+BA_ThiefRogue_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_ThiefRogue_BodyBA_DynamicSprite_Index
+BA_Dismounted_PegRider_DracoriderF_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_Dismounted_PegRider_DracoriderF_BodyBA_DynamicSprite_Index
+BA_Dismounted_DracoKntF_DracoMstF_PegKnt_FalconKntSword_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_Dismounted_DracoKntF_DracoMstF_PegKnt_FalconKntSword_BodyBA_DynamicSprite_Index
+BA_Dismounted_FalconKntStaff_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_Dismounted_FalconKntStaff_BodyBA_DynamicSprite_Index
+BA_FighterThrownAxe_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_FighterThrownAxe_BodyBA_DynamicSprite_Index
+BA_HeroM_ThrownAxe_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_HeroM_ThrownAxe_BodyBA_DynamicSprite_Index
+BA_Soldier_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_Soldier_BodyBA_DynamicSprite_Index
+BA_ArcherEnemy_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_ArcherEnemy_BodyBA_DynamicSprite_Index
+BA_HeroM_Sword_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_HeroM_Sword_BodyBA_DynamicSprite_Index
+BA_HeroFE4M_Axe_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_HeroFE4M_Axe_BodyBA_DynamicSprite_Index
+BA_HeroFE4M_ThrownAxe_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_HeroFE4M_ThrownAxe_BodyBA_DynamicSprite_Index
+BA_HeroF_Axe_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_HeroF_Axe_BodyBA_DynamicSprite_Index
+BA_HeroF_ThrownAxe_BodyBattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_HeroF_ThrownAxe_BodyBA_DynamicSprite_Index
+BA_UnknownDynamic79BattleAnimationDynamicSpriteTableEntry .dstruct structBattleAnimationDynamicSpriteTable, BA_UnknownDynamic79BA_DynamicSprite_Index

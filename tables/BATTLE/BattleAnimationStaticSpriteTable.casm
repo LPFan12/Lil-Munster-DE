@@ -1,0 +1,320 @@
+	BA_Generic_MeleeCav_Body														= 0
+		BA_Generic_MeleeCav_BodyBA_StaticSprite_Index								= BA_StaSprite_Generic_MeleeCav_Body
+
+	BA_UnknownStatic01																= 1
+		BA_UnknownStatic01BA_StaticSprite_Index										= BA_StaSprite_Generic_MeleeCav_Body
+
+	BA_BowKnightM_Body																= 2
+		BA_BowKnightM_BodyBA_StaticSprite_Index										= BA_StaSprite_BowKnightM_Body
+
+	BA_UnknownStatic03																= 3
+		BA_UnknownStatic03BA_StaticSprite_Index										= BA_StaSprite_Promoted_Infantry_Melee_Slash
+
+	BA_Generic_SwordCav_Body														= 4
+		BA_Generic_SwordCav_BodyBA_StaticSprite_Index								= BA_StaSprite_Generic_SwordCav_Body
+
+	BA_Generic_Troubadour_Body														= 5
+		BA_Generic_Troubadour_BodyBA_StaticSprite_Index								= BA_StaSprite_Generic_Troubadour_Body
+
+	BA_KnightLord_Body																= 6
+		BA_KnightLord_BodyBA_StaticSprite_Index										= BA_StaSprite_KnightLord_Generic_DukeKnight_Body
+
+	BA_Generic_DukeKnight_Body														= 7
+		BA_Generic_DukeKnight_BodyBA_StaticSprite_Index								= BA_StaSprite_KnightLord_Generic_DukeKnight_Body
+
+	BA_Player_Mounted_Body															= 8
+		BA_Player_Mounted_BodyBA_StaticSprite_Index									= BA_StaSprite_Player_Mounted_Body
+
+	BA_MasterKnightM_Bow_Body														= 9
+		BA_MasterKnightM_Bow_BodyBA_StaticSprite_Index								= BA_StaSprite_Player_Mounted_Body
+
+	BA_MasterKnightF_Body															= 10
+		BA_MasterKnightF_BodyBA_StaticSprite_Index									= BA_StaSprite_Player_Mounted_Body
+
+	BA_MasterKnightF_Bow_Body														= 11
+		BA_MasterKnightF_Bow_BodyBA_StaticSprite_Index								= BA_StaSprite_Player_Mounted_Body
+
+	BA_Generic_PaladinM_Body														= 12
+		BA_Generic_PaladinM_BodyBA_StaticSprite_Index								= BA_StaSprite_Generic_PaladinM_Body
+
+	BA_Generic_PaladinF_Body														= 13
+		BA_Generic_PaladinF_BodyBA_StaticSprite_Index								= BA_StaSprite_Generic_PaladinF_Body
+
+	BA_ArchKnightM_Body																= 14
+		BA_ArchKnightM_BodyBA_StaticSprite_Index									= BA_StaSprite_ArchKnightM_Body
+
+	BA_Generic_Ranger_Body															= 15
+		BA_Generic_Ranger_BodyBA_StaticSprite_Index									= BA_StaSprite_Generic_Ranger_Body
+
+	BA_Generic_MageKnight_Body														= 16
+		BA_Generic_MageKnight_BodyBA_StaticSprite_Index								= BA_StaSprite_Generic_MageKnight_Body
+
+	BA_Generic_GreatKnight_Body														= 17
+		BA_Generic_GreatKnight_BodyBA_StaticSprite_Index							= BA_StaSprite_Generic_GreatKnight_Body
+
+	BA_PegasusRider_Body															= 18
+		BA_PegasusRider_BodyBA_StaticSprite_Index									= BA_StaSprite_PegasusRider_Body
+
+	BA_PegKnt_FalconKnt_DracoKntF_Body												= 19
+		BA_PegKnt_FalconKnt_DracoKntF_BodyBA_StaticSprite_Index						= BA_StaSprite_PegKnt_FalconKnt_DracoKntF_Body
+
+	BA_DracoRiderM_Body																= 20
+		BA_DracoRiderM_BodyBA_StaticSprite_Index									= BA_StaSprite_DracoRiderM_DragonMaster_Body
+
+	BA_DracoKnightM_Body															= 21
+		BA_DracoKnightM_BodyBA_StaticSprite_Index									= BA_StaSprite_DracoKnightM_Body
+
+	BA_DracoRiderF_Body																= 22
+		BA_DracoRiderF_BodyBA_StaticSprite_Index									= BA_StaSprite_DracoRiderF_Body
+
+	BA_DragonMasterM_Body															= 23
+		BA_DragonMasterM_BodyBA_StaticSprite_Index									= BA_StaSprite_DracoRiderM_DragonMaster_Body
+
+	BA_DragonMasterF_Body															= 24
+		BA_DragonMasterF_BodyBA_StaticSprite_Index									= BA_StaSprite_DracoRiderM_DragonMaster_Body
+
+	BA_Infantry_Archer_Quiver														= 25
+		BA_Infantry_Archer_QuiverBA_StaticSprite_Index								= BA_StaSprite_Infantry_Archer_Quiver
+
+	BA_Infantry_Melee_Slash															= 26
+		BA_Infantry_Melee_SlashBA_StaticSprite_Index								= BA_StaSprite_Infantry_Melee_Slash
+
+	BA_Promoted_Infantry_Melee_Slash												= 27
+		BA_Promoted_Infantry_Melee_SlashBA_StaticSprite_Index						= BA_StaSprite_Promoted_Infantry_Melee_Slash
+
+	BA_Promoted_Infantry_Archer_Quiver												= 28
+		BA_Promoted_Infantry_Archer_QuiverBA_StaticSprite_Index						= BA_StaSprite_Promoted_Infantry_Archer_Quiver
+
+	BA_General_Slashes																= 29
+		BA_General_SlashesBA_StaticSprite_Index										= BA_StaSprite_General_Emperor_Slashes
+
+	BA_Emperor_Slashes																= 30
+		BA_Emperor_SlashesBA_StaticSprite_Index										= BA_StaSprite_General_Emperor_Slashes
+
+	BA_Baron_Slashes																= 31
+		BA_Baron_SlashesBA_StaticSprite_Index										= BA_StaSprite_Baron_Slashes
+
+	BA_MeleeArmor_Slashes															= 32
+		BA_MeleeArmor_SlashesBA_StaticSprite_Index									= BA_StaSprite_MeleeArmor_Slashes
+
+	BA_BowArmor_Quiver																= 33
+		BA_BowArmor_QuiverBA_StaticSprite_Index										= BA_StaSprite_BowArmor_Quiver
+
+	BA_Berserker_Slash																= 34
+		BA_Berserker_SlashBA_StaticSprite_Index										= BA_StaSprite_Berserker_Slash
+
+	BA_Brigand_Slash																= 35
+		BA_Brigand_SlashBA_StaticSprite_Index										= BA_StaSprite_Brigand_Slash
+
+	BA_BrigandAlt_Slash																= 36
+		BA_BrigandAlt_SlashBA_StaticSprite_Index									= BA_StaSprite_BrigandAlt_Warrior_Slash
+
+	BA_Warrior_Slash																= 37
+		BA_Warrior_SlashBA_StaticSprite_Index										= BA_StaSprite_BrigandAlt_Warrior_Slash
+
+	BA_Warrior_Quiver																= 38
+		BA_Warrior_QuiverBA_StaticSprite_Index										= BA_StaSprite_Warrior_Quiver
+
+	BA_Hunter_Quiver																= 39
+		BA_Hunter_QuiverBA_StaticSprite_Index										= BA_StaSprite_Hunter_Quiver
+
+	BA_FighterThrown_HeroThrown_Pirate_Slash										= 40
+		BA_FighterThrown_HeroThrown_Pirate_SlashBA_StaticSprite_Index				= BA_StaSprite_FighterThrown_HeroThrown_Pirate_Slash
+
+	BA_DismountedClasses_JuniorLord_Slash											= 41
+		BA_DismountedClasses_JuniorLord_SlashBA_StaticSprite_Index					= BA_StaSprite_DismountedClasses_JuniorLord_Slash
+
+	BA_DismountedMageKnight_Slash													= 42
+		BA_DismountedMageKnight_SlashBA_StaticSprite_Index							= BA_StaSprite_DismountedMageKnight_Slash
+
+	BA_SageF_DismountedMageKnt_Shadow												= 43
+		BA_SageF_DismountedMageKnt_ShadowBA_StaticSprite_Index						= BA_StaSprite_SageF_DismountedMageKnt_Shadow
+
+	BA_Lord_Prince_Dismounted_KntLord_PalF_MstKntF_Slash							= 44
+		BA_Lord_Prince_Dismounted_KntLord_PalF_MstKntF_SlashBA_StaticSprite_Index	= BA_StaSprite_Lord_Prince_Dismounted_KntLord_PalF_MstKntF_Slash
+
+	BA_Dismounted_KntLord_PalF_MstKntF_Falcon_Shadow								= 45
+		BA_Dismounted_KntLord_PalF_MstKntF_Falcon_ShadowBA_StaticSprite_Index		= BA_StaSprite_Dismounted_KntLord_PalF_MstKntF_Falcon_Shadow
+
+	BA_BaronGlitched_Shadow															= 46
+		BA_BaronGlitched_ShadowBA_StaticSprite_Index								= BA_StaSprite_Cleric_Shadow
+
+	BA_Dancer_Slash																	= 47
+		BA_Dancer_SlashBA_StaticSprite_Index										= BA_StaSprite_Dancer_Slash
+
+	BA_Priest_Priestess_Shadow														= 48
+		BA_Priest_Priestess_ShadowBA_StaticSprite_Index								= BA_StaSprite_Priest_Priestess_Shadow
+
+	BA_Mage_Shadow																	= 49
+		BA_Mage_ShadowBA_StaticSprite_Index											= BA_StaSprite_Mage_Shadow
+
+	BA_LoptrianMage_Magic_Shadow													= 50
+		BA_LoptrianMage_Magic_ShadowBA_StaticSprite_Index							= BA_StaSprite_LoptrianMage_Magic_Shadow
+
+	BA_LoptrianMageM_Staff_Shadow													= 51
+		BA_LoptrianMageM_Staff_ShadowBA_StaticSprite_Index							= BA_StaSprite_ThunderMage_Shadow
+
+	BA_ThunderMage_Shadow															= 52
+		BA_ThunderMage_ShadowBA_StaticSprite_Index									= BA_StaSprite_ThunderMage_Shadow
+
+	BA_WindMage_Shadow																= 53
+		BA_WindMage_ShadowBA_StaticSprite_Index										= BA_StaSprite_WindMage_Shadow
+
+	BA_HighPriest_HighPriestess_Shadow												= 54
+		BA_HighPriest_HighPriestess_ShadowBA_StaticSprite_Index						= BA_StaSprite_HighPriest_HighPriestess_Shadow
+
+	BA_Bishop_Shadow																= 55
+		BA_Bishop_ShadowBA_StaticSprite_Index										= BA_StaSprite_Bishop_Shadow
+
+	BA_SageM_Shadow																	= 56
+		BA_SageM_ShadowBA_StaticSprite_Index										= BA_StaSprite_SageM_Shadow
+
+	BA_Bard_Shadow																	= 57
+		BA_Bard_ShadowBA_StaticSprite_Index											= BA_StaSprite_Bard_Shadow
+
+	BA_Cleric_Shadow																= 58
+		BA_Cleric_ShadowBA_StaticSprite_Index										= BA_StaSprite_Cleric_Shadow
+
+	BA_Sorcerer_Shadow																= 59
+		BA_Sorcerer_ShadowBA_StaticSprite_Index										= BA_StaSprite_Sorcerer_Shadow
+
+	BA_DarkBishop_Shadow															= 60
+		BA_DarkBishop_ShadowBA_StaticSprite_Index									= BA_StaSprite_DarkBishop_Shadow
+
+	BA_Thief_ThiefRogue_Slash														= 61
+		BA_Thief_ThiefRogue_SlashBA_StaticSprite_Index								= BA_StaSprite_Thief_ThiefRogue_Slash
+
+	BA_Rogue_Slash																	= 62
+		BA_Rogue_SlashBA_StaticSprite_Index											= BA_StaSprite_Rogue_Slash
+
+	BA_UnknownStatic3F																= 63
+		BA_UnknownStatic3FBA_StaticSprite_Index										= BA_StaSprite_Promoted_Infantry_Melee_Slash
+
+	BA_UnknownStatic40																= 64
+		BA_UnknownStatic40BA_StaticSprite_Index										= BA_StaSprite_Promoted_Infantry_Melee_Slash
+
+	BA_Ballistician_VeninBallistician_Body											= 65
+		BA_Ballistician_VeninBallistician_BodyBA_StaticSprite_Index					= BA_StaSprite_Ballistician_KillerBallistician_VeninBallistician_Body
+
+	BA_IronBallistician_Body														= 66
+		BA_IronBallistician_BodyBA_StaticSprite_Index								= BA_StaSprite_IronBallistician_Body
+
+	BA_KillerBallistician_Body														= 67
+		BA_KillerBallistician_BodyBA_StaticSprite_Index								= BA_StaSprite_Ballistician_KillerBallistician_VeninBallistician_Body
+
+	BA_DarkPrince_Shadow															= 68
+		BA_DarkPrince_ShadowBA_StaticSprite_Index									= BA_StaSprite_Sorcerer_Shadow
+
+	BA_Dancer_Dance_Shadow															= 69
+		BA_Dancer_Dance_ShadowBA_StaticSprite_Index									= BA_StaSprite_Dancer_Dance_Shadow
+
+	BA_MasterKnightF_Ranged_Staff_Body												= 70
+		BA_MasterKnightF_Ranged_Staff_BodyBA_StaticSprite_Index						= BA_StaSprite_Player_Mounted_Body
+
+	BA_UnknownStatic47																= 71
+		BA_UnknownStatic47BA_StaticSprite_Index										= BA_StaSprite_Unknown18
+
+	BA_UnknownStatic48																= 72
+		BA_UnknownStatic48BA_StaticSprite_Index										= BA_StaSprite_Unknown0A
+
+	BA_Robert_BowKnightM_Body														= 73
+		BA_Robert_BowKnightM_BodyBA_StaticSprite_Index								= BA_StaSprite_Robert_BowKnightM_Body
+
+	BA_Robert_ArchKnightM_Body														= 74
+		BA_Robert_ArchKnightM_BodyBA_StaticSprite_Index								= BA_StaSprite_Robert_ArchKnightM_Body
+
+	BA_Generic_MageKnightF_Body														= 75
+		BA_Generic_MageKnightF_BodyBA_StaticSprite_Index							= BA_StaSprite_Generic_MageKnightF_Body
+
+	BA_Ilios_MageKnight_Body														= 76
+		BA_Ilios_MageKnight_BodyBA_StaticSprite_Index								= BA_StaSprite_Ilios_MageKnight_Body
+
+	BA_BowKnightF_Body																= 77
+		BA_BowKnightF_BodyBA_StaticSprite_Index										= BA_StaSprite_BowKnightF_Body
+
+	BA_ArchKnightF_Body																= 78
+		BA_ArchKnightF_BodyBA_StaticSprite_Index									= BA_StaSprite_ArchKnightF_Body
+
+	BA_Dean_DracoKnight_Finn_DracoRider_Body										= 79
+		BA_Dean_DracoKnight_Finn_DracoRider_BodyBA_StaticSprite_Index				= BA_StaSprite_Dean_DracoKnight_Finn_DracoRider_Body
+
+BA_Generic_MeleeCav_BodyBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Generic_MeleeCav_BodyBA_StaticSprite_Index
+BA_UnknownStatic01BattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_UnknownStatic01BA_StaticSprite_Index
+BA_BowKnightM_BodyBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_BowKnightM_BodyBA_StaticSprite_Index
+BA_UnknownStatic03BattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_UnknownStatic03BA_StaticSprite_Index
+BA_Generic_SwordCav_BodyBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Generic_SwordCav_BodyBA_StaticSprite_Index
+BA_Generic_Troubadour_BodyBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Generic_Troubadour_BodyBA_StaticSprite_Index
+BA_KnightLord_BodyBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_KnightLord_BodyBA_StaticSprite_Index
+BA_Generic_DukeKnight_BodyBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Generic_DukeKnight_BodyBA_StaticSprite_Index
+BA_Player_Mounted_BodyBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Player_Mounted_BodyBA_StaticSprite_Index
+BA_MasterKnightM_Bow_BodyBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_MasterKnightM_Bow_BodyBA_StaticSprite_Index
+BA_MasterKnightF_BodyBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_MasterKnightF_BodyBA_StaticSprite_Index
+BA_MasterKnightF_Bow_BodyBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_MasterKnightF_Bow_BodyBA_StaticSprite_Index
+BA_Generic_PaladinM_BodyBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Generic_PaladinM_BodyBA_StaticSprite_Index
+BA_Generic_PaladinF_BodyBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Generic_PaladinF_BodyBA_StaticSprite_Index
+BA_ArchKnightM_BodyBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_ArchKnightM_BodyBA_StaticSprite_Index
+BA_Generic_Ranger_BodyBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Generic_Ranger_BodyBA_StaticSprite_Index
+BA_Generic_MageKnight_BodyBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Generic_MageKnight_BodyBA_StaticSprite_Index
+BA_Generic_GreatKnight_BodyBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Generic_GreatKnight_BodyBA_StaticSprite_Index
+BA_PegasusRider_BodyBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_PegasusRider_BodyBA_StaticSprite_Index
+BA_PegKnt_FalconKnt_DracoKntF_BodyBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_PegKnt_FalconKnt_DracoKntF_BodyBA_StaticSprite_Index
+BA_DracoRiderM_BodyBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_DracoRiderM_BodyBA_StaticSprite_Index
+BA_DracoKnightM_BodyBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_DracoKnightM_BodyBA_StaticSprite_Index
+BA_DracoRiderF_BodyBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_DracoRiderF_BodyBA_StaticSprite_Index
+BA_DragonMasterM_BodyBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_DragonMasterM_BodyBA_StaticSprite_Index
+BA_DragonMasterF_BodyBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_DragonMasterF_BodyBA_StaticSprite_Index
+BA_Infantry_Archer_QuiverBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Infantry_Archer_QuiverBA_StaticSprite_Index
+BA_Infantry_Melee_SlashBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Infantry_Melee_SlashBA_StaticSprite_Index
+BA_Promoted_Infantry_Melee_SlashBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Promoted_Infantry_Melee_SlashBA_StaticSprite_Index
+BA_Promoted_Infantry_Archer_QuiverBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Promoted_Infantry_Archer_QuiverBA_StaticSprite_Index
+BA_General_SlashesBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_General_SlashesBA_StaticSprite_Index
+BA_Emperor_SlashesBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Emperor_SlashesBA_StaticSprite_Index
+BA_Baron_SlashesBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Baron_SlashesBA_StaticSprite_Index
+BA_MeleeArmor_SlashesBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_MeleeArmor_SlashesBA_StaticSprite_Index
+BA_BowArmor_QuiverBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_BowArmor_QuiverBA_StaticSprite_Index
+BA_Berserker_SlashBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Berserker_SlashBA_StaticSprite_Index
+BA_Brigand_SlashBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Brigand_SlashBA_StaticSprite_Index
+BA_BrigandAlt_SlashBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_BrigandAlt_SlashBA_StaticSprite_Index
+BA_Warrior_SlashBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Warrior_SlashBA_StaticSprite_Index
+BA_Warrior_QuiverBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Warrior_QuiverBA_StaticSprite_Index
+BA_Hunter_QuiverBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Hunter_QuiverBA_StaticSprite_Index
+BA_FighterThrown_HeroThrown_Pirate_SlashBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_FighterThrown_HeroThrown_Pirate_SlashBA_StaticSprite_Index
+BA_DismountedClasses_JuniorLord_SlashBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_DismountedClasses_JuniorLord_SlashBA_StaticSprite_Index
+BA_DismountedMageKnight_SlashBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_DismountedMageKnight_SlashBA_StaticSprite_Index
+BA_SageF_DismountedMageKnt_ShadowBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_SageF_DismountedMageKnt_ShadowBA_StaticSprite_Index
+BA_Lord_Prince_Dismounted_KntLord_PalF_MstKntF_SlashBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Lord_Prince_Dismounted_KntLord_PalF_MstKntF_SlashBA_StaticSprite_Index
+BA_Dismounted_KntLord_PalF_MstKntF_Falcon_ShadowBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Dismounted_KntLord_PalF_MstKntF_Falcon_ShadowBA_StaticSprite_Index
+BA_BaronGlitched_ShadowBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_BaronGlitched_ShadowBA_StaticSprite_Index
+BA_Dancer_SlashBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Dancer_SlashBA_StaticSprite_Index
+BA_Priest_Priestess_ShadowBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Priest_Priestess_ShadowBA_StaticSprite_Index
+BA_Mage_ShadowBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Mage_ShadowBA_StaticSprite_Index
+BA_LoptrianMage_Magic_ShadowBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_LoptrianMage_Magic_ShadowBA_StaticSprite_Index
+BA_LoptrianMageM_Staff_ShadowBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_LoptrianMageM_Staff_ShadowBA_StaticSprite_Index
+BA_ThunderMage_ShadowBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_ThunderMage_ShadowBA_StaticSprite_Index
+BA_WindMage_ShadowBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_WindMage_ShadowBA_StaticSprite_Index
+BA_HighPriest_HighPriestess_ShadowBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_HighPriest_HighPriestess_ShadowBA_StaticSprite_Index
+BA_Bishop_ShadowBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Bishop_ShadowBA_StaticSprite_Index
+BA_SageM_ShadowBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_SageM_ShadowBA_StaticSprite_Index
+BA_Bard_ShadowBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Bard_ShadowBA_StaticSprite_Index
+BA_Cleric_ShadowBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Cleric_ShadowBA_StaticSprite_Index
+BA_Sorcerer_ShadowBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Sorcerer_ShadowBA_StaticSprite_Index
+BA_DarkBishop_ShadowBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_DarkBishop_ShadowBA_StaticSprite_Index
+BA_Thief_ThiefRogue_SlashBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Thief_ThiefRogue_SlashBA_StaticSprite_Index
+BA_Rogue_SlashBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Rogue_SlashBA_StaticSprite_Index
+BA_UnknownStatic3FBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_UnknownStatic3FBA_StaticSprite_Index
+BA_UnknownStatic40BattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_UnknownStatic40BA_StaticSprite_Index
+BA_Ballistician_VeninBallistician_BodyBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Ballistician_VeninBallistician_BodyBA_StaticSprite_Index
+BA_IronBallistician_BodyBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_IronBallistician_BodyBA_StaticSprite_Index
+BA_KillerBallistician_BodyBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_KillerBallistician_BodyBA_StaticSprite_Index
+BA_DarkPrince_ShadowBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_DarkPrince_ShadowBA_StaticSprite_Index
+BA_Dancer_Dance_ShadowBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Dancer_Dance_ShadowBA_StaticSprite_Index
+BA_MasterKnightF_Ranged_Staff_BodyBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_MasterKnightF_Ranged_Staff_BodyBA_StaticSprite_Index
+BA_UnknownStatic47BattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_UnknownStatic47BA_StaticSprite_Index
+BA_UnknownStatic48BattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_UnknownStatic48BA_StaticSprite_Index
+BA_Robert_BowKnightM_BodyBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Robert_BowKnightM_BodyBA_StaticSprite_Index
+BA_Robert_ArchKnightM_BodyBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Robert_ArchKnightM_BodyBA_StaticSprite_Index
+BA_Generic_MageKnightF_BodyBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Generic_MageKnightF_BodyBA_StaticSprite_Index
+BA_Ilios_MageKnight_BodyBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Ilios_MageKnight_BodyBA_StaticSprite_Index
+BA_BowKnightF_BodyBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_BowKnightF_BodyBA_StaticSprite_Index
+BA_ArchKnightF_BodyBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_ArchKnightF_BodyBA_StaticSprite_Index
+BA_Dean_DracoKnight_Finn_DracoRider_BodyBattleAnimationStaticSpriteTableEntry .dstruct structBattleAnimationStaticSpriteTable, BA_Dean_DracoKnight_Finn_DracoRider_BodyBA_StaticSprite_Index

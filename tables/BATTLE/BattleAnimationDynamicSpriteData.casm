@@ -1,0 +1,475 @@
+	BA_DynSprite_Unknown00																					= 0
+		BA_DynSprite_Unknown00Offset																		= aBADynSprite_MeleeCavs
+		BA_DynSprite_Unknown00Unknown																		= $FFFF
+
+	BA_DynSprite_Soldier																					= 1
+		BA_DynSprite_SoldierOffset																			= aBADynSprite_Soldier
+		BA_DynSprite_SoldierUnknown																			= $FFFF
+
+	BA_DynSprite_ArcherEnemy																				= 2
+		BA_DynSprite_ArcherEnemyOffset																		= aBADynSprite_ArcherEnemy
+		BA_DynSprite_ArcherEnemyUnknown																		= $FFFF
+
+	BA_DynSprite_Dismounted_PegRider_DracoriderF															= 3
+		BA_DynSprite_Dismounted_PegRider_DracoriderFOffset													= aBADynSprite_Dismounted_PegRider_DracoriderF
+		BA_DynSprite_Dismounted_PegRider_DracoriderFUnknown													= $FFFF
+
+	BA_DynSprite_Dismounted_DracoKntF_DracoMstF_PegKnt_FalconKntSword										= 4
+		BA_DynSprite_Dismounted_DracoKntF_DracoMstF_PegKnt_FalconKntSwordOffset								= aBADynSprite_Dismounted_DracoKntF_DracoMstF_PegKnt_FalconKntSword
+		BA_DynSprite_Dismounted_DracoKntF_DracoMstF_PegKnt_FalconKntSwordUnknown							= $FFFF
+
+	BA_DynSprite_DismountedTroubadour_Sword																	= 5
+		BA_DynSprite_DismountedTroubadour_SwordOffset														= aBADynSprite_DismountedTroubadour_Sword
+		BA_DynSprite_DismountedTroubadour_SwordUnknown														= $FFFF
+
+	BA_DynSprite_DismountedTroubadour_Staff																	= 6
+		BA_DynSprite_DismountedTroubadour_StaffOffset														= aBADynSprite_DismountedTroubadour_Staff
+		BA_DynSprite_DismountedTroubadour_StaffUnknown														= $FFFF
+
+	BA_DynSprite_Dismounted_FalconKntStaff																	= 7
+		BA_DynSprite_Dismounted_FalconKntStaffOffset														= aBADynSprite_Dismounted_FalconKntStaff
+		BA_DynSprite_Dismounted_FalconKntStaffUnknown														= $FFFF
+
+	BA_DynSprite_Dismounted_MeleeCavs																		= 8
+		BA_DynSprite_Dismounted_MeleeCavsOffset																= aBADynSprite_Dismounted_MeleeCavs
+		BA_DynSprite_Dismounted_MeleeCavsUnknown															= $FFFF
+
+	BA_DynSprite_JuniorLord_Dismounted_PromotedMeleeCavs_MasterKnightM_Dracorider_Dragonmaster				= 9
+		BA_DynSprite_JuniorLord_Dismounted_PromotedMeleeCavs_MasterKnightM_Dracorider_DragonmasterOffset	= aBADynSprite_JuniorLord_Dismounted_PromotedMeleeCavs_MasterKnightM_Dracorider_Dragonmaster
+		BA_DynSprite_JuniorLord_Dismounted_PromotedMeleeCavs_MasterKnightM_Dracorider_DragonmasterUnknown	= $FFFF
+
+	BA_DynSprite_Cavalier_LncKnt_AxeKnt																		= 10
+		BA_DynSprite_Cavalier_LncKnt_AxeKntOffset															= aBADynSprite_MeleeCavs
+		BA_DynSprite_Cavalier_LncKnt_AxeKntUnknown															= $FFFF
+
+	BA_DynSprite_SwordKnight																				= 11
+		BA_DynSprite_SwordKnightOffset																		= aBADynSprite_MeleeCavs
+		BA_DynSprite_SwordKnightUnknown																		= $FFFF
+
+	BA_DynSprite_Troubadour																					= 12
+		BA_DynSprite_TroubadourOffset																		= aBADynSprite_MeleeCavs
+		BA_DynSprite_TroubadourUnknown																		= $FFFF
+
+	BA_DynSprite_BowKnight																					= 13
+		BA_DynSprite_BowKnightOffset																		= aBADynSprite_BowKnight
+		BA_DynSprite_BowKnightUnknown																		= $FFFF
+
+	BA_DynSprite_DismountedBowKnightM																		= 14
+		BA_DynSprite_DismountedBowKnightMOffset																= aBADynSprite_DismountedBowKnightM
+		BA_DynSprite_DismountedBowKnightMUnknown															= $FFFF
+
+	BA_DynSprite_ArchKnight																					= 15
+		BA_DynSprite_ArchKnightOffset																		= aBADynSprite_ArchKnight
+		BA_DynSprite_ArchKnightUnknown																		= $FFFF
+
+	BA_DynSprite_DismountedArchKnightM																		= 16
+		BA_DynSprite_DismountedArchKnightMOffset															= aBADynSprite_DismountedArchKnightM
+		BA_DynSprite_DismountedArchKnightMUnknown															= $FFFF
+
+	BA_DynSprite_LordKnight_DukeKnight																		= 17
+		BA_DynSprite_LordKnight_DukeKnightOffset															= aBADynSprite_LordKnight_DukeKnight
+		BA_DynSprite_LordKnight_DukeKnightUnknown															= $FFFF
+
+	BA_DynSprite_Unknown12																					= 18
+		BA_DynSprite_Unknown12Offset																		= aBADynSprite_LordKnight_DukeKnight
+		BA_DynSprite_Unknown12Unknown																		= $FFFF
+
+	BA_DynSprite_Ranger_MasterKnight																		= 19
+		BA_DynSprite_Ranger_MasterKnightOffset																= aBADynSprite_Ranger_MasterKnight
+		BA_DynSprite_Ranger_MasterKnightUnknown																= $FFFF
+
+	BA_DynSprite_Unknown14																					= 20
+		BA_DynSprite_Unknown14Offset																		= aBADynSprite_Ranger_MasterKnight
+		BA_DynSprite_Unknown14Unknown																		= $FFFF
+
+	BA_DynSprite_MageKnight																					= 21
+		BA_DynSprite_MageKnightOffset																		= aBADynSprite_MageKnight
+		BA_DynSprite_MageKnightUnknown																		= $FFFF
+
+	BA_DynSprite_GreatKnight																				= 22
+		BA_DynSprite_GreatKnightOffset																		= aBADynSprite_GreatKnight
+		BA_DynSprite_GreatKnightUnknown																		= $FFFF
+
+	BA_DynSprite_Paladin																					= 23
+		BA_DynSprite_PaladinOffset																			= aBADynSprite_Paladin
+		BA_DynSprite_PaladinUnknown																			= $FFFF
+
+	BA_DynSprite_Pegasus_Falcon																				= 24
+		BA_DynSprite_Pegasus_FalconOffset																	= aBADynSprite_Pegasus_Falcon
+		BA_DynSprite_Pegasus_FalconUnknown																	= $FFFF
+
+	BA_DynSprite_Dracorider																					= 25
+		BA_DynSprite_DracoriderOffset																		= aBADynSprite_Dracorider
+		BA_DynSprite_DracoriderUnknown																		= $FFFF
+
+	BA_DynSprite_Dracoknight_Dragonmaster																	= 26
+		BA_DynSprite_Dracoknight_DragonmasterOffset															= aBADynSprite_Dracoknight_Dragonmaster
+		BA_DynSprite_Dracoknight_DragonmasterUnknown														= $FFFF
+
+	BA_DynSprite_ArcherM																					= 27
+		BA_DynSprite_ArcherMOffset																			= aBADynSprite_ArcherM
+		BA_DynSprite_ArcherMUnknown																			= $FFFF
+
+	BA_DynSprite_ArcherF_DismountedBowKnightF																= 28
+		BA_DynSprite_ArcherF_DismountedBowKnightFOffset														= aBADynSprite_ArcherF_DismountedBowKnightF
+		BA_DynSprite_ArcherF_DismountedBowKnightFUnknown													= $FFFF
+
+	BA_DynSprite_SniperM																					= 29
+		BA_DynSprite_SniperMOffset																			= aBADynSprite_SniperM
+		BA_DynSprite_SniperMUnknown																			= $FFFF
+
+	BA_DynSprite_SniperF_DismountedArchKnightF																= 30
+		BA_DynSprite_SniperF_DismountedArchKnightFOffset													= aBADynSprite_SniperF_DismountedArchKnightF
+		BA_DynSprite_SniperF_DismountedArchKnightFUnknown													= $FFFF
+
+	BA_DynSprite_MyrmidonM_DismountedSwordKnight															= 31
+		BA_DynSprite_MyrmidonM_DismountedSwordKnightOffset													= aBADynSprite_MyrmidonM_DismountedSwordKnight
+		BA_DynSprite_MyrmidonM_DismountedSwordKnightUnknown													= $FFFF
+
+	BA_DynSprite_MyrmidonF																					= 32
+		BA_DynSprite_MyrmidonFOffset																		= aBADynSprite_MyrmidonF
+		BA_DynSprite_MyrmidonFUnknown																		= $FFFF
+
+	BA_DynSprite_FighterAxe																					= 33
+		BA_DynSprite_FighterAxeOffset																		= aBADynSprite_FighterAxe
+		BA_DynSprite_FighterAxeUnknown																		= $FFFF
+
+	BA_DynSprite_FighterThrownAxe																			= 34
+		BA_DynSprite_FighterThrownAxeOffset																	= aBADynSprite_FighterThrownAxe
+		BA_DynSprite_FighterThrownAxeUnknown																= $FFFF
+
+	BA_DynSprite_HeroM_Axe																					= 35
+		BA_DynSprite_HeroM_AxeOffset																		= aBADynSprite_HeroM_Axe
+		BA_DynSprite_HeroM_AxeUnknown																		= $FFFF
+
+	BA_DynSprite_HeroM_Sword																				= 36
+		BA_DynSprite_HeroM_SwordOffset																		= aBADynSprite_HeroM_Sword
+		BA_DynSprite_HeroM_SwordUnknown																		= $FFFF
+
+	BA_DynSprite_HeroM_ThrownAxe																			= 37
+		BA_DynSprite_HeroM_ThrownAxeOffset																	= aBADynSprite_HeroM_ThrownAxe
+		BA_DynSprite_HeroM_ThrownAxeUnknown																	= $FFFF
+
+	BA_DynSprite_HeroF_Axe																					= 38
+		BA_DynSprite_HeroF_AxeOffset																		= aBADynSprite_HeroF_Axe
+		BA_DynSprite_HeroF_AxeUnknown																		= $FFFF
+
+	BA_DynSprite_HeroF_ThrownAxe																			= 39
+		BA_DynSprite_HeroF_ThrownAxeOffset																	= aBADynSprite_HeroF_ThrownAxe
+		BA_DynSprite_HeroF_ThrownAxeUnknown																	= $FFFF
+
+	BA_DynSprite_Unknown28																					= 40
+		BA_DynSprite_Unknown28Offset																		= aBADynSprite_HeroM_Sword
+		BA_DynSprite_Unknown28Unknown																		= $FFFF
+
+	BA_DynSprite_DismountedRanger_DismountedDracoknightM_HeroFE4M											= 41
+		BA_DynSprite_DismountedRanger_DismountedDracoknightM_HeroFE4MOffset									= aBADynSprite_DismountedRanger_DismountedDracoknightM_HeroFE4M
+		BA_DynSprite_DismountedRanger_DismountedDracoknightM_HeroFE4MUnknown								= $FFFF
+
+	BA_DynSprite_HeroF_HeroFE4F																				= 42
+		BA_DynSprite_HeroF_HeroFE4FOffset																	= aBADynSprite_HeroF_HeroFE4F
+		BA_DynSprite_HeroF_HeroFE4FUnknown																	= $FFFF
+
+	BA_DynSprite_HeroFE4M_Axe																				= 43
+		BA_DynSprite_HeroFE4M_AxeOffset																		= aBADynSprite_HeroFE4M_Axe
+		BA_DynSprite_HeroFE4M_AxeUnknown																	= $FFFF
+
+	BA_DynSprite_HeroFE4M_ThrownAxe																			= 44
+		BA_DynSprite_HeroFE4M_ThrownAxeOffset																= aBADynSprite_HeroFE4M_ThrownAxe
+		BA_DynSprite_HeroFE4M_ThrownAxeUnknown																= $FFFF
+
+	BA_DynSprite_SwordmasterM																				= 45
+		BA_DynSprite_SwordmasterMOffset																		= aBADynSprite_SwordmasterM
+		BA_DynSprite_SwordmasterMUnknown																	= $FFFF
+
+	BA_DynSprite_SwordmasterF																				= 46
+		BA_DynSprite_SwordmasterFOffset																		= aBADynSprite_SwordmasterF
+		BA_DynSprite_SwordmasterFUnknown																	= $FFFF
+
+	BA_DynSprite_GeneralSwordAxes																			= 47
+		BA_DynSprite_GeneralSwordAxesOffset																	= aBADynSprite_GeneralSwordAxes
+		BA_DynSprite_GeneralSwordAxesUnknown																= $FFFF
+
+	BA_DynSprite_GeneralLances																				= 48
+		BA_DynSprite_GeneralLancesOffset																	= aBADynSprite_GeneralLances
+		BA_DynSprite_GeneralLancesUnknown																	= $FFFF
+
+	BA_DynSprite_GeneralBow																					= 49
+		BA_DynSprite_GeneralBowOffset																		= aBADynSprite_GeneralBow
+		BA_DynSprite_GeneralBowUnknown																		= $FFFF
+
+	BA_DynSprite_Emperor_BaronSwordAxesStaffMagic															= 50
+		BA_DynSprite_Emperor_BaronSwordAxesStaffMagicOffset													= aBADynSprite_Emperor_BaronSwordAxesStaffMagic
+		BA_DynSprite_Emperor_BaronSwordAxesStaffMagicUnknown												= $FFFF
+
+	BA_DynSprite_BaronLances																				= 51
+		BA_DynSprite_BaronLancesOffset																		= aBADynSprite_BaronLances
+		BA_DynSprite_BaronLancesUnknown																		= $FFFF
+
+	BA_DynSprite_BaronBow																					= 52
+		BA_DynSprite_BaronBowOffset																			= aBADynSprite_BaronBow
+		BA_DynSprite_BaronBowUnknown																		= $FFFF
+
+	BA_DynSprite_ArmorLances																				= 53
+		BA_DynSprite_ArmorLancesOffset																		= aBADynSprite_ArmorLances
+		BA_DynSprite_ArmorLancesUnknown																		= $FFFF
+
+	BA_DynSprite_ArmorSwordAxes																				= 54
+		BA_DynSprite_ArmorSwordAxesOffset																	= aBADynSprite_ArmorSwordAxes
+		BA_DynSprite_ArmorSwordAxesUnknown																	= $FFFF
+
+	BA_DynSprite_ArmorBow																					= 55
+		BA_DynSprite_ArmorBowOffset																			= aBADynSprite_ArmorBow
+		BA_DynSprite_ArmorBowUnknown																		= $FFFF
+
+	BA_DynSprite_Berserker																					= 56
+		BA_DynSprite_BerserkerOffset																		= aBADynSprite_Berserker
+		BA_DynSprite_BerserkerUnknown																		= $FFFF
+
+	BA_DynSprite_Brigand																					= 57
+		BA_DynSprite_BrigandOffset																			= aBADynSprite_Brigand
+		BA_DynSprite_BrigandUnknown																			= $FFFF
+
+	BA_DynSprite_BrigandAlt_WarrorAxes																		= 58
+		BA_DynSprite_BrigandAlt_WarrorAxesOffset															= aBADynSprite_BrigandAlt_WarrorAxes
+		BA_DynSprite_BrigandAlt_WarrorAxesUnknown															= $FFFF
+
+	BA_DynSprite_WarriorBow																					= 59
+		BA_DynSprite_WarriorBowOffset																		= aBADynSprite_WarriorBow
+		BA_DynSprite_WarriorBowUnknown																		= $FFFF
+
+	BA_DynSprite_Hunter																						= 60
+		BA_DynSprite_HunterOffset																			= aBADynSprite_Hunter
+		BA_DynSprite_HunterUnknown																			= $FFFF
+
+	BA_DynSprite_PirateAxes																					= 61
+		BA_DynSprite_PirateAxesOffset																		= aBADynSprite_PirateAxes
+		BA_DynSprite_PirateAxesUnknown																		= $FFFF
+
+	BA_DynSprite_DismountedMageKnightM_Sword																= 62
+		BA_DynSprite_DismountedMageKnightM_SwordOffset														= aBADynSprite_DismountedMageKnightM_Sword
+		BA_DynSprite_DismountedMageKnightM_SwordUnknown														= $FFFF
+
+	BA_DynSprite_DismountedMageKnightM_Magic																= 63
+		BA_DynSprite_DismountedMageKnightM_MagicOffset														= aBADynSprite_DismountedMageKnightM_Magic
+		BA_DynSprite_DismountedMageKnightM_MagicUnknown														= $FFFF
+
+	BA_DynSprite_DismountedMageKnightF_Sword																= 64
+		BA_DynSprite_DismountedMageKnightF_SwordOffset														= aBADynSprite_DismountedMageKnightF_Sword
+		BA_DynSprite_DismountedMageKnightF_SwordUnknown														= $FFFF
+
+	BA_DynSprite_DismountedMageKnightF_MagicStaff															= 65
+		BA_DynSprite_DismountedMageKnightF_MagicStaffOffset													= aBADynSprite_DismountedMageKnightF_MagicStaff
+		BA_DynSprite_DismountedMageKnightF_MagicStaffUnknown												= $FFFF
+
+	BA_DynSprite_Lord_Prince_DismountedLordKnight															= 66
+		BA_DynSprite_Lord_Prince_DismountedLordKnightOffset													= aBADynSprite_Lord_Prince_DismountedLordKnight
+		BA_DynSprite_Lord_Prince_DismountedLordKnightUnknown												= $FFFF
+
+	BA_DynSprite_DismountedPaladinF_DismountedMasterKnightF_Sword											= 67
+		BA_DynSprite_DismountedPaladinF_DismountedMasterKnightF_SwordOffset									= aBADynSprite_DismountedPaladinF_DismountedMasterKnightF_Sword
+		BA_DynSprite_DismountedPaladinF_DismountedMasterKnightF_SwordUnknown								= $FFFF
+
+	BA_DynSprite_DismountedPaladinF_DismountedMasterKnightF_Staff											= 68
+		BA_DynSprite_DismountedPaladinF_DismountedMasterKnightF_StaffOffset									= aBADynSprite_DismountedPaladinF_DismountedMasterKnightF_Staff
+		BA_DynSprite_DismountedPaladinF_DismountedMasterKnightF_StaffUnknown								= $FFFF
+
+	BA_DynSprite_Dancer																						= 69
+		BA_DynSprite_DancerOffset																			= aBADynSprite_Dancer
+		BA_DynSprite_DancerUnknown																			= $FFFF
+
+	BA_DynSprite_Dancer_Dance																				= 70
+		BA_DynSprite_Dancer_DanceOffset																		= aBADynSprite_Dancer_Dance
+		BA_DynSprite_Dancer_DanceUnknown																	= $FFFF
+
+	BA_DynSprite_Cleric																						= 71
+		BA_DynSprite_ClericOffset																			= aBADynSprite_Cleric
+		BA_DynSprite_ClericUnknown																			= $FFFF
+
+	BA_DynSprite_Priest																						= 72
+		BA_DynSprite_PriestOffset																			= aBADynSprite_Priest
+		BA_DynSprite_PriestUnknown																			= $FFFF
+
+	BA_DynSprite_Priestess																					= 73
+		BA_DynSprite_PriestessOffset																		= aBADynSprite_Priestess
+		BA_DynSprite_PriestessUnknown																		= $FFFF
+
+	BA_DynSprite_Mage_LoptrianMageMagic																		= 74
+		BA_DynSprite_Mage_LoptrianMageMagicOffset															= aBADynSprite_Mage_LoptrianMageMagic
+		BA_DynSprite_Mage_LoptrianMageMagicUnknown															= $FFFF
+
+	BA_DynSprite_Mage_LoptrianMageStaff																		= 75
+		BA_DynSprite_Mage_LoptrianMageStaffOffset															= aBADynSprite_Mage_LoptrianMageStaff
+		BA_DynSprite_Mage_LoptrianMageStaffUnknown															= $FFFF
+
+	BA_DynSprite_ThunderMageM																				= 76
+		BA_DynSprite_ThunderMageMOffset																		= aBADynSprite_ThunderMageM
+		BA_DynSprite_ThunderMageMUnknown																	= $FFFF
+
+	BA_DynSprite_ThunderMageF																				= 77
+		BA_DynSprite_ThunderMageFOffset																		= aBADynSprite_ThunderMageF
+		BA_DynSprite_ThunderMageFUnknown																	= $FFFF
+
+	BA_DynSprite_WindMageM																					= 78
+		BA_DynSprite_WindMageMOffset																		= aBADynSprite_WindMageM
+		BA_DynSprite_WindMageMUnknown																		= $FFFF
+
+	BA_DynSprite_WindMageF																					= 79
+		BA_DynSprite_WindMageFOffset																		= aBADynSprite_WindMageF
+		BA_DynSprite_WindMageFUnknown																		= $FFFF
+
+	BA_DynSprite_High_Priest																				= 80
+		BA_DynSprite_High_PriestOffset																		= aBADynSprite_High_Priest
+		BA_DynSprite_High_PriestUnknown																		= $FFFF
+
+	BA_DynSprite_High_Priestess																				= 81
+		BA_DynSprite_High_PriestessOffset																	= aBADynSprite_High_Priestess
+		BA_DynSprite_High_PriestessUnknown																	= $FFFF
+
+	BA_DynSprite_Bishop																						= 82
+		BA_DynSprite_BishopOffset																			= aBADynSprite_Bishop
+		BA_DynSprite_BishopUnknown																			= $FFFF
+
+	BA_DynSprite_SageM																						= 83
+		BA_DynSprite_SageMOffset																			= aBADynSprite_SageM
+		BA_DynSprite_SageMUnknown																			= $FFFF
+
+	BA_DynSprite_SageF																						= 84
+		BA_DynSprite_SageFOffset																			= aBADynSprite_SageF
+		BA_DynSprite_SageFUnknown																			= $FFFF
+
+	BA_DynSprite_Bard																						= 85
+		BA_DynSprite_BardOffset																				= aBADynSprite_Bard
+		BA_DynSprite_BardUnknown																			= $FFFF
+
+	BA_DynSprite_Sorcerer																					= 86
+		BA_DynSprite_SorcererOffset																			= aBADynSprite_Sorcerer
+		BA_DynSprite_SorcererUnknown																		= $FFFF
+
+	BA_DynSprite_DarkBishop																					= 87
+		BA_DynSprite_DarkBishopOffset																		= aBADynSprite_DarkBishop
+		BA_DynSprite_DarkBishopUnknown																		= $FFFF
+
+	BA_DynSprite_DarkBishop_Repeat																			= 88
+		BA_DynSprite_DarkBishop_RepeatOffset																= aBADynSprite_DarkBishop
+		BA_DynSprite_DarkBishop_RepeatUnknown																= $FFFF
+
+	BA_DynSprite_ThiefM																						= 89
+		BA_DynSprite_ThiefMOffset																			= aBADynSprite_ThiefM
+		BA_DynSprite_ThiefMUnknown																			= $FFFF
+
+	BA_DynSprite_ThiefF																						= 90
+		BA_DynSprite_ThiefFOffset																			= aBADynSprite_ThiefF
+		BA_DynSprite_ThiefFUnknown																			= $FFFF
+
+	BA_DynSprite_RogueM																						= 91
+		BA_DynSprite_RogueMOffset																			= aBADynSprite_RogueM
+		BA_DynSprite_RogueMUnknown																			= $FFFF
+
+	BA_DynSprite_RogueF																						= 92
+		BA_DynSprite_RogueFOffset																			= aBADynSprite_RogueF
+		BA_DynSprite_RogueFUnknown																			= $FFFF
+
+	BA_DynSprite_Ballistician_KillerBallistician_VeninBallistician											= 93
+		BA_DynSprite_Ballistician_KillerBallistician_VeninBallisticianOffset								= aBADynSprite_Ballistician_KillerBallistician_VeninBallistician
+		BA_DynSprite_Ballistician_KillerBallistician_VeninBallisticianUnknown								= $FFFF
+
+	BA_DynSprite_IronBallistician																			= 94
+		BA_DynSprite_IronBallisticianOffset																	= aBADynSprite_IronBallistician
+		BA_DynSprite_IronBallisticianUnknown																= $FFFF
+
+BA_DynSprite_Unknown00BattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_Unknown00Offset, BA_DynSprite_Unknown00Unknown
+BA_DynSprite_SoldierBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_SoldierOffset, BA_DynSprite_SoldierUnknown
+BA_DynSprite_ArcherEnemyBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_ArcherEnemyOffset, BA_DynSprite_ArcherEnemyUnknown
+BA_DynSprite_Dismounted_PegRider_DracoriderFBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_Dismounted_PegRider_DracoriderFOffset, BA_DynSprite_Dismounted_PegRider_DracoriderFUnknown
+BA_DynSprite_Dismounted_DracoKntF_DracoMstF_PegKnt_FalconKntSwordBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_Dismounted_DracoKntF_DracoMstF_PegKnt_FalconKntSwordOffset, BA_DynSprite_Dismounted_DracoKntF_DracoMstF_PegKnt_FalconKntSwordUnknown
+BA_DynSprite_DismountedTroubadour_SwordBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_DismountedTroubadour_SwordOffset, BA_DynSprite_DismountedTroubadour_SwordUnknown
+BA_DynSprite_DismountedTroubadour_StaffBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_DismountedTroubadour_StaffOffset, BA_DynSprite_DismountedTroubadour_StaffUnknown
+BA_DynSprite_Dismounted_FalconKntStaffBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_Dismounted_FalconKntStaffOffset, BA_DynSprite_Dismounted_FalconKntStaffUnknown
+BA_DynSprite_Dismounted_MeleeCavsBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_Dismounted_MeleeCavsOffset, BA_DynSprite_Dismounted_MeleeCavsUnknown
+BA_DynSprite_JuniorLord_Dismounted_PromotedMeleeCavs_MasterKnightM_Dracorider_DragonmasterBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_JuniorLord_Dismounted_PromotedMeleeCavs_MasterKnightM_Dracorider_DragonmasterOffset, BA_DynSprite_JuniorLord_Dismounted_PromotedMeleeCavs_MasterKnightM_Dracorider_DragonmasterUnknown
+BA_DynSprite_Cavalier_LncKnt_AxeKntBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_Cavalier_LncKnt_AxeKntOffset, BA_DynSprite_Cavalier_LncKnt_AxeKntUnknown
+BA_DynSprite_SwordKnightBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_SwordKnightOffset, BA_DynSprite_SwordKnightUnknown
+BA_DynSprite_TroubadourBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_TroubadourOffset, BA_DynSprite_TroubadourUnknown
+BA_DynSprite_BowKnightBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_BowKnightOffset, BA_DynSprite_BowKnightUnknown
+BA_DynSprite_DismountedBowKnightMBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_DismountedBowKnightMOffset, BA_DynSprite_DismountedBowKnightMUnknown
+BA_DynSprite_ArchKnightBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_ArchKnightOffset, BA_DynSprite_ArchKnightUnknown
+BA_DynSprite_DismountedArchKnightMBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_DismountedArchKnightMOffset, BA_DynSprite_DismountedArchKnightMUnknown
+BA_DynSprite_LordKnight_DukeKnightBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_LordKnight_DukeKnightOffset, BA_DynSprite_LordKnight_DukeKnightUnknown
+BA_DynSprite_Unknown12BattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_Unknown12Offset, BA_DynSprite_Unknown12Unknown
+BA_DynSprite_Ranger_MasterKnightBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_Ranger_MasterKnightOffset, BA_DynSprite_Ranger_MasterKnightUnknown
+BA_DynSprite_Unknown14BattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_Unknown14Offset, BA_DynSprite_Unknown14Unknown
+BA_DynSprite_MageKnightBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_MageKnightOffset, BA_DynSprite_MageKnightUnknown
+BA_DynSprite_GreatKnightBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_GreatKnightOffset, BA_DynSprite_GreatKnightUnknown
+BA_DynSprite_PaladinBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_PaladinOffset, BA_DynSprite_PaladinUnknown
+BA_DynSprite_Pegasus_FalconBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_Pegasus_FalconOffset, BA_DynSprite_Pegasus_FalconUnknown
+BA_DynSprite_DracoriderBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_DracoriderOffset, BA_DynSprite_DracoriderUnknown
+BA_DynSprite_Dracoknight_DragonmasterBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_Dracoknight_DragonmasterOffset, BA_DynSprite_Dracoknight_DragonmasterUnknown
+BA_DynSprite_ArcherMBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_ArcherMOffset, BA_DynSprite_ArcherMUnknown
+BA_DynSprite_ArcherF_DismountedBowKnightFBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_ArcherF_DismountedBowKnightFOffset, BA_DynSprite_ArcherF_DismountedBowKnightFUnknown
+BA_DynSprite_SniperMBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_SniperMOffset, BA_DynSprite_SniperMUnknown
+BA_DynSprite_SniperF_DismountedArchKnightFBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_SniperF_DismountedArchKnightFOffset, BA_DynSprite_SniperF_DismountedArchKnightFUnknown
+BA_DynSprite_MyrmidonM_DismountedSwordKnightBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_MyrmidonM_DismountedSwordKnightOffset, BA_DynSprite_MyrmidonM_DismountedSwordKnightUnknown
+BA_DynSprite_MyrmidonFBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_MyrmidonFOffset, BA_DynSprite_MyrmidonFUnknown
+BA_DynSprite_FighterAxeBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_FighterAxeOffset, BA_DynSprite_FighterAxeUnknown
+BA_DynSprite_FighterThrownAxeBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_FighterThrownAxeOffset, BA_DynSprite_FighterThrownAxeUnknown
+BA_DynSprite_HeroM_AxeBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_HeroM_AxeOffset, BA_DynSprite_HeroM_AxeUnknown
+BA_DynSprite_HeroM_SwordBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_HeroM_SwordOffset, BA_DynSprite_HeroM_SwordUnknown
+BA_DynSprite_HeroM_ThrownAxeBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_HeroM_ThrownAxeOffset, BA_DynSprite_HeroM_ThrownAxeUnknown
+BA_DynSprite_HeroF_AxeBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_HeroF_AxeOffset, BA_DynSprite_HeroF_AxeUnknown
+BA_DynSprite_HeroF_ThrownAxeBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_HeroF_ThrownAxeOffset, BA_DynSprite_HeroF_ThrownAxeUnknown
+BA_DynSprite_Unknown28BattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_Unknown28Offset, BA_DynSprite_Unknown28Unknown
+BA_DynSprite_DismountedRanger_DismountedDracoknightM_HeroFE4MBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_DismountedRanger_DismountedDracoknightM_HeroFE4MOffset, BA_DynSprite_DismountedRanger_DismountedDracoknightM_HeroFE4MUnknown
+BA_DynSprite_HeroF_HeroFE4FBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_HeroF_HeroFE4FOffset, BA_DynSprite_HeroF_HeroFE4FUnknown
+BA_DynSprite_HeroFE4M_AxeBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_HeroFE4M_AxeOffset, BA_DynSprite_HeroFE4M_AxeUnknown
+BA_DynSprite_HeroFE4M_ThrownAxeBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_HeroFE4M_ThrownAxeOffset, BA_DynSprite_HeroFE4M_ThrownAxeUnknown
+BA_DynSprite_SwordmasterMBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_SwordmasterMOffset, BA_DynSprite_SwordmasterMUnknown
+BA_DynSprite_SwordmasterFBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_SwordmasterFOffset, BA_DynSprite_SwordmasterFUnknown
+BA_DynSprite_GeneralSwordAxesBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_GeneralSwordAxesOffset, BA_DynSprite_GeneralSwordAxesUnknown
+BA_DynSprite_GeneralLancesBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_GeneralLancesOffset, BA_DynSprite_GeneralLancesUnknown
+BA_DynSprite_GeneralBowBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_GeneralBowOffset, BA_DynSprite_GeneralBowUnknown
+BA_DynSprite_Emperor_BaronSwordAxesStaffMagicBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_Emperor_BaronSwordAxesStaffMagicOffset, BA_DynSprite_Emperor_BaronSwordAxesStaffMagicUnknown
+BA_DynSprite_BaronLancesBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_BaronLancesOffset, BA_DynSprite_BaronLancesUnknown
+BA_DynSprite_BaronBowBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_BaronBowOffset, BA_DynSprite_BaronBowUnknown
+BA_DynSprite_ArmorLancesBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_ArmorLancesOffset, BA_DynSprite_ArmorLancesUnknown
+BA_DynSprite_ArmorSwordAxesBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_ArmorSwordAxesOffset, BA_DynSprite_ArmorSwordAxesUnknown
+BA_DynSprite_ArmorBowBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_ArmorBowOffset, BA_DynSprite_ArmorBowUnknown
+BA_DynSprite_BerserkerBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_BerserkerOffset, BA_DynSprite_BerserkerUnknown
+BA_DynSprite_BrigandBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_BrigandOffset, BA_DynSprite_BrigandUnknown
+BA_DynSprite_BrigandAlt_WarrorAxesBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_BrigandAlt_WarrorAxesOffset, BA_DynSprite_BrigandAlt_WarrorAxesUnknown
+BA_DynSprite_WarriorBowBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_WarriorBowOffset, BA_DynSprite_WarriorBowUnknown
+BA_DynSprite_HunterBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_HunterOffset, BA_DynSprite_HunterUnknown
+BA_DynSprite_PirateAxesBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_PirateAxesOffset, BA_DynSprite_PirateAxesUnknown
+BA_DynSprite_DismountedMageKnightM_SwordBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_DismountedMageKnightM_SwordOffset, BA_DynSprite_DismountedMageKnightM_SwordUnknown
+BA_DynSprite_DismountedMageKnightM_MagicBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_DismountedMageKnightM_MagicOffset, BA_DynSprite_DismountedMageKnightM_MagicUnknown
+BA_DynSprite_DismountedMageKnightF_SwordBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_DismountedMageKnightF_SwordOffset, BA_DynSprite_DismountedMageKnightF_SwordUnknown
+BA_DynSprite_DismountedMageKnightF_MagicStaffBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_DismountedMageKnightF_MagicStaffOffset, BA_DynSprite_DismountedMageKnightF_MagicStaffUnknown
+BA_DynSprite_Lord_Prince_DismountedLordKnightBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_Lord_Prince_DismountedLordKnightOffset, BA_DynSprite_Lord_Prince_DismountedLordKnightUnknown
+BA_DynSprite_DismountedPaladinF_DismountedMasterKnightF_SwordBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_DismountedPaladinF_DismountedMasterKnightF_SwordOffset, BA_DynSprite_DismountedPaladinF_DismountedMasterKnightF_SwordUnknown
+BA_DynSprite_DismountedPaladinF_DismountedMasterKnightF_StaffBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_DismountedPaladinF_DismountedMasterKnightF_StaffOffset, BA_DynSprite_DismountedPaladinF_DismountedMasterKnightF_StaffUnknown
+BA_DynSprite_DancerBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_DancerOffset, BA_DynSprite_DancerUnknown
+BA_DynSprite_Dancer_DanceBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_Dancer_DanceOffset, BA_DynSprite_Dancer_DanceUnknown
+BA_DynSprite_ClericBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_ClericOffset, BA_DynSprite_ClericUnknown
+BA_DynSprite_PriestBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_PriestOffset, BA_DynSprite_PriestUnknown
+BA_DynSprite_PriestessBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_PriestessOffset, BA_DynSprite_PriestessUnknown
+BA_DynSprite_Mage_LoptrianMageMagicBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_Mage_LoptrianMageMagicOffset, BA_DynSprite_Mage_LoptrianMageMagicUnknown
+BA_DynSprite_Mage_LoptrianMageStaffBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_Mage_LoptrianMageStaffOffset, BA_DynSprite_Mage_LoptrianMageStaffUnknown
+BA_DynSprite_ThunderMageMBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_ThunderMageMOffset, BA_DynSprite_ThunderMageMUnknown
+BA_DynSprite_ThunderMageFBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_ThunderMageFOffset, BA_DynSprite_ThunderMageFUnknown
+BA_DynSprite_WindMageMBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_WindMageMOffset, BA_DynSprite_WindMageMUnknown
+BA_DynSprite_WindMageFBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_WindMageFOffset, BA_DynSprite_WindMageFUnknown
+BA_DynSprite_High_PriestBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_High_PriestOffset, BA_DynSprite_High_PriestUnknown
+BA_DynSprite_High_PriestessBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_High_PriestessOffset, BA_DynSprite_High_PriestessUnknown
+BA_DynSprite_BishopBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_BishopOffset, BA_DynSprite_BishopUnknown
+BA_DynSprite_SageMBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_SageMOffset, BA_DynSprite_SageMUnknown
+BA_DynSprite_SageFBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_SageFOffset, BA_DynSprite_SageFUnknown
+BA_DynSprite_BardBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_BardOffset, BA_DynSprite_BardUnknown
+BA_DynSprite_SorcererBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_SorcererOffset, BA_DynSprite_SorcererUnknown
+BA_DynSprite_DarkBishopBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_DarkBishopOffset, BA_DynSprite_DarkBishopUnknown
+BA_DynSprite_DarkBishop_RepeatBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_DarkBishop_RepeatOffset, BA_DynSprite_DarkBishop_RepeatUnknown
+BA_DynSprite_ThiefMBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_ThiefMOffset, BA_DynSprite_ThiefMUnknown
+BA_DynSprite_ThiefFBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_ThiefFOffset, BA_DynSprite_ThiefFUnknown
+BA_DynSprite_RogueMBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_RogueMOffset, BA_DynSprite_RogueMUnknown
+BA_DynSprite_RogueFBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_RogueFOffset, BA_DynSprite_RogueFUnknown
+BA_DynSprite_Ballistician_KillerBallistician_VeninBallisticianBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_Ballistician_KillerBallistician_VeninBallisticianOffset, BA_DynSprite_Ballistician_KillerBallistician_VeninBallisticianUnknown
+BA_DynSprite_IronBallisticianBattleAnimationDynamicSpriteDataEntry .dstruct structBattleAnimationDynamicSpriteData, BA_DynSprite_IronBallisticianOffset, BA_DynSprite_IronBallisticianUnknown
