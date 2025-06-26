@@ -9,7 +9,7 @@ ExpansionFLASHSize   = 0
 ExpansionRAMSize     = 0
 SpecialVersion       = 0
 CartridgeSubtype     = None
-CartridgeTitle       = "FE5 Lil' Manster"
+CartridgeTitle       = "FIREEMBLEM5ROM"
 CartridgeSpeed       = CartridgeSpeedFast
 CartridgeMode        = CartridgeModeLoROM
 CartridgeType        = CartridgeTypeROMRAMBattery
@@ -19,7 +19,7 @@ CartridgeRAMSize     = $9000
 CartridgeDestination = DestinationJapanese
 CartridgeNew         = True
 CartridgeVersion     = 0
-CartridgeChecksum    = $9554
+CartridgeChecksum    = $E30C
 
 ; Now to actually create the header
 

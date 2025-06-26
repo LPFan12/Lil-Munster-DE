@@ -1,11 +1,11 @@
 top_part
 	.byte $09
-	.text "—Complete Military Record—"
+	.text "—Komplette Militärsaufzeichnungen—"
 	.byte EndText
 
 total_turns
 	.byte $09
-	.text "Total Turns:      "
+	.text "Gesamte Rundenzahl:      "
 	.byte $00, $26
 	.byte EndText
 	.text " "
@@ -13,7 +13,7 @@ total_turns
 
 survivors
 	.byte $09
-	.text "Surviving Units:"
+	.text "Überlebende Einheiten:"
 	.byte $00, $26
 	.byte EndText
 	.text " "
@@ -21,5 +21,5 @@ survivors
 	
 rank
 	.byte $09
-	.text "Overall Rank"
+	.text "Gesamter Rang"
 	.byte EndText

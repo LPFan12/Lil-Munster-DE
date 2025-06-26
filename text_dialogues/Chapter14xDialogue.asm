@@ -320,7 +320,7 @@ dialogueChapter14xClosing
 .word dorias_portrait
 .text "It seems we've cheated death yet again."
 .byte NewLine
-.text "Our forces are all clear of the valley, sire."
+.text "We somehow made it."
 .byte WaitForA
 
 .byte Left_slot
@@ -337,12 +337,12 @@ dialogueChapter14xClosing
 .byte ScrollText
 .text "I'd advise crossing over the Dauph Mountains"
 .byte NewLine
-.text "to reach the road to Nordrhein."
+.text "to reach the road to Norden."
 .byte WaitForA
 
 .byte Left_slot
 .byte ScrollText
-.text "The road to Nordrhein?"
+.text "The road to Norden?"
 .byte NewLine
 .text "So you propose that we make our way"
 .byte NewLine

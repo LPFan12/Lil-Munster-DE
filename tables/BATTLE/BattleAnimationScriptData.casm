@@ -1,0 +1,240 @@
+	BA_AnimScript_Soldier_Lance																			= 0
+		BA_AnimScript_Soldier_LanceScriptOffset															= aBAScript_Soldier_Lance
+		BA_AnimScript_Soldier_LanceSubsheetOffset														= aBASubsheet_Soldier_Lance_ThrownLance
+
+	BA_AnimScript_Soldier_ThrownLance																	= 1
+		BA_AnimScript_Soldier_ThrownLanceScriptOffset													= aBAScript_Soldier_ThrownLance
+		BA_AnimScript_Soldier_ThrownLanceSubsheetOffset													= aBASubsheet_Soldier_Lance_ThrownLance
+
+	BA_AnimScript_Unknown02																				= 2
+		BA_AnimScript_Unknown02ScriptOffset																= aBAScript_Unknown02
+		BA_AnimScript_Unknown02SubsheetOffset															= aBASubsheet_Unknown02
+
+	BA_AnimScript_Unknown03																				= 3
+		BA_AnimScript_Unknown03ScriptOffset																= aBAScript_Unknown03
+		BA_AnimScript_Unknown03SubsheetOffset															= aBASubsheet_Unknown03
+
+	BA_AnimScript_Unknown04																				= 4
+		BA_AnimScript_Unknown04ScriptOffset																= aBAScript_BaseCavalry_Sword_Axe
+		BA_AnimScript_Unknown04SubsheetOffset															= aBASubsheet_BaseCavalry_Sword_Axe_ThrowingAxe_Staff
+
+	BA_AnimScript_Fighter_Hero_HeroFe4M_ThrownAxe														= 5
+		BA_AnimScript_Fighter_Hero_HeroFe4M_ThrownAxeScriptOffset										= aBAScript_Fighter_Hero_HeroFe4M_ThrownAxe
+		BA_AnimScript_Fighter_Hero_HeroFe4M_ThrownAxeSubsheetOffset										= aBASubsheet_Fighter_Hero_HeroFe4M_ThrownAxe
+
+	BA_AnimScript_Fighter_Hero_HeroFe4M_Axe																= 6
+		BA_AnimScript_Fighter_Hero_HeroFe4M_AxeScriptOffset												= aBAScript_Fighter_Hero_HeroFe4M_Axe
+		BA_AnimScript_Fighter_Hero_HeroFe4M_AxeSubsheetOffset											= aBASubsheet_Fighter_Hero_HeroFe4M_Axe
+
+	BA_AnimScript_Myrmidon_HeroM_DismountedSwordKnight													= 7
+		BA_AnimScript_Myrmidon_HeroM_DismountedSwordKnightScriptOffset									= aBAScript_Myrmidon_HeroM_DismountedSwordKnight
+		BA_AnimScript_Myrmidon_HeroM_DismountedSwordKnightSubsheetOffset								= aBASubsheet_Myrmidon_HeroM_DismountedSwordKnight
+
+	BA_AnimScript_Swordmaster_HeroF_HeroFE4F_DismountedRanger_DismountedDracoknight						= 8
+		BA_AnimScript_Swordmaster_HeroF_HeroFE4F_DismountedRanger_DismountedDracoknightScriptOffset		= aBAScript_Swordmaster_HeroF_HeroFE4F_DismountedRanger_DismountedDracoknight
+		BA_AnimScript_Swordmaster_HeroF_HeroFE4F_DismountedRanger_DismountedDracoknightSubsheetOffset	= aBASubsheet_Swordmaster_HeroF_HeroFE4F_DismountedRanger_DismountedDracoknight
+
+	BA_AnimScript_Infantry_DismountedCav_Bow															= 9
+		BA_AnimScript_Infantry_DismountedCav_BowScriptOffset											= aBAScript_Infantry_DismountedCav_Bow
+		BA_AnimScript_Infantry_DismountedCav_BowSubsheetOffset											= aBASubsheet_Infantry_DismountedCav_Bow
+
+	BA_AnimScript_Caster_Staff																			= 10
+		BA_AnimScript_Caster_StaffScriptOffset															= aBAScript_Caster_Staff
+		BA_AnimScript_Caster_StaffSubsheetOffset														= aBASubsheet_Caster
+
+	BA_AnimScript_Caster_Magic																			= 11
+		BA_AnimScript_Caster_MagicScriptOffset															= aBAScript_Caster_Magic
+		BA_AnimScript_Caster_MagicSubsheetOffset														= aBASubsheet_Caster
+
+	BA_AnimScript_Thief_Rogue_Dancer_Sword																= 12
+		BA_AnimScript_Thief_Rogue_Dancer_SwordScriptOffset												= aBAScript_Thief_Rogue_Dancer_Sword
+		BA_AnimScript_Thief_Rogue_Dancer_SwordSubsheetOffset											= aBASubsheet_Thief_Rogue_Dancer_Sword
+
+	BA_AnimScript_BaseCavalry_Sword_Axe																	= 13
+		BA_AnimScript_BaseCavalry_Sword_AxeScriptOffset													= aBAScript_BaseCavalry_Sword_Axe
+		BA_AnimScript_BaseCavalry_Sword_AxeSubsheetOffset												= aBASubsheet_BaseCavalry_Sword_Axe_ThrowingAxe_Staff
+
+	BA_AnimScript_BaseCavalry_Lance																		= 14
+		BA_AnimScript_BaseCavalry_LanceScriptOffset														= aBAScript_BaseCavalry_Lance
+		BA_AnimScript_BaseCavalry_LanceSubsheetOffset													= aBASubsheet_BaseCavalry_Lance_ThrownLance
+
+	BA_AnimScript_BaseCavalry_ThrownLance																= 15
+		BA_AnimScript_BaseCavalry_ThrownLanceScriptOffset												= aBAScript_BaseCavalry_ThrownLance
+		BA_AnimScript_BaseCavalry_ThrownLanceSubsheetOffset												= aBASubsheet_BaseCavalry_Lance_ThrownLance
+
+	BA_AnimScript_BaseCavalry_ThrownAxe																	= 16
+		BA_AnimScript_BaseCavalry_ThrownAxeScriptOffset													= aBAScript_BaseCavalry_ThrownAxe
+		BA_AnimScript_BaseCavalry_ThrownAxeSubsheetOffset												= aBASubsheet_BaseCavalry_Sword_Axe_ThrowingAxe_Staff
+
+	BA_AnimScript_Cavalry_Bow																			= 17
+		BA_AnimScript_Cavalry_BowScriptOffset															= aBAScript_Cavalry_Bow
+		BA_AnimScript_Cavalry_BowSubsheetOffset															= aBASubsheet_Cavalry_Bow
+
+	BA_AnimScript_BaseCavalry_Staff																		= 18
+		BA_AnimScript_BaseCavalry_StaffScriptOffset														= aBAScript_BaseCavalry_Staff
+		BA_AnimScript_BaseCavalry_StaffSubsheetOffset													= aBASubsheet_BaseCavalry_Sword_Axe_ThrowingAxe_Staff
+
+	BA_AnimScript_PromotedCavalry_Sword_Axe																= 19
+		BA_AnimScript_PromotedCavalry_Sword_AxeScriptOffset												= aBAScript_PromotedCavalry_Sword_Axe
+		BA_AnimScript_PromotedCavalry_Sword_AxeSubsheetOffset											= aBASubsheet_PromotedCavalry
+
+	BA_AnimScript_PromotedCavalry_Lance																	= 20
+		BA_AnimScript_PromotedCavalry_LanceScriptOffset													= aBAScript_PromotedCavalry_Lance
+		BA_AnimScript_PromotedCavalry_LanceSubsheetOffset												= aBASubsheet_PromotedCavalry
+
+	BA_AnimScript_PromotedCavalry_ThrownLance															= 21
+		BA_AnimScript_PromotedCavalry_ThrownLanceScriptOffset											= aBAScript_PromotedCavalry_ThrownLance
+		BA_AnimScript_PromotedCavalry_ThrownLanceSubsheetOffset											= aBASubsheet_PromotedCavalry
+
+	BA_AnimScript_PromotedCavalry_ThrownAxe																= 22
+		BA_AnimScript_PromotedCavalry_ThrownAxeScriptOffset												= aBAScript_PromotedCavalry_ThrownAxe
+		BA_AnimScript_PromotedCavalry_ThrownAxeSubsheetOffset											= aBASubsheet_PromotedCavalry
+
+	BA_AnimScript_PromotedCavalry_Staff																	= 23
+		BA_AnimScript_PromotedCavalry_StaffScriptOffset													= aBAScript_PromotedCavalry_Staff
+		BA_AnimScript_PromotedCavalry_StaffSubsheetOffset												= aBASubsheet_PromotedCavalry
+
+	BA_AnimScript_PromotedCavalry_Magic																	= 24
+		BA_AnimScript_PromotedCavalry_MagicScriptOffset													= aBAScript_PromotedCavalry_Magic
+		BA_AnimScript_PromotedCavalry_MagicSubsheetOffset												= aBASubsheet_PromotedCavalry
+
+	BA_AnimScript_Pegasi_Sword																			= 25
+		BA_AnimScript_Pegasi_SwordScriptOffset															= aBAScript_Pegasi_Sword
+		BA_AnimScript_Pegasi_SwordSubsheetOffset														= aBASubsheet_Pegasi
+
+	BA_AnimScript_Pegasi_Lance																			= 26
+		BA_AnimScript_Pegasi_LanceScriptOffset															= aBAScript_Pegasi_Lance
+		BA_AnimScript_Pegasi_LanceSubsheetOffset														= aBASubsheet_Pegasi
+
+	BA_AnimScript_Pegasi_ThrownLance																	= 27
+		BA_AnimScript_Pegasi_ThrownLanceScriptOffset													= aBAScript_Pegasi_ThrownLance
+		BA_AnimScript_Pegasi_ThrownLanceSubsheetOffset													= aBASubsheet_Pegasi
+
+	BA_AnimScript_Pegasi_Staff																			= 28
+		BA_AnimScript_Pegasi_StaffScriptOffset															= aBAScript_Pegasi_Staff
+		BA_AnimScript_Pegasi_StaffSubsheetOffset														= aBASubsheet_Pegasi
+
+	BA_AnimScript_Draco_Sword																			= 29
+		BA_AnimScript_Draco_SwordScriptOffset															= aBAScript_Draco_Sword
+		BA_AnimScript_Draco_SwordSubsheetOffset															= aBASubsheet_Draco_Sword
+
+	BA_AnimScript_Draco_Lance																			= 30
+		BA_AnimScript_Draco_LanceScriptOffset															= aBAScript_Draco_Lance
+		BA_AnimScript_Draco_LanceSubsheetOffset															= aBASubsheet_Draco_Lance
+
+	BA_AnimScript_Draco_ThrownLance																		= 31
+		BA_AnimScript_Draco_ThrownLanceScriptOffset														= aBAScript_Draco_ThrownLance
+		BA_AnimScript_Draco_ThrownLanceSubsheetOffset													= aBASubsheet_Draco_ThrownLance
+
+	BA_AnimScript_Armors_Sword_Axe																		= 32
+		BA_AnimScript_Armors_Sword_AxeScriptOffset														= aBAScript_Armors_Sword_Axe
+		BA_AnimScript_Armors_Sword_AxeSubsheetOffset													= aBASubsheet_Armors_Sword_Axe_ThrownAxe_Staff_Magic
+
+	BA_AnimScript_Armors_Lance																			= 33
+		BA_AnimScript_Armors_LanceScriptOffset															= aBAScript_Armors_Lance
+		BA_AnimScript_Armors_LanceSubsheetOffset														= aBASubsheet_Armors_Lance
+
+	BA_AnimScript_Armors_ThrownLance																	= 34
+		BA_AnimScript_Armors_ThrownLanceScriptOffset													= aBAScript_Armors_ThrownLance
+		BA_AnimScript_Armors_ThrownLanceSubsheetOffset													= aBASubsheet_Armors_ThrownLance
+
+	BA_AnimScript_Armors_ThrownAxe																		= 35
+		BA_AnimScript_Armors_ThrownAxeScriptOffset														= aBAScript_Armors_ThrownAxe
+		BA_AnimScript_Armors_ThrownAxeSubsheetOffset													= aBASubsheet_Armors_Sword_Axe_ThrownAxe_Staff_Magic
+
+	BA_AnimScript_General_Emperor_Baron_Bow																= 36
+		BA_AnimScript_General_Emperor_Baron_BowScriptOffset												= aBAScript_General_Emperor_Baron_Bow
+		BA_AnimScript_General_Emperor_Baron_BowSubsheetOffset											= aBASubsheet_General_Emperor_Baron_Bow
+
+	BA_AnimScript_Armors_Staff																			= 37
+		BA_AnimScript_Armors_StaffScriptOffset															= aBAScript_Armors_Staff
+		BA_AnimScript_Armors_StaffSubsheetOffset														= aBASubsheet_Armors_Sword_Axe_ThrownAxe_Staff_Magic
+
+	BA_AnimScript_Armors_Magic																			= 38
+		BA_AnimScript_Armors_MagicScriptOffset															= aBAScript_Armors_Magic
+		BA_AnimScript_Armors_MagicSubsheetOffset														= aBASubsheet_Armors_Sword_Axe_ThrownAxe_Staff_Magic
+
+	BA_AnimScript_ArmoredBow																			= 39
+		BA_AnimScript_ArmoredBowScriptOffset															= aBAScript_ArmoredBow
+		BA_AnimScript_ArmoredBowSubsheetOffset															= aBASubsheet_ArmoredBow
+
+	BA_AnimScript_BrigandTypes_Axe																		= 40
+		BA_AnimScript_BrigandTypes_AxeScriptOffset														= aBAScript_BrigandTypes_Axe
+		BA_AnimScript_BrigandTypes_AxeSubsheetOffset													= aBASubsheet_BrigandTypes_Axe_ThrownAxe
+
+	BA_AnimScript_BrigandTypes_ThrownAxe																= 41
+		BA_AnimScript_BrigandTypes_ThrownAxeScriptOffset												= aBAScript_BrigandTypes_ThrownAxe
+		BA_AnimScript_BrigandTypes_ThrownAxeSubsheetOffset												= aBASubsheet_BrigandTypes_Axe_ThrownAxe
+
+	BA_AnimScript_BrigandTypes_Bow																		= 42
+		BA_AnimScript_BrigandTypes_BowScriptOffset														= aBAScript_BrigandTypes_Bow
+		BA_AnimScript_BrigandTypes_BowSubsheetOffset													= aBASubsheet_BrigandTypes_Bow
+
+	BA_AnimScript_DismountedMageKnight_Sword															= 43
+		BA_AnimScript_DismountedMageKnight_SwordScriptOffset											= aBAScript_DismountedMageKnight_Sword
+		BA_AnimScript_DismountedMageKnight_SwordSubsheetOffset											= aBASubsheet_DismountedMageKnight_Sword
+
+	BA_AnimScript_Ballisticians																			= 44
+		BA_AnimScript_BallisticiansScriptOffset															= aBAScript_Ballisticians
+		BA_AnimScript_BallisticiansSubsheetOffset														= aBASubsheet_Ballisticians
+
+	BA_AnimScript_DarkPrince																			= 45
+		BA_AnimScript_DarkPrinceScriptOffset															= aBAScript_DarkPrince
+		BA_AnimScript_DarkPrinceSubsheetOffset															= aBASubsheet_DarkPrince
+
+	BA_AnimScript_Unknown2E																				= 46
+		BA_AnimScript_Unknown2EScriptOffset																= aBAScript_Unknown2E
+		BA_AnimScript_Unknown2ESubsheetOffset															= aBASubsheet_Unknown2E
+
+	BA_AnimScript_DismountedCavalry_LordClasses_Sword													= 47
+		BA_AnimScript_DismountedCavalry_LordClasses_SwordScriptOffset									= aBAScript_DismountedCavalry_LordClasses_Sword
+		BA_AnimScript_DismountedCavalry_LordClasses_SwordSubsheetOffset									= aBASubsheet_DismountedCavalry_LordClasses_Sword
+
+BA_AnimScript_Soldier_LanceBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_Soldier_LanceScriptOffset, BA_AnimScript_Soldier_LanceSubsheetOffset
+BA_AnimScript_Soldier_ThrownLanceBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_Soldier_ThrownLanceScriptOffset, BA_AnimScript_Soldier_ThrownLanceSubsheetOffset
+BA_AnimScript_Unknown02BattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_Unknown02ScriptOffset, BA_AnimScript_Unknown02SubsheetOffset
+BA_AnimScript_Unknown03BattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_Unknown03ScriptOffset, BA_AnimScript_Unknown03SubsheetOffset
+BA_AnimScript_Unknown04BattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_Unknown04ScriptOffset, BA_AnimScript_Unknown04SubsheetOffset
+BA_AnimScript_Fighter_Hero_HeroFe4M_ThrownAxeBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_Fighter_Hero_HeroFe4M_ThrownAxeScriptOffset, BA_AnimScript_Fighter_Hero_HeroFe4M_ThrownAxeSubsheetOffset
+BA_AnimScript_Fighter_Hero_HeroFe4M_AxeBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_Fighter_Hero_HeroFe4M_AxeScriptOffset, BA_AnimScript_Fighter_Hero_HeroFe4M_AxeSubsheetOffset
+BA_AnimScript_Myrmidon_HeroM_DismountedSwordKnightBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_Myrmidon_HeroM_DismountedSwordKnightScriptOffset, BA_AnimScript_Myrmidon_HeroM_DismountedSwordKnightSubsheetOffset
+BA_AnimScript_Swordmaster_HeroF_HeroFE4F_DismountedRanger_DismountedDracoknightBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_Swordmaster_HeroF_HeroFE4F_DismountedRanger_DismountedDracoknightScriptOffset, BA_AnimScript_Swordmaster_HeroF_HeroFE4F_DismountedRanger_DismountedDracoknightSubsheetOffset
+BA_AnimScript_Infantry_DismountedCav_BowBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_Infantry_DismountedCav_BowScriptOffset, BA_AnimScript_Infantry_DismountedCav_BowSubsheetOffset
+BA_AnimScript_Caster_StaffBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_Caster_StaffScriptOffset, BA_AnimScript_Caster_StaffSubsheetOffset
+BA_AnimScript_Caster_MagicBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_Caster_MagicScriptOffset, BA_AnimScript_Caster_MagicSubsheetOffset
+BA_AnimScript_Thief_Rogue_Dancer_SwordBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_Thief_Rogue_Dancer_SwordScriptOffset, BA_AnimScript_Thief_Rogue_Dancer_SwordSubsheetOffset
+BA_AnimScript_BaseCavalry_Sword_AxeBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_BaseCavalry_Sword_AxeScriptOffset, BA_AnimScript_BaseCavalry_Sword_AxeSubsheetOffset
+BA_AnimScript_BaseCavalry_LanceBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_BaseCavalry_LanceScriptOffset, BA_AnimScript_BaseCavalry_LanceSubsheetOffset
+BA_AnimScript_BaseCavalry_ThrownLanceBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_BaseCavalry_ThrownLanceScriptOffset, BA_AnimScript_BaseCavalry_ThrownLanceSubsheetOffset
+BA_AnimScript_BaseCavalry_ThrownAxeBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_BaseCavalry_ThrownAxeScriptOffset, BA_AnimScript_BaseCavalry_ThrownAxeSubsheetOffset
+BA_AnimScript_Cavalry_BowBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_Cavalry_BowScriptOffset, BA_AnimScript_Cavalry_BowSubsheetOffset
+BA_AnimScript_BaseCavalry_StaffBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_BaseCavalry_StaffScriptOffset, BA_AnimScript_BaseCavalry_StaffSubsheetOffset
+BA_AnimScript_PromotedCavalry_Sword_AxeBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_PromotedCavalry_Sword_AxeScriptOffset, BA_AnimScript_PromotedCavalry_Sword_AxeSubsheetOffset
+BA_AnimScript_PromotedCavalry_LanceBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_PromotedCavalry_LanceScriptOffset, BA_AnimScript_PromotedCavalry_LanceSubsheetOffset
+BA_AnimScript_PromotedCavalry_ThrownLanceBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_PromotedCavalry_ThrownLanceScriptOffset, BA_AnimScript_PromotedCavalry_ThrownLanceSubsheetOffset
+BA_AnimScript_PromotedCavalry_ThrownAxeBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_PromotedCavalry_ThrownAxeScriptOffset, BA_AnimScript_PromotedCavalry_ThrownAxeSubsheetOffset
+BA_AnimScript_PromotedCavalry_StaffBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_PromotedCavalry_StaffScriptOffset, BA_AnimScript_PromotedCavalry_StaffSubsheetOffset
+BA_AnimScript_PromotedCavalry_MagicBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_PromotedCavalry_MagicScriptOffset, BA_AnimScript_PromotedCavalry_MagicSubsheetOffset
+BA_AnimScript_Pegasi_SwordBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_Pegasi_SwordScriptOffset, BA_AnimScript_Pegasi_SwordSubsheetOffset
+BA_AnimScript_Pegasi_LanceBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_Pegasi_LanceScriptOffset, BA_AnimScript_Pegasi_LanceSubsheetOffset
+BA_AnimScript_Pegasi_ThrownLanceBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_Pegasi_ThrownLanceScriptOffset, BA_AnimScript_Pegasi_ThrownLanceSubsheetOffset
+BA_AnimScript_Pegasi_StaffBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_Pegasi_StaffScriptOffset, BA_AnimScript_Pegasi_StaffSubsheetOffset
+BA_AnimScript_Draco_SwordBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_Draco_SwordScriptOffset, BA_AnimScript_Draco_SwordSubsheetOffset
+BA_AnimScript_Draco_LanceBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_Draco_LanceScriptOffset, BA_AnimScript_Draco_LanceSubsheetOffset
+BA_AnimScript_Draco_ThrownLanceBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_Draco_ThrownLanceScriptOffset, BA_AnimScript_Draco_ThrownLanceSubsheetOffset
+BA_AnimScript_Armors_Sword_AxeBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_Armors_Sword_AxeScriptOffset, BA_AnimScript_Armors_Sword_AxeSubsheetOffset
+BA_AnimScript_Armors_LanceBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_Armors_LanceScriptOffset, BA_AnimScript_Armors_LanceSubsheetOffset
+BA_AnimScript_Armors_ThrownLanceBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_Armors_ThrownLanceScriptOffset, BA_AnimScript_Armors_ThrownLanceSubsheetOffset
+BA_AnimScript_Armors_ThrownAxeBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_Armors_ThrownAxeScriptOffset, BA_AnimScript_Armors_ThrownAxeSubsheetOffset
+BA_AnimScript_General_Emperor_Baron_BowBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_General_Emperor_Baron_BowScriptOffset, BA_AnimScript_General_Emperor_Baron_BowSubsheetOffset
+BA_AnimScript_Armors_StaffBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_Armors_StaffScriptOffset, BA_AnimScript_Armors_StaffSubsheetOffset
+BA_AnimScript_Armors_MagicBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_Armors_MagicScriptOffset, BA_AnimScript_Armors_MagicSubsheetOffset
+BA_AnimScript_ArmoredBowBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_ArmoredBowScriptOffset, BA_AnimScript_ArmoredBowSubsheetOffset
+BA_AnimScript_BrigandTypes_AxeBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_BrigandTypes_AxeScriptOffset, BA_AnimScript_BrigandTypes_AxeSubsheetOffset
+BA_AnimScript_BrigandTypes_ThrownAxeBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_BrigandTypes_ThrownAxeScriptOffset, BA_AnimScript_BrigandTypes_ThrownAxeSubsheetOffset
+BA_AnimScript_BrigandTypes_BowBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_BrigandTypes_BowScriptOffset, BA_AnimScript_BrigandTypes_BowSubsheetOffset
+BA_AnimScript_DismountedMageKnight_SwordBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_DismountedMageKnight_SwordScriptOffset, BA_AnimScript_DismountedMageKnight_SwordSubsheetOffset
+BA_AnimScript_BallisticiansBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_BallisticiansScriptOffset, BA_AnimScript_BallisticiansSubsheetOffset
+BA_AnimScript_DarkPrinceBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_DarkPrinceScriptOffset, BA_AnimScript_DarkPrinceSubsheetOffset
+BA_AnimScript_Unknown2EBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_Unknown2EScriptOffset, BA_AnimScript_Unknown2ESubsheetOffset
+BA_AnimScript_DismountedCavalry_LordClasses_SwordBattleAnimationScriptDataEntry .dstruct structBattleAnimationScriptData, BA_AnimScript_DismountedCavalry_LordClasses_SwordScriptOffset, BA_AnimScript_DismountedCavalry_LordClasses_SwordSubsheetOffset

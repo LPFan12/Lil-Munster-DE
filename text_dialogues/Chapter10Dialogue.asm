@@ -205,45 +205,16 @@ dialogueChapter10EnsorcelHouse
 .text "right? Well, have I got a surprise for you!"
 .byte WaitForA
 .byte ScrollText
-.text "See, I fancy myself a botanist,"
+.text "What I am holding here is a very special"
 .byte NewLine
-.text "and a few months ago I started an experiment."
+.text "staff that can fill people with magic power!"
 .byte WaitForA
 .byte ScrollText
-.text "I wanted to see what would happen"
+.text "Use it, and it'll fortify someone, same as if"
 .byte NewLine
-.text "if I watered a tree using only Pure Water."
-.byte WaitForA
-.byte ScrollText
-.text "I won't keep you in suspense—this here staff"
+.text "you'd just used a Pure Water on yourself."
 .byte NewLine
-.text "is what resulted from the whole thing!"
-.byte WaitForA
-.byte ScrollText
-.text "Use it, and it'll fortify your magic, same as if"
-.byte NewLine
-.text "you'd just gulped down Pure Water yourself."
-.byte WaitForA
-.byte ScrollText
-.text "Hm? Where's the rest of the tree, you ask?"
-.byte NewLine
-.text "Uh... You're looking at it."
-.byte NewLine
-.text "That staff WAS the whole tree."
-.byte WaitForA
-.byte ScrollText
-.text "Poor thing never grew bigger than three feet"
-.byte NewLine
-.text "tall... Heh, it turns out Pure Water actually"
-.byte NewLine
-.text "isn't very good for plants."
-.byte WaitForA
-.byte ScrollText
-.text "Yeah... Probably should've checked"
-.byte NewLine
-.text "that before I spent months"
-.byte NewLine
-.text "on the whole experiment..."
+.text "Please take it with you and good luck."
 .byte WaitForA
 
 .byte EndText

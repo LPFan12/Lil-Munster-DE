@@ -185,143 +185,143 @@
 	.section ItemNameSection
 
 		menutextIronSwordName
-			.text "Iron S]word "
+			.text "Eisensch]wert \n"
 		
 		menutextNoneName
 			.text "\n"
 		
 		menutextSteelSwordName
-			.text "Steel S]word\n"
+			.text "Stahlsch]wert \n"
 		
 		menutextSilverSwordName
-			.text "Silver S]word \n"
+			.text "Silbersch]wert\n"
 		
 		menutextSlimSwordName
-			.text "Sl{im} S]word \n"
+			.text "Leichtsch]wert\n"
 		
 		menutextIronBladeName
-			.text "Iron Blade\n"
+			.text "Eisenklinge \n"
 		
 		menutextKillingEdgeName
-			.text "Killing Edge\n"
+			.text "Schnitter \n"
 		
 		menutextVeninEdgeName
-			.text "Venin Edge\n"
+			.text "Giftsch]wert\n"
 		
 		menutextBerserkEdgeName
-			.text "Berserk Edge\n"
+			.text "Berserksch]wert \n"
 		
 		menutextSleepEdgeName
-			.text "Sleep Edge\n"
+			.text "Schlafsch]wert\n"
 		
 		menutextBeoBladeName
-			.text "Beo Blade \n"
+			.text "Beosch]wert \n"
 		
 		menutextBlessedSwordName
-			.text "Blessed S]word\n"
+			.text "Sakralsch]wert\n"
 		
 		menutextLoptrianFangName
-			.text "Loptrian Fang \n"
+			.text "Loptsch]wert\n"
 		
 		menutextBragisBladeName
-			.text "Bragi's Blade \n"
+			.text "Bragisch]wert \n"
 		
 		menutextLightBrandName
-			.text "Light Brand \n"
+			.text "Lichtklinge \n"
 		
 		menutextBraveSwordName
-			.text "Brave S]word\n"
+			.text "Kriegersch]wert \n"
 		
 		menutextKingmakerName
-			.text "King[maker\n"
+			.text "Königssch]wert\n"
 		
 		menutextEarthSwordName
-			.text "Lands S]word\n"
+			.text "Erdsch]wert \n"
 		
 		menutextWindSwordName
-			.text ")Wind S]word\n"
+			.text ")Windsch]wert \n"
 		
 		menutextFlameSwordName
-			.text "Fla[me S]word \n"
+			.text " Fla{mm}nensch]w. \n"
 		
 		menutextLightningSwordName
-			.text "Lightning S]word\n"
+			.text "Blitzsch]wert \n"
 		
 		menutextParagonSwordName
-			.text "Paragon S]word\n"
+			.text "Elitesch]wert \n"
 		
 		menutextArmorslayerName
-			.text "Ar[morslayer\n"
+			.text "Panzerbrecher \n"
 		
 		menutextRapierName
 			.text "Rapier\n"
 		
 		menutextShortswordName
-			.text "Shorts]word \n"
+			.text "Kurzsch]wert\n"
 		
 		menutextLongswordName
-			.text "Longs]word\n"
+			.text "Langsch]wert\n"
 		
 		menutextGreatswordName
-			.text "Greats]word \n"
+			.text "Großsch]wert\n"
 		
 		menutextMasterSwordName
-			.text "(Master S]word\n"
+			.text "(Meistersch]wert\n"
 		
 		menutextShadowSwordName
-			.text "Shado]w S]word\n"
+			.text "Schattensch]wert\n"
 		
 		menutextMareetasSwordName
-			.text "(Mareeta34S]word\n"
+			.text "(Mareetas Sch]w.\n"
 		
 		menutextBrokenSwordName
-			.text "Broken S]word \n"
+			.text "Zerbr. Sch]wert \n"
 		
 		
 		menutextIronLanceName
-			.text "Iron Lance\n"
+			.text "Eisenlanze\n"
 		
 		menutextSteelLanceName
-			.text "Steel Lance \n"
+			.text "Stahllanze\n"
 		
 		menutextSilverLanceName
-			.text "Silver Lance\n"
+			.text "Silberlanze \n"
 		
 		menutextSlimLanceName
-			.text "Sl{im} Lance\n"
+			.text "Leichtlanze \n"
 		
 		menutextVeninLanceName
-			.text "Venin Lance \n"
+			.text "Giftlanze \n"
 		
 		menutextDragonpikeName
-			.text "Dragonpike\n"
+			.text "Drachenlanze\n"
 		
 		menutextShadowSpearName
-			.text "Shado]w Spear \n"
+			.text "Schattenlanze \n"
 		
 		menutextBraveLanceName
-			.text "Brave Lance \n"
+			.text "Kriegerlanze\n"
 		
 		menutextShortLanceName
-			.text "Short Lance \n"
+			.text "Kurzlanze \n"
 		
 		menutextLongLanceName
-			.text "Long Lance\n"
+			.text "Langlanze \n"
 		
 		menutextGreatlanceName
-			.text "Greatlance\n"
+			.text "Großlanze \n"
 		
 		menutextJavelinName
-			.text "Javelin \n"
+			.text "Langspeer \n"
 		
 		menutextMasterLanceName
-			.text "(Master Lance \n"
+			.text "(Meisterl. Lanze\n"
 		
 		menutextRidersbaneName
-			.text "Ridersbane\n"
+			.text "Rittertod \n"
 		
 		menutextKillerLanceName
-			.text "Killer Lance\n"
+			.text "(Meisterlanze \n"
 		
 		menutextGaeBolgName
 			.text "Gáe Bolg\n"
@@ -330,115 +330,115 @@
 			.text "Gungnir \n"
 		
 		menutextBrokenLanceName
-			.text "Broken Lance\n"
+			.text "Zerbr. Lanze\n"
 		
 		
 		menutextIronAxeName
-			.text "Iron Axe\n"
+			.text "Eisenaxt\n"
 		
 		menutextVeninAxeName
-			.text "Venin Axe \n"
+			.text "Giftaxt \n"
 		
 		menutextSteelAxeName
-			.text "Steel Axe \n"
+			.text "Stahlaxt\n"
 		
 		menutextSilverAxeName
-			.text "Silver Axe\n"
+			.text "Silberaxt \n"
 		
 		menutextHandAxeName
-			.text "Hand Axe\n"
+			.text ")Wurfbeil \n"
 		
 		menutextHammerName
 			.text "Ha{mm}ner \n"
 		
 		menutextKillerAxeName
-			.text "Killer Axe\n"
+			.text "(Meisteraxt \n"
 		
 		menutextVougeName
 			.text "Vouge \n"
 		
 		menutextBraveAxeName
-			.text "Brave Axe \n"
+			.text "Kriegeraxt\n"
 		
 		menutextDevilAxeName
-			.text "Devil Axe \n"
+			.text "Teufelsaxt\n"
 		
 		menutextBattleAxeName
-			.text "Battle Axe\n"
+			.text "Ka{m}pfaxt \n"
 		
 		menutextPoleaxName
-			.text "Poleax\n"
+			.text "Stabaxt \n"
 		
 		menutextMasterAxeName
-			.text "(Master Axe \n"
+			.text "(Meisterl. Axt\n"
 		
 		menutextBrokenAxeName
-			.text "Broken Axe\n"
+			.text "Zerbr. Axt\n"
 		
 		
 		menutextIronBowName
-			.text "Iron Bo12 \n"
+			.text "Eisenbogen\n"
 		
 		menutextSteelBowName
-			.text "Steel Bo12\n"
+			.text "Stahlbogen\n"
 		
 		menutextSilverBowName
-			.text "Silver Bo12 \n"
+			.text "Silberbogen \n"
 		
 		menutextVeninBowName
-			.text "Venin Bo12\n"
+			.text "Giftbogen \n"
 		
 		menutextKillerBowName
-			.text "Killer Bo12 \n"
+			.text "(Meisterbogen \n"
 		
 		menutextBraveBowName
-			.text "Brave Bo12\n"
+			.text "Kriegerbogen\n"
 		
 		menutextShortbowName
-			.text "Shortbo12 \n"
+			.text "Kurzbogen \n"
 		
 		menutextLongbowName
-			.text "Longbo12\n"
+			.text "Langbogen \n"
 		
 		menutextGreatbowName
-			.text "Greatbo12 \n"
+			.text "Großbogen \n"
 		
 		menutextMasterBowName
-			.text "(Master Bo12\n"
+			.text "(Meisterl. Bogen\n"
 		
 		menutextBallistaName
 			.text "Ballista\n"
 		
 		menutextIronBallistaName
-			.text "Iron Ballista \n"
+			.text "Eisenballista \n"
 		
 		menutextKillerBallistaName
-			.text "Killer Ballista \n"
+			.text "(Meisterballista\n"
 		
 		menutextVeninBallistaName
-			.text "Venin Ballista\n"
+			.text "Giftballista\n"
 		
 		menutextBrokenBowName
-			.text "Broken Bo12 \n"
+			.text "Zerbr. Bogen\n"
 		
 		
 		menutextFireName
-			.text "Fire\n"
+			.text "Feuer \n"
 		
 		menutextElfireName
-			.text "Elfire\n"
+			.text "Elfenfeuer\n"
 		
 		menutextBolganoneName
 			.text "Bolganone \n"
 		
 		menutextValflameName
-			.text "Valfla[me \n"
+			.text "Valfla{mm}ne\n"
 		
 		menutextThunderName
-			.text "Thunder \n"
+			.text "Donner\n"
 		
 		menutextDireThunderName
-			.text "Dire Thunder\n"
+			.text "Fataler Donner\n"
 		
 		menutextThoronName
 			.text "Thoron\n"
@@ -460,16 +460,16 @@
 			.text "Forseti \n"
 		
 		menutextLightName
-			.text "Light \n"
+			.text "Licht \n"
 		
 		menutextNosferatuName
-			.text "+Nosferatu\n"
+			.text "Resonanz\n"
 		
 		menutextAuraName
 			.text "Aura\n"
 		
 		menutextJormungandName
-			.text "J0r[mungandr\n"
+			.text " Jör{m}ungandr \n"
 		
 		menutextFenrirName
 			.text "Fenrir\n"
@@ -484,209 +484,209 @@
 			.text "(Meteor \n"
 		
 		menutextBoltingName
-			.text "Bolting \n"
+			.text "Ge]witter \n"
 		
 		menutextBlizzardName
 			.text "Blizzard\n"
 		
 		menutextVeninName
-			.text "Venin \n"
+			.text "Gift\n"
 		
 		menutextPetrifyName
-			.text "Petrify \n"
+			.text "Versteinerung \n"
 		
 		menutextBrokenTomeName
-			.text "Broken To[me\n"
+			.text "Erschö. Zauber. \n"
 		
 		
 		menutextHealName
-			.text "Heal\n"
+			.text "Heilung \n"
 		
 		menutextMendName
-			.text "(Mend \n"
+			.text "Pflege\n"
 		
 		menutextRecoverName
-			.text "Recover \n"
+			.text "Erholung\n"
 		
 		menutextPhysicName
-			.text "Physic\n"
+			.text "Purgativ\n"
 		
 		menutextFortifyName
-			.text "Fortify \n"
+			.text "Stärkung\n"
 		
 		menutextRescueName
-			.text "Rescue\n"
+			.text "Rettung \n"
 		
 		menutextWarpName
-			.text ")Warp \n"
+			.text "Teleport\n"
 		
 		menutextRestoreName
-			.text "Restore \n"
+			.text "Erneuerung\n"
 		
 		menutextSilenceName
-			.text "Silence \n"
+			.text "Sch]weigen\n"
 		
 		menutextSleepName
-			.text "Sleep \n"
+			.text "Schlaf\n"
 		
 		menutextTorchName
-			.text "Torch \n"
+			.text "Fackel\n"
 		
 		menutextReturnName
-			.text "Return\n"
+			.text "Rückkehr\n"
 		
 		menutextHammerneName
-			.text "Ha{mm}nerne \n"
+			.text "Linderung \n"
 		
 		menutextThiefStaffName
-			.text "Thief \n"
+			.text "Dieb\n"
 		
 		menutextWatchName
-			.text ")Watch\n"
+			.text ")Wacht\n"
 		
 		menutextBerserkName
 			.text "Berserk \n"
 		
 		menutextUnlockName
-			.text "Unlock\n"
+			.text "Öffner\n"
 		
 		menutextEnsorcelName
-			.text "Ensorcel\n"
+			.text "(Magie Hoch \n"
 		
 		menutextRewarpName
-			.text "Re]warp \n"
+			.text "Fortschritt \n"
 		
 		menutextKiaName
 			.text "Kia \n"
 		
 		menutextBrokenStaffName
-			.text "Broken Staff\n"
+			.text "Zerbr. Stab \n"
 		
 		
 		menutextLuckRingName
-			.text "Luck Ring \n"
+			.text "Glücksring\n"
 		
 		menutextLifeRingName
-			.text "Life Ring \n"
+			.text "Essenzring\n"
 		
 		menutextSpeedRingName
-			.text "Speed Ring\n"
+			.text "Eilering\n"
 		
 		menutextMagicRingName
-			.text "(Magic Ring \n"
+			.text "(Magiering\n"
 		
 		menutextStrengthRingName
-			.text "Strength Ring \n"
+			.text "(Machtring\n"
 		
 		menutextBodyRingName
-			.text "Body Ring \n"
+			.text "Lebensring\n"
 		
 		menutextShieldRingName
-			.text "Shield Ring \n"
+			.text "Schildring\n"
 		
 		menutextSkillRingName
-			.text "Skill Ring\n"
+			.text "Fähigkeitsring\n"
 		
 		menutextLegRingName
-			.text "Leg Ring\n"
+			.text "Beinering \n"
 		
 		menutextMasterSealName
-			.text "(Master Seal\n"
+			.text "Ritterzeugnis \n"
 		
 		menutextMasterCrownName
-			.text "(Master Cro]wn\n"
+			.text "(Meistersiegel\n"
 		
 		menutextChestKeyName
-			.text "Chest Key \n"
+			.text "Truhenschlüssel \n"
 		
 		menutextDoorKeyName
-			.text "Door Key\n"
+			.text "Türschlüssel\n"
 		
 		menutextBridgeKeyName
-			.text "Bridge Key\n"
+			.text "Brückenschlüssel\n"
 		
 		menutextLockpickName
-			.text "Lockpick\n"
+			.text "Dietrich\n"
 		
 		menutextStaminaDrinkName
-			.text "Sta[mina Drink\n"
+			.text " G{-}Getränk \n"
 		
 		menutextVulneraryName
-			.text "Vulnerary \n"
+			.text "Heil{m}ittel \n"
 		
 		menutextPureWaterName
-			.text "Pure )Water \n"
+			.text ")Weih]wasser\n"
 		
 		menutextAntitoxinName
-			.text "Antitoxin \n"
+			.text "Gegengift \n"
 		
 		menutextMemberCardName
-			.text "(Me[mber Card \n"
+			.text "(Mitgli.{-}Karte \n"
 		
 		menutextOdsScrollName
-			.text "Od's Scroll \n"
+			.text "Ods Schrif. \n"
 		
 		menutextBaldrsScrollName
-			.text "Baldr's Scroll\n"
+			.text "Baldrs Schrif.\n"
 		
 		menutextHezulsScrollName
-			.text "Hoðr's Scroll \n"
+			.text "Hoðrs Schrif. \n"
 		
 		menutextDainnsScrollName
-			.text "Dáinn's Scroll\n"
+			.text "Dáinns Schrif.\n"
 		
 		menutextNjorunsScrollName
-			.text "+Njörun's Scroll\n"
+			.text "+Njöruns Schrif.\n"
 		
 		menutextNalsScrollName
-			.text "+Nál's Scroll \n"
+			.text "+Náls Schrif. \n"
 		
 		menutextUllrsScrollName
-			.text "Ullr's Scroll \n"
+			.text "Ullrs Schrif. \n"
 		
 		menutextThrudsScrollName
-			.text "Thrud's Scroll\n"
+			.text "Thruds Schrif.\n"
 		
 		menutextFjalarsScrollName
-			.text "Fjalar's Scroll \n"
+			.text "Fjalars Schrif. \n"
 		
 		menutextCedsScrollName
-			.text "Ced's Scroll\n"
+			.text "Ceds Schrif.\n"
 		
 		menutextBragisScrollName
-			.text "Bragi's Scroll\n"
+			.text "Bragis Schrif.\n"
 		
 		menutextHeimsScrollName
-			.text "He{im}'s Scroll \n"
+			.text "He{im}s Schrif. \n"
 		
 		menutextParagonManualName
-			.text "Paragon (Manual \n"
+			.text " Elite{-}Handbuch\n"
 		
 		menutextAccostManualName
-			.text "Accost (Manual\n"
+			.text "Anstur{m}{-}Handbuch\n"
 		
 		menutextBargainManualName
-			.text "Bargain (Manual \n"
+			.text "Angebot {-}Handbuch\n"
 		
 		menutextVantageManualName
-			.text "Vantage (Manual \n"
+			.text " Vorteil{-}Handbuch\n"
 		
 		menutextWrathManualName
-			.text ")Wrath (Manual\n"
+			.text " Ingri{m}{m}{-}Handbuch\n"
 		
 		menutextAdeptManualName
-			.text "Adept (Manual \n"
+			.text " Adept{-}Handbuch\n"
 		
 		menutextMiracleManualName
-			.text "(Miracle (Manual\n"
+			.text "Arkanu{m}{-}Handbuch\n"
 		
 		menutextNihilManualName
-			.text "+Nihil (Manual\n"
+			.text " +Negation{-}Handbuch\n"
 		
 		menutextSolManualName
-			.text "Sol (Manual \n"
+			.text "Sonnens.{-}Handbuch\n"
 		
 		menutextLunaManualName
-			.text "Luna (Manual\n"
+			.text "(Monds. {-}Handbuch\n"
 		
 	.endsection ItemNameSection

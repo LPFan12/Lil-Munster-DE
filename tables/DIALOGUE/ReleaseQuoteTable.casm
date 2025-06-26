@@ -1,0 +1,413 @@
+	GalzusChapter5ReleaseQuote							= 0
+		GalzusChapter5ReleaseQuoteCharacter				= Galzus
+		GalzusChapter5ReleaseQuoteChapter				= Chapter05
+		GalzusChapter5ReleaseQuoteFlag					= None
+		GalzusChapter5ReleaseQuoteDialoguePointer		= dialogueGalzusReleaseQuote
+
+	GalzusChapter6ReleaseQuote							= 1
+		GalzusChapter6ReleaseQuoteCharacter				= Galzus
+		GalzusChapter6ReleaseQuoteChapter				= Chapter06
+		GalzusChapter6ReleaseQuoteFlag					= None
+		GalzusChapter6ReleaseQuoteDialoguePointer		= dialogueGalzusReleaseQuote
+
+	BaldachChapter13ReleaseQuote						= 2
+		BaldachChapter13ReleaseQuoteCharacter			= Baldach
+		BaldachChapter13ReleaseQuoteChapter				= Chapter13
+		BaldachChapter13ReleaseQuoteFlag				= None
+		BaldachChapter13ReleaseQuoteDialoguePointer		= dialogueChapter13BaldachReleaseQuote
+
+	ConomorChapter16AReleaseQuote						= 3
+		ConomorChapter16AReleaseQuoteCharacter			= Conomor
+		ConomorChapter16AReleaseQuoteChapter			= Chapter16A
+		ConomorChapter16AReleaseQuoteFlag				= None
+		ConomorChapter16AReleaseQuoteDialoguePointer	= dialogueChapter16AConomorReleaseQuote
+
+	AmaldaChapter17BReleaseQuote						= 4
+		AmaldaChapter17BReleaseQuoteCharacter			= Amalda
+		AmaldaChapter17BReleaseQuoteChapter				= Chapter17B
+		AmaldaChapter17BReleaseQuoteFlag				= None
+		AmaldaChapter17BReleaseQuoteDialoguePointer		= dialogueChapter17BAmaldaReleaseQuote
+
+	WolfeChapter19ReleaseQuote							= 5
+		WolfeChapter19ReleaseQuoteCharacter				= Wolfe
+		WolfeChapter19ReleaseQuoteChapter				= Chapter19
+		WolfeChapter19ReleaseQuoteFlag					= None
+		WolfeChapter19ReleaseQuoteDialoguePointer		= dialogueChapter19WolfeReleaseQuote
+
+	WeissmannReleaseQuote								= 6
+		WeissmannReleaseQuoteCharacter					= Weissmann
+		WeissmannReleaseQuoteChapter					= AnyChapter
+		WeissmannReleaseQuoteFlag						= None
+		WeissmannReleaseQuoteDialoguePointer			= dialogueWeismannReleaseQuote
+
+	BucksReleaseQuote									= 7
+		BucksReleaseQuoteCharacter						= Bucks
+		BucksReleaseQuoteChapter						= AnyChapter
+		BucksReleaseQuoteFlag							= None
+		BucksReleaseQuoteDialoguePointer				= dialogueBucksReleaseQuote
+
+	ShivaReleaseQuote1									= 8
+		ShivaReleaseQuote1Character						= Shiva
+		ShivaReleaseQuote1Chapter						= AnyChapter
+		ShivaReleaseQuote1Flag							= None
+		ShivaReleaseQuote1DialoguePointer				= dialogueShivaReleaseQuote
+
+	LifisReleaseQuote									= 9
+		LifisReleaseQuoteCharacter						= Lifis
+		LifisReleaseQuoteChapter						= AnyChapter
+		LifisReleaseQuoteFlag							= None
+		LifisReleaseQuoteDialoguePointer				= dialogueLifisReleaseQuote
+
+	LobosReleaseQuote									= 10
+		LobosReleaseQuoteCharacter						= Lobos
+		LobosReleaseQuoteChapter						= AnyChapter
+		LobosReleaseQuoteFlag							= None
+		LobosReleaseQuoteDialoguePointer				= dialogueLobosReleaseQuote
+
+	DalsinReleaseQuote									= 11
+		DalsinReleaseQuoteCharacter						= Dalsin
+		DalsinReleaseQuoteChapter						= AnyChapter
+		DalsinReleaseQuoteFlag							= None
+		DalsinReleaseQuoteDialoguePointer				= dialogueDalsinReleaseQuote
+
+	ShivaReleaseQuote2									= 12
+		ShivaReleaseQuote2Character						= Shiva
+		ShivaReleaseQuote2Chapter						= AnyChapter
+		ShivaReleaseQuote2Flag							= None
+		ShivaReleaseQuote2DialoguePointer				= dialogueShivaReleaseQuote
+
+	EisenhauReleaseQuote								= 13
+		EisenhauReleaseQuoteCharacter					= Eisenhau
+		EisenhauReleaseQuoteChapter						= AnyChapter
+		EisenhauReleaseQuoteFlag						= None
+		EisenhauReleaseQuoteDialoguePointer				= dialogueEisenhauReleaseQuote
+
+	LemayReleaseQuote									= 14
+		LemayReleaseQuoteCharacter						= Lemay
+		LemayReleaseQuoteChapter						= AnyChapter
+		LemayReleaseQuoteFlag							= None
+		LemayReleaseQuoteDialoguePointer				= dialogueLemayReleaseQuote
+
+	GomezReleaseQuote									= 15
+		GomezReleaseQuoteCharacter						= Gomez
+		GomezReleaseQuoteChapter						= AnyChapter
+		GomezReleaseQuoteFlag							= None
+		GomezReleaseQuoteDialoguePointer				= dialogueGomezReleaseQuote
+
+	MerlochReleaseQuote									= 16
+		MerlochReleaseQuoteCharacter					= Merloch
+		MerlochReleaseQuoteChapter						= AnyChapter
+		MerlochReleaseQuoteFlag							= None
+		MerlochReleaseQuoteDialoguePointer				= dialogueMerlochReleaseQuote
+
+	LargoReleaseQuote									= 17
+		LargoReleaseQuoteCharacter						= Largo
+		LargoReleaseQuoteChapter						= AnyChapter
+		LargoReleaseQuoteFlag							= None
+		LargoReleaseQuoteDialoguePointer				= dialogueLargoReleaseQuote
+
+	FredReleaseQuote									= 18
+		FredReleaseQuoteCharacter						= Fred
+		FredReleaseQuoteChapter							= AnyChapter
+		FredReleaseQuoteFlag							= None
+		FredReleaseQuoteDialoguePointer					= dialogueFredReleaseQuote
+
+	OltophReleaseQuote									= 19
+		OltophReleaseQuoteCharacter						= Oltoph
+		OltophReleaseQuoteChapter						= AnyChapter
+		OltophReleaseQuoteFlag							= None
+		OltophReleaseQuoteDialoguePointer				= dialogueOltophReleaseQuote
+
+	SalemReleaseQuote									= 20
+		SalemReleaseQuoteCharacter						= Salem
+		SalemReleaseQuoteChapter						= AnyChapter
+		SalemReleaseQuoteFlag							= None
+		SalemReleaseQuoteDialoguePointer				= dialogueSalemReleaseQuote
+
+	ColhoReleaseQuote									= 21
+		ColhoReleaseQuoteCharacter						= Colho
+		ColhoReleaseQuoteChapter						= AnyChapter
+		ColhoReleaseQuoteFlag							= None
+		ColhoReleaseQuoteDialoguePointer				= dialogueColhoReleaseQuote
+
+	PerneReleaseQuote									= 22
+		PerneReleaseQuoteCharacter						= Perne
+		PerneReleaseQuoteChapter						= AnyChapter
+		PerneReleaseQuoteFlag							= None
+		PerneReleaseQuoteDialoguePointer				= dialoguePerneReleaseQuote
+
+	TrudeReleaseQuote									= 23
+		TrudeReleaseQuoteCharacter						= Trude
+		TrudeReleaseQuoteChapter						= AnyChapter
+		TrudeReleaseQuoteFlag							= None
+		TrudeReleaseQuoteDialoguePointer				= dialogueTrudeReleaseQuote
+
+	TinaReleaseQuote									= 24
+		TinaReleaseQuoteCharacter						= Tina
+		TinaReleaseQuoteChapter							= AnyChapter
+		TinaReleaseQuoteFlag							= None
+		TinaReleaseQuoteDialoguePointer					= dialogueTinaReleaseQuote
+
+	LisztReleaseQuote									= 25
+		LisztReleaseQuoteCharacter						= Liszt
+		LisztReleaseQuoteChapter						= AnyChapter
+		LisztReleaseQuoteFlag							= None
+		LisztReleaseQuoteDialoguePointer				= dialogueLisztReleaseQuote
+
+	PaulusReleaseQuote									= 26
+		PaulusReleaseQuoteCharacter						= Paulus
+		PaulusReleaseQuoteChapter						= AnyChapter
+		PaulusReleaseQuoteFlag							= None
+		PaulusReleaseQuoteDialoguePointer				= dialoguePaulusReleaseQuote
+
+	BaldachReleaseQuote									= 27
+		BaldachReleaseQuoteCharacter					= Baldach
+		BaldachReleaseQuoteChapter						= AnyChapter
+		BaldachReleaseQuoteFlag							= None
+		BaldachReleaseQuoteDialoguePointer				= dialogueBaldachReleaseQuote
+
+	CodhaReleaseQuote									= 28
+		CodhaReleaseQuoteCharacter						= Codha
+		CodhaReleaseQuoteChapter						= AnyChapter
+		CodhaReleaseQuoteFlag							= None
+		CodhaReleaseQuoteDialoguePointer				= dialogueCodhaReleaseQuote
+
+	SeilReleaseQuote									= 29
+		SeilReleaseQuoteCharacter						= Seil
+		SeilReleaseQuoteChapter							= AnyChapter
+		SeilReleaseQuoteFlag							= None
+		SeilReleaseQuoteDialoguePointer					= dialogueSeilReleaseQuote
+
+	MooreReleaseQuote									= 30
+		MooreReleaseQuoteCharacter						= Moore
+		MooreReleaseQuoteChapter						= AnyChapter
+		MooreReleaseQuoteFlag							= None
+		MooreReleaseQuoteDialoguePointer				= dialogueMooreReleaseQuote
+
+	MullerReleaseQuote									= 31
+		MullerReleaseQuoteCharacter						= Muller
+		MullerReleaseQuoteChapter						= AnyChapter
+		MullerReleaseQuoteFlag							= None
+		MullerReleaseQuoteDialoguePointer				= dialogueMullerReleaseQuote
+
+	SaiasReleaseQuote1									= 32
+		SaiasReleaseQuote1Character						= Saias
+		SaiasReleaseQuote1Chapter						= AnyChapter
+		SaiasReleaseQuote1Flag							= None
+		SaiasReleaseQuote1DialoguePointer				= dialogueSaiasReleaseQuote
+
+	MishaReleaseQuote									= 33
+		MishaReleaseQuoteCharacter						= Misha
+		MishaReleaseQuoteChapter						= AnyChapter
+		MishaReleaseQuoteFlag							= None
+		MishaReleaseQuoteDialoguePointer				= dialogueMishaReleaseQuote
+
+	SaraReleaseQuote									= 34
+		SaraReleaseQuoteCharacter						= Sara
+		SaraReleaseQuoteChapter							= AnyChapter
+		SaraReleaseQuoteFlag							= None
+		SaraReleaseQuoteDialoguePointer					= dialogueSaraReleaseQuote
+
+	KempfReleaseQuote									= 35
+		KempfReleaseQuoteCharacter						= Kempf
+		KempfReleaseQuoteChapter						= AnyChapter
+		KempfReleaseQuoteFlag							= None
+		KempfReleaseQuoteDialoguePointer				= dialogueKempfReleaseQuote
+
+	BrookReleaseQuote									= 36
+		BrookReleaseQuoteCharacter						= Brook
+		BrookReleaseQuoteChapter						= AnyChapter
+		BrookReleaseQuoteFlag							= None
+		BrookReleaseQuoteDialoguePointer				= dialogueBrookReleaseQuote
+
+	IliosReleaseQuote									= 37
+		IliosReleaseQuoteCharacter						= Ilios
+		IliosReleaseQuoteChapter						= AnyChapter
+		IliosReleaseQuoteFlag							= None
+		IliosReleaseQuoteDialoguePointer				= dialogueIliosReleaseQuote
+
+	NicolovReleaseQuote									= 38
+		NicolovReleaseQuoteCharacter					= Nicolov
+		NicolovReleaseQuoteChapter						= AnyChapter
+		NicolovReleaseQuoteFlag							= None
+		NicolovReleaseQuoteDialoguePointer				= dialogueNicolovReleaseQuote
+
+	ReinkochReleaseQuote								= 39
+		ReinkochReleaseQuoteCharacter					= Reinkoch
+		ReinkochReleaseQuoteChapter						= AnyChapter
+		ReinkochReleaseQuoteFlag						= None
+		ReinkochReleaseQuoteDialoguePointer				= dialogueReinkochReleaseQuote
+
+	ShannamReleaseQuote									= 40
+		ShannamReleaseQuoteCharacter					= Shannam
+		ShannamReleaseQuoteChapter						= AnyChapter
+		ShannamReleaseQuoteFlag							= None
+		ShannamReleaseQuoteDialoguePointer				= dialogueShannamReleaseQuote
+
+	PalmanReleaseQuote									= 41
+		PalmanReleaseQuoteCharacter						= Palman
+		PalmanReleaseQuoteChapter						= AnyChapter
+		PalmanReleaseQuoteFlag							= None
+		PalmanReleaseQuoteDialoguePointer				= dialoguePalmanReleaseQuote
+
+	AmaldaReleaseQuote									= 42
+		AmaldaReleaseQuoteCharacter						= Amalda
+		AmaldaReleaseQuoteChapter						= AnyChapter
+		AmaldaReleaseQuoteFlag							= None
+		AmaldaReleaseQuoteDialoguePointer				= dialogueAmaldaReleaseQuote
+
+	ConomorReleaseQuote									= 43
+		ConomorReleaseQuoteCharacter					= Conomor
+		ConomorReleaseQuoteChapter						= AnyChapter
+		ConomorReleaseQuoteFlag							= None
+		ConomorReleaseQuoteDialoguePointer				= dialogueConomorReleaseQuote
+
+	BharatReleaseQuote									= 44
+		BharatReleaseQuoteCharacter						= Bharat
+		BharatReleaseQuoteChapter						= AnyChapter
+		BharatReleaseQuoteFlag							= None
+		BharatReleaseQuoteDialoguePointer				= dialogueBharatReleaseQuote
+
+	MannheimReleaseQuote								= 45
+		MannheimReleaseQuoteCharacter					= Mannheim
+		MannheimReleaseQuoteChapter						= AnyChapter
+		MannheimReleaseQuoteFlag						= None
+		MannheimReleaseQuoteDialoguePointer				= dialogueMannheimReleaseQuote
+
+	GustavReleaseQuote									= 46
+		GustavReleaseQuoteCharacter						= Gustav
+		GustavReleaseQuoteChapter						= AnyChapter
+		GustavReleaseQuoteFlag							= None
+		GustavReleaseQuoteDialoguePointer				= dialogueGustavReleaseQuote
+
+	XavierReleaseQuote									= 47
+		XavierReleaseQuoteCharacter						= Xavier
+		XavierReleaseQuoteChapter						= AnyChapter
+		XavierReleaseQuoteFlag							= None
+		XavierReleaseQuoteDialoguePointer				= dialogueXavierReleaseQuote
+
+	FrausReleaseQuote									= 48
+		FrausReleaseQuoteCharacter						= Fraus
+		FrausReleaseQuoteChapter						= AnyChapter
+		FrausReleaseQuoteFlag							= None
+		FrausReleaseQuoteDialoguePointer				= dialogueFrausReleaseQuote
+
+	SeimetzReleaseQuote									= 49
+		SeimetzReleaseQuoteCharacter					= Seimetz
+		SeimetzReleaseQuoteChapter						= AnyChapter
+		SeimetzReleaseQuoteFlag							= None
+		SeimetzReleaseQuoteDialoguePointer				= dialogueSeimetzReleaseQuote
+
+	ZaunReleaseQuote									= 50
+		ZaunReleaseQuoteCharacter						= Zaun
+		ZaunReleaseQuoteChapter							= AnyChapter
+		ZaunReleaseQuoteFlag							= None
+		ZaunReleaseQuoteDialoguePointer					= dialogueZaaunReleaseQuote
+
+	CohenReleaseQuote									= 51
+		CohenReleaseQuoteCharacter						= Cohen
+		CohenReleaseQuoteChapter						= AnyChapter
+		CohenReleaseQuoteFlag							= None
+		CohenReleaseQuoteDialoguePointer				= dialogueCohenReleaseQuote
+
+	SaiasReleaseQuote2									= 52
+		SaiasReleaseQuote2Character						= Saias
+		SaiasReleaseQuote2Chapter						= AnyChapter
+		SaiasReleaseQuote2Flag							= None
+		SaiasReleaseQuote2DialoguePointer				= dialogueSaiasReleaseQuote
+
+	ReinhardtReleaseQuote								= 53
+		ReinhardtReleaseQuoteCharacter					= Reinhardt
+		ReinhardtReleaseQuoteChapter					= AnyChapter
+		ReinhardtReleaseQuoteFlag						= None
+		ReinhardtReleaseQuoteDialoguePointer			= dialogueReinhardtReleaseQuote
+
+	CoulterReleaseQuote									= 54
+		CoulterReleaseQuoteCharacter					= Coulter
+		CoulterReleaseQuoteChapter						= AnyChapter
+		CoulterReleaseQuoteFlag							= None
+		CoulterReleaseQuoteDialoguePointer				= dialogueCoulterReleaseQuote
+
+	AlphandReleaseQuote									= 55
+		AlphandReleaseQuoteCharacter					= Alphand
+		AlphandReleaseQuoteChapter						= AnyChapter
+		AlphandReleaseQuoteFlag							= None
+		AlphandReleaseQuoteDialoguePointer				= dialogueAlphandReleaseQuote
+
+	FadenReleaseQuote									= 56
+		FadenReleaseQuoteCharacter						= Faden
+		FadenReleaseQuoteChapter						= AnyChapter
+		FadenReleaseQuoteFlag							= None
+		FadenReleaseQuoteDialoguePointer				= dialogueFadenReleaseQuote
+
+	GalzusReleaseQuote									= 57
+		GalzusReleaseQuoteCharacter						= Galzus
+		GalzusReleaseQuoteChapter						= AnyChapter
+		GalzusReleaseQuoteFlag							= None
+		GalzusReleaseQuoteDialoguePointer				= dialogueGalzusReleaseQuote
+
+	VeldReleaseQuote									= 58
+		VeldReleaseQuoteCharacter						= Veld
+		VeldReleaseQuoteChapter							= AnyChapter
+		VeldReleaseQuoteFlag							= None
+		VeldReleaseQuoteDialoguePointer					= dialogueVeldReleaseQuote
+
+GalzusChapter5ReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, GalzusChapter5ReleaseQuoteCharacter, GalzusChapter5ReleaseQuoteChapter, GalzusChapter5ReleaseQuoteFlag, GalzusChapter5ReleaseQuoteDialoguePointer
+GalzusChapter6ReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, GalzusChapter6ReleaseQuoteCharacter, GalzusChapter6ReleaseQuoteChapter, GalzusChapter6ReleaseQuoteFlag, GalzusChapter6ReleaseQuoteDialoguePointer
+BaldachChapter13ReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, BaldachChapter13ReleaseQuoteCharacter, BaldachChapter13ReleaseQuoteChapter, BaldachChapter13ReleaseQuoteFlag, BaldachChapter13ReleaseQuoteDialoguePointer
+ConomorChapter16AReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, ConomorChapter16AReleaseQuoteCharacter, ConomorChapter16AReleaseQuoteChapter, ConomorChapter16AReleaseQuoteFlag, ConomorChapter16AReleaseQuoteDialoguePointer
+AmaldaChapter17BReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, AmaldaChapter17BReleaseQuoteCharacter, AmaldaChapter17BReleaseQuoteChapter, AmaldaChapter17BReleaseQuoteFlag, AmaldaChapter17BReleaseQuoteDialoguePointer
+WolfeChapter19ReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, WolfeChapter19ReleaseQuoteCharacter, WolfeChapter19ReleaseQuoteChapter, WolfeChapter19ReleaseQuoteFlag, WolfeChapter19ReleaseQuoteDialoguePointer
+WeissmannReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, WeissmannReleaseQuoteCharacter, WeissmannReleaseQuoteChapter, WeissmannReleaseQuoteFlag, WeissmannReleaseQuoteDialoguePointer
+BucksReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, BucksReleaseQuoteCharacter, BucksReleaseQuoteChapter, BucksReleaseQuoteFlag, BucksReleaseQuoteDialoguePointer
+ShivaReleaseQuote1ReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, ShivaReleaseQuote1Character, ShivaReleaseQuote1Chapter, ShivaReleaseQuote1Flag, ShivaReleaseQuote1DialoguePointer
+LifisReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, LifisReleaseQuoteCharacter, LifisReleaseQuoteChapter, LifisReleaseQuoteFlag, LifisReleaseQuoteDialoguePointer
+LobosReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, LobosReleaseQuoteCharacter, LobosReleaseQuoteChapter, LobosReleaseQuoteFlag, LobosReleaseQuoteDialoguePointer
+DalsinReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, DalsinReleaseQuoteCharacter, DalsinReleaseQuoteChapter, DalsinReleaseQuoteFlag, DalsinReleaseQuoteDialoguePointer
+ShivaReleaseQuote2ReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, ShivaReleaseQuote2Character, ShivaReleaseQuote2Chapter, ShivaReleaseQuote2Flag, ShivaReleaseQuote2DialoguePointer
+EisenhauReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, EisenhauReleaseQuoteCharacter, EisenhauReleaseQuoteChapter, EisenhauReleaseQuoteFlag, EisenhauReleaseQuoteDialoguePointer
+LemayReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, LemayReleaseQuoteCharacter, LemayReleaseQuoteChapter, LemayReleaseQuoteFlag, LemayReleaseQuoteDialoguePointer
+GomezReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, GomezReleaseQuoteCharacter, GomezReleaseQuoteChapter, GomezReleaseQuoteFlag, GomezReleaseQuoteDialoguePointer
+MerlochReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, MerlochReleaseQuoteCharacter, MerlochReleaseQuoteChapter, MerlochReleaseQuoteFlag, MerlochReleaseQuoteDialoguePointer
+LargoReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, LargoReleaseQuoteCharacter, LargoReleaseQuoteChapter, LargoReleaseQuoteFlag, LargoReleaseQuoteDialoguePointer
+FredReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, FredReleaseQuoteCharacter, FredReleaseQuoteChapter, FredReleaseQuoteFlag, FredReleaseQuoteDialoguePointer
+OltophReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, OltophReleaseQuoteCharacter, OltophReleaseQuoteChapter, OltophReleaseQuoteFlag, OltophReleaseQuoteDialoguePointer
+SalemReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, SalemReleaseQuoteCharacter, SalemReleaseQuoteChapter, SalemReleaseQuoteFlag, SalemReleaseQuoteDialoguePointer
+ColhoReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, ColhoReleaseQuoteCharacter, ColhoReleaseQuoteChapter, ColhoReleaseQuoteFlag, ColhoReleaseQuoteDialoguePointer
+PerneReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, PerneReleaseQuoteCharacter, PerneReleaseQuoteChapter, PerneReleaseQuoteFlag, PerneReleaseQuoteDialoguePointer
+TrudeReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, TrudeReleaseQuoteCharacter, TrudeReleaseQuoteChapter, TrudeReleaseQuoteFlag, TrudeReleaseQuoteDialoguePointer
+TinaReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, TinaReleaseQuoteCharacter, TinaReleaseQuoteChapter, TinaReleaseQuoteFlag, TinaReleaseQuoteDialoguePointer
+LisztReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, LisztReleaseQuoteCharacter, LisztReleaseQuoteChapter, LisztReleaseQuoteFlag, LisztReleaseQuoteDialoguePointer
+PaulusReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, PaulusReleaseQuoteCharacter, PaulusReleaseQuoteChapter, PaulusReleaseQuoteFlag, PaulusReleaseQuoteDialoguePointer
+BaldachReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, BaldachReleaseQuoteCharacter, BaldachReleaseQuoteChapter, BaldachReleaseQuoteFlag, BaldachReleaseQuoteDialoguePointer
+CodhaReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, CodhaReleaseQuoteCharacter, CodhaReleaseQuoteChapter, CodhaReleaseQuoteFlag, CodhaReleaseQuoteDialoguePointer
+SeilReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, SeilReleaseQuoteCharacter, SeilReleaseQuoteChapter, SeilReleaseQuoteFlag, SeilReleaseQuoteDialoguePointer
+MooreReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, MooreReleaseQuoteCharacter, MooreReleaseQuoteChapter, MooreReleaseQuoteFlag, MooreReleaseQuoteDialoguePointer
+MullerReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, MullerReleaseQuoteCharacter, MullerReleaseQuoteChapter, MullerReleaseQuoteFlag, MullerReleaseQuoteDialoguePointer
+SaiasReleaseQuote1ReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, SaiasReleaseQuote1Character, SaiasReleaseQuote1Chapter, SaiasReleaseQuote1Flag, SaiasReleaseQuote1DialoguePointer
+MishaReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, MishaReleaseQuoteCharacter, MishaReleaseQuoteChapter, MishaReleaseQuoteFlag, MishaReleaseQuoteDialoguePointer
+SaraReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, SaraReleaseQuoteCharacter, SaraReleaseQuoteChapter, SaraReleaseQuoteFlag, SaraReleaseQuoteDialoguePointer
+KempfReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, KempfReleaseQuoteCharacter, KempfReleaseQuoteChapter, KempfReleaseQuoteFlag, KempfReleaseQuoteDialoguePointer
+BrookReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, BrookReleaseQuoteCharacter, BrookReleaseQuoteChapter, BrookReleaseQuoteFlag, BrookReleaseQuoteDialoguePointer
+IliosReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, IliosReleaseQuoteCharacter, IliosReleaseQuoteChapter, IliosReleaseQuoteFlag, IliosReleaseQuoteDialoguePointer
+NicolovReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, NicolovReleaseQuoteCharacter, NicolovReleaseQuoteChapter, NicolovReleaseQuoteFlag, NicolovReleaseQuoteDialoguePointer
+ReinkochReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, ReinkochReleaseQuoteCharacter, ReinkochReleaseQuoteChapter, ReinkochReleaseQuoteFlag, ReinkochReleaseQuoteDialoguePointer
+ShannamReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, ShannamReleaseQuoteCharacter, ShannamReleaseQuoteChapter, ShannamReleaseQuoteFlag, ShannamReleaseQuoteDialoguePointer
+PalmanReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, PalmanReleaseQuoteCharacter, PalmanReleaseQuoteChapter, PalmanReleaseQuoteFlag, PalmanReleaseQuoteDialoguePointer
+AmaldaReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, AmaldaReleaseQuoteCharacter, AmaldaReleaseQuoteChapter, AmaldaReleaseQuoteFlag, AmaldaReleaseQuoteDialoguePointer
+ConomorReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, ConomorReleaseQuoteCharacter, ConomorReleaseQuoteChapter, ConomorReleaseQuoteFlag, ConomorReleaseQuoteDialoguePointer
+BharatReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, BharatReleaseQuoteCharacter, BharatReleaseQuoteChapter, BharatReleaseQuoteFlag, BharatReleaseQuoteDialoguePointer
+MannheimReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, MannheimReleaseQuoteCharacter, MannheimReleaseQuoteChapter, MannheimReleaseQuoteFlag, MannheimReleaseQuoteDialoguePointer
+GustavReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, GustavReleaseQuoteCharacter, GustavReleaseQuoteChapter, GustavReleaseQuoteFlag, GustavReleaseQuoteDialoguePointer
+XavierReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, XavierReleaseQuoteCharacter, XavierReleaseQuoteChapter, XavierReleaseQuoteFlag, XavierReleaseQuoteDialoguePointer
+FrausReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, FrausReleaseQuoteCharacter, FrausReleaseQuoteChapter, FrausReleaseQuoteFlag, FrausReleaseQuoteDialoguePointer
+SeimetzReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, SeimetzReleaseQuoteCharacter, SeimetzReleaseQuoteChapter, SeimetzReleaseQuoteFlag, SeimetzReleaseQuoteDialoguePointer
+ZaunReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, ZaunReleaseQuoteCharacter, ZaunReleaseQuoteChapter, ZaunReleaseQuoteFlag, ZaunReleaseQuoteDialoguePointer
+CohenReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, CohenReleaseQuoteCharacter, CohenReleaseQuoteChapter, CohenReleaseQuoteFlag, CohenReleaseQuoteDialoguePointer
+SaiasReleaseQuote2ReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, SaiasReleaseQuote2Character, SaiasReleaseQuote2Chapter, SaiasReleaseQuote2Flag, SaiasReleaseQuote2DialoguePointer
+ReinhardtReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, ReinhardtReleaseQuoteCharacter, ReinhardtReleaseQuoteChapter, ReinhardtReleaseQuoteFlag, ReinhardtReleaseQuoteDialoguePointer
+CoulterReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, CoulterReleaseQuoteCharacter, CoulterReleaseQuoteChapter, CoulterReleaseQuoteFlag, CoulterReleaseQuoteDialoguePointer
+AlphandReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, AlphandReleaseQuoteCharacter, AlphandReleaseQuoteChapter, AlphandReleaseQuoteFlag, AlphandReleaseQuoteDialoguePointer
+FadenReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, FadenReleaseQuoteCharacter, FadenReleaseQuoteChapter, FadenReleaseQuoteFlag, FadenReleaseQuoteDialoguePointer
+GalzusReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, GalzusReleaseQuoteCharacter, GalzusReleaseQuoteChapter, GalzusReleaseQuoteFlag, GalzusReleaseQuoteDialoguePointer
+VeldReleaseQuoteReleaseQuoteTableEntry .dstruct structReleaseQuoteEntry, VeldReleaseQuoteCharacter, VeldReleaseQuoteChapter, VeldReleaseQuoteFlag, VeldReleaseQuoteDialoguePointer

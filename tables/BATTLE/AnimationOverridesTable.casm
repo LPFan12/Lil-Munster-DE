@@ -1,0 +1,55 @@
+	AnimationOverride00						= 0
+		AnimationOverride00Item				= Loptous
+		AnimationOverride00AnimationType	= Battle
+
+	AnimationOverride01						= 1
+		AnimationOverride01Item				= Physic
+		AnimationOverride01AnimationType	= Map
+
+	AnimationOverride02						= 2
+		AnimationOverride02Item				= Rescue
+		AnimationOverride02AnimationType	= Map
+
+	AnimationOverride03						= 3
+		AnimationOverride03Item				= Warp
+		AnimationOverride03AnimationType	= Map
+
+	AnimationOverride04						= 4
+		AnimationOverride04Item				= TorchStaff
+		AnimationOverride04AnimationType	= Map
+
+	AnimationOverride05						= 5
+		AnimationOverride05Item				= ReturnStaff
+		AnimationOverride05AnimationType	= Map
+
+	AnimationOverride06						= 6
+		AnimationOverride06Item				= Hammerne
+		AnimationOverride06AnimationType	= Map
+
+	AnimationOverride07						= 7
+		AnimationOverride07Item				= ThiefStaff
+		AnimationOverride07AnimationType	= Map
+
+	AnimationOverride08						= 8
+		AnimationOverride08Item				= Watch
+		AnimationOverride08AnimationType	= Map
+
+	AnimationOverride09						= 9
+		AnimationOverride09Item				= Unlock
+		AnimationOverride09AnimationType	= Map
+
+	AnimationOverride0A						= 10
+		AnimationOverride0AItem				= Rewarp
+		AnimationOverride0AAnimationType	= Map
+
+AnimationOverride00AnimationOverridesTableEntry .dstruct structAnimationOverrides, AnimationOverride00Item, AnimationOverride00AnimationType
+AnimationOverride01AnimationOverridesTableEntry .dstruct structAnimationOverrides, AnimationOverride01Item, AnimationOverride01AnimationType
+AnimationOverride02AnimationOverridesTableEntry .dstruct structAnimationOverrides, AnimationOverride02Item, AnimationOverride02AnimationType
+AnimationOverride03AnimationOverridesTableEntry .dstruct structAnimationOverrides, AnimationOverride03Item, AnimationOverride03AnimationType
+AnimationOverride04AnimationOverridesTableEntry .dstruct structAnimationOverrides, AnimationOverride04Item, AnimationOverride04AnimationType
+AnimationOverride05AnimationOverridesTableEntry .dstruct structAnimationOverrides, AnimationOverride05Item, AnimationOverride05AnimationType
+AnimationOverride06AnimationOverridesTableEntry .dstruct structAnimationOverrides, AnimationOverride06Item, AnimationOverride06AnimationType
+AnimationOverride07AnimationOverridesTableEntry .dstruct structAnimationOverrides, AnimationOverride07Item, AnimationOverride07AnimationType
+AnimationOverride08AnimationOverridesTableEntry .dstruct structAnimationOverrides, AnimationOverride08Item, AnimationOverride08AnimationType
+AnimationOverride09AnimationOverridesTableEntry .dstruct structAnimationOverrides, AnimationOverride09Item, AnimationOverride09AnimationType
+AnimationOverride0AAnimationOverridesTableEntry .dstruct structAnimationOverrides, AnimationOverride0AItem, AnimationOverride0AAnimationType

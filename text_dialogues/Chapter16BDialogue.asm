@@ -651,11 +651,11 @@ dialogueChapter16BOpening1
 .byte NewLine
 .text "a sprawling woodland deserving of the name"
 .byte NewLine
-.text "“Mirage Forest.”"
+.text "“Wayward Forest.”"
 .byte WaitForA
 
 .byte Right_slot
-.text "A forest of mirages..."
+.text "A forest that's wayward..."
 .byte NewLine
 .text "So, how do we proceed from here?"
 .byte WaitForA
@@ -886,7 +886,7 @@ dialogueChapter16BWorldMap2
 .word $0A12 ;y then x
 .text "However, this meant crossing through"
 .byte NewLine
-.text "Millefeuille—the so-called “Mirage Forest.”"
+.text "Millefeuille—the so-called “Wayward Forest.”"
 .byte WaitForA
 .byte ScrollText
 .word LoadPortraitalt_1

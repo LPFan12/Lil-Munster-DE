@@ -4,7 +4,7 @@
 * = $0266D0
 .logical lorom($0266D0, 1)
 
-.text "(Mov increased\n"
+.text "Be]w. Erhöht. \n"
 
 .here
 
@@ -29,7 +29,7 @@
 .logical lorom($475C90, 1)
 
 menutextPopUpWeaponLevelIncreased
-.text ")Weapon level increased "
+.text ")Waffenlevel erhöht."
 menutextPopUpWeaponLevelBlank
 .text "\n"
 
@@ -55,7 +55,7 @@ menutextPopUpWeaponLevelBlank
 .logical lorom($475500, 1)
 
 menutextPopUpEnemyEscaped
-.text "Unit escaped\n"
+.text "Einheit ist  entko{m}{m}en. \n"
 
 .here
 
@@ -163,7 +163,7 @@ POPUP_END
 .logical lorom($0265E9, 1)
 
 menutextPopUpItemObtained
-.text " received \n"
+.text " erhalten.\n"
 
 .here
 
@@ -174,7 +174,7 @@ menutextPopUpItemObtained
 .logical lorom($0A1657, 1)
 
 menutextPopUpItemStolenStealCommand
-.text " ]was stolen\n"
+.text " ]wurde gestohlen.\n"
 
 .here
 
@@ -182,7 +182,7 @@ menutextPopUpItemStolenStealCommand
 .logical lorom($01F7BE, 1)
 
 menutextPopUpItemStolenThiefStaff
-.text " ]was stolen\n"
+.text " ]wurde ent]wendet. \n"
 
 .here
 
@@ -193,7 +193,7 @@ menutextPopUpItemStolenThiefStaff
 .logical lorom($01F8C2, 1)
 
 menutextPopUpItemPurchased
-.text " purchased\n"
+.text " gekauft. \n"
 
 .here
 
@@ -204,7 +204,7 @@ menutextPopUpItemPurchased
 .logical lorom($01F86A, 1)
 
 menutextPopUpItemExchanged
-.text " ]was taken \n"
+.text " ]wurde geno{m}{m}en. \n"
 
 .here
 
@@ -229,7 +229,7 @@ menutextPopUpItemExchanged
 .logical lorom($02688A, 1)
 
 menutextPopUpSkillLearned
-.text " learned  \n"
+.text " gelernt. \n"
 
 aPopUpBoxSkillNames
 	.long menutextParagonName
@@ -310,48 +310,48 @@ aPopUpBoxSkillNames
 * = $475A50
 .logical lorom($475A50, 1)
 menutextPopUpVulneraryText
-.text "Vulnerary used\n"
+.text "Heil{m}ittel ver]wendet. \n"
 
 .here
 
 * = $475700
 .logical lorom($475700, 1)
 menutextPopUpPureWaterText
-.text "Pure )Water used\n"
+.text ")Weih]wasser ver]wendet.\n"
 
 .here
 
 * = $475730
 .logical lorom($475730, 1)
 menutextPopUpPoisonText
-.text "Poisoned\n"
+.text "Einheit vergiftet.\n"
 
 .here
 
 * = $475760
 .logical lorom($475760, 1)
 menutextPopUpTorchText
-.text "Torch used\n"
+.text "Fackel ver]wendet.\n"
 
 .here
 
 * = $475790
 .logical lorom($475790, 1)
 menutextPopUpBaileText
-.text "By Ethlyn used\n"
+.text "Von {-}Ethlyn ver]wendet.\n"
 
 .here
 
 * = $4757C0
 .logical lorom($4757C0, 1)
 menutextPopUpBrionacText
-.text "Brionac used\n"
+.text "Brionac ver]wendet. \n"
 
 .here
 
 * = $475800
 .logical lorom($475800, 1)
 menutextPopUpAntitoxinText
-.text "Antitoxin used\n"
+.text "Gegengift ver]wendet. \n"
 
 .here

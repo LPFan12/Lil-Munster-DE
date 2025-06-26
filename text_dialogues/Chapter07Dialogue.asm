@@ -1253,42 +1253,17 @@ dialogueChapter07MasterSealHouse
 
 .byte Right_slot
 .word LoadPortrait
-.word younglady_portrait
-.text "Heeey there, soldier. At the risk of sounding"
+.word oldman_portrait
+.text "P-Please, I just couldn't resist..."
 .byte NewLine
-.text "too forward, I've always admired"
-.byte NewLine
-.text "the Panzerritter, you know."
+.text "don't take me away... Huh?"
 .byte WaitForA
 .byte ScrollText
-.text "You folks are just so brave,"
+.text "You're not the castle guards? Oh..."
 .byte NewLine
-.text "with a body to match..."
-.byte WaitForA
-.byte ScrollText
-.text "Hm? Beg pardon?"
+.text "Just forget what I said, then. Here,"
 .byte NewLine
-.text "You're not with the Panzerritter?"
-.byte WaitForA
-.byte ScrollText
-.text "...Oh, c'mon! I had this whole spiel prepared"
-.byte NewLine
-.text "an' everything! Ugh, there go my plans..."
-.byte WaitForA
-.byte ScrollText
-.text "Look, one of the knights in the Panzerritter"
-.byte NewLine
-.text "was by earlier, and he left this here."
-.byte WaitForA
-.byte ScrollText
-.text "I thought it was the classic “pretend to forget"
-.byte NewLine
-.text "something so you have an excuse"
-.byte NewLine
-.text "to come back” ploy, but I guess not..."
-.byte WaitForA
-.byte ScrollText
-.text "Well, see that this gets back to him, will you?"
+.text "I'll give you this to keep your mouth shut."
 .byte WaitForA
 
 .byte EndText

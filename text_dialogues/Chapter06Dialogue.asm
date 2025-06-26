@@ -7,53 +7,53 @@ dialogueChapter06Opening1
 .byte Left_slot
 .word LoadPortrait
 .word augustus_portrait
-.text "Prince Leif, over here!"
+.text "Prinz Leif, hier drüben!"
 .byte WaitForA
 
 .byte Right_slot
-.text "August?! What are you doing here?"
+.text "Bischof August?! Was macht Ihr hier?"
 .byte WaitForA
 
 .byte Left_slot
 .byte ScrollText
-.text "Planning your rescue,"
+.text "Eure Rettung planen, aber das"
 .byte NewLine
-.text "but it seems that was unnecessary."
+.text "scheint unnötig gewesen zu sein."
 .byte WaitForA
 .byte ScrollText
-.text "Clearly, you're safe and sound, but..."
+.text "Klarerweise seid Ihr gesund und munter, aber..."
 .byte NewLine
-.text "you look as if your mind is in great turmoil."
+.text "Ihr seht aus, als ob Euer Geist sich in großer Aufruhr befindet."
 .byte WaitForA
 
 .byte Right_slot
 .byte ScrollText
-.text "I've never hated the Empire more than I do"
+.text "Ich habe das Imperium nie mehr gehasst, als"
 .byte NewLine
-.text "in this moment, August."
+.text "ich es in diesem Moment tue, August."
 .byte WaitForA
 .byte ScrollText
-.text "My parents were snatched from"
+.text "Meine Eltern wurden wegen den Aktionen"
 .byte NewLine
-.text "this world because of the Empire's actions"
+.text "des Imperiums aus dieser Welt gerissen"
 .byte NewLine
-.text "and now..."
+.text "und jetzt..."
 .byte WaitForA
-.text "§_now it has taken the only person"
+.text "§_jetzt hat es die einzige Person genommen,"
 .byte NewLine
-.text "I have known to be my mother."
-.byte WaitForA
-.byte ScrollText
-.text "Raydrik is little more than their hand,"
-.byte NewLine
-.text "committing untold evil at their behest!"
+.text "die ich als meine Mutter gekannt hatte."
 .byte WaitForA
 .byte ScrollText
-.text "August, show me how to wage war against"
+.text "Raydrik ist wenig mehr als ihre Hand, die"
 .byte NewLine
-.text "them! I'll... I'll do anything to get her back!"
+.text "auf ihr Geheiß unbeschreibliches Böses begeht!"
+.byte WaitForA
+.byte ScrollText
+.text "August, zeigt mir, wie man gegen sie Krieg führen"
 .byte NewLine
-.text "Just tell me what I need to do!"
+.text "kann! Ich werde... Ich werde alles tun, um sie zurückzubekommen!"
+.byte NewLine
+.text "Sagt mir einfach, was ich tun muss!"
 .byte WaitForA
 
 .word PlayMusic
@@ -61,185 +61,185 @@ dialogueChapter06Opening1
 
 .byte Left_slot
 .byte ScrollText
-.text "...Lady Eyvel was turned to stone by some"
+.text "...Lady Eyvel wurde von garstiger Magie zu Stein"
 .byte NewLine
-.text "foul magic, you say? If that is indeed the case,"
+.text "verwandelt, sagt Ihr? Wenn das fürwahr der Fall ist,"
 .byte NewLine
-.text "you...must accept that she is gone, Prince Leif."
+.text "dann...müsst Ihr akzeptieren, dass sie fort ist, Prinz Leif."
 .byte WaitForA
 
 .byte Right_slot
 .byte ScrollText
-.text "Wh-What kind of talk is that?! Isn't there"
+.text "W-Welche Art von Gerede ist das?! Gibt es nicht"
 .byte NewLine
-.text "some way to undo what's happened to her?!"
+.text "irgendeine Art, das was mit ihr geschehen ist rückgängig zu machen?!"
 .byte WaitForA
 
 .byte Left_slot
 .byte ScrollText
-.text "Well... There is a sacred artifact,"
+.text "Nun... Es gibt ein heiliges Artefakt,"
 .byte NewLine
-.text "the Staff of Kia, that can reverse"
+.text "den Stab von Kia, welcher den Prozess"
 .byte NewLine
-.text "the process of petrification."
+.text "der Versteinerung rückgängig machen kann."
 .byte WaitForA
 .byte ScrollText
-.text "Yet the enemy is one step ahead of us:"
+.text "Allerdings ist der Feind uns einen Schritt voraus:"
 .byte WaitForA
 .byte NewLine
-.text "long ago, Archbishop Manfroy of the Loptr Church"
+.text "Vor langer Zeit platzierte Erzbischof Manfroy der"
 .byte NewLine
-.text "placed a seal upon the staff that prevents"
+.text "Loptous-Kirche ein Siegel auf dem Stab, das verhindert,"
 .byte NewLine
-.text "anyone not of his bloodline from using it."
+.text "das jegliche Person die nicht von seiner Blutlinie stammt es ihn verwenden kann."
 .byte WaitForA
 
 .byte Right_slot
 .byte ScrollText
-.text "Manfroy's bloodline... So then..."
+.text "Manfroys Blutlinie... Das bedeutet dann..."
 .byte WaitForA
 
 .byte Left_slot
 .byte ScrollText
-.text "This is mere rumor, but it is said that"
+.text "Dies ist bloßes Gerücht, aber man sagt sich,"
 .byte NewLine
-.text "a hidden shrine to Loptous lies deep"
+.text "dass ein gemeiner Schrein in Loptous Namen"
 .byte NewLine
-.text "within the Aed Desert."
+.text "tief in der Wüste von Aed ruht."
 .byte WaitForA
 .byte ScrollText
-.text "Countless warriors who defied the Loptrians"
+.text "Zahllose Krieger, welche sich den Loptianern widersetzten"
 .byte NewLine
-.text "and were turned to stone are kept"
+.text "und zu Stein verwandelt wurden, werden in seinen"
 .byte NewLine
-.text "within its forbidden halls."
+.text "verbotenen Hallen aufbewahrt."
 .byte WaitForA
 .byte ScrollText
-.text "Amongst them, some say you can even find the"
+.text "Unter ihnen, sagen manche, dass man sogar die jungen"
 .byte NewLine
-.text "young rebels who fell in the Battle of Belhalla"
+.text "Rebellen finden kann, die vor so vielen Jahren"
 .byte NewLine
-.text "so many years ago."
+.text "in der Schlacht von Belhalla fielen."
 .byte WaitForA
 .byte ScrollText
-.text "If true, I imagine Lady Eyvel's petrified form"
+.text "Falls dies wahr ist, dann stelle ich mir vor, dass"
 .byte NewLine
-.text "will also be taken there as a trophy."
+.text "Lady Eyvels versteinerte Form auch als eine Trophäe dorthin genommen werden wird."
 .byte WaitForA
 
 .byte Right_slot
 .byte ScrollText
-.text "That... That's nonsense! Utter nonsense!"
+.text "Das... Das ist Unsinn! Kompletter Unsinn!"
 .byte WaitForA
 
 .byte Left_slot
 .byte ScrollText
-.text "Is it? What you call “utter nonsense” is the"
+.text "Ist es das? Was Ihr “kompletten Unsinn” nennt, ist der"
 .byte NewLine
-.text "state of our world! Do you doubt how much power"
+.text "Zustand unserer Welt! Zweifelt Ihr daran, wie viel Macht"
 .byte NewLine
-.text "the Loptr Church holds? Look around you!"
+.text "die Loptous-Kirche in Händen hält? Seht um Euch herum!"
 .byte WaitForA
 .byte ScrollText
-.text "In the Thracian Peninsula alone, thousands—"
+.text "Auf der Thracianischen Halfinsel allein wurden tausende—"
 .byte NewLine
-.text "no, tens of thousands of children have been"
+.text "Nein, Zehntausende von Kindern eingefangen und"
 .byte NewLine
-.text "seized and sent to Belhalla!"
+.text "nach Belhalla geschickt!"
 .byte WaitForA
 .byte ScrollText
-.text "In places where the Church's influence"
+.text "An Orten in denen der Einfluss der Kirche stark ist,"
 .byte NewLine
-.text "runs strong, places like your native Leonster or"
+.text "wie Euer eigenes Leonster oder eben dieser Stadt,"
 .byte NewLine
-.text "this very city, they possess near-total authority!"
+.text "besitzen sie fast-vollkommene Authorität!"
 .byte WaitForA
 .byte ScrollText
-.text "In these areas,"
+.text "In diesen Arealen werdet Ihr kaum auch nur"
 .byte NewLine
-.text "you'll see nary a single child still free!"
+.text "ein einzelnes Kind sehen, das noch frei ist!"
 .byte WaitForA
 
 .byte Right_slot
 .byte ScrollText
-.text "Do parents feel nothing when their children"
+.text "Fühlen Eltern nichts, wenn ihnen ihre Kinder"
 .byte NewLine
-.text "are stolen from them?!"
+.text "gestohlen werden?!"
 .byte NewLine
-.text "Why aren't they fighting this?!"
+.text "Warum kämpfen sie nicht dagegen an?!"
 .byte WaitForA
 
 .byte Left_slot
 .byte ScrollText
-.text "Of course the people fight this—they resist"
+.text "Natürlich kämpfen die Leute dagegen an—sie wehren sich"
 .byte NewLine
-.text "however they can, not just in Munster"
+.text "wie auch immer sie können, nicht nur in Munster,"
 .byte NewLine
-.text "but everywhere the Empire has dominion."
+.text "sondern überall, wo das Imperium die Herrschaft hegt."
 .byte WaitForA
 .byte ScrollText
-.text "But they're simple folk with no real weapons!"
+.text "Aber sie sind einfache Leute ohne echte Waffen!"
 .byte NewLine
-.text "They could never match the might of the"
+.text "Sie könnten es niemals mit der Macht der Imperialen"
 .byte NewLine
-.text "Imperial Army, let alone the Loptr Church!"
+.text "Armee aufnehmen, geschweige denn derer der Loptous-Kirche!"
 .byte WaitForA
 .byte ScrollText
-.text "Any who do try are arrested and executed—"
+.text "Alle die es versuchen werden inhaftiert und exekutiert—"
 .byte NewLine
-.text "at best!"
+.text "wenn sie Glück haben!"
 .byte WaitForA
 .byte ScrollText
-.text "The Church's elite unit of sorcerers,"
+.text "Die Eliteeinheit von Zauberern der Kirche,"
 .byte NewLine
-.text "the Welkenrosen, use methods"
+.text "die Welkrosen, nutzen Methoden, welche"
 .byte NewLine
-.text "that are the very definition of cruelty:"
+.text "die reinste Definition der Grausamkeit ist:"
 .byte WaitForA
 .byte NewLine
-.text "they don't merely execute rebels,"
+.text "sie richten Rebellen nicht lediglich hin,"
 .byte NewLine
-.text "they burn everyone in their village at the stake!"
-.byte WaitForA
-.byte ScrollText
-.text "From all this, the men and women of Jugdral"
-.byte NewLine
-.text "have lost their will to fight—"
-.byte NewLine
-.text "they are little more than slaves now."
+.text "sie brennen alle in ihrem Dorf am Pfahl nieder!"
 .byte WaitForA
 .byte ScrollText
-.text "Make no mistake:"
+.text "Von all dem haben die Männer und Frauen von Jugdral"
 .byte NewLine
-.text "the Dark Age is upon us again."
+.text "ihren Willen zu kämpfen verloren—"
+.byte NewLine
+.text "sie sind jetzt wenig mehr als Sklaven."
+.byte WaitForA
+.byte ScrollText
+.text "Irrt Euch nicht:"
+.byte NewLine
+.text "Das Dunkle Zeitalter steht uns erneut bevor."
 .byte WaitForA
 
 .byte Right_slot
 .byte ScrollText
-.text "Is there no end to their heartlessness...?"
+.text "Gibt es ihrer Herzlosigkeit kein Ende...?"
 .byte WaitForA
 
 .byte Left_slot
 .byte ScrollText
-.text "North Thracia was once defined by its clear"
+.text "Nord-Thracia wurde einst von seinen klaren Himmeln"
 .byte NewLine
-.text "skies and lush, verdant fields—but the land is"
+.text "und satt-grünen Feldern bestimmt—aber das Land ist"
 .byte NewLine
-.text "now beset by dark clouds that blot out the sun."
+.text "jetzt von dunklen Wolken verdeckt, welche die Sonne verdecken."
 .byte WaitForA
 .byte ScrollText
-.text "...Prince Leif, your loyalty to Lady Eyvel"
+.text "...Prinz Leif, Eure Loyalität zu  Lady Eyvel"
 .byte NewLine
-.text "is admirable, but a more important task"
+.text "ist bewundernswert, aber eine wichtigere Aufgabe"
 .byte NewLine
-.text "stands before you."
+.text "steht Euch bevor."
 .byte WaitForA
 .byte ScrollText
-.text "North Thracia needs a hero to rally behind,"
+.text "Nord-Thracia braucht einen Helden, hinter dem man"
 .byte NewLine
-.text "someone who will reinvigorate the people's"
+.text "sich versammeln kann, jemand welcher den Willen zu"
 .byte NewLine
-.text "will to fight and assemble them into an army."
+.text "kämpfen der Leute wiederentfacht und sie zu einer Armee vereint."
 .byte WaitForA
 .byte ScrollText
 .text "Call such heroism whatever you like—"

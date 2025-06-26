@@ -1106,8 +1106,8 @@ DSizeEnds		     := []
 
   .endlogical
 
-  * = $180000
-  .logical $B08000
+  * = $4A0000
+  .logical $148000
 
     startData
 
@@ -1127,23 +1127,25 @@ DSizeEnds		     := []
 
   .here
 
-  * = $1819D6
-  .logical $B099D6
+  * = $187570
+  .logical $B0F570
 
     startData
 
       WeaponLocks .binclude "tables/ITEMS/WeaponLocks.asm"
 
     endData
-    startMenuText
-
-      .dsection ItemDescriptionTextSection
-
-    endMenuText
 
     ; B0BC2C
 
     ; .fill $B0FFFF - *, $FF
+
+  .here
+  
+  * = $181A78
+  .logical $B09A78
+
+  .dsection ItemDescriptionTextSection
 
   .here
 
@@ -1338,14 +1340,14 @@ DSizeEnds		     := []
       .include "text_dialogues/Chapter02xDialogue.asm"
       .include "text_dialogues/Chapter03Dialogue.asm"
       .include "text_dialogues/Chapter04Dialogue.asm"
-      .include "text_dialogues/RetreatQuotes.asm"
-      .include "text_dialogues/ReleaseQuotes.asm"
+	  .include "text_dialogues/RetreatQuotes.asm"
+	  .include "text_dialogues/ReleaseQuotes.asm"
 
     endDialogue
-
-    ; 02FBD8
-
+	
   .here
+  
+    ; 02FBD8
 
   * = $418030
   .logical $038030
@@ -1462,6 +1464,15 @@ DSizeEnds		     := []
       .include "text_dialogues/Chapter20Dialogue.asm"
 
     endDialogue
+
+    statlabels .binary "graphics/InventoryBrownBars.4bpp.fe4"
+
+    InventoryBrownBars  .binary "graphics/InventoryBrownBarsTilemap1.bin.fe4"
+    InventoryBrownBars2 .binary "graphics/InventoryBrownBarsTilemap2.bin.fe4"
+
+    BattleStats     .binary "graphics/BattleStats.4bpp.fe4"
+    BattleStatsLevel  .binary "graphics/BattleStatsLevel.4bpp"
+    BattleStatsLevelIncluded  .binary "graphics/BattleStatsLevelIncluded.4bpp.fe4"
 
     ; 0AEB4B
 

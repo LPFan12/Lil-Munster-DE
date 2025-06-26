@@ -134,7 +134,17 @@ aHelWeaponLock ; B0/9A6C
 	.word 0
 
 aUnusedTomeWeaponLock ; B0/9A76
+	.word JuliusSaiasPortrait
+	.word JuliusJuliaPortrait
 	.word 0
 
 aBrokenMagicWeaponLock ; B0/9A78
+	.word 0
+	
+aValflameWeaponLock
+	.word Saias
+	.word 0
+	
+aPetrifyWeaponLock
+	.word Veld
 	.word 0

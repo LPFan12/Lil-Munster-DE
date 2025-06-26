@@ -4,9 +4,9 @@ dialogueLeifDeathNannaReaction
 .word nanna_portrait
 .text "Aaah!"
 .byte NewLine
-.text "Lord Leif, no...!"
+.text "Lord Leif, nein...!"
 .byte NewLine
-.text "You mustn't die here!"
+.text "Ihr dürft hier nicht sterben!"
 .byte WaitForA
 .byte EndText
 
@@ -16,7 +16,9 @@ dialogueLeifDeathFinnReaction
 .word finn_portrait
 .text "Lord Leif...!"
 .byte NewLine
-.text "I... I've failed you..."
+.text "Ich... Ich habe Euch"
+.byte NewLine
+.text "im Stick gelassen..."
 .byte WaitForA
 .byte EndText
 
@@ -24,11 +26,11 @@ dialogueLeifDeathEyvelReaction
 .byte Right_slot
 .word LoadPortrait
 .word eyvel_portrait
-.text "No..."
+.text "Nein..."
 .byte NewLine
-.text "Little Lord...!"
+.text "Kleiner Lord...!"
 .byte NewLine
-.text "How could it end like this?!"
+.text "Wie konnte es so enden?!"
 .byte WaitForA
 .byte EndText
 
@@ -36,9 +38,11 @@ dialogueLeifDeathDoriasReaction
 .byte Right_slot
 .word LoadPortrait
 .word dorias_portrait
-.text "N-No..."
+.text "N-Nein..."
 .byte NewLine
-.text "Our... Our dream of a reborn Leonster..."
+.text "Unser... Unser Traum eines"
+.byte NewLine
+.text "wiedergeborenen Leonsters..."
 .byte WaitForA
 .byte EndText
 
@@ -46,6 +50,6 @@ dialogueLeifDeathAugustReaction
 .byte Right_slot
 .word LoadPortrait
 .word augustus_portrait
-.text "Prince Leif...is dead...?"
+.text "Prinz Leif...ist tot...?"
 .byte WaitForA
 .byte EndText

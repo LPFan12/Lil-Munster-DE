@@ -1,0 +1,80 @@
+	Marker00					= 0
+		Marker00ScriptPointer	= <>aWMSpecialMarker00Script
+		Marker00InitPointer		= <>rsWMSpecialMarkerTrailInit
+
+	Marker01					= 1
+		Marker01ScriptPointer	= <>aWMSpecialMarker01Script
+		Marker01InitPointer		= <>rsWMSpecialMarkerTrailInit
+
+	Marker02					= 2
+		Marker02ScriptPointer	= <>aWMSpecialMarker02Script
+		Marker02InitPointer		= <>rsWMSpecialMarkerTrailInit
+
+	Marker03					= 3
+		Marker03ScriptPointer	= <>aWMSpecialMarker03Script
+		Marker03InitPointer		= <>rsWMSpecialMarkerTrailInit
+
+	Marker04					= 4
+		Marker04ScriptPointer	= <>aWMSpecialMarker04Script
+		Marker04InitPointer		= <>rsWMSpecialMarkerTrailInit
+
+	Marker05					= 5
+		Marker05ScriptPointer	= <>aWMSpecialMarker05Script
+		Marker05InitPointer		= <>rsWMSpecialMarkerTrailInit
+
+	Marker06					= 6
+		Marker06ScriptPointer	= <>aWMSpecialMarker06Script
+		Marker06InitPointer		= <>rsWMSpecialMarkerTrailInit
+
+	Marker07					= 7
+		Marker07ScriptPointer	= <>aWMSpecialMarker07Script
+		Marker07InitPointer		= <>rsWMSpecialMarkerTrailInit
+
+	Marker08					= 8
+		Marker08ScriptPointer	= <>aWMSpecialMarker08Script
+		Marker08InitPointer		= <>rsWMSpecialMarkerTrailInit
+
+	Marker09					= 9
+		Marker09ScriptPointer	= <>aWMSpecialMarker09Script
+		Marker09InitPointer		= <>rsWMSpecialMarkerTrailInit
+
+	Marker0A					= 10
+		Marker0AScriptPointer	= <>aWMSpecialMarker0AScript
+		Marker0AInitPointer		= <>rsWMSpecialMarkerTrailInit
+
+	Marker0B					= 11
+		Marker0BScriptPointer	= <>aWMSpecialMarker0BScript
+		Marker0BInitPointer		= <>rsWMSpecialMarkerTrailInit
+
+	Marker0C					= 12
+		Marker0CScriptPointer	= <>aWMSpecialMarker0CScript
+		Marker0CInitPointer		= <>rsWMSpecialMarkerTrailInit
+
+	Circle						= 13
+		CircleScriptPointer		= None
+		CircleInitPointer		= <>rsWMSpecialMarkerCircleInit
+
+	Crown						= 14
+		CrownScriptPointer		= None
+		CrownInitPointer		= <>rsWMSpecialMarkerCrownInit
+
+	Unknown						= 15
+		UnknownScriptPointer	= <>aWMSpecialMarkerUnknownScript91CEB6
+		UnknownInitPointer		= None
+
+Marker00WMMarkersEntry .dstruct structWMMarkerEntry, Marker00ScriptPointer, Marker00InitPointer
+Marker01WMMarkersEntry .dstruct structWMMarkerEntry, Marker01ScriptPointer, Marker01InitPointer
+Marker02WMMarkersEntry .dstruct structWMMarkerEntry, Marker02ScriptPointer, Marker02InitPointer
+Marker03WMMarkersEntry .dstruct structWMMarkerEntry, Marker03ScriptPointer, Marker03InitPointer
+Marker04WMMarkersEntry .dstruct structWMMarkerEntry, Marker04ScriptPointer, Marker04InitPointer
+Marker05WMMarkersEntry .dstruct structWMMarkerEntry, Marker05ScriptPointer, Marker05InitPointer
+Marker06WMMarkersEntry .dstruct structWMMarkerEntry, Marker06ScriptPointer, Marker06InitPointer
+Marker07WMMarkersEntry .dstruct structWMMarkerEntry, Marker07ScriptPointer, Marker07InitPointer
+Marker08WMMarkersEntry .dstruct structWMMarkerEntry, Marker08ScriptPointer, Marker08InitPointer
+Marker09WMMarkersEntry .dstruct structWMMarkerEntry, Marker09ScriptPointer, Marker09InitPointer
+Marker0AWMMarkersEntry .dstruct structWMMarkerEntry, Marker0AScriptPointer, Marker0AInitPointer
+Marker0BWMMarkersEntry .dstruct structWMMarkerEntry, Marker0BScriptPointer, Marker0BInitPointer
+Marker0CWMMarkersEntry .dstruct structWMMarkerEntry, Marker0CScriptPointer, Marker0CInitPointer
+CircleWMMarkersEntry .dstruct structWMMarkerEntry, CircleScriptPointer, CircleInitPointer
+CrownWMMarkersEntry .dstruct structWMMarkerEntry, CrownScriptPointer, CrownInitPointer
+UnknownWMMarkersEntry .dstruct structWMMarkerEntry, UnknownScriptPointer, UnknownInitPointer

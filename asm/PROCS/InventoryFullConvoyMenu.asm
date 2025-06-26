@@ -99,7 +99,7 @@ menutextProcInventoryFullConvoyMenuPromptLine1 ; 86/E4C3
 	.text "\n"
 	.text "\n"
 	.text "\n"
-	.text "Too [many ite[ms. \n"
+	.text "Zu viele Gegenst. \n"
 
 	.fill $86E4EB - *, ?
 
@@ -114,7 +114,7 @@ menutextProcInventoryFullConvoyMenuPromptLine2 ; 86/E4EB
 	.text "\n"
 	.text "\n"
 	.text "\n"
-	.text "Pick an ite[m to\n"
+	.text ")Wähle z. Lager gehenden\n"
 
 	.fill $86E519 - *, ?
 
@@ -129,7 +129,7 @@ menutextProcInventoryFullConvoyMenuPromptLine3 ; 86/E519
 	.text "\n"
 	.text "\n"
 	.text "\n"
-	.text "send to Supply\n"
+	.text "Gegenstand. \n"
 
 	.fill $86E53D - *, ?
 

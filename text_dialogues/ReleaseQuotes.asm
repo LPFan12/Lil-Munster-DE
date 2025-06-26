@@ -1,170 +1,197 @@
 dialogueChapter16AConomorReleaseQuote
-.text "Mm... I'll bear the shame of this defeat"
+.text "Mm... Ich werde die Schande dieser Niederlage"
 .byte NewLine
-.text "for the rest of my days..."
-.byte NewLine
-.text "Every third thought shall be my grave..."
+.text "für den Rest meiner Tage beibehalten..."
 .byte WaitForA
 .byte EndText
 
 dialogueChapter17BAmaldaReleaseQuote
-.text "Am I doomed to watch this nightmare"
+.text "Bin ich dazu verdammt zuzusehen, wie dieser"
 .byte NewLine
-.text "continue...?"
+.text "Albtraum fortfährt...?"
 .byte WaitForA
 .byte EndText
 
 dialogueWeismannReleaseQuote
-.text "Damn... Bested by a bunch of backwoods"
+.text "Verdammt... Von einer Menge von hinterwältlicher"
 .byte NewLine
-.text "yokels. Well, I won't forget this!"
+.text "Bauerntölpel besiegt. Nun, ich werde das nicht"
+.byte NewLine
+.text "vergessen!"
 .byte WaitForA
 .byte EndText
 
 dialogueBucksReleaseQuote
-.text "That's it? No collectin' the bounty"
+.text "Das ist alles? Ihr holt euch nicht"
 .byte NewLine
-.text "on my head or nothin'? Well, I'll be!"
+.text "das Kopfgeld das auf mich gesetzt ist oder"
 .byte NewLine
-.text "I'm leavin' my piratin' days behind me."
+.text "irgendsowas? Nun, ich glaube mich laust es!"
 .byte WaitForA
 .byte ScrollText
-.text "Can't leave the sea behind me, though—"
+.text "Ich lasse meine Piratentage hinter mir."
 .byte NewLine
-.text "reckon I'll become a fisherman."
+.text "Ich kann die See allerdings nicht hinter mir"
 .byte NewLine
-.text "Clear skies to you, Freeblades."
+.text "lassen—schätze, ich werde ein Fischer werden."
+.byte WaitForA
+.byte ScrollText
+.text "Sollen die Himmel klar für euch sein, Freiklingen."
 .byte WaitForA
 .byte EndText
 
 dialogueShivaReleaseQuote
-.text "What a naive bunch..."
+.text "Welch ein naiver Haufen..."
 .byte NewLine
-.text "Still, I owe them a debt now."
+.text "Trotzdem, ich schulde ihnen jetzt was."
 .byte WaitForA
 .byte EndText
 
 dialogueLifisReleaseQuote
-.text "Much obliged, moron. Ah, looks like"
+.text "Ich danke vielmals, Trottel. Ah, sieht aus,"
 .byte NewLine
-.text "I gotta build things up from scratch now..."
+.text "als müsste ich jetzt von nichts neu anfangen..."
 .byte WaitForA
 .byte EndText
 
 dialogueLobosReleaseQuote
-.text "Hmph. You'll come to regret this."
+.text "Hmph. Ihr werdet das noch bereuen."
 .byte NewLine
-.text "Baron Raydrik will hear every detail!"
+.text "Baron Raydrik wird jedes einzelne Detail hören!"
 .byte WaitForA
 .byte EndText
 
 dialogueDalsinReleaseQuote
-.text "They got heart, I'll give 'em that..."
+.text "Sie haben Mut, das lasse ich ihnen..."
 .byte NewLine
-.text "I owe 'em somethin', at least."
+.text "Ich schulde ihnen jedenfalls etwas."
 .byte WaitForA
 .byte EndText
 
 dialogueLemayReleaseQuote
-.text "Whether I like it or not, you've extended me"
+.text "Ob ich es mag oder nicht, ihr habt mir eine Gnade"
 .byte NewLine
-.text "a mercy—one I didn't offer you."
+.text "ausgestreckt—Eine, die ich euch nicht anbat."
 .byte WaitForA
 .byte ScrollText
-.text "As for this whole banditry business... I think"
+.text "Wenn es um dieses gesamte Banditentum-Geschäft"
 .byte NewLine
-.text "the one time was enough. I'll find some other"
+.text "geht..."
 .byte NewLine
-.text "way to support my kids—somethin' honest."
+.text "Ich denke das eine Mal war genug."
+.byte WaitForA
+.byte ScrollText
+.text "Ich werde irgendeine andere Art"
+.byte NewLine
+.text "finden, meine Kinder zu unterstützen—"
+.byte NewLine
+.text "irgendwas ehrliches."
 .byte WaitForA
 .byte EndText
 
 dialogueGomezReleaseQuote
-.text "I just wanted to help..."
+.text "Ihr wollt mich nach all dem"
 .byte NewLine
-.text "To have enough to eat, you know?"
+.text "verschonen..."
+.byte WaitForA
+.byte ScrollText
+.text "Verdammt! Was zur Hölle!?"
 .byte NewLine
-.text "I'll find a way, boss... I'll find a way!"
+.text "Ich halte es nicht aus!"
 .byte WaitForA
 .byte EndText
 
 dialogueLargoReleaseQuote
-.text "I spit on your mercy, invaders!"
+.text "Ich spucke auf eure Gnade, Eindringlinge!"
 .byte NewLine
-.text "Why not just take my head?!"
+.text "Warum nehmt ihr euch nicht einfach meinen Kopf?!"
 .byte WaitForA
 .byte EndText
 
 dialogueOltophReleaseQuote
-.text "T-This is House Leonster's idea of waging war?"
+.text "D-dies ist Haus Leonsters Idee davon,"
 .byte NewLine
-.text "I... I may have been mistaken about you..."
+.text "Krieg zu führen?"
+.byte NewLine
+.text "Ich... Ich könnte mich über euch geirrt haben..."
 .byte WaitForA
 .byte EndText
 
 dialogueSalemReleaseQuote
-.text "Is that so...? You're just letting me go?"
+.text "Ist das so...? Ihr lasst mich einfach gehen?"
 .byte NewLine
-.text "Hmm... What to make of you people?"
+.text "Hmm... Was soll ich von euch Leuten halten?"
 .byte WaitForA
 .byte EndText
 
 dialogueColhoReleaseQuote
-.text "Dammit! I'll remember this!"
+.text "Verdammt! Ich werde mich daran erinnern!"
 .byte WaitForA
 .byte EndText
 
 dialoguePerneReleaseQuote
-.text "What, you think ol' Pilferin' Perne owes you one?"
+.text "Was, ihr denkt, dass der alte "
 .byte NewLine
-.text "Bite me!"
+.text "plündernde Perne euch was schuldet?"
+.byte NewLine
+.text "Ihr könnt mich mal!"
 .byte WaitForA
 .byte EndText
 
 dialogueTrudeReleaseQuote
-.text "Next time I see you, you're dead meat!"
+.text "Das nächste Mal wenn ich euch sehe,"
+.byte NewLine
+.text "seid ihr weg vom Fenster!"
 .byte WaitForA
 .byte EndText
 
 dialogueTinaReleaseQuote
-.text "Th-Thank you for saving me!"
+.text "V-vielen Dank dafür, mich gerettet zu haben!"
 .byte NewLine
-.text "I'm off to find my Big Sis, Safy, now."
+.text "Ich gehe jetzt um meine große Schwester,"
+.byte NewLine
+.text "Safy, zu finden."
 .byte WaitForA
 .byte EndText
 
 dialoguePaulusReleaseQuote
-.text "You have my gratitude."
+.text "Ihr habt meine Dankbarkeit."
 .byte NewLine
-.text "Yet our defeat is my responsibility..."
+.text "Und doch ist unsere Niederlage"
+.byte NewLine
+.text "meine Verantwortung..."
 .byte WaitForA
 .byte EndText
 
 dialogueCodhaReleaseQuote
-.text "We don't fear death, you simpletons...!"
+.text "Wir fürchten den Tod nicht,"
+.byte NewLine
+.text "ihr Einfaltspinsel...!"
 .byte WaitForA
 .byte EndText
 
 dialogueKempfReleaseQuote
-.text "Hmph... I won't forget this!"
+.text "Hmph... Ich werde das nicht vergessen!"
 .byte NewLine
-.text "Remember me well, for this is the face"
+.text "Erinnert euch gut an mich, denn dies"
 .byte NewLine
-.text "of your conqueror!"
+.text "ist das Gesicht eures Eroberers!"
 .byte WaitForA
 .byte EndText
 
 dialogueBrookReleaseQuote
-.text "I'll be the laughing stock of the Empire..."
+.text "Ich werde das Gespött des"
+.byte NewLine
+.text "Imperiums sein..."
 .byte WaitForA
 .byte EndText
 
 dialogueIliosReleaseQuote
-.text "Tch... You think you can push me around"
+.text "Tss... Ihr denkt, dass ihr mich herumschubsen"
 .byte NewLine
-.text "just 'cause I'm a commoner?"
+.text "könnt, nur weil ich ein Gewöhnlicher bin?"
 .byte NewLine
-.text "Damn... I can't take this anymore..."
+.text "Verdammt... Ich kann das nichtmehr aushalten..."
 .byte WaitForA
 .byte EndText
 
@@ -174,223 +201,240 @@ dialogueMooreReleaseQuote
 .byte EndText
 
 dialogueMullerReleaseQuote
-.text "How naive..."
+.text "Wie naiv..."
 .byte WaitForA
 .byte EndText
 
 dialogueMishaReleaseQuote
-.text "I thank you for your mercy,"
+.text "Ich danke euch für eure Gnade,"
 .byte NewLine
-.text "but I still have to fight."
+.text "aber ich muss immernoch kämpfen."
 .byte WaitForA
 .byte EndText
 
 dialogueSaraReleaseQuote
-.text "That was...boring."
+.text "Das war...langweilig."
 .byte WaitForA
 .byte EndText
 
 dialogueShannamReleaseQuote
-.text "You have my thanks—for now."
+.text "Ihr habt meinen Dank—fürs Erste."
 .byte NewLine
 .text "Hah..."
 .byte WaitForA
 .byte EndText
 
 dialogueReinkochReleaseQuote
-.text "I've nothing to say to you..."
+.text "Ich habe euch nichts zu sagen..."
 .byte WaitForA
 .byte EndText
 
 dialoguePalmanReleaseQuote
-.text "I can't live a soldier's life any longer..."
+.text "Ich dann das Leben eines Soldaten nicht"
 .byte NewLine
-.text "I suppose I'll return home..."
+.text "länger leben..."
+.byte NewLine
+.text "Ich schätze, ich werde nach Hause zurückkehren..."
 .byte WaitForA
 .byte EndText
 
 dialogueAmaldaReleaseQuote
-.text "What am I to do with myself now...?"
+.text "Was soll ich jetzt mit mir selbst machen...?"
 .byte WaitForA
 .byte EndText
 
 dialogueXavierReleaseQuote
-.text "No... I cannot bear this disgrace..."
+.text "Nein... Ich kann diese Ungnade nicht ertragen..."
 .byte NewLine
-.text "I can't stand it any longer..."
+.text "Ich kann es nicht länger aushalten..."
 .byte WaitForA
 .byte EndText
 
 dialogueConomorReleaseQuote
-.text "To bear the shame of being taken prisoner..."
+.text "Die Schande dessen zu ertragen, als Gefangener"
 .byte NewLine
-.text "But I must carry on, disgrace or no."
+.text "genommen zu werden..."
 .byte NewLine
-.text "Every third thought shall be my grave..."
+.text "Aber ich muss weiter machen, Ungnade oder nicht."
 .byte WaitForA
 .byte EndText
 
 dialogueSeimetzReleaseQuote
-.text "How am I ever gonna make it up"
+.text "Wie werde ich es Ihrer Majestät"
 .byte NewLine
-.text "to His Majesty...?"
+.text "jemals wiedergutmachen...?"
 .byte WaitForA
 .byte EndText
 
 dialogueFrausReleaseQuote
-.text "So I...made it out alive?"
+.text "Also habe...ich es lebendig rausgeschafft?"
 .byte NewLine
-.text "But what am I going to do now...?"
+.text "Aber was soll ich jetzt tun...?"
 .byte WaitForA
 .byte EndText
 
 dialogueCohenReleaseQuote
-.text "...There's nothing more for me to say."
+.text "...Es gibt für mich nichts mehr zu sagen."
 .byte WaitForA
 .byte EndText
 
 dialogueReinhardtReleaseQuote
-.text "...May we meet again."
+.text "...Sollen wir uns erneut treffen."
 .byte WaitForA
 .byte EndText
 
 dialogueCoulterReleaseQuote
-.text "When we meet again,"
+.text "Wenn wir uns erneut treffen,"
 .byte NewLine
-.text "you'll regret not finishing me off!"
+.text "werdet ihr bereuen, mir nicht den"
+.byte NewLine
+.text "Gnadenstoß gegeben zu haben!"
 .byte WaitForA
 .byte EndText
 
 dialogueAlphandReleaseQuote
-.text "You're...sparing me?!"
+.text "Ihr...verschont mich?!"
 .byte NewLine
-.text "Well, I'm...quite grateful."
+.text "Nun, ich bin...ziemlich dankbar."
 .byte WaitForA
 .byte EndText
 
 dialogueFadenReleaseQuote
-.text "You have my gratitude."
+.text "Ihr habt meine Dankbarkeit."
 .byte NewLine
-.text "If you'll excuse me..."
+.text "Wenn ihr mich entschuldigt..."
 .byte WaitForA
 .byte EndText
 
 dialogueGalzusReleaseQuote
-.text "Tch..."
+.text "Tss..."
 .byte NewLine
-.text "Being at the mercy of an enemy..."
+.text "Einem Feind schutzlos ausgeliefert zu sein..."
 .byte NewLine
-.text "I've fallen so far..."
+.text "Ich bin so weit gesunken..."
 .byte WaitForA
 .byte EndText
 
 dialogueVeldReleaseQuote
-.text "Forgive me, Archbishop Manfroy..."
+.text "Vergebt mir, Erzbischof Manfroy..."
 .byte NewLine
-.text "Ugh..."
+.text "Agh..."
 .byte WaitForA
 .byte EndText
 
-
-
-
-
-
-
 dialogueEisenhauReleaseQuote
-.text "Urgh... Remember me well, rebels."
+.text "Argh... Erinnert euch gut an mich, Rebellen."
 .byte NewLine
-.text "One day, I'll have my revenge!"
+.text "Eines Tages werde ich meine Rache haben!"
 .byte WaitForA
 .byte EndText
 
 dialogueMerlochReleaseQuote
-.text "How could I ever possibly make it up"
+.text "Wie werde ich es Ihrer Majestät"
 .byte NewLine
-.text "to His Majesty...?"
+.text "jemals wiedergutmachen...?"
 .byte WaitForA
 .byte EndText
 
 dialogueFredReleaseQuote
-.text "My apologies, I..."
+.text "Meine Entschuldigungen, ich..."
 .byte NewLine
-.text "I will repay your kindness, some day..."
+.text "Ich werde eure Güte eines Tages"
+.byte NewLine
+.text "zurückzahlen..."
 .byte WaitForA
 .byte EndText
 
 dialogueLisztReleaseQuote
-.text "Because of you lot, my career is done for!"
+.text "Wegen euch Haufen ist meine Karriere"
 .byte NewLine
-.text "You'll pay for this!"
+.text "vorrüber!"
+.byte NewLine
+.text "Ihr werdet dafür bezahlen!"
 .byte WaitForA
 .byte EndText
 
 dialogueChapter13BaldachReleaseQuote		; Unused, but it's the same as his ch14 one
-.text "You're letting me go...?"
+.text "Ihr lasst mich gehen...?"
 .byte NewLine
-.text "Why won't you kill me?!"
+.text "Warum tötet ihr mich nicht?!"
 .byte NewLine
-.text "Fie on your sympathy and fie on you!"
+.text "Pfui für eure Sympathie und Pfui für euch!"
 .byte WaitForA
 .byte EndText
 
 dialogueBaldachReleaseQuote
-.text "You're letting me go...?"
+.text "Ihr lasst mich gehen...?"
 .byte NewLine
-.text "Why won't you kill me?!"
+.text "Warum tötet ihr mich nicht?!"
 .byte NewLine
-.text "Fie on your sympathy and fie on you!"
+.text "Pfui auf eure Sympathie und Pfui auf euch!"
 .byte WaitForA
 .byte EndText
 
 dialogueSeilReleaseQuote
-.text "Wait, that's it? Heheheh..."
+.text "Wartet, das ist alles? Heheheh..."
 .byte NewLine
-.text "I guess I'll have to change my ways..."
+.text "Ich schätze, ich werde meine"
+.byte NewLine
+.text "Gewohnheiten ändern müssen..."
 .byte WaitForA
 .byte EndText
 
 dialogueSaiasReleaseQuote
-.text "Saias release quote"
+.text "Warum lasst ihr mich leben?"
 .byte WaitForA
 .byte EndText
 
 dialogueNicolovReleaseQuote
-.text "Why...? Why would you let me go...?"
+.text "Warum...? Warum würdet ihr mich"
+.byte NewLine
+.text "gehen lassen...?"
 .byte WaitForA
 .byte EndText
 
 dialogueGustavReleaseQuote
-.text "Tsk."
+.text "Tss."
 .byte NewLine
-.text "As if there were a place for me to return to..."
+.text "Als ob es einen Ort gäbe, an den"
+.byte NewLine
+.text "ich zurückkehren könnte..."
 .byte WaitForA
 .byte EndText
 
 dialogueChapter19WolfeReleaseQuote
-.text "You're releasing me...?"
+.text "Ihr lasst mich frei...?"
 .byte NewLine
-.text "Heh, today may have ended in abject defeat,"
+.text "Heh, der heutige Tag mag in meiner erbärmlichen,"
 .byte NewLine
-.text "but mark my words, it won't happen again!"
+.text "Niederlage geendet haben,"
+.byte WaitForA
+.byte NewLine
+.text "aber erinnert euch an meine Worte, es wird nicht"
+.byte NewLine
+.text "erneut geschehen!"
 .byte WaitForA
 .byte EndText
 
 dialogueBharatReleaseQuote
-.text "Just kill me already!"
+.text "Tötet mich einfach schon!"
 .byte NewLine
-.text "I've nowhere to go back to!"
+.text "Ich habe nirgendwo, wohin ich"
+.byte NewLine
+.text "zurückkehren kann!"
 .byte WaitForA
 .byte EndText
 
-dialogueManheimReleaseQuote
-.text "I... I do not know what I should do now..."
+dialogueMannheimReleaseQuote
+.text "Ich... Ich weiß nicht, was ich"
+.byte NewLine
+.text "jetzt tun soll..."
 .byte WaitForA
 .byte EndText
 
 dialogueZaaunReleaseQuote
-.text "So I'm the prisoner of war, now..."
+.text "Ich bin also jetzt der Kriegsgefangene..."
 .byte NewLine
-.text "Ironic."
+.text "Ironisch."
 .byte WaitForA
 .byte EndText

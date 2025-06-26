@@ -168,7 +168,7 @@ dialogueChapter11LeifFred
 .byte ScrollText
 .text "We are. It appears I owe you quite the debt..."
 .byte NewLine
-.text "I'm Fred, proud knight of House Stade."
+.text "I'm Fred, proud knight of House Stase."
 .byte NewLine
 .text "I would know your name as well, friend."
 .byte WaitForA
@@ -246,11 +246,11 @@ dialogueChapter11Opening1
 .text "more than “they just appeared!”"
 .byte WaitForA
 .byte ScrollText
-.text "Or are you such an incompetent soldier"
+.text "You fail to even identify who we are"
 .byte NewLine
-.text "that you failed to gather even"
+.text "fighting against and then you come"
 .byte NewLine
-.text "the slightest bit of information!"
+.text "running, demanding for reinforcements?"
 .byte WaitForA
 
 .byte Left_slot
@@ -272,8 +272,6 @@ dialogueChapter11Opening1
 .text "And what if this “attack” is merely a ploy"
 .byte NewLine
 .text "to lure us away from the fort?"
-.byte NewLine
-.text "Did you consider that, girlie?"
 .byte WaitForA
 .byte ScrollText
 .text "Fort Dundrum earned its reputation of being"
@@ -335,9 +333,11 @@ dialogueChapter11Opening1
 .byte WaitForA
 .byte ScrollText
 .text "It's amusing watching you squirm, I admit,"
-.byte WaitForA
 .byte NewLine
-.text "but are you really willing to defy"
+.text "but please exercise some reason."
+.byte WaitForA
+.byte ScrollText
+.text "Are you really willing to defy"
 .byte NewLine
 .text "your superior officer, knowing what"
 .byte NewLine

@@ -25,7 +25,7 @@
 			.long $8A870B
 			.long 0
 			.word $2020
-			.text "(Map\n"
+			.text "Karte \n"
 		
 		aPreparationsMenuOptionItems
 			.long 0
@@ -35,7 +35,7 @@
 			.long $8A870B
 			.long 0
 			.word $2020
-			.text "Ite[ms\n"
+			.text "Gegenstände \n"
 		
 		aPreparationsMenuOptionPickUnits
 			.long 0
@@ -45,7 +45,7 @@
 			.long $8A870B
 			.long 0
 			.word $2020
-			.text "Deploy\n"
+			.text "Stationieren\n"
 		
 		aPreparationsMenuOptionSave
 			.long 0
@@ -55,7 +55,7 @@
 			.long $8A870B
 			.long 0
 			.word $2020
-			.text "Save\n"
+			.text "Speichern \n"
 		
 		aPreparationsMenuOptionUnitList
 			.long 0
@@ -65,7 +65,7 @@
 			.long $8A870B
 			.long 0
 			.word $2020
-			.text "Unit\n"
+			.text "Einheiten \n"
 		
 		aPreparationsMenuOptionOptions
 			.long 0
@@ -75,7 +75,7 @@
 			.long $8A870B
 			.long 0
 			.word $2020
-			.text "Options \n"
+			.text "Optionen\n"
 
 	.endsection PreparationsMenuOptionDataSection
 
@@ -105,10 +105,10 @@ sta lR18+1
 .logical lorom($056A00, 1)
 
 menutextPreparationsFatigued
-.text "Fatigued\n"
+.text "Erschöpft \n"
 
 menutextPreparationsSDrink
-.text "S Drink \n"
+.text "G-Getränk \n"
 
 .here
 
@@ -131,29 +131,29 @@ menutextPreparationsSDrink
 		;	Character limit: 28 each. 168 total.
 	
 		menutextPrepItemsOrganizeItem
-		.text "Arrange ite[ms"
+		.text "Gegenst. verwalten"
 		menutextPrepItemsOwner
 		menutextPrepItemsSpace
 		.text "\n"
 	
 		menutextPrepItemsSelectToReturn
-		.text "              {SEL1}{SEL2}Exit [menu\n"
+		.text "              {SEL1}{SEL2}Menü verl.\n"
 	
 		menutextPrepItemsSelectItemFromList
 		menutextPrepItemsSortAndOwner
-		.text "Pick ite[ms fro[m a list\n"
+		.text ")Wähle Gegenst. aus Liste \n"
 		
 		menutextPrepItemsTrade
-		.text "Trade ite[ms a[mong units \n"
+		.text "Tausche Gegenst. unter Einheiten\n"
 		
 		menutextPrepItemsShop
-		.text "Visit the shop\n"
+		.text "Besuche den Laden \n"
 		
 		menutextPrepItemsSupply
-		.text "Visit the Supply\n"
+		.text "Besuche Lager \n"
 		
 		menutextPrepItemsDiscard
-		.text "Discard ite[ms\n"
+		.text "Gegenstände )Weg]w. \n"
 
     .fill $81F457 - *, $FF
 
@@ -178,13 +178,13 @@ menutextPreparationsSDrink
 	.section PreparationsMenuSortingTextSection
 
 		aPreparationsMenuSortingTypeOrder
-		.text "{SEL1}{SEL2}Type    \n"
+		.text "{SEL1}{SEL2}Typ     \n"
 		
 		aPreparationsMenuSortingKanaOrder
 		.text "{SEL1}{SEL2}Alphabet\n"
 		
 		aPreparationsMenuSortingPossessionOrder
-		.text "{SEL1}{SEL2}Holder  \n"
+		.text "{SEL1}{SEL2}Halter  \n"
 
 	.endsection PreparationsMenuSortingTextSection
 
@@ -206,8 +206,8 @@ menutextPreparationsSDrink
 * = $02CAAF
 .logical lorom($02CAAF, 1)
 
-.text "Discard ite[m?      \n"		; Character limit: 26
-.text "    Yes       +No       \n"	; Character COUNT: 24
+.text "Gegenstand )Weg]werfen?       \n"		; Character limit: 26
+.text "    Ja        +Nein       \n"	; Character COUNT: 24
 .text "\n"
 
 .here

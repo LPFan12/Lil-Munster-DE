@@ -1,0 +1,384 @@
+	BA_StaSprite_Unknown00															= 0
+		BA_StaSprite_Unknown00Size													= $8080
+		BA_StaSprite_Unknown00Offset												= aBAStaSprite_Generic_MeleeCav_Body
+		BA_StaSprite_Unknown00Unknown												= $FFFF
+
+	BA_StaSprite_BowKnightM_Body													= 1
+		BA_StaSprite_BowKnightM_BodySize											= $8080
+		BA_StaSprite_BowKnightM_BodyOffset											= aBAStaSprite_BowKnightM_Body
+		BA_StaSprite_BowKnightM_BodyUnknown											= $FFFF
+
+	BA_StaSprite_BowKnightF_Body													= 2
+		BA_StaSprite_BowKnightF_BodySize											= $8080
+		BA_StaSprite_BowKnightF_BodyOffset											= aBAStaSprite_BowKnightF_Body
+		BA_StaSprite_BowKnightF_BodyUnknown											= $FFFF
+
+	BA_StaSprite_Robert_BowKnightM_Body												= 3
+		BA_StaSprite_Robert_BowKnightM_BodySize										= $8080
+		BA_StaSprite_Robert_BowKnightM_BodyOffset									= aBAStaSprite_Robert_BowKnightM_Body
+		BA_StaSprite_Robert_BowKnightM_BodyUnknown									= $FFFF
+
+	BA_StaSprite_ArchKnightM_Body													= 4
+		BA_StaSprite_ArchKnightM_BodySize											= $8080
+		BA_StaSprite_ArchKnightM_BodyOffset											= aBAStaSprite_ArchKnightM_Body
+		BA_StaSprite_ArchKnightM_BodyUnknown										= $FFFF
+
+	BA_StaSprite_ArchKnightF_Body													= 5
+		BA_StaSprite_ArchKnightF_BodySize											= $8080
+		BA_StaSprite_ArchKnightF_BodyOffset											= aBAStaSprite_ArchKnightF_Body
+		BA_StaSprite_ArchKnightF_BodyUnknown										= $FFFF
+
+	BA_StaSprite_Robert_ArchKnightM_Body											= 6
+		BA_StaSprite_Robert_ArchKnightM_BodySize									= $8080
+		BA_StaSprite_Robert_ArchKnightM_BodyOffset									= aBAStaSprite_Robert_ArchKnightM_Body
+		BA_StaSprite_Robert_ArchKnightM_BodyUnknown									= $FFFF
+
+	BA_StaSprite_Infantry_Melee_Slash												= 7
+		BA_StaSprite_Infantry_Melee_SlashSize										= $8080
+		BA_StaSprite_Infantry_Melee_SlashOffset										= aBAStaSprite_Infantry_Melee_Slash
+		BA_StaSprite_Infantry_Melee_SlashUnknown									= $FFFF
+
+	BA_StaSprite_Promoted_Infantry_Melee_Slash										= 8
+		BA_StaSprite_Promoted_Infantry_Melee_SlashSize								= $8080
+		BA_StaSprite_Promoted_Infantry_Melee_SlashOffset							= aBAStaSprite_Promoted_Infantry_Melee_Slash
+		BA_StaSprite_Promoted_Infantry_Melee_SlashUnknown							= $FFFF
+
+	BA_StaSprite_Generic_MeleeCav_Body												= 9
+		BA_StaSprite_Generic_MeleeCav_BodySize										= $8080
+		BA_StaSprite_Generic_MeleeCav_BodyOffset									= aBAStaSprite_Generic_MeleeCav_Body
+		BA_StaSprite_Generic_MeleeCav_BodyUnknown									= $FFFF
+
+	BA_StaSprite_Unknown0A															= 10
+		BA_StaSprite_Unknown0ASize													= $8080
+		BA_StaSprite_Unknown0AOffset												= aBAStaSprite_BowKnightM_Alt2
+		BA_StaSprite_Unknown0AUnknown												= $FFFF
+
+	BA_StaSprite_Generic_SwordCav_Body												= 11
+		BA_StaSprite_Generic_SwordCav_BodySize										= $8080
+		BA_StaSprite_Generic_SwordCav_BodyOffset									= aBAStaSprite_Generic_SwordCav_Body
+		BA_StaSprite_Generic_SwordCav_BodyUnknown									= $FFFF
+
+	BA_StaSprite_Generic_Ranger_Body												= 12
+		BA_StaSprite_Generic_Ranger_BodySize										= $8080
+		BA_StaSprite_Generic_Ranger_BodyOffset										= aBAStaSprite_Generic_Ranger_Body
+		BA_StaSprite_Generic_Ranger_BodyUnknown										= $FFFF
+
+	BA_StaSprite_Generic_Troubadour_Body											= 13
+		BA_StaSprite_Generic_Troubadour_BodySize									= $8080
+		BA_StaSprite_Generic_Troubadour_BodyOffset									= aBAStaSprite_Generic_Troubadour_Body
+		BA_StaSprite_Generic_Troubadour_BodyUnknown									= $FFFF
+
+	BA_StaSprite_KnightLord_Generic_DukeKnight_Body									= 14
+		BA_StaSprite_KnightLord_Generic_DukeKnight_BodySize							= $8080
+		BA_StaSprite_KnightLord_Generic_DukeKnight_BodyOffset						= aBAStaSprite_KnightLord_Generic_DukeKnight_Body
+		BA_StaSprite_KnightLord_Generic_DukeKnight_BodyUnknown						= $FFFF
+
+	BA_StaSprite_Player_Mounted_Body												= 15
+		BA_StaSprite_Player_Mounted_BodySize										= $8080
+		BA_StaSprite_Player_Mounted_BodyOffset										= aBAStaSprite_Player_Mounted_Body
+		BA_StaSprite_Player_Mounted_BodyUnknown										= $FFFF
+
+	BA_StaSprite_DismountedMageKnight_Slash											= 16
+		BA_StaSprite_DismountedMageKnight_SlashSize									= $8080
+		BA_StaSprite_DismountedMageKnight_SlashOffset								= aBAStaSprite_DismountedMageKnight_Slash
+		BA_StaSprite_DismountedMageKnight_SlashUnknown								= $FFFF
+
+	BA_StaSprite_SageF_DismountedMageKnt_Shadow										= 17
+		BA_StaSprite_SageF_DismountedMageKnt_ShadowSize								= $8080
+		BA_StaSprite_SageF_DismountedMageKnt_ShadowOffset							= aBAStaSprite_SageF_DismountedMageKnt_Shadow
+		BA_StaSprite_SageF_DismountedMageKnt_ShadowUnknown							= $FFFF
+
+	BA_StaSprite_Generic_MageKnight_Body											= 18
+		BA_StaSprite_Generic_MageKnight_BodySize									= $8080
+		BA_StaSprite_Generic_MageKnight_BodyOffset									= aBAStaSprite_Generic_MageKnight_Body
+		BA_StaSprite_Generic_MageKnight_BodyUnknown									= $FFFF
+
+	BA_StaSprite_Generic_MageKnightF_Body											= 19
+		BA_StaSprite_Generic_MageKnightF_BodySize									= $8080
+		BA_StaSprite_Generic_MageKnightF_BodyOffset									= aBAStaSprite_Generic_MageKnightF_Body
+		BA_StaSprite_Generic_MageKnightF_BodyUnknown								= $FFFF
+
+	BA_StaSprite_Ilios_MageKnight_Body												= 20
+		BA_StaSprite_Ilios_MageKnight_BodySize										= $8080
+		BA_StaSprite_Ilios_MageKnight_BodyOffset									= aBAStaSprite_Ilios_MageKnight_Body
+		BA_StaSprite_Ilios_MageKnight_BodyUnknown									= $FFFF
+
+	BA_StaSprite_Generic_GreatKnight_Body											= 21
+		BA_StaSprite_Generic_GreatKnight_BodySize									= $8080
+		BA_StaSprite_Generic_GreatKnight_BodyOffset									= aBAStaSprite_Generic_GreatKnight_Body
+		BA_StaSprite_Generic_GreatKnight_BodyUnknown								= $FFFF
+
+	BA_StaSprite_Generic_PaladinM_Body												= 22
+		BA_StaSprite_Generic_PaladinM_BodySize										= $8080
+		BA_StaSprite_Generic_PaladinM_BodyOffset									= aBAStaSprite_Generic_PaladinM_Body
+		BA_StaSprite_Generic_PaladinM_BodyUnknown									= $FFFF
+
+	BA_StaSprite_Generic_PaladinF_Body												= 23
+		BA_StaSprite_Generic_PaladinF_BodySize										= $8080
+		BA_StaSprite_Generic_PaladinF_BodyOffset									= aBAStaSprite_Generic_PaladinF_Body
+		BA_StaSprite_Generic_PaladinF_BodyUnknown									= $FFFF
+
+	BA_StaSprite_Unknown18															= 24
+		BA_StaSprite_Unknown18Size													= $8080
+		BA_StaSprite_Unknown18Offset												= aBAStaSprite_BowKnightM_Alt1
+		BA_StaSprite_Unknown18Unknown												= $FFFF
+
+	BA_StaSprite_PegasusRider_Body													= 25
+		BA_StaSprite_PegasusRider_BodySize											= $8080
+		BA_StaSprite_PegasusRider_BodyOffset										= aBAStaSprite_PegasusRider_Body
+		BA_StaSprite_PegasusRider_BodyUnknown										= $FFFF
+
+	BA_StaSprite_PegKnt_FalconKnt_DracoKntF_Body									= 26
+		BA_StaSprite_PegKnt_FalconKnt_DracoKntF_BodySize							= $8080
+		BA_StaSprite_PegKnt_FalconKnt_DracoKntF_BodyOffset							= aBAStaSprite_PegKnt_FalconKnt_DracoKntF_Body
+		BA_StaSprite_PegKnt_FalconKnt_DracoKntF_BodyUnknown							= $FFFF
+
+	BA_StaSprite_DracoRiderM_DragonMaster_Body										= 27
+		BA_StaSprite_DracoRiderM_DragonMaster_BodySize								= $8080
+		BA_StaSprite_DracoRiderM_DragonMaster_BodyOffset							= aBAStaSprite_DracoRiderM_DragonMaster_Body
+		BA_StaSprite_DracoRiderM_DragonMaster_BodyUnknown							= $FFFF
+
+	BA_StaSprite_Dean_DracoKnight_Finn_DracoRider_Body								= 28
+		BA_StaSprite_Dean_DracoKnight_Finn_DracoRider_BodySize						= $8080
+		BA_StaSprite_Dean_DracoKnight_Finn_DracoRider_BodyOffset					= aBAStaSprite_Dean_DracoKnight_Finn_DracoRider_Body
+		BA_StaSprite_Dean_DracoKnight_Finn_DracoRider_BodyUnknown					= $FFFF
+
+	BA_StaSprite_DracoKnightM_Body													= 29
+		BA_StaSprite_DracoKnightM_BodySize											= $8080
+		BA_StaSprite_DracoKnightM_BodyOffset										= aBAStaSprite_DracoKnightM_Body
+		BA_StaSprite_DracoKnightM_BodyUnknown										= $FFFF
+
+	BA_StaSprite_DracoRiderF_Body													= 30
+		BA_StaSprite_DracoRiderF_BodySize											= $8080
+		BA_StaSprite_DracoRiderF_BodyOffset											= aBAStaSprite_DracoRiderF_Body
+		BA_StaSprite_DracoRiderF_BodyUnknown										= $FFFF
+
+	BA_StaSprite_Infantry_Archer_Quiver												= 31
+		BA_StaSprite_Infantry_Archer_QuiverSize										= $8080
+		BA_StaSprite_Infantry_Archer_QuiverOffset									= aBAStaSprite_Infantry_Archer_Quiver
+		BA_StaSprite_Infantry_Archer_QuiverUnknown									= $FFFF
+
+	BA_StaSprite_Promoted_Infantry_Archer_Quiver									= 32
+		BA_StaSprite_Promoted_Infantry_Archer_QuiverSize							= $8080
+		BA_StaSprite_Promoted_Infantry_Archer_QuiverOffset							= aBAStaSprite_Promoted_Infantry_Archer_Quiver
+		BA_StaSprite_Promoted_Infantry_Archer_QuiverUnknown							= $FFFF
+
+	BA_StaSprite_General_Emperor_Slashes											= 33
+		BA_StaSprite_General_Emperor_SlashesSize									= $8080
+		BA_StaSprite_General_Emperor_SlashesOffset									= aBAStaSprite_General_Emperor_Slashes
+		BA_StaSprite_General_Emperor_SlashesUnknown									= $FFFF
+
+	BA_StaSprite_Baron_Slashes														= 34
+		BA_StaSprite_Baron_SlashesSize												= $8080
+		BA_StaSprite_Baron_SlashesOffset											= aBAStaSprite_Baron_Slashes
+		BA_StaSprite_Baron_SlashesUnknown											= $FFFF
+
+	BA_StaSprite_MeleeArmor_Slashes													= 35
+		BA_StaSprite_MeleeArmor_SlashesSize											= $8080
+		BA_StaSprite_MeleeArmor_SlashesOffset										= aBAStaSprite_MeleeArmor_Slashes
+		BA_StaSprite_MeleeArmor_SlashesUnknown										= $FFFF
+
+	BA_StaSprite_BowArmor_Quiver													= 36
+		BA_StaSprite_BowArmor_QuiverSize											= $8080
+		BA_StaSprite_BowArmor_QuiverOffset											= aBAStaSprite_BowArmor_Quiver
+		BA_StaSprite_BowArmor_QuiverUnknown											= $FFFF
+
+	BA_StaSprite_Berserker_Slash													= 37
+		BA_StaSprite_Berserker_SlashSize											= $8080
+		BA_StaSprite_Berserker_SlashOffset											= aBAStaSprite_Berserker_Slash
+		BA_StaSprite_Berserker_SlashUnknown											= $FFFF
+
+	BA_StaSprite_Brigand_Slash														= 38
+		BA_StaSprite_Brigand_SlashSize												= $8080
+		BA_StaSprite_Brigand_SlashOffset											= aBAStaSprite_Brigand_Slash
+		BA_StaSprite_Brigand_SlashUnknown											= $FFFF
+
+	BA_StaSprite_BrigandAlt_Warrior_Slash											= 39
+		BA_StaSprite_BrigandAlt_Warrior_SlashSize									= $8080
+		BA_StaSprite_BrigandAlt_Warrior_SlashOffset									= aBAStaSprite_BrigandAlt_Warrior_Slash
+		BA_StaSprite_BrigandAlt_Warrior_SlashUnknown								= $FFFF
+
+	BA_StaSprite_Warrior_Quiver														= 40
+		BA_StaSprite_Warrior_QuiverSize												= $8080
+		BA_StaSprite_Warrior_QuiverOffset											= aBAStaSprite_Warrior_Quiver
+		BA_StaSprite_Warrior_QuiverUnknown											= $FFFF
+
+	BA_StaSprite_Hunter_Quiver														= 41
+		BA_StaSprite_Hunter_QuiverSize												= $8080
+		BA_StaSprite_Hunter_QuiverOffset											= aBAStaSprite_Hunter_Quiver
+		BA_StaSprite_Hunter_QuiverUnknown											= $FFFF
+
+	BA_StaSprite_FighterThrown_HeroThrown_Pirate_Slash								= 42
+		BA_StaSprite_FighterThrown_HeroThrown_Pirate_SlashSize						= $8080
+		BA_StaSprite_FighterThrown_HeroThrown_Pirate_SlashOffset					= aBAStaSprite_FighterThrown_HeroThrown_Pirate_Slash
+		BA_StaSprite_FighterThrown_HeroThrown_Pirate_SlashUnknown					= $FFFF
+
+	BA_StaSprite_DismountedClasses_JuniorLord_Slash									= 43
+		BA_StaSprite_DismountedClasses_JuniorLord_SlashSize							= $8080
+		BA_StaSprite_DismountedClasses_JuniorLord_SlashOffset						= aBAStaSprite_DismountedClasses_JuniorLord_Slash
+		BA_StaSprite_DismountedClasses_JuniorLord_SlashUnknown						= $FFFF
+
+	BA_StaSprite_Lord_Prince_Dismounted_KntLord_PalF_MstKntF_Slash					= 44
+		BA_StaSprite_Lord_Prince_Dismounted_KntLord_PalF_MstKntF_SlashSize			= $8080
+		BA_StaSprite_Lord_Prince_Dismounted_KntLord_PalF_MstKntF_SlashOffset		= aBAStaSprite_Lord_Prince_Dismounted_KntLord_PalF_MstKntF_Falcon_Slash
+		BA_StaSprite_Lord_Prince_Dismounted_KntLord_PalF_MstKntF_SlashUnknown		= $FFFF
+
+	BA_StaSprite_Dismounted_KntLord_PalF_MstKntF_Falcon_Shadow						= 45
+		BA_StaSprite_Dismounted_KntLord_PalF_MstKntF_Falcon_ShadowSize				= $8080
+		BA_StaSprite_Dismounted_KntLord_PalF_MstKntF_Falcon_ShadowOffset			= aBAStaSprite_Lord_Prince_Dismounted_KntLord_PalF_MstKntF_Falcon_Slash
+		BA_StaSprite_Dismounted_KntLord_PalF_MstKntF_Falcon_ShadowUnknown			= $FFFF
+
+	BA_StaSprite_Cleric_Shadow														= 46
+		BA_StaSprite_Cleric_ShadowSize												= $8080
+		BA_StaSprite_Cleric_ShadowOffset											= aBAStaSprite_Cleric_Shadow
+		BA_StaSprite_Cleric_ShadowUnknown											= $FFFF
+
+	BA_StaSprite_Priest_Priestess_Shadow											= 47
+		BA_StaSprite_Priest_Priestess_ShadowSize									= $8080
+		BA_StaSprite_Priest_Priestess_ShadowOffset									= aBAStaSprite_Priest_Priestess_Shadow
+		BA_StaSprite_Priest_Priestess_ShadowUnknown									= $FFFF
+
+	BA_StaSprite_Dancer_Slash														= 48
+		BA_StaSprite_Dancer_SlashSize												= $8080
+		BA_StaSprite_Dancer_SlashOffset												= aBAStaSprite_Dancer_Slash
+		BA_StaSprite_Dancer_SlashUnknown											= $FFFF
+
+	BA_StaSprite_Dancer_Dance_Shadow												= 49
+		BA_StaSprite_Dancer_Dance_ShadowSize										= $8080
+		BA_StaSprite_Dancer_Dance_ShadowOffset										= aBAStaSprite_Dancer_Dance_Shadow
+		BA_StaSprite_Dancer_Dance_ShadowUnknown										= $FFFF
+
+	BA_StaSprite_Mage_Shadow														= 50
+		BA_StaSprite_Mage_ShadowSize												= $8080
+		BA_StaSprite_Mage_ShadowOffset												= aBAStaSprite_Mage_Shadow
+		BA_StaSprite_Mage_ShadowUnknown												= $FFFF
+
+	BA_StaSprite_LoptrianMage_Magic_Shadow											= 51
+		BA_StaSprite_LoptrianMage_Magic_ShadowSize									= $8080
+		BA_StaSprite_LoptrianMage_Magic_ShadowOffset								= aBAStaSprite_LoptrianMage_Magic_Shadow
+		BA_StaSprite_LoptrianMage_Magic_ShadowUnknown								= $FFFF
+
+	BA_StaSprite_ThunderMage_Shadow													= 52
+		BA_StaSprite_ThunderMage_ShadowSize											= $8080
+		BA_StaSprite_ThunderMage_ShadowOffset										= aBAStaSprite_ThunderMage_Shadow
+		BA_StaSprite_ThunderMage_ShadowUnknown										= $FFFF
+
+	BA_StaSprite_WindMage_Shadow													= 53
+		BA_StaSprite_WindMage_ShadowSize											= $8080
+		BA_StaSprite_WindMage_ShadowOffset											= aBAStaSprite_WindMage_Shadow
+		BA_StaSprite_WindMage_ShadowUnknown											= $FFFF
+
+	BA_StaSprite_HighPriest_HighPriestess_Shadow									= 54
+		BA_StaSprite_HighPriest_HighPriestess_ShadowSize							= $8080
+		BA_StaSprite_HighPriest_HighPriestess_ShadowOffset							= aBAStaSprite_HighPriest_HighPriestess_Shadow
+		BA_StaSprite_HighPriest_HighPriestess_ShadowUnknown							= $FFFF
+
+	BA_StaSprite_Sorcerer_Shadow													= 55
+		BA_StaSprite_Sorcerer_ShadowSize											= $8080
+		BA_StaSprite_Sorcerer_ShadowOffset											= aBAStaSprite_Sorcerer_Shadow
+		BA_StaSprite_Sorcerer_ShadowUnknown											= $FFFF
+
+	BA_StaSprite_DarkBishop_Shadow													= 56
+		BA_StaSprite_DarkBishop_ShadowSize											= $8080
+		BA_StaSprite_DarkBishop_ShadowOffset										= aBAStaSprite_DarkBishop_Shadow
+		BA_StaSprite_DarkBishop_ShadowUnknown										= $FFFF
+
+	BA_StaSprite_SageM_Shadow														= 57
+		BA_StaSprite_SageM_ShadowSize												= $8080
+		BA_StaSprite_SageM_ShadowOffset												= aBAStaSprite_SageM_Shadow
+		BA_StaSprite_SageM_ShadowUnknown											= $FFFF
+
+	BA_StaSprite_Bishop_Shadow														= 58
+		BA_StaSprite_Bishop_ShadowSize												= $8080
+		BA_StaSprite_Bishop_ShadowOffset											= aBAStaSprite_Bishop_Shadow
+		BA_StaSprite_Bishop_ShadowUnknown											= $FFFF
+
+	BA_StaSprite_Bard_Shadow														= 59
+		BA_StaSprite_Bard_ShadowSize												= $8080
+		BA_StaSprite_Bard_ShadowOffset												= aBAStaSprite_Bard_Shadow
+		BA_StaSprite_Bard_ShadowUnknown												= $FFFF
+
+	BA_StaSprite_Thief_ThiefRogue_Slash												= 60
+		BA_StaSprite_Thief_ThiefRogue_SlashSize										= $8080
+		BA_StaSprite_Thief_ThiefRogue_SlashOffset									= aBAStaSprite_Thief_ThiefRogue_Slash
+		BA_StaSprite_Thief_ThiefRogue_SlashUnknown									= $FFFF
+
+	BA_StaSprite_Rogue_Slash														= 61
+		BA_StaSprite_Rogue_SlashSize												= $8080
+		BA_StaSprite_Rogue_SlashOffset												= aBAStaSprite_Rogue_Slash
+		BA_StaSprite_Rogue_SlashUnknown												= $FFFF
+
+	BA_StaSprite_Ballistician_KillerBallistician_VeninBallistician_Body				= 62
+		BA_StaSprite_Ballistician_KillerBallistician_VeninBallistician_BodySize		= $A060
+		BA_StaSprite_Ballistician_KillerBallistician_VeninBallistician_BodyOffset	= aBAStaSprite_Ballistician_KillerBallistician_VeninBallistician_Body
+		BA_StaSprite_Ballistician_KillerBallistician_VeninBallistician_BodyUnknown	= $FFFF
+
+	BA_StaSprite_IronBallistician_Body												= 63
+		BA_StaSprite_IronBallistician_BodySize										= $A060
+		BA_StaSprite_IronBallistician_BodyOffset									= aBAStaSprite_IronBallistician_Body
+		BA_StaSprite_IronBallistician_BodyUnknown									= $FFFF
+
+BA_StaSprite_Unknown00BattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Unknown00Size, BA_StaSprite_Unknown00Offset, BA_StaSprite_Unknown00Unknown
+BA_StaSprite_BowKnightM_BodyBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_BowKnightM_BodySize, BA_StaSprite_BowKnightM_BodyOffset, BA_StaSprite_BowKnightM_BodyUnknown
+BA_StaSprite_BowKnightF_BodyBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_BowKnightF_BodySize, BA_StaSprite_BowKnightF_BodyOffset, BA_StaSprite_BowKnightF_BodyUnknown
+BA_StaSprite_Robert_BowKnightM_BodyBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Robert_BowKnightM_BodySize, BA_StaSprite_Robert_BowKnightM_BodyOffset, BA_StaSprite_Robert_BowKnightM_BodyUnknown
+BA_StaSprite_ArchKnightM_BodyBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_ArchKnightM_BodySize, BA_StaSprite_ArchKnightM_BodyOffset, BA_StaSprite_ArchKnightM_BodyUnknown
+BA_StaSprite_ArchKnightF_BodyBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_ArchKnightF_BodySize, BA_StaSprite_ArchKnightF_BodyOffset, BA_StaSprite_ArchKnightF_BodyUnknown
+BA_StaSprite_Robert_ArchKnightM_BodyBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Robert_ArchKnightM_BodySize, BA_StaSprite_Robert_ArchKnightM_BodyOffset, BA_StaSprite_Robert_ArchKnightM_BodyUnknown
+BA_StaSprite_Infantry_Melee_SlashBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Infantry_Melee_SlashSize, BA_StaSprite_Infantry_Melee_SlashOffset, BA_StaSprite_Infantry_Melee_SlashUnknown
+BA_StaSprite_Promoted_Infantry_Melee_SlashBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Promoted_Infantry_Melee_SlashSize, BA_StaSprite_Promoted_Infantry_Melee_SlashOffset, BA_StaSprite_Promoted_Infantry_Melee_SlashUnknown
+BA_StaSprite_Generic_MeleeCav_BodyBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Generic_MeleeCav_BodySize, BA_StaSprite_Generic_MeleeCav_BodyOffset, BA_StaSprite_Generic_MeleeCav_BodyUnknown
+BA_StaSprite_Unknown0ABattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Unknown0ASize, BA_StaSprite_Unknown0AOffset, BA_StaSprite_Unknown0AUnknown
+BA_StaSprite_Generic_SwordCav_BodyBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Generic_SwordCav_BodySize, BA_StaSprite_Generic_SwordCav_BodyOffset, BA_StaSprite_Generic_SwordCav_BodyUnknown
+BA_StaSprite_Generic_Ranger_BodyBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Generic_Ranger_BodySize, BA_StaSprite_Generic_Ranger_BodyOffset, BA_StaSprite_Generic_Ranger_BodyUnknown
+BA_StaSprite_Generic_Troubadour_BodyBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Generic_Troubadour_BodySize, BA_StaSprite_Generic_Troubadour_BodyOffset, BA_StaSprite_Generic_Troubadour_BodyUnknown
+BA_StaSprite_KnightLord_Generic_DukeKnight_BodyBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_KnightLord_Generic_DukeKnight_BodySize, BA_StaSprite_KnightLord_Generic_DukeKnight_BodyOffset, BA_StaSprite_KnightLord_Generic_DukeKnight_BodyUnknown
+BA_StaSprite_Player_Mounted_BodyBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Player_Mounted_BodySize, BA_StaSprite_Player_Mounted_BodyOffset, BA_StaSprite_Player_Mounted_BodyUnknown
+BA_StaSprite_DismountedMageKnight_SlashBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_DismountedMageKnight_SlashSize, BA_StaSprite_DismountedMageKnight_SlashOffset, BA_StaSprite_DismountedMageKnight_SlashUnknown
+BA_StaSprite_SageF_DismountedMageKnt_ShadowBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_SageF_DismountedMageKnt_ShadowSize, BA_StaSprite_SageF_DismountedMageKnt_ShadowOffset, BA_StaSprite_SageF_DismountedMageKnt_ShadowUnknown
+BA_StaSprite_Generic_MageKnight_BodyBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Generic_MageKnight_BodySize, BA_StaSprite_Generic_MageKnight_BodyOffset, BA_StaSprite_Generic_MageKnight_BodyUnknown
+BA_StaSprite_Generic_MageKnightF_BodyBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Generic_MageKnightF_BodySize, BA_StaSprite_Generic_MageKnightF_BodyOffset, BA_StaSprite_Generic_MageKnightF_BodyUnknown
+BA_StaSprite_Ilios_MageKnight_BodyBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Ilios_MageKnight_BodySize, BA_StaSprite_Ilios_MageKnight_BodyOffset, BA_StaSprite_Ilios_MageKnight_BodyUnknown
+BA_StaSprite_Generic_GreatKnight_BodyBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Generic_GreatKnight_BodySize, BA_StaSprite_Generic_GreatKnight_BodyOffset, BA_StaSprite_Generic_GreatKnight_BodyUnknown
+BA_StaSprite_Generic_PaladinM_BodyBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Generic_PaladinM_BodySize, BA_StaSprite_Generic_PaladinM_BodyOffset, BA_StaSprite_Generic_PaladinM_BodyUnknown
+BA_StaSprite_Generic_PaladinF_BodyBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Generic_PaladinF_BodySize, BA_StaSprite_Generic_PaladinF_BodyOffset, BA_StaSprite_Generic_PaladinF_BodyUnknown
+BA_StaSprite_Unknown18BattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Unknown18Size, BA_StaSprite_Unknown18Offset, BA_StaSprite_Unknown18Unknown
+BA_StaSprite_PegasusRider_BodyBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_PegasusRider_BodySize, BA_StaSprite_PegasusRider_BodyOffset, BA_StaSprite_PegasusRider_BodyUnknown
+BA_StaSprite_PegKnt_FalconKnt_DracoKntF_BodyBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_PegKnt_FalconKnt_DracoKntF_BodySize, BA_StaSprite_PegKnt_FalconKnt_DracoKntF_BodyOffset, BA_StaSprite_PegKnt_FalconKnt_DracoKntF_BodyUnknown
+BA_StaSprite_DracoRiderM_DragonMaster_BodyBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_DracoRiderM_DragonMaster_BodySize, BA_StaSprite_DracoRiderM_DragonMaster_BodyOffset, BA_StaSprite_DracoRiderM_DragonMaster_BodyUnknown
+BA_StaSprite_Dean_DracoKnight_Finn_DracoRider_BodyBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Dean_DracoKnight_Finn_DracoRider_BodySize, BA_StaSprite_Dean_DracoKnight_Finn_DracoRider_BodyOffset, BA_StaSprite_Dean_DracoKnight_Finn_DracoRider_BodyUnknown
+BA_StaSprite_DracoKnightM_BodyBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_DracoKnightM_BodySize, BA_StaSprite_DracoKnightM_BodyOffset, BA_StaSprite_DracoKnightM_BodyUnknown
+BA_StaSprite_DracoRiderF_BodyBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_DracoRiderF_BodySize, BA_StaSprite_DracoRiderF_BodyOffset, BA_StaSprite_DracoRiderF_BodyUnknown
+BA_StaSprite_Infantry_Archer_QuiverBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Infantry_Archer_QuiverSize, BA_StaSprite_Infantry_Archer_QuiverOffset, BA_StaSprite_Infantry_Archer_QuiverUnknown
+BA_StaSprite_Promoted_Infantry_Archer_QuiverBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Promoted_Infantry_Archer_QuiverSize, BA_StaSprite_Promoted_Infantry_Archer_QuiverOffset, BA_StaSprite_Promoted_Infantry_Archer_QuiverUnknown
+BA_StaSprite_General_Emperor_SlashesBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_General_Emperor_SlashesSize, BA_StaSprite_General_Emperor_SlashesOffset, BA_StaSprite_General_Emperor_SlashesUnknown
+BA_StaSprite_Baron_SlashesBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Baron_SlashesSize, BA_StaSprite_Baron_SlashesOffset, BA_StaSprite_Baron_SlashesUnknown
+BA_StaSprite_MeleeArmor_SlashesBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_MeleeArmor_SlashesSize, BA_StaSprite_MeleeArmor_SlashesOffset, BA_StaSprite_MeleeArmor_SlashesUnknown
+BA_StaSprite_BowArmor_QuiverBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_BowArmor_QuiverSize, BA_StaSprite_BowArmor_QuiverOffset, BA_StaSprite_BowArmor_QuiverUnknown
+BA_StaSprite_Berserker_SlashBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Berserker_SlashSize, BA_StaSprite_Berserker_SlashOffset, BA_StaSprite_Berserker_SlashUnknown
+BA_StaSprite_Brigand_SlashBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Brigand_SlashSize, BA_StaSprite_Brigand_SlashOffset, BA_StaSprite_Brigand_SlashUnknown
+BA_StaSprite_BrigandAlt_Warrior_SlashBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_BrigandAlt_Warrior_SlashSize, BA_StaSprite_BrigandAlt_Warrior_SlashOffset, BA_StaSprite_BrigandAlt_Warrior_SlashUnknown
+BA_StaSprite_Warrior_QuiverBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Warrior_QuiverSize, BA_StaSprite_Warrior_QuiverOffset, BA_StaSprite_Warrior_QuiverUnknown
+BA_StaSprite_Hunter_QuiverBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Hunter_QuiverSize, BA_StaSprite_Hunter_QuiverOffset, BA_StaSprite_Hunter_QuiverUnknown
+BA_StaSprite_FighterThrown_HeroThrown_Pirate_SlashBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_FighterThrown_HeroThrown_Pirate_SlashSize, BA_StaSprite_FighterThrown_HeroThrown_Pirate_SlashOffset, BA_StaSprite_FighterThrown_HeroThrown_Pirate_SlashUnknown
+BA_StaSprite_DismountedClasses_JuniorLord_SlashBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_DismountedClasses_JuniorLord_SlashSize, BA_StaSprite_DismountedClasses_JuniorLord_SlashOffset, BA_StaSprite_DismountedClasses_JuniorLord_SlashUnknown
+BA_StaSprite_Lord_Prince_Dismounted_KntLord_PalF_MstKntF_SlashBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Lord_Prince_Dismounted_KntLord_PalF_MstKntF_SlashSize, BA_StaSprite_Lord_Prince_Dismounted_KntLord_PalF_MstKntF_SlashOffset, BA_StaSprite_Lord_Prince_Dismounted_KntLord_PalF_MstKntF_SlashUnknown
+BA_StaSprite_Dismounted_KntLord_PalF_MstKntF_Falcon_ShadowBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Dismounted_KntLord_PalF_MstKntF_Falcon_ShadowSize, BA_StaSprite_Dismounted_KntLord_PalF_MstKntF_Falcon_ShadowOffset, BA_StaSprite_Dismounted_KntLord_PalF_MstKntF_Falcon_ShadowUnknown
+BA_StaSprite_Cleric_ShadowBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Cleric_ShadowSize, BA_StaSprite_Cleric_ShadowOffset, BA_StaSprite_Cleric_ShadowUnknown
+BA_StaSprite_Priest_Priestess_ShadowBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Priest_Priestess_ShadowSize, BA_StaSprite_Priest_Priestess_ShadowOffset, BA_StaSprite_Priest_Priestess_ShadowUnknown
+BA_StaSprite_Dancer_SlashBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Dancer_SlashSize, BA_StaSprite_Dancer_SlashOffset, BA_StaSprite_Dancer_SlashUnknown
+BA_StaSprite_Dancer_Dance_ShadowBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Dancer_Dance_ShadowSize, BA_StaSprite_Dancer_Dance_ShadowOffset, BA_StaSprite_Dancer_Dance_ShadowUnknown
+BA_StaSprite_Mage_ShadowBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Mage_ShadowSize, BA_StaSprite_Mage_ShadowOffset, BA_StaSprite_Mage_ShadowUnknown
+BA_StaSprite_LoptrianMage_Magic_ShadowBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_LoptrianMage_Magic_ShadowSize, BA_StaSprite_LoptrianMage_Magic_ShadowOffset, BA_StaSprite_LoptrianMage_Magic_ShadowUnknown
+BA_StaSprite_ThunderMage_ShadowBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_ThunderMage_ShadowSize, BA_StaSprite_ThunderMage_ShadowOffset, BA_StaSprite_ThunderMage_ShadowUnknown
+BA_StaSprite_WindMage_ShadowBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_WindMage_ShadowSize, BA_StaSprite_WindMage_ShadowOffset, BA_StaSprite_WindMage_ShadowUnknown
+BA_StaSprite_HighPriest_HighPriestess_ShadowBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_HighPriest_HighPriestess_ShadowSize, BA_StaSprite_HighPriest_HighPriestess_ShadowOffset, BA_StaSprite_HighPriest_HighPriestess_ShadowUnknown
+BA_StaSprite_Sorcerer_ShadowBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Sorcerer_ShadowSize, BA_StaSprite_Sorcerer_ShadowOffset, BA_StaSprite_Sorcerer_ShadowUnknown
+BA_StaSprite_DarkBishop_ShadowBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_DarkBishop_ShadowSize, BA_StaSprite_DarkBishop_ShadowOffset, BA_StaSprite_DarkBishop_ShadowUnknown
+BA_StaSprite_SageM_ShadowBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_SageM_ShadowSize, BA_StaSprite_SageM_ShadowOffset, BA_StaSprite_SageM_ShadowUnknown
+BA_StaSprite_Bishop_ShadowBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Bishop_ShadowSize, BA_StaSprite_Bishop_ShadowOffset, BA_StaSprite_Bishop_ShadowUnknown
+BA_StaSprite_Bard_ShadowBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Bard_ShadowSize, BA_StaSprite_Bard_ShadowOffset, BA_StaSprite_Bard_ShadowUnknown
+BA_StaSprite_Thief_ThiefRogue_SlashBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Thief_ThiefRogue_SlashSize, BA_StaSprite_Thief_ThiefRogue_SlashOffset, BA_StaSprite_Thief_ThiefRogue_SlashUnknown
+BA_StaSprite_Rogue_SlashBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Rogue_SlashSize, BA_StaSprite_Rogue_SlashOffset, BA_StaSprite_Rogue_SlashUnknown
+BA_StaSprite_Ballistician_KillerBallistician_VeninBallistician_BodyBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_Ballistician_KillerBallistician_VeninBallistician_BodySize, BA_StaSprite_Ballistician_KillerBallistician_VeninBallistician_BodyOffset, BA_StaSprite_Ballistician_KillerBallistician_VeninBallistician_BodyUnknown
+BA_StaSprite_IronBallistician_BodyBattleAnimationStaticSpriteDataEntry .dstruct structBattleAnimationStaticSpriteData, BA_StaSprite_IronBallistician_BodySize, BA_StaSprite_IronBallistician_BodyOffset, BA_StaSprite_IronBallistician_BodyUnknown

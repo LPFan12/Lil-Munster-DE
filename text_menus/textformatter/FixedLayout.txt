@@ -54,6 +54,7 @@ fixed	(72, 136)
 
 string	"{small+}"					0x2B82		[(120, 40), False, False, 0]	[(80, 136), False, False, 0]
 string	"{+}"						0x2B83		[(120, 40), False, False, 0]	[(8, 304), False, False, 0]
+string	"{:}"						0x2B84		[(120, 40), False, False, 0]	[(96, 312), False, False, 0]
 
 string	"{0}"						0x4F82		[(0, 144), False, False, 0]		[(0, 152), False, False, 0]
 string	"{1}"						0x5082		[(8, 144), False, False, 0]		[(8, 152), False, False, 0]
@@ -76,7 +77,7 @@ string	"{E}"						0x6482		[(32, 160), False, False, 0]	[(32, 168), False, False,
 //Moved wide letters
 string	"{F}"						0x6582		[(32, 160), False, False, 0]	[(120, 296), False, False, 0]
 string	"{G}"						0x6682		[(16, 160), False, False, 0]	[(0, 312), False, False, 0]
-string	"{H}"						0x6782		[(0, 208), False, False, 0]		[(0, 216), False, False, 0]
+string	"{K}"						0x6782		[(0, 208), False, False, 0]		[(0, 216), False, False, 0]
 string	"{L}"						0x6B82		[(112, 192), False, False, 0]	[(112, 200), False, False, 0]
 string	"{M}"						0x6D82		[(8, 240), False, False, 0]		[(8, 248), False, False, 0]
 string	"{P}"						0x6F82		[(8, 208), False, False, 0]		[(8, 216), False, False, 0]

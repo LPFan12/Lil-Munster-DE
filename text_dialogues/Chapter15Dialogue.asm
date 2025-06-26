@@ -55,16 +55,19 @@ dialogueChapter15RalphAmaldaSpawn
 .text "I can only save but a handful."
 .byte WaitForA
 .byte ScrollText
-.text "Each time His Majesty grants me an audience,"
+.text "Each time, to the point of risking punishment,"
 .byte NewLine
-.text "I try to convince him that going along"
+.text "I demand an audience with His Majesty, to try"
+.byte WaitForA
+.byte ScrollText
+.text "to convince him that going alongwith these"
 .byte NewLine
-.text "with these child hunts is a grave mistake."
+.text "child hunts is a grave mistake."
 .byte WaitForA
 .byte ScrollText
 .text "But time and time again,"
 .byte NewLine
-.text "he simply refuses to listen to reason..."
+.text "he simply refuses to see me..."
 .byte WaitForA
 .byte ScrollText
 .text "And now I'm in command of a whole division..."
@@ -886,7 +889,7 @@ dialogueChapter15Opening1
 .byte ScrollText
 .text "I would advise heading west at the pass"
 .byte NewLine
-.text "up ahead to reach the road to Nordrhein."
+.text "up ahead to reach the road to Norden."
 .byte WaitForA
 
 .byte Left_slot
@@ -1232,10 +1235,10 @@ dialogueChapter15Closing
 .byte NewLine
 .text "to the south of Leonster. Be warned: there's"
 .byte NewLine
-.text "a reason it has the nickname “Mirage Forest.”"
+.text "a reason it has the nickname “Wayward Forest.”"
 .byte WaitForA
 .byte ScrollText
-.text "The second is Nordrhein, the coastline"
+.text "The second is Norden, the coastline"
 .byte NewLine
 .text "that runs all the way to Leonster. But you'd"
 .byte NewLine
@@ -1260,7 +1263,7 @@ dialogueChapter15BishopYesNo
 .byte Right_slot
 .text "Please send us toward..."
 .byte NewLine
-.text "     Fort Nordrhein"
+.text "     Fort Norden"
 .byte NewLine
 .text "     Millefeuille Forest"
 .word $2E00
@@ -1274,7 +1277,7 @@ dialogueChapter15LeftDorias
 .byte Right_slot
 .word LoadPortrait
 .word dorias_portrait
-.text "This way leads to Nordrhein, which will"
+.text "This way leads to Norden, which will"
 .byte NewLine
 .text "take us north along the coast to Leonster."
 .byte WaitForA

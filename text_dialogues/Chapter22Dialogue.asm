@@ -92,24 +92,12 @@ dialogueChapter22VillagerWarpStaff
 .byte ScrollText
 .text "If you don't have one handy, it just so happens"
 .byte NewLine
-.text "that I have one here... I'd be willing to part"
-.byte NewLine
-.text "with it for a measly 35000 gold."
+.text "that I have one here..."
 .byte WaitForA
 .byte ScrollText
-.text "......"
-.byte WaitForA
-.byte ScrollText
-.text "Naw, I'm just kidding!"
-.byte NewLine
 .text "I hate the Empire as much as the next guy,"
 .byte NewLine
 .text "so the staff is yours, free of charge."
-.byte WaitForA
-.byte ScrollText
-.text "...You shoulda seen the look on your face,"
-.byte NewLine
-.text "though! Heheheh!"
 .byte WaitForA
 
 .byte EndText
@@ -137,11 +125,9 @@ dialogueChapter22VillagerRescueStaff
 .text "Rescue staff to pull your folks outta trouble!"
 .byte WaitForA
 .byte ScrollText
-.text "Truth be told, I've just been usin' it to warp"
+.text "It makes a distant person appear right next"
 .byte NewLine
-.text "my chickens back to me when they get loose."
-.byte NewLine
-.text "I reckon you need it more than me."
+.text "it its user, so it is a very useful thing."
 .byte WaitForA
 
 .byte EndText

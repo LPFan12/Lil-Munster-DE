@@ -110,7 +110,7 @@ dialogueChapter09SelphinaFinnTalk1
 .byte Left_slot
 .word LoadPortrait
 .word finn_portrait
-.text "Hold! Are you friend or enemy?"
+.text "Hold! Who exactly are you?"
 .byte WaitForA
 
 .byte Right_slot

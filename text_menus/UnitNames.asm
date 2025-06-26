@@ -462,7 +462,7 @@
 	.section UnitNameTextSection
 
 		menutextUnitSupplyName
-			.text "Supply"
+			.text "Lager \n"
 		menutextUnitNoneName
 			.text "\n"
 		
@@ -566,7 +566,7 @@
 			.text "Karin \n"
 		
 		menutextUnitDeanName
-			.text "Dean\n"
+			.text "Deen\n"
 		
 		menutextUnitShannamName
 			.text "Shanna{m}\n"
@@ -596,19 +596,19 @@
 			.text "Tina\n"
 		
 		menutextUnitGunterName
-			.text "Gunter\n"
+			.text "Gunna \n"
 		
 		menutextUnitAmaldaName
-			.text "A[malda \n"
+			.text " A{m}alda\n"
 		
 		menutextUnitConomorName
-			.text "Cono[mor\n"
+			.text "Cono{m}or\n"
 		
 		menutextUnitHomerName
-			.text "Ho[mer\n"
+			.text "Ho{m}er\n"
 		
 		menutextUnitDiarmuidName
-			.text "Diar[muid \n"
+			.text "Diar{m}uid \n"
 		
 		menutextUnitSaraName
 			.text "Sara\n"
@@ -626,7 +626,7 @@
 			.text "Veld\n"
 		
 		menutextUnitWeissmannName
-			.text ")Weis[mann\n"
+			.text " )Weis{m}ann \n"
 		
 		menutextUnitMunsterName
 			.text "(Munster\n"
@@ -638,13 +638,13 @@
 			.text "Jabal \n"
 		
 		menutextUnitLifisCrewName
-			.text "Lifis Pirates \n"
+			.text " Lifis{-}Piraten \n"
 		
 		menutextUnitLobosName
 			.text "Lobos \n"
 		
 		menutextUnitRomeoName
-			.text "Ro[meo\n"
+			.text "Ro{m}eo\n"
 		
 		menutextUnitLucciaName
 			.text "Luccia\n"
@@ -662,7 +662,7 @@
 			.text "Reinhardt \n"
 		
 		menutextUnitEmilyName
-			.text "E[mily\n"
+			.text " E{m}ily \n"
 		
 		menutextUnitMurphyName
 			.text "(Murphy \n"
@@ -680,7 +680,7 @@
 			.text "Leena \n"
 		
 		menutextUnitHiredSwordName
-			.text "Sells]word\n"
+			.text "(Mietklinge \n"
 		
 		menutextUnitGalzusName
 			.text "Galzus\n"
@@ -692,16 +692,16 @@
 			.text "Hannibal\n"
 		
 		menutextUnitBrigandName
-			.text "Brigand \n"
+			.text "Bandit\n"
 			
 		menutextUnitWarriorName
-			.text ")Warrior\n"
+			.text "Krieger \n"
 		
 		menutextUnitLemayName
-			.text "Le[may\n"
+			.text "Le{m}ay\n"
 		
 		menutextUnitGomezName
-			.text "Go[mez\n"
+			.text "Go{m}ez\n"
 		
 		menutextUnitMerlochName
 			.text "(Merloch\n"
@@ -719,7 +719,7 @@
 			.text "Largo \n"
 		
 		menutextUnitKempfName
-			.text "Ke[mpf\n"
+			.text "Ke{m}pf\n"
 		
 		menutextUnitOltophName
 			.text "Oltoph\n"
@@ -783,10 +783,10 @@
 			.text "Codha \n"
 		
 		menutextUnitLoptrianName
-			.text "Loptrian\n"
+			.text "Loptianer \n"
 		
 		menutextUnitCivilianName
-			.text "Civilian\n"
+			.text "Zivilist\n"
 			
 		; Xavier hostages. Names are a Lil' Manster QoL addition, and act as mini-credits.
 		menutextUnitCivilian1Name
@@ -808,16 +808,16 @@
 			.text "Edgar \n"
 			
 		menutextUnitCivilian7Name
-			.text "A[my\n"
+			.text "A {m}y \n"
 			
 		menutextUnitCivilian8Name
 			.text "+Nira \n"
 		
 		menutextUnitThiefName
-			.text "Thief \n"
+			.text "Dieb\n"
 		
 		menutextUnitPriestName
-			.text "Priest\n"
+			.text "Priester\n"
 		
 		menutextUnitFrieges21stName
 			.text "Friege\n"
@@ -844,7 +844,7 @@
 			.text "Reinkoch\n"
 		
 		menutextUnitPalmanName
-			.text "Pal[man \n"
+			.text "Pal {m}an\n"
 		
 		menutextUnitKantName
 			.text "Kant\n"
@@ -853,10 +853,10 @@
 			.text "Gustav\n"
 		
 		menutextUnitDancerName
-			.text "Dancer\n"
+			.text "Tänzerin\n"
 		
 		menutextUnitClericName
-			.text "Cleric\n"
+			.text "Geistliche\n"
 		
 		menutextUnitMannheimName
 			.text "(Mannhei{m}\n"
@@ -898,46 +898,46 @@
 			.text "(Manfroy\n"
 		
 		menutextUnitPitfighterName
-			.text "Pitfighter\n"
+			.text "Grubenkä{m}pfer\n"
 		
 		menutextUnitBandoleName
 			.text "Bandole \n"
 		
 		menutextUnitTolmanName
-			.text "Tol[man \n"
+			.text "Tol {m}an\n"
 		
 		menutextUnitMagiName
 			.text "(Magi \n"
 		
 		menutextUnitBishopName
-			.text "Bishop\n"
+			.text "Bischof \n"
 		
 		menutextUnitDvorakName
 			.text "Dvorak\n"
 		
 		menutextUnitArcherName
-			.text "Archer\n"
+			.text "Schütze \n"
 		
 		menutextUnitBallisticianName
-			.text "Ballistician\n"
+			.text "Ballistiker \n"
 		
 		menutextUnitEichnerName
-			.text "Eichner \n"
+			.text "Eich{m}ann \n"
 		
 		menutextUnitSeilName
 			.text "Seil\n"
 		
 		menutextUnitSoldierName
-			.text "Soldier \n"
+			.text "Soldat\n"
 		
 		menutextUnitIliosName
 			.text "Ilios \n"
 		
 		menutextUnitPaladinName
-			.text "Paladin \n"
+			.text "Ritt{m}eister\n"
 		
 		menutextUnitBowKnightName
-			.text "Bo]w Knight \n"
+			.text "Bogenritter \n"
 		
 		menutextUnitBerserkerName
 			.text "Berserker \n"
@@ -946,19 +946,19 @@
 			.text "Xavier\n"
 		
 		menutextUnitResistanceName
-			.text "Resistance\n"
+			.text ")Widerstand \n"
 		
 		menutextUnitBharatName
-			.text "Bharat\n"
+			.text "Bara{th}\n"
 		
 		menutextUnitUlsterName
 			.text "Ulster\n"
 		
 		menutextUnitGelbenritterName
-			.text "Gelbenritter\n"
+			.text "Gelbritter\n"
 		
 		menutextUnitSniperName
-			.text "Sniper\n"
+			.text "Scharfschütze \n"
 		
 		menutextUnitMusName
 			.text "(Mus\n"
@@ -976,21 +976,21 @@
 			.text "Porcus\n"
 		
 		menutextUnitDracoriderName
-			.text "Dracorider\n"
+			.text "Drachenreiter \n"
 		
 		menutextUnitPirateName
-			.text "Pirate\n"
+			.text "Pirat \n"
 		
 		menutextUnitWolfeName
 			.text ")Wolfe\n"
 		
 		menutextUnitArmoredSwordName
-			.text "Knight\n"
+			.text "Ritter\n"
 		
 		menutextUnitDracoName
 			.text "Draco \n"
 		
 		menutextUnitColhoName
-			.text "Colho \n"
+			.text "Cullough\n"
 		
 	.endsection UnitNameTextSection

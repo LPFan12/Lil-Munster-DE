@@ -56,7 +56,7 @@ HandAxe,TypeAxe,None,6,45,12,20,0,1,2,RankD,ItemEffectivenesses.aNoEffectiveness
 Hammer,TypeAxe,None,12,50,18,20,0,1,1,RankC,ItemEffectivenesses.aArmorEffectiveness,aNoItemBonuses,1200,<>menutextHammerDescription,None,None,None,None,TraitWeapon,$35
 KillerAxe,TypeAxe,None,12,75,10,20,30,1,1,RankC,ItemEffectivenesses.aNoEffectiveness,aNoItemBonuses,2000,<>menutextKillerAxeDescription,None,None,None,None,TraitWeapon,$36
 Vouge,TypeAxe,None,10,80,9,60,30,1,2,WeaponLocks.aVougeWeaponLock,ItemEffectivenesses.aNoEffectiveness,aVougeItemBonuses,0,<>menutextVougeDescription,None,None,None,None,TraitWeapon | TraitUnsellable,$37
-BraveAxe,TypeAxe,None,14,70,12,60,0,1,1,RankD,ItemEffectivenesses.aNoEffectiveness,aNoItemBonuses,0,<>menutextBraveAxeDescription,None,None,None,Skill3Brave,TraitWeapon | TraitUnsellable,$38
+BraveAxe,TypeAxe,None,14,70,12,60,0,1,1,WeaponLocks.aUnknown1WeaponLock,ItemEffectivenesses.aNoEffectiveness,aNoItemBonuses,0,<>menutextBraveAxeDescription,None,None,None,Skill3Brave,TraitWeapon | TraitUnsellable,$38
 DevilAxe,TypeAxe,None,20,50,20,20,0,1,1,RankE,ItemEffectivenesses.aNoEffectiveness,aNoItemBonuses,1200,<>menutextDevilAxeDescription,None,WeaponEffects.DevilWeaponEffect,None,None,TraitWeapon,$39
 BattleAxe,TypeAxe,None,13,60,14,20,10,1,1,RankB,ItemEffectivenesses.aNoEffectiveness,aNoItemBonuses,1000,<>menutextBattleAxeDescription,None,None,None,None,TraitWeapon,$3A
 Poleax,TypeAxe,None,15,60,17,20,0,1,1,RankC,ItemEffectivenesses.aCavalryEffectiveness,aNoItemBonuses,2200,<>menutextPoleaxDescription,None,None,None,None,TraitWeapon,$3B
@@ -80,11 +80,11 @@ BrokenBow,TypeBow,None,0,0,12,-1,0,2,2,RankE,ItemEffectivenesses.aFlyingEffectiv
 Fire,TypeFire,None,5,70,4,20,0,1,2,RankE,ItemEffectivenesses.aNoEffectiveness,aNoItemBonuses,2200,<>menutextFireDescription,None,None,None,None,TraitWeapon | TraitTome,$4D
 Elfire,TypeFire,None,11,60,7,20,0,1,2,RankC,ItemEffectivenesses.aNoEffectiveness,aNoItemBonuses,3200,<>menutextElfireDescription,None,None,None,None,TraitWeapon | TraitTome,$4E
 Bolganone,TypeFire,None,20,90,18,10,0,1,2,RankA,ItemEffectivenesses.aNoEffectiveness,aNoItemBonuses,2200,<>menutextBolganoneDescription,None,None,None,None,TraitWeapon | TraitTome,$4F
-Valflame,TypeFire,None,20,90,15,50,20,1,2,RankA,ItemEffectivenesses.aNoEffectiveness,aNoItemBonuses,0,<>menutextValflameDescription,None,None,None,None,TraitWeapon | TraitTome | TraitUnsellable,$50
+Valflame,TypeFire,None,20,90,15,50,20,1,2,WeaponLocks.aValflameWeaponLock,ItemEffectivenesses.aNoEffectiveness,aNoItemBonuses,0,<>menutextValflameDescription,None,None,None,None,TraitWeapon | TraitTome | TraitUnsellable,$50
 Thunder,TypeThunder,None,7,60,5,30,5,1,2,RankE,ItemEffectivenesses.aNoEffectiveness,aNoItemBonuses,3200,<>menutextThunderDescription,None,None,None,None,TraitWeapon | TraitTome,$51
 DireThunder,TypeThunder,None,15,70,12,60,10,1,2,WeaponLocks.aOlwenReinhardtWeaponLock,ItemEffectivenesses.aNoEffectiveness,aNoItemBonuses,6200,<>menutextDireThunderDescription,None,None,None,Skill3Brave,TraitWeapon | TraitTome | TraitUnsellable,$52
 Thoron,TypeThunder,None,18,70,9,10,20,1,2,RankA,ItemEffectivenesses.aNoEffectiveness,aNoItemBonuses,2200,<>menutextThoronDescription,None,None,None,None,TraitWeapon | TraitTome,$53
-Mjolnir,TypeThunder,None,20,90,15,50,30,1,2,RankA,ItemEffectivenesses.aNoEffectiveness,aNoItemBonuses,0,<>menutextMjolnirDescription,None,None,None,None,TraitWeapon | TraitTome | TraitUnsellable,$54
+Mjolnir,TypeThunder,None,20,90,15,50,30,1,2,WeaponLocks.aMjolnirWeaponLock,ItemEffectivenesses.aNoEffectiveness,aNoItemBonuses,0,<>menutextMjolnirDescription,None,None,None,None,TraitWeapon | TraitTome | TraitUnsellable,$54
 Wind,TypeWind,None,6,90,1,20,10,1,2,RankD,ItemEffectivenesses.aFlyingEffectiveness,aNoItemBonuses,2200,<>menutextWindDescription,None,None,None,None,TraitWeapon | TraitTome,$55
 Grafcalibur,TypeWind,None,13,100,3,40,40,1,2,WeaponLocks.aGrafcaliburWeaponLock,ItemEffectivenesses.aFlyingEffectiveness,aNoItemBonuses,0,<>menutextGrafcaliburDescription,None,None,None,None,TraitWeapon | TraitTome | TraitUnsellable,$56
 Tornado,TypeWind,None,18,80,10,10,0,1,2,RankA,ItemEffectivenesses.aFlyingEffectiveness,aNoItemBonuses,2200,<>menutextTornadoDescription,None,None,None,None,TraitWeapon | TraitTome,$57
@@ -95,12 +95,12 @@ Aura,TypeLight,None,20,100,12,80,0,1,2,RankA,ItemEffectivenesses.aNoEffectivenes
 Jormungand,TypeDark,None,14,70,12,20,10,1,2,RankC,ItemEffectivenesses.aNoEffectiveness,aNoItemBonuses,2200,<>menutextJormungandDescription,None,WeaponEffects.PoisonWeaponEffect,None,None,TraitWeapon | TraitTome,$5C
 Fenrir,TypeDark,None,18,80,20,5,0,3,10,RankA,ItemEffectivenesses.aNoEffectiveness,aNoItemBonuses,2200,<>menutextFenrirDescription,None,None,None,None,TraitWeapon | TraitTome,$5D
 Hel,TypeDark,None,-1,60,20,3,0,1,2,WeaponLocks.aHelWeaponLock,ItemEffectivenesses.aNoEffectiveness,aNoItemBonuses,3200,<>menutextHelDescription,None,WeaponEffects.HelWeaponEffect,None,None,TraitWeapon | TraitTome | TraitUnsellable,$5E
-Loptous,TypeDark,None,0,60,15,3,0,1,2,RankE,ItemEffectivenesses.aNoEffectiveness,aNoItemBonuses,0,<>menutextLoptousDescription,None,None,None,None,TraitWeapon | TraitTome | TraitUnsellable,$5F
+Loptous,TypeDark,None,0,60,15,3,0,1,2,WeaponLocks.aUnusedTomeWeaponLock,ItemEffectivenesses.aNoEffectiveness,aNoItemBonuses,0,<>menutextLoptousDescription,None,None,None,None,TraitWeapon | TraitTome | TraitUnsellable,$5F
 Meteor,TypeFire,None,9,70,20,5,0,3,10,RankA,ItemEffectivenesses.aNoEffectiveness,aNoItemBonuses,2200,<>menutextMeteorDescription,None,None,None,None,TraitWeapon | TraitTome,$60
 Bolting,TypeThunder,None,10,70,20,5,20,3,10,RankA,ItemEffectivenesses.aNoEffectiveness,aNoItemBonuses,2200,<>menutextBoltingDescription,None,None,None,None,TraitWeapon | TraitTome,$61
 Blizzard,TypeWind,None,9,70,20,5,0,3,10,RankA,ItemEffectivenesses.aNoEffectiveness,aNoItemBonuses,2200,<>menutextBlizzardDescription,None,WeaponEffects.SleepWeaponEffect,None,None,TraitWeapon | TraitTome,$62
 Venin,TypeDark,None,8,70,20,3,0,3,10,RankA,ItemEffectivenesses.aNoEffectiveness,aNoItemBonuses,3200,<>menutextVeninDescription,None,WeaponEffects.PoisonWeaponEffect,None,None,TraitWeapon | TraitTome,$63
-Petrify,TypeDark,None,1,100,20,5,0,3,10,RankA,ItemEffectivenesses.aNoEffectiveness,aNoItemBonuses,0,<>menutextPetrifyDescription,None,WeaponEffects.PetrifyWeaponEffect,None,None,TraitWeapon | TraitTome,$64
+Petrify,TypeDark,None,1,100,20,5,0,3,10,WeaponLocks.aPetrifyWeaponLock,ItemEffectivenesses.aNoEffectiveness,aNoItemBonuses,0,<>menutextPetrifyDescription,None,WeaponEffects.PetrifyWeaponEffect,None,None,TraitWeapon | TraitTome,$64
 ForsetiInfinite,TypeWind,None,20,90,6,-1,30,1,2,WeaponLocks.aForsetiWeaponLock,ItemEffectivenesses.aNoEffectiveness,aForsetiItemBonuses,0,<>menutextForsetiInfiniteDescription,None,None,None,None,TraitWeapon | TraitTome | TraitUnbreakable | TraitUnsellable,$58
 BrokenTome,TypeItem,None,0,0,0,-1,0,1,1,WeaponLocks.aBrokenMagicWeaponLock,ItemEffectivenesses.aNoEffectiveness,aNoItemBonuses,400,<>menutextBrokenTomeDescription,None,None,None,None,TraitUnbreakable | TraitBroken,$66
 Heal,TypeStaff,None,30,80,4,20,0,1,1,RankE,ItemEffectivenesses.aNoEffectiveness,aNoItemBonuses,2200,<>menutextHealDescription,HealUse,None,None,None,TraitStaff,$67

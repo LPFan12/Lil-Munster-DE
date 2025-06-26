@@ -839,7 +839,7 @@ dialogueChapter24Closing
 .byte ScrollText
 .text "This man, Veld..."
 .byte NewLine
-.text "He's the spider at the center of it all..."
+.text "He's the one behind all this..."
 .byte WaitForA
 
 .byte EndText

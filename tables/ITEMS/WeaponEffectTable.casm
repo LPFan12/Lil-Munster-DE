@@ -1,0 +1,32 @@
+	NoneWeaponEffectPointer					= 0
+		NoneWeaponEffectPointerPointer		= None
+
+	PoisonWeaponEffectPointer				= 1
+		PoisonWeaponEffectPointerPointer	= <>rsActionStructPoisonWeaponEffect
+
+	DevilWeaponEffectPointer				= 2
+		DevilWeaponEffectPointerPointer		= <>rsActionStructDevilWeaponEffect
+
+	LifestealWeaponEffectPointer			= 3
+		LifestealWeaponEffectPointerPointer	= <>rsActionStructLifestealWeaponEffect
+
+	PetrifyWeaponEffectPointer				= 4
+		PetrifyWeaponEffectPointerPointer	= <>rsActionStructPetrifyWeaponEffect
+
+	HelWeaponEffectPointer					= 5
+		HelWeaponEffectPointerPointer		= <>rsActionStructHelWeaponEffect
+
+	BerserkWeaponEffectPointer				= 6
+		BerserkWeaponEffectPointerPointer	= <>rsActionStructBerserkWeaponEffect
+
+	SleepWeaponEffectPointer				= 7
+		SleepWeaponEffectPointerPointer		= <>rsActionStructSleepWeaponEffect
+
+NoneWeaponEffectPointerWeaponEffectTableEntry .dstruct structWeaponEffectEntry, NoneWeaponEffectPointerPointer
+PoisonWeaponEffectPointerWeaponEffectTableEntry .dstruct structWeaponEffectEntry, PoisonWeaponEffectPointerPointer
+DevilWeaponEffectPointerWeaponEffectTableEntry .dstruct structWeaponEffectEntry, DevilWeaponEffectPointerPointer
+LifestealWeaponEffectPointerWeaponEffectTableEntry .dstruct structWeaponEffectEntry, LifestealWeaponEffectPointerPointer
+PetrifyWeaponEffectPointerWeaponEffectTableEntry .dstruct structWeaponEffectEntry, PetrifyWeaponEffectPointerPointer
+HelWeaponEffectPointerWeaponEffectTableEntry .dstruct structWeaponEffectEntry, HelWeaponEffectPointerPointer
+BerserkWeaponEffectPointerWeaponEffectTableEntry .dstruct structWeaponEffectEntry, BerserkWeaponEffectPointerPointer
+SleepWeaponEffectPointerWeaponEffectTableEntry .dstruct structWeaponEffectEntry, SleepWeaponEffectPointerPointer

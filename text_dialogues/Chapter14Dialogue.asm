@@ -649,9 +649,9 @@ dialogueChapter14Opening1
 .byte ScrollText
 .text "The blame is mine alone. I must make quite a"
 .byte NewLine
-.text "sight: the great Colonel Paulus, reduced to an"
+.text "sight: the great Colonel General Paulus, reduced"
 .byte NewLine
-.text "old man whose glory days are long past him."
+.text "to an old man whose glory days are long past him."
 .byte WaitForA
 .byte ScrollText
 .text "Go ahead and laugh, Baldach."
@@ -659,7 +659,7 @@ dialogueChapter14Opening1
 
 .byte Right_slot
 .byte ScrollText
-.text "Colonel..."
+.text "Colonel General..."
 .byte WaitForA
 
 .byte Left_slot
@@ -676,7 +676,7 @@ dialogueChapter14Opening1
 
 .byte Right_slot
 .byte ScrollText
-.text "Of course, Colonel Paulus!"
+.text "Of course, Colonel General Paulus!"
 .byte NewLine
 .text "I await your orders!"
 .byte WaitForA
@@ -706,7 +706,7 @@ dialogueChapter14Opening1
 
 .byte Right_slot
 .byte ScrollText
-.text "I'll remain vigilant, Colonel."
+.text "I'll remain vigilant, Colonel General."
 .byte NewLine
 .text "On my honor, Tahra will fall this day!"
 .byte WaitForA

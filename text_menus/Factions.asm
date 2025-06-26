@@ -195,114 +195,114 @@
 	.section FactionLeaderTextSection
 
 		menutextLeifLeader
-			.text "Leif's Ar[my\n"
+			.text "Leifs Ar{m}ee\n"
 		
 		menutextNoneLeader
 			.text "{-}{-}{-}{-}{-}{-}\n"
 		
 		menutextLeonsterLeader
-			.text "Leonster34Ar[my \n"
+			.text "Leonsters Ar{m}ee\n"
 		
 		menutextRaydrikLeader
-			.text "Raydrik's Unit\n"
+			.text "Raydriks Einheit\n"
 		
 		menutextMysteryLeader
-			.text "Unkno]wn Party\n"
+			.text "Unbekannte Gruppe \n"
 		
 		menutextTahraLeader
-			.text "Tahra's Ar[my \n"
+			.text "Tahras Ar {m}ee\n"
 		
 		menutextMansterLeader
-			.text "(Munster34Ar[my \n"
+			.text "(Munsters Ar{m}ee\n"
 		
 		menutextThraciaLeader
-			.text "Thracia's Ar[my \n"
+			.text "Thracias Ar {m}ee\n"
 		
 		menutextCiviliansLeader
-			.text "Civilians \n"
+			.text "Zivilisten\n"
 		
 		menutextFriegeLeader
-			.text "Friege's Ar[my\n"
+			.text "Frieges Ar{m}ee\n"
 		
 		menutextFriege2ndLeader
-			.text "{2}{nd} Division \n"
+			.text "{2}. Division\n"
 		
 		menutextFriege3rdLeader
-			.text "{3}{rd} Division \n"
+			.text "{3}. Division\n"
 		
 		menutextFriege4thLeader
-			.text "{4}{th} Division \n"
+			.text "{4}. Division\n"
 		
 		menutextFriege5thLeader
-			.text "{5}{th} Division \n"
+			.text "{5}. Division\n"
 		
 		menutextFriege7thLeader
-			.text "{7}{th} Division \n"
+			.text "{7}. Division\n"
 		
 		menutextFriege8thLeader
-			.text "{8}{th} Division \n"
+			.text "{8}. Division\n"
 		
 		menutextFriege10thLeader
-			.text "{1}{0}{th} Division \n"
+			.text "{1}{0}. Division\n"
 		
 		menutextFriege12thLeader
-			.text "{1}{2}{th} Division \n"
+			.text "{1}{2}. Division\n"
 		
 		menutextFriege15thLeader
-			.text "{1}{5}{th} Division \n"
+			.text "{1}{5}. Division\n"
 		
 		menutextFriege16thLeader
-			.text "{1}{6}{th} Division \n"
+			.text "{1}{6}. Division\n"
 		
 		menutextFriege17thLeader
-			.text "{1}{7}{th} Division \n"
+			.text "{1}{7}. Division\n"
 		
 		menutextFriege20thLeader
-			.text "{2}{0}{th} Division \n"
+			.text "{2}{0}. Division\n"
 		
 		menutextFriege22ndLeader
-			.text "{2}{2}{nd} Division \n"
+			.text "{2}{2}. Division\n"
 		
 		menutextFriege26thLeader
-			.text "{2}{6}{th} Division \n"
+			.text "{2}{6}. Division\n"
 		
 		menutextFriege27thLeader
-			.text "{2}{7}{th} Division \n"
+			.text "{2}{7}. Division\n"
 		
 		menutextFriege30thLeader
-			.text "{3}{0}{th} Division \n"
+			.text "{3}{0}. Division\n"
 		
 		menutextGelbenritterLeader
-			.text "Gelbenritter\n"
+			.text "Gelbritter\n"
 		
 		menutextUlsterLeader
-			.text "Ulster's Ar[my\n"
+			.text "Ulsters Ar{m}ee\n"
 		
 		menutextWelkenrosenLeader
-			.text ")Welkenrosen\n"
+			.text ")Welkrosen\n"
 		
 		menutextLifisCrewLeader
-			.text "Lifis Pirates \n"
+			.text "Lifis {-}Piraten \n"
 		
 		menutextMagiSquadLeader
-			.text "(Magi Squad \n"
+			.text "(Magi {-}Trupp \n"
 		
 		menutextBanditLeader
-			.text "Bandits \n"
+			.text "Banditen\n"
 		
 		menutextResistanceLeader
-			.text "Resistance\n"
+			.text ")Widerstand \n"
 		
 		menutextMischaLeader
-			.text "Pegasus Corps \n"
+			.text "Pegasuskorps\n"
 		
 		menutextKolkhoLeader
-			.text "Colho's Boys\n"
+			.text "Culloughs Jungs \n"
 		
 		menutextDandelionLeader
-			.text "Dandelion \n"
+			.text "Gerechten \n"
 		
 		menutextMercenaryLeader
-			.text "Sells]words \n"
+			.text "(Mietklingen\n"
 		
 	.endsection FactionLeaderTextSection

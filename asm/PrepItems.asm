@@ -3012,7 +3012,7 @@
 
 				menutextPrepItemsDiscardPrompt ; 81/F20B
 					.enc "MenuText"
-					.text "Discard ite[m?\n"		; Character limit: 26
+					.text "Gegenstand )Weg]w.? \n"		; Character limit: 26
 
 			.fill $81F221 - *, $FF
 
@@ -3027,7 +3027,7 @@
 		
 				menutextPrepItemsDiscardOptions ; 81/F234
 					.enc "MenuText"
-					.text "Yes       +No \n"		; Character limit: 22
+					.text "Ja        +Nein \n"		; Character limit: 22
 
 				.fill $81F246 - *, $FF
 
