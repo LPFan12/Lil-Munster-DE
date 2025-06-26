@@ -349,84 +349,84 @@ rsCopyOptionsPointerData
 	.section OptionMenuTextSection
 
 		aOptionMenuAnimationName
-		.text "An{im}ations\n"
+		.text "An{im}ation.\n"
 		
 		aOptionMenuAnimationSubtext
-		.text "Turn attack an{im}ations on or off\n"
+		.text "Scha. Angriffsan{im}. ein oder aus\n"
 		
 		aOptionMenuAnimationChoices
-		.text "On"
+		.text "An"
 		.word $2020
 		.word $2020
-		.text "Off "
+		.text "Aus "
 		.word $2020
 		.word $2020
-		.text "By Unit \n"
+		.text "Indivi. \n"
 		
 		
 		aOptionMenuTerrainName
-		.text "(Map Data \n"
+		.text "Kartenda. \n"
 		
 		aOptionMenuTerrainSubtext
-		.text "Turn terrain ]windo]w and {H}{P} bars on or off \n"
+		.text "Terrainfenster u. {K}{P}{-}Leiste ein oder aus \n"
 		
 		aOptionMenuTerrainChoices
 		aOptionMenuUnitChoices
 		.text "Detail"
 		.word $2020
 		.word $2020
-		.text "Si[mple "
+		.text "Einfach "
 		.word $2020
 		.word $2020
-		.text "Off \n"
+		.text "Aus \n"
 		
 		aOptionMenuUnitName
-		.text "Units )Windo12\n"
+		.text "Einheitenfens.\n"
 		
 		aOptionMenuUnitSubtext
-		.text "Set the unit ]windo]w's level of detail \n"
+		.text "Best{im}{m}e Detailgrad d. Einheitenfeste. \n"
 		
 		aOptionMenuAutocursorName
-		.text "Autocursor\n"
+		.text "Auto{-}Curs. \n"
 		
 		aOptionMenuAutocursorSubtext
-		.text "Set cursor to start on Leif \n"
+		.text "Ob d. Cursor a. Leif start. \n"
 		
 		aOptionMenuAutocursorChoices
 		aOptionMenuBGMChoices
-		.text "On"
+		.text "An"
 		.word $2020
 		.word $2020
-		.text "Off \n"
+		.text "Aus \n"
 		
 		
 		aOptionMenuTextSpeedName
-		.text "(Message Speed\n"
+		.text "+Nachrichtges.\n"
 		
 		aOptionMenuTextSpeedSubtext
-		.text "Adjust ho]w fast text [messages display \n"
+		.text "Best{im}{m}e Ges. de. Textnachrichten{-}Anz.\n"
 		
 		aOptionMenuTextSpeedChoices
-		.text "Slo12 "
+		.text "Lang. "
 		.word $2020
 		.word $2020
 		aOptionMenuUnitSpeedChoices
-		.text "+Nor[mal"
+		.text "+Nor{m}al"
 		.word $2020
 		.word $2020
-		.text "Fast\n"
+		.text "Sch.\n"
 		
 		aOptionMenuUnitSpeedName
-		.text "Ga[me Speed \n"
+		.text "Spielgesch. \n"
 		
 		aOptionMenuUnitSpeedSubtext
-		.text "Adjust ho]w fast the ga[me progresses \n"
+		.text "Best{im}{m}e, ]w. schnell d. Spiel fort. \n"
 		
 		aOptionMenuHiddenInfoName
-		.text "Hidden Data \n"
+		.text "Verst. Dat. \n"
 		
 		aOptionMenuHiddenInfoSubtext
-		.text "{0}: +None {1}: Inventory {2}: Chapter {3}: Hidden Skills \n"
+		.text "{0}{:}Keine {1}{:}Inventar  {2}{:}Kapitel {3}{:}Verst. Fähig. \n"
 		
 		aOptionMenuHiddenInfoChoices
 		.text "{0}"
@@ -441,10 +441,10 @@ rsCopyOptionsPointerData
 		.text "{3}\n"
 		
 		aOptionMenuPrepsName
-		.text "Deploy[ment \n"
+		.text "Stationier. \n"
 		
 		aOptionMenuPrepsSubtext
-		.text "{0}: Default {1}: Display units {2}: Rearrange units \n"
+		.text "{0}{:}Standa. {1}{:}Einheit. anz. {2}{:}Einheiten be]w. \n"
 		
 		aOptionMenuPrepsChoices
 		.text "{0}"
@@ -459,7 +459,7 @@ rsCopyOptionsPointerData
 		.text "Audio \n"
 		
 		aOptionMenuAudioSettingSubtext
-		.text "Adjust audio settings \n"
+		.text " Audio{-}Einste. einst.\n"
 		
 		aOptionMenuAudioSettingChoices
 		.text "Stereo"
@@ -468,16 +468,16 @@ rsCopyOptionsPointerData
 		.text "(Mono \n"
 		
 		aOptionMenuBGMName
-		.text "(Music\n"
+		.text "(Musik\n"
 		
 		aOptionMenuBGMSubtext
-		.text "Turn [music on or off \n"
+		.text "St. (Musik ein o. aus \n"
 		
 		aOptionMenuVolumeName
-		.text "Sound Effects \n"
+		.text " Sound{-}Effek.\n"
 		
 		aOptionMenuVolumeSubtext
-		.text "Adjust volu[me of sound effects \n"
+		.text "Stelle Lautstä. d. Soundef. ein \n"
 		
 		aOptionMenuVolumeChoices
 		.text "{note}{note}{note}"
@@ -489,13 +489,13 @@ rsCopyOptionsPointerData
 		.text "{note}"
 		.word $2020
 		.word $2020
-		.text "Off \n"
+		.text "Aus \n"
 		
 		aOptionMenuTileSettingName
-		.text ")Windo]w Pattern\n"
+		.text " Fenster{m}uster \n"
 		
 		aOptionMenuTileSettingSubtext
-		.text "Change the [menu ]windo12 \n"
+		.text "Ändere das (Menüfester\n"
 		
 		aOptionMenuTileSettingChoices
 		.text "{1}"
@@ -623,13 +623,13 @@ rsCopyOptionsPointerData
 	.section OptionMenuTintTextSection
 
 		aOptionMenuTintUpperTintName
-		.text "Set color for the upper layer \n"
+		.text "Setze Farbe für obere Ebene \n"
 
 		aOptionMenuTintLowerTintName
-		.text "Set color for the lo]wer layer\n"
+		.text "Setze Farbe für die unt. Ebene\n"
 
 		aOptionMenuTintRestoreName
-		.text "Restore color to default\n"
+		.text "Setze Farben z. Standard\n"
 
 	.endsection OptionMenuTintTextSection
 
@@ -686,16 +686,16 @@ rsCopyOptionsPointerData
 .logical lorom($02D749, 1)
 
 WindowColorName
-.text ")Windo]w Color\n"
+.text "Fensterfarbe\n"
 
 UpperSettingName
-.text "Upper \n"
+.text "Obere \n"
 
 LowerSettingName
-.text "Lo]wer\n"
+.text "Untere\n"
 
 DefaultSettingName
-.text "Default \n"
+.text "Standa. \n"
 
 .here
 

@@ -51,7 +51,7 @@
 			.long $878EE0
 			.long $87846C
 			.long 0
-			.text "  Seize \n"
+			.text "  Besetz. \n"
 		
 		aMenuCommandRetreat
 			.long $8785B3
@@ -60,7 +60,7 @@
 			.long $878F08
 			.long $87846C
 			.long 0
-			.text "  Escape\n"
+			.text "  Entko {m}{m}. \n"
 		
 		aMenuCommandArrive
 			.long $8785E5
@@ -69,7 +69,7 @@
 			.long $878F08
 			.long $87846C
 			.long 0
-			.text "  Arrive\n"
+			.text "  Anko{m}{m}. \n"
 		
 		aMenuCommandTalk
 			.long $878557
@@ -78,7 +78,7 @@
 			.long $878BA6
 			.long $87846C
 			.long 0
-			.text "  Talk\n"
+			.text "  Sprechen\n"
 		
 		aMenuCommandAttack
 			.long $8786D8
@@ -87,7 +87,7 @@
 			.long $8784F8
 			.long $87846C
 			.long 0
-			.text "  Attack\n"
+			.text "  Angriff \n"
 		
 		aMenuCommandCapture
 			.long $879B37
@@ -96,7 +96,7 @@
 			.long $878517
 			.long $87846C
 			.long 0
-			.text "  Capture \n"
+			.text "  Einfangen \n"
 		
 		aMenuCommandSteal
 			.long $8799B7
@@ -105,7 +105,7 @@
 			.long $879A7A
 			.long $87846C
 			.long 0
-			.text "  Steal \n"
+			.text "  Stehlen \n"
 		
 		aMenuCommandArena
 			.long $87915C
@@ -123,7 +123,7 @@
 			.long $878536
 			.long $87846C
 			.long 0
-			.text "  Ar[mory \n"
+			.text "  Arsenal \n"
 		
 		aMenuCommandDoor
 			.long $878F14
@@ -132,7 +132,7 @@
 			.long $878F7E
 			.long $87846C
 			.long 0
-			.text "  Door\n"
+			.text "  Tür \n"
 		
 		aMenuCommandSecret
 			.long $878B59
@@ -141,7 +141,7 @@
 			.long $878536
 			.long $87846C
 			.long 0
-			.text "  Secret\n"
+			.text "  Gehe{im}\n"
 		
 		aMenuCommandVisit
 			.long $87861F
@@ -150,7 +150,7 @@
 			.long $878CDA
 			.long $87846C
 			.long 0
-			.text "  Visit \n"
+			.text "  Besuch\n"
 		
 		aMenuCommandSupply
 			.long $879D78
@@ -159,7 +159,7 @@
 			.long $879DB0
 			.long $87846C
 			.long 0
-			.text "  Supply\n"
+			.text "  Lager \n"
 		
 		aMenuCommandVendor
 			.long $878B21
@@ -168,7 +168,7 @@
 			.long $878536
 			.long $87846C
 			.long 0
-			.text "  Vendor\n"
+			.text "  Laden \n"
 		
 		aMenuCommandBridge
 			.long $878FF6
@@ -177,7 +177,7 @@
 			.long $879063
 			.long $87846C
 			.long 0
-			.text "  Bridge\n"
+			.text "  Brücke\n"
 		
 		aMenuCommandChest
 			.long $8790DB
@@ -186,7 +186,7 @@
 			.long $879130
 			.long $87846C
 			.long 0
-			.text "  Chest \n"
+			.text "  Truhe \n"
 		
 		aMenuCommandDance
 			.long $8793AB
@@ -195,7 +195,7 @@
 			.long $8793CC
 			.long $87846C
 			.long 0
-			.text "  Dance \n"
+			.text "  Tanzen\n"
 		
 		aMenuCommandWait
 			.long $87963A
@@ -204,7 +204,7 @@
 			.long $8784CB
 			.long $87846C
 			.long 0
-			.text "  )Wait \n"
+			.text "  )Warten \n"
 		
 		aMenuCommandStaff
 			.long $87A31E
@@ -213,7 +213,7 @@
 			.long $87A2F9
 			.long $87846C
 			.long 0
-			.text "  Staff \n"
+			.text "  Stab\n"
 		
 		aMenuCommandItem
 			.long $87A8FA
@@ -222,7 +222,7 @@
 			.long $87A90F
 			.long $87846C
 			.long 0
-			.text "  Ite[m \n"
+			.text "  Gegen.\n"
 		
 		aMenuCommandRescue
 			.long $87988E
@@ -231,7 +231,7 @@
 			.long $8798A7
 			.long $87846C
 			.long 0
-			.text "  Rescue\n"
+			.text "  Retten\n"
 		
 		aMenuCommandDrop
 			.long $879667
@@ -240,7 +240,7 @@
 			.long $8796F4
 			.long $87846C
 			.long 0
-			.text "  Drop\n"
+			.text "  Runter\n"
 		
 		aMenuCommandRelease
 			.long $879CF4
@@ -249,7 +249,7 @@
 			.long $879D12
 			.long $87846C
 			.long 0
-			.text "  Release \n"
+			.text "  Freil.\n"
 		
 		aMenuCommandTransfer
 			.long $879DDD
@@ -258,7 +258,7 @@
 			.long $879E87
 			.long $87846C
 			.long 0
-			.text "  Give\n"
+			.text "  Geben \n"
 		
 		aMenuCommandTransfer2
 			.long $87A03E
@@ -267,7 +267,7 @@
 			.long $87A0E6
 			.long $87846C
 			.long 0
-			.text "  Take\n"
+			.text "  +Neh{m}en\n"
 		
 		aMenuCommandTrade
 			.long $878D0D
@@ -276,7 +276,7 @@
 			.long $878DEC
 			.long $87846C
 			.long 0
-			.text "  Trade \n"
+			.text "  Tausch\n"
 		
 		aMenuCommandMount
 			.long $879474
@@ -285,7 +285,7 @@
 			.long $879532
 			.long $87846C
 			.long 0
-			.text "  (Mount\n"
+			.text "  Reiten\n"
 		
 		aMenuCommandDismount
 			.long $8794CF
@@ -294,7 +294,7 @@
 			.long $879549
 			.long $87846C
 			.long 0
-			.text "  Dis[mount \n"
+			.text "  Absteigen \n"
 		
 		aMenuCommandAnimation
 			.long AnimationByUnitMenuCommandFix
@@ -303,7 +303,7 @@
 			.long $8791EC
 			.long $87846C
 			.long 0
-			.text "  An{im}ation \n"
+			.text "  An{im}ation.\n"
 
 	.endsection MenuCommandDataSection
 
@@ -322,7 +322,7 @@
 			.long $87AC90
 			.long $87ABEE
 			.long 0
-			.text "  Use \n"
+			.text "  +Nutz.\n"
 		
 		aItemUseCommandEquip
 			.long $87AC51
@@ -331,7 +331,7 @@
 			.long $87ACE9
 			.long $87ABEE
 			.long 0
-			.text "  Equip \n"
+			.text "  Ausr. \n"
 		
 		aItemUseCommandDiscard
 			.long $87AC76
@@ -340,7 +340,7 @@
 			.long $87AD23
 			.long $87ABEE
 			.long 0
-			.text "  Drop\n"
+			.text "  )Weg. \n"
 		
 	.endsection ItemUseCommandDataSection
 
@@ -380,7 +380,7 @@
 			.long $8A877A
 			.long $8A8788
 			.long 0
-			.text "  Yes \n"
+			.text "  Ja\n"
 		
 		aDiscardCommandNo
 			.long 0
@@ -389,7 +389,7 @@
 			.long $8A8788
 			.long $8A8788
 			.long 0
-			.text "  +No \n"
+			.text "  +Nein \n"
 
 	.endsection DiscardCommandDataSection
 
@@ -415,7 +415,7 @@
 			.long $8792D3
 			.long $8792FF
 			.long 0
-			.text "  On\n"
+			.text "  An\n"
 		
 		aAnimationCommandMap
 			.long 0
@@ -424,7 +424,7 @@
 			.long $87930B
 			.long $8792FF
 			.long 0
-			.text "  Off \n"
+			.text "  Aus \n"
 
 	.endsection AnimationCommandDataSection
 
@@ -455,7 +455,7 @@
 			.long $8A84D4
 			.long $8A84BD
 			.long 0
-			.text "  Unit"
+			.text "  Einheit."
 			.word $0000
 		
 		aMapMenuCommandStatus
@@ -475,7 +475,7 @@
 			.long $8A8555
 			.long $8A84BD
 			.long 0
-			.text "  Options "
+			.text "  Optionen"
 			.word $0000
 		
 		aMapMenuCommandSuspend
@@ -485,7 +485,7 @@
 			.long $8A86D1
 			.long $8A84BD
 			.long 0
-			.text "  Suspend "
+			.text "  Aussetz."
 			.word $0000
 		
 		aMapMenuCommandEnd
@@ -495,7 +495,7 @@
 			.long $8A848F
 			.long $8A84BD
 			.long 0
-			.text "  End "
+			.text "  Ende"
 			.word $0000
 
 	.endsection MapMenuCommandDataSection

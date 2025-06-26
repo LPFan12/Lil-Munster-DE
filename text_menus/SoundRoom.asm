@@ -46,16 +46,16 @@
 .logical lorom($475580, 1)
 
 menutextSoundRoomTitle
-.text "     Sound Roo{m}\n"		; Character limit: 18. Use spaces to center it.
+.text "    (Musikzi{mm}ner \n"		; Character limit: 18. Use spaces to center it.
 
 menutextSoundRoomAButton
-.text "{A} to play\n"			; Character limit: 25
+.text "{A}  z. Spielen\n"			; Character limit: 25
 
 menutextSoundRoomBButton
-.text "{B} to stop\n"			; Character limit: 25
+.text "{B}  z. Aufhören \n"			; Character limit: 25
 
 menutextSoundRoomStartButton
-.text "Start to exit \n"		; Character limit: 25
+.text "Start z. Verlassen\n"		; Character limit: 25
 
 .here
 
@@ -85,22 +85,22 @@ menutextSoundRoomStartButton
 			.text "Thracia {7}{7}{6}\n"
 		
 		menutextSoundRoomCategory01
-			.text "Leif's Search for Victory \n"
+			.text "Leifs Suche nach d. Sieg\n"
 		
 		menutextSoundRoomCategory02
-			.text "Pressing Threat \n"
+			.text "Akute Bedrohung \n"
 		
 		menutextSoundRoomCategory03
-			.text "Serving Justice \n"
+			.text "Gerechtigkeit dienen\n"
 		
 		menutextSoundRoomCategory04
-			.text "A[midst the Battle\n"
+			.text " In eine{m}  Ka{m}pf\n"
 		
 		menutextSoundRoomCategory05
-			.text "Chapter End \n"
+			.text "Kapitelende \n"
 		
 		menutextSoundRoomCategory06
-			.text "(Mid Chapter\n"
+			.text " In eine{m} Kapitel\n"
 		
 		menutextSoundRoomCategory07
 			.text "Finale\n"
@@ -184,67 +184,67 @@ menutextSoundRoomStartButton
 		aSoundRoomDataTrack01
 			.byte $00		; Category
 			.byte $21		; Music track number
-			.text "Begins\n"
+			.text "Anfang\n"
 		
 		aSoundRoomDataTrack02
 			.byte $00		; Category
 			.byte $23		; Music track number
-			.text "Fire E[mble[m The[me\n"
+			.text "Fire E{m}ble. The{m}e \n"
 		
 		aSoundRoomDataTrack03
 			.byte $00		; Category
 			.byte $29		; Music track number
-			.text "(Map  {A}\n"
+			.text "Karte {A}\n"
 		
 		aSoundRoomDataTrack04
 			.byte $00		; Category
 			.byte $2B		; Music track number
-			.text "(Map  {B}\n"
+			.text "Karte {B}\n"
 		
 		aSoundRoomDataTrack05
 			.byte $00		; Category
 			.byte $2C		; Music track number
-			.text "(Map  {C}\n"
+			.text "Karte {C}\n"
 		
 		aSoundRoomDataTrack06
 			.byte $00		; Category
 			.byte $2D		; Music track number
-			.text "Sally Forth \n"
+			.text "Greife an \n"
 		
 		aSoundRoomDataTrack07
 			.byte $01		; Category
 			.byte $01		; Music track number
-			.text "Base\n"
+			.text "Basis \n"
 		
 		aSoundRoomDataTrack08
 			.byte $01		; Category
 			.byte $02		; Music track number
-			.text "Assault {A}\n"
+			.text "Anstur{m}  {A}\n"
 		
 		aSoundRoomDataTrack09
 			.byte $01		; Category
 			.byte $03		; Music track number
-			.text "Assault {B}\n"
+			.text "Anstur{m}  {B}\n"
 		
 		aSoundRoomDataTrack10
 			.byte $01		; Category
 			.byte $04		; Music track number
-			.text "Adversity \n"
+			.text "Unge{m}ach \n"
 		
 		aSoundRoomDataTrack11
 			.byte $01		; Category
 			.byte $05		; Music track number
-			.text "The Cusp of Victory \n"
+			.text "Der Scheitelpunkt d. Sieg.\n"
 		
 		aSoundRoomDataTrack12
 			.byte $01		; Category
 			.byte $06		; Music track number
-			.text "The Edge of Defeat\n"
+			.text "Die Sch]welle der +Nied.\n"
 		
 		aSoundRoomDataTrack13
 			.byte $01		; Category
 			.byte $07		; Music track number
-			.text "Reconnoissance\n"
+			.text "Feinde Suchen \n"
 		
 		aSoundRoomDataTrack14
 			.byte $01		; Category
@@ -254,122 +254,122 @@ menutextSoundRoomStartButton
 		aSoundRoomDataTrack15
 			.byte $02		; Category
 			.byte $09		; Music track number
-			.text "Base  {A}\n"
+			.text "Basis {A}\n"
 		
 		aSoundRoomDataTrack16
 			.byte $02		; Category
 			.byte $0A		; Music track number
-			.text "Base  {B}\n"
+			.text "Basis {B}\n"
 		
 		aSoundRoomDataTrack17
 			.byte $02		; Category
 			.byte $0B		; Music track number
-			.text "Assault \n"
+			.text "Anstur{m}\n"
 		
 		aSoundRoomDataTrack18
 			.byte $02		; Category
 			.byte $0C		; Music track number
-			.text "Dark Bishops\n"
+			.text "Dunkle Bischöfe \n"
 		
 		aSoundRoomDataTrack19
 			.byte $02		; Category
 			.byte $0D		; Music track number
-			.text "Reconnoissance\n"
+			.text "Feinde Suchen \n"
 		
 		aSoundRoomDataTrack20
 			.byte $02		; Category
 			.byte $0E		; Music track number
-			.text "Endga[me\n"
+			.text "Finale\n"
 		
 		aSoundRoomDataTrack21
 			.byte $03		; Category
 			.byte $11		; Music track number
-			.text "Attack\n"
+			.text "Angriff \n"
 		
 		aSoundRoomDataTrack22
 			.byte $03		; Category
 			.byte $12		; Music track number
-			.text "Defense \n"
+			.text "Verteidigung\n"
 		
 		aSoundRoomDataTrack23
 			.byte $03		; Category
 			.byte $13		; Music track number
-			.text "Recovery  {A}\n"
+			.text "Erholung  {A}\n"
 		
 		aSoundRoomDataTrack24
 			.byte $03		; Category
 			.byte $14		; Music track number
-			.text "Recovery  {B}\n"
+			.text "Erholung  {B}\n"
 		
 		aSoundRoomDataTrack25
 			.byte $03		; Category
 			.byte $15		; Music track number
-			.text "Dance \n"
+			.text "Tanzen\n"
 		
 		aSoundRoomDataTrack26
 			.byte $03		; Category
 			.byte $16		; Music track number
-			.text "Class Change\n"
+			.text "Klassen]wechsel \n"
 		
 		aSoundRoomDataTrack27
 			.byte $03		; Category
 			.byte $1E		; Music track number
-			.text "Boss Battle \n"
+			.text "Bosska{m}pf\n"
 		
 		aSoundRoomDataTrack28
 			.byte $03		; Category
 			.byte $18		; Music track number
-			.text "Against Raydrik \n"
+			.text "Gegen Raydrik \n"
 		
 		aSoundRoomDataTrack29
 			.byte $03		; Category
 			.byte $19		; Music track number
-			.text "Against Veld\n"
+			.text "Gegen Veld\n"
 		
 		aSoundRoomDataTrack30
 			.byte $03		; Category
 			.byte $1A		; Music track number
-			.text "Arena Battle\n"
+			.text " Arenaka{m}pf\n"
 		
 		aSoundRoomDataTrack31
 			.byte $03		; Category
 			.byte $1B		; Music track number
-			.text "Level Up  {A}\n"
+			.text " Level{-}Up  {A}\n"
 		
 		aSoundRoomDataTrack32
 			.byte $03		; Category
 			.byte $1C		; Music track number
-			.text "Level Up  {B}\n"
+			.text " Level{-}Up  {B}\n"
 		
 		aSoundRoomDataTrack33
 			.byte $04		; Category
 			.byte $31		; Music track number
-			.text "Crisis\n"
+			.text "Krise \n"
 		
 		aSoundRoomDataTrack34
 			.byte $04		; Category
 			.byte $32		; Music track number
-			.text "Assault \n"
+			.text "Anstur{m}\n"
 		
 		aSoundRoomDataTrack35
 			.byte $04		; Category
 			.byte $33		; Music track number
-			.text "Destiny \n"
+			.text "Schicksal \n"
 		
 		aSoundRoomDataTrack36
 			.byte $04		; Category
 			.byte $39		; Music track number
-			.text "Battalion {A}\n"
+			.text "Bataillon {A}\n"
 		
 		aSoundRoomDataTrack37
 			.byte $04		; Category
 			.byte $3F		; Music track number
-			.text "Battalion {B}\n"
+			.text "Bataillon {B}\n"
 		
 		aSoundRoomDataTrack38
 			.byte $04		; Category
 			.byte $3A		; Music track number
-			.text "Bandits \n"
+			.text "Banditen\n"
 		
 		aSoundRoomDataTrack39
 			.byte $04		; Category
@@ -379,12 +379,12 @@ menutextSoundRoomStartButton
 		aSoundRoomDataTrack40
 			.byte $04		; Category
 			.byte $3C		; Music track number
-			.text "Loptrians {A}\n"
+			.text "Loptianer {A}\n"
 		
 		aSoundRoomDataTrack41
 			.byte $04		; Category
 			.byte $3E		; Music track number
-			.text "Loptrians {B}\n"
+			.text "Loptianer {B}\n"
 		
 		aSoundRoomDataTrack42
 			.byte $04		; Category
@@ -394,57 +394,57 @@ menutextSoundRoomStartButton
 		aSoundRoomDataTrack43
 			.byte $05		; Category
 			.byte $41		; Music track number
-			.text "Victory \n"
+			.text "Sieg\n"
 		
 		aSoundRoomDataTrack44
 			.byte $05		; Category
 			.byte $42		; Music track number
-			.text "(Minor Victory\n"
+			.text "Kleiner Sieg\n"
 		
 		aSoundRoomDataTrack45
 			.byte $05		; Category
 			.byte $43		; Music track number
-			.text "August Speaks {A}\n"
+			.text "August Spricht  {A}\n"
 		
 		aSoundRoomDataTrack46
 			.byte $05		; Category
 			.byte $44		; Music track number
-			.text "August Speaks {B}\n"
+			.text "August Spricht  {B}\n"
 		
 		aSoundRoomDataTrack47
 			.byte $05		; Category
 			.byte $45		; Music track number
-			.text "Go, Leif, Go! \n"
+			.text "Lass uns loslegen, Leif!\n"
 		
 		aSoundRoomDataTrack48
 			.byte $05		; Category
 			.byte $46		; Music track number
-			.text "Conquest\n"
+			.text "Eroberung \n"
 		
 		aSoundRoomDataTrack49
 			.byte $06		; Category
 			.byte $4A		; Music track number
-			.text "Recruit[ment\n"
+			.text "Rekrutierung\n"
 		
 		aSoundRoomDataTrack50
 			.byte $06		; Category
 			.byte $4B		; Music track number
-			.text "(Meetings and Reunions\n"
+			.text "Treffen und )Wiedersehen\n"
 		
 		aSoundRoomDataTrack51
 			.byte $06		; Category
 			.byte $4C		; Music track number
-			.text "Co[mic Relief \n"
+			.text "Ko{m}ödisch\n"
 		
 		aSoundRoomDataTrack52
 			.byte $06		; Category
 			.byte $4D		; Music track number
-			.text "Church\n"
+			.text "Kirche\n"
 		
 		aSoundRoomDataTrack53
 			.byte $06		; Category
 			.byte $4E		; Music track number
-			.text "Sorro12 \n"
+			.text "Trauer\n"
 		
 		aSoundRoomDataTrack54
 			.byte $06		; Category
@@ -459,21 +459,21 @@ menutextSoundRoomStartButton
 		aSoundRoomDataTrack56
 			.byte $07		; Category
 			.byte $24		; Music track number
-			.text "Results \n"
+			.text "Resultat\n"
 		
 		aSoundRoomDataTrack57
 			.byte $07		; Category
 			.byte $25		; Music track number
-			.text "Epilogue\n"
+			.text "Epilog\n"
 		
 		aSoundRoomDataTrack58
 			.byte $07		; Category
 			.byte $26		; Music track number
-			.text "Ballad\n"
+			.text "Ballade \n"
 		
 		aSoundRoomDataTrack59
 			.byte $07		; Category
 			.byte $27		; Music track number
-			.text "(Music Box\n"
+			.text "(Musikkiste \n"
 		
 	.endsection SoundRoomDataTracksSection

@@ -80,111 +80,111 @@
 			.text "{-}{-}\n"
 		
 		menutextTerrainPeak
-			.text "Peak\n"
+			.text "Spitze\n"
 		
 		menutextTerrainThicket
-			.text "Thicket \n"
+			.text "Gestrüpp\n"
 		
 		menutextTerrainCliff
-			.text "Cliff \n"
+			.text "Klippe\n"
 		
 		menutextTerrainPlain
-			.text "Plain \n"
+			.text "Ebene \n"
 		
 		menutextTerrainForest
-			.text "Forest\n"
+			.text ")Wald \n"
 		
 		menutextTerrainSea
-			.text "Sea \n"
+			.text "(Meer \n"
 		
 		menutextTerrainRiver
-			.text "River \n"
+			.text "Fluss \n"
 		
 		menutextTerrainMountain
-			.text "(Mountain \n"
+			.text "Berg\n"
 		
 		menutextTerrainSand
 			.text "Sand\n"
 		
 		menutextTerrainCastle
-			.text "Castle\n"
+			.text "Schloss \n"
 		
 		menutextTerrainFort
-			.text "Fort\n"
+			.text "Festung \n"
 		
 		menutextTerrainHouseOpen
-			.text "House \n"
+			.text "Haus\n"
 		
 		menutextTerrainGate
-			.text "Gate\n"
+			.text "Tor \n"
 		
 		menutextTerrainDesert
 		menutextTerrainSandySoil
-			.text ")Wasteland\n"
+			.text "Ödland\n"
 		
 		menutextTerrainBridge
-			.text "Bridge\n"
+			.text "Brücke\n"
 		
 		menutextTerrainLake
-			.text "Lake\n"
+			.text "See \n"
 		
 		menutextTerrainVillage
-			.text "Village \n"
+			.text "Dorf\n"
 		
 		menutextTerrainRuins
-			.text "Ruins \n"
+			.text "Ruinen\n"
 		
 		menutextTerrainSupply
-			.text "Supply\n"
+			.text "Lager \n"
 		
 		menutextTerrainChurchOpen
-			.text "Church\n"
+			.text "Kirche\n"
 		
 		menutextTerrainHouseClosed
 		menutextTerrainChurchClosed
-			.text "Closed\n"
+			.text "Geschl. \n"
 		
 		menutextTerrainRoad
-			.text "Road\n"
+			.text ")Weg\n"
 		
 		menutextTerrainArmory
-			.text "Ar[mory \n"
+			.text "Arsenal \n"
 		
 		menutextTerrainVendor
-			.text "Vendor\n"
+			.text "Laden \n"
 		
 		menutextTerrainArena
 			.text "Arena \n"
 		
 		menutextTerrainFloor
-			.text "Floor \n"
+			.text "Boden \n"
 		
 		menutextTerrainThrone
-			.text "Throne\n"
+			.text "Thron \n"
 		
 		menutextTerrainDoor
-			.text "Door\n"
+			.text "Tür \n"
 		
 		menutextTerrainChestIndoors
 		menutextTerrainChestOutdoors
-			.text "Chest \n"
+			.text "Truhe \n"
 		
 		menutextTerrainExit
-			.text "Exit\n"
+			.text "Ausgang \n"
 		
 		menutextTerrainPillar
-			.text "Pillar\n"
+			.text "Säule \n"
 		
 		menutextTerrainDrawbridge
-			.text "Dra]wbridge \n"
+			.text "Zugbrücke \n"
 		
 		menutextTerrainSecret
-			.text "Secret\n"
+			.text "Gehe{im}\n"
 		
 		menutextTerrainAltar
 			.text "Altar \n"
 		
 		menutextTerrainSeal
-			.text "Seal\n"
+			.text "Siegel\n"
 
 	.endsection TerrainTextDataSection
